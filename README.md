@@ -18,6 +18,7 @@ The project is intended to reach a professional-tier standard.
 - [Decisions](DECISIONS.md) — important project decisions and their rationale.
 - [Terminology](TERMINOLOGY.md) — controlled vocabulary and definitions.
 - [Scheme of Work](SCHEME_OF_WORK.md) — project productivity and production framework.
+- [Work Log](WORK_LOG.md) — dated work sessions, times, hours, progress, and next actions.
 
 ## Documentation rule
 
