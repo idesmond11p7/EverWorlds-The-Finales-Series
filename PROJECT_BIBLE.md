@@ -18,19 +18,59 @@ The true/core goal of EverWorlds is to solve basic and fundamental LLM issues th
 
 The project is highly aware of LLM limitations, tendencies, and failure patterns. It is intended to actively prevent or mitigate those problems so they do not degrade roleplay quality.
 
-## 3. Quality Standard
+### 2.1 Main Goal — Roleplay Quality / AI Problem Mitigation
+
+The main goal is to reduce AI slop and address the major AI/LLM issues that degrade roleplay quality.
+
+A central priority is **better internalization**: roleplay-relevant information should be incorporated into subsequent model behavior rather than merely acknowledged, repeated, or superficially reflected.
+
+Relevant information may include character state, world state, relationships, knowledge, motivations, history, and other information established during roleplay.
+
+The exact mechanisms for achieving this are not yet finalized and remain an area for research and development.
+
+## 3. Major Side Goal — Advanced Mechanics / Interface
+
+EverWorlds is also intended to provide advanced, highly interactive mechanics and interfaces that support control, immersion, information access, and roleplay quality.
+
+Potential and currently intended areas include:
+
+- Advanced, highly interactive UI
+- Sound and audio systems
+- Images and visual systems
+- Interactive emoji systems
+- Lexicons and vocabulary systems
+- Icons and information-display systems
+- Highly information-dense interfaces
+- Other advanced mechanics as the project develops
+
+These capabilities are supporting goals. They are not the fundamental purpose of EverWorlds; they exist to strengthen the overall roleplay experience and system capabilities.
+
+## 4. Minor Goals — Production Capability
+
+EverWorlds should also support efficient production and reuse.
+
+Minor goals include:
+
+- Formatability
+- Replication capability
+- Easy production
+- Mass-production capability where appropriate
+
+These goals support the larger project rather than replacing its core roleplay objective.
+
+## 5. Quality Standard
 
 EverWorlds is intended to be professional-tier.
 
 Quality, consistency, coherence, realism, and disciplined production are therefore treated as project-level concerns rather than optional polish.
 
-## 4. Digital Twins
+## 6. Digital Twins
 
 The series produced by the project are usually envisioned as highly detailed digital twins of a world, a person, or another subject.
 
 These outputs are intended to be highly detailed and psychologically realistic.
 
-## 5. The Finale Concept
+## 7. The Finale Concept
 
 A **Finale** is usually a highly evolved version of an existing world.
 
@@ -47,13 +87,13 @@ The transformation is deep: the resulting world may be vastly different in quali
 
 A Finale is therefore not simply a polished or upgraded version. It is a deep evolution that preserves identity while becoming unrecognizably better.
 
-## 6. Project Productivity Goal
+## 8. Project Productivity Goal
 
 The Scheme of Work is intended as a project productivity and production framework, not a school or teaching document.
 
 Its purpose is to help the project reach its end goal without emotional burnout, disorder, messes, inconsistencies, or uncontrolled work interfering with progress.
 
-## 7. Current Documentation Principle
+## 9. Current Documentation Principle
 
 The project is still being defined. Documentation should distinguish between:
 
