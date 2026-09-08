@@ -461,3 +461,285 @@ Prompt changes made after observing results must be recorded as new conditions r
 Construct an evidence-derived Goku dialogue/voice corpus and use it to formulate an empirically grounded voice representation without leaking the experimental scenario into the corpus.
 
 **Important:** Conclusions in this document are provisional observations from pilot experiments, not established claims about LLM internals.
+
+---
+
+## 15. New Research Track — Post-Training Behavioral Loopholes
+
+This is a **new research track within EverWorlds**, prompted by observations from the broader roleplay research but **not a continuation of the Goku character experiment**.
+
+### 15.1 Research question
+
+> Can post-training behavioral tendencies be systematically redirected at inference time through contextual framing, objective reinterpretation, competing behavioral cues, or generalization gaps, without changing model parameters?
+
+The working term **"RLHF loophole"** is informal. It should not be interpreted as modifying RLHF weights or bypassing training directly.
+
+The experimentally relevant phenomenon is an **inference-time behavioral displacement** in a model that has already undergone post-training.
+
+A useful abstraction is:
+
+\[
+P_\theta(y\mid x)
+\]
+
+for baseline behavior and:
+
+\[
+P_\theta(y\mid T(x))
+\]
+
+after a controlled contextual transformation \(T\).
+
+The research asks whether:
+
+\[
+\Delta B=B(T(x))-B(x)
+\]
+
+can be made systematic, reproducible, and larger than would be expected from ordinary semantic instruction following.
+
+### 15.2 Important conceptual distinction
+
+The working model is **not**:
+
+\[
+\text{RLHF} \rightarrow \text{one hidden "helpfulness engine"}
+\]
+
+Post-training should instead be treated as contributing multiple learned behavioral tendencies that can interact with pretrained representations and contextual interpretation.
+
+Examples of potentially competing tendencies include:
+
+- helpfulness;
+- instruction following;
+- safety/refusal behavior;
+- persona adherence;
+- social agreement;
+- honesty or truth-seeking behavior;
+- deference to authority;
+- conversational cooperation.
+
+This does not establish that these are discrete modules or independent internal objectives. They are experimental behavioral categories.
+
+### 15.3 Working hypothesis
+
+\[
+H_1:
+\text{Contextual framing can redirect an existing post-training tendency toward an unintended target behavior.}
+\]
+
+Null hypothesis:
+
+\[
+H_0:
+\text{Observed changes are explained by ordinary instruction following, semantic priming, or sampling variation.}
+\]
+
+A stronger result would require the effect to survive controls such as paraphrase, scenario changes, target changes, and removal of explicit target instructions.
+
+### 15.4 High-level mechanisms to investigate
+
+The current mechanism taxonomy is deliberately high-level and non-operational.
+
+#### A. Competing behavioral tendencies
+
+Two learned behavioral tendencies may produce conflicting responses under the same scenario.
+
+Example conceptual conflict:
+
+\[
+\text{helpfulness} \leftrightarrow \text{persona fidelity}
+\]
+
+or:
+
+\[
+\text{supportiveness} \leftrightarrow \text{honest criticism}
+\]
+
+The experiment is to measure which behavior dominates under controlled context changes.
+
+#### B. Objective reinterpretation
+
+A model may be given a broad learned objective such as helpfulness and then encounter contextual evidence suggesting that a different behavior is the proper expression of that objective.
+
+The research question is whether the broad tendency itself can be systematically redirected, rather than whether the model can simply obey a direct instruction.
+
+#### C. Generalization gaps
+
+Post-training may produce a behavioral mapping that generalizes imperfectly outside the contexts that shaped it.
+
+Conceptually:
+
+\[
+C \rightarrow B
+\]
+
+may not imply identical behavior for a novel but semantically related context \(C'\).
+
+Testing this requires controlled semantic and structural perturbations.
+
+#### D. Context-dependent behavioral switching
+
+The same underlying task may produce different behavioral regimes when contextual interpretation changes.
+
+The important observable pattern is:
+
+\[
+\text{same task}
++
+\text{controlled contextual transformation}
+\rightarrow
+\text{different behavioral regime}
+\]
+
+### 15.5 Psychological and social framing as experimental variables
+
+Recent jailbreak literature suggests that persuasion, commitment, role framing, meaning manipulation, and related interaction structures can alter model behavior.
+
+For this research, these should be treated as **contextual variables**, not as evidence that models possess human psychological states.
+
+A psychological tactic can therefore be operationalized as a structured interaction pattern that changes the model's interpretation, competing cues, or predicted response distribution.
+
+The initial harmless research variables may include:
+
+- commitment;
+- identity framing;
+- authority framing;
+- reciprocity;
+- consistency pressure;
+- reinterpretation/reframing;
+- conflicting role expectations.
+
+The initial experiments should use benign target behaviors rather than harmful requests.
+
+### 15.6 Meta-analysis capability observation
+
+A separate observation from today's work is that advanced models can produce outputs that appear to perform **meta-level analysis of a situation**, even though the model remains an autoregressive predictor.
+
+In the benign project scenario, the model inferred possible bias or defensiveness, invoked sunk-cost reasoning, reframed the decision problem, and produced an action-oriented decision criterion.
+
+This should not be described as proof of an explicit psychological model or internal reasoning module.
+
+A more defensible abstraction is:
+
+\[
+\text{context}
+\rightarrow
+\text{latent situation interpretation}
+\rightarrow
+\text{inference}
+\rightarrow
+\text{behavioral strategy}
+\rightarrow
+\text{language}
+\]
+
+The observation motivates a research question:
+
+> Can contextual interventions reliably change the model's interpretation of the same situation and thereby change the behavioral policy expressed in its output?
+
+### 15.7 Experimental discipline
+
+The research must distinguish four phenomena:
+
+1. ordinary instruction following;
+2. semantic/contextual priming;
+3. systematic behavioral redirection;
+4. evidence for a particular internal mechanism.
+
+An output difference alone establishes none of the stronger claims.
+
+A useful first metric is an observed behavioral displacement:
+
+\[
+\Delta_X=P(X\mid T(x))-P(X\mid x)
+\]
+
+where \(X\) is a measurable target behavior.
+
+For factorial studies, an interaction term can test whether contextual framing contributes more than additive instruction effects:
+
+\[
+I=Y_{11}-Y_{10}-Y_{01}+Y_{00}
+\]
+
+### 15.8 Initial experimental architecture
+
+The first laboratory stage should use harmless tasks and a black-box model where only inputs and outputs are observable.
+
+A basic sequence is:
+
+- baseline condition;
+- explicit target condition;
+- contextual reinterpretation condition;
+- conflict condition;
+- paraphrase and scenario controls.
+
+Record:
+
+- exact model/version;
+- full prompt;
+- scenario;
+- settings;
+- output;
+- repeated samples when available;
+- target-behavior score;
+- assistant-behavior score;
+- meta-language score;
+- refusal/constraint behavior;
+- failure or positive-behavior labels.
+
+The experiment should be designed to **falsify** the redirection hypothesis, not merely demonstrate one successful prompt.
+
+### 15.9 Relationship to jailbreak research
+
+Jailbreak research is relevant because it provides evidence that post-trained behavioral constraints can fail or shift under adversarially constructed contexts.
+
+The EverWorlds research track does not need to reproduce harmful jailbreaks. It can study the general phenomenon using benign behaviors and controlled interventions.
+
+The conceptual relationship is:
+
+\[
+\text{behavioral constraint}
+\rightarrow
+\text{contextual perturbation}
+\rightarrow
+\text{behavioral displacement}
+\]
+
+The objective is to identify the conditions under which displacement occurs and determine whether those conditions generalize.
+
+### 15.10 Research grounding
+
+Relevant literature identified during this research session includes:
+
+- **Anthropic — The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models** (2026). Reports an activation direction associated with assistant-like behavior and causal effects from activation steering. https://arxiv.org/abs/2601.10387
+- **Anthropic — The Persona Selection Model: Why AI Assistants might Behave like Humans** (2026). Frames post-training as eliciting and refining an assistant persona from a richer set of learned representations. https://alignment.anthropic.com/2026/psm/
+- **Zeng et al. — How Johnny Can Persuade LLMs to Jailbreak Their Safeguards** (ACL 2024). Studies persuasion as a jailbreak mechanism. https://aclanthology.org/2024.acl-long.773/
+- **Foot-in-the-Door: Persuasion and Escalation in LLM Safety** (EMNLP 2025). Studies commitment-style multi-turn interaction. https://aclanthology.org/2025.emnlp-main.100/
+- **Meaning Manipulation / abductive framing work** (EMNLP 2025). Relevant to representation and interpretation changes under contextual framing. https://aclanthology.org/2025.emnlp-main.1296/
+- **MLCommons Jailbreak Taxonomy** (2026). Organizes jailbreak vulnerabilities by mechanism rather than by individual prompt. https://github.com/mlcommons/jailbreak-taxonomy
+- **Recent jailbreak taxonomy work** (2026). Identifies competing objectives, mismatched generalization, and robustness as major vulnerability classes.
+
+These sources motivate the research direction but do not establish the EverWorlds hypotheses above.
+
+### 15.11 Current status
+
+**Status:** New research track established.
+
+**Stage:** Conceptual formulation and pilot design.
+
+**Established observations from today's session:**
+
+- Simple "manipulate RLHF" language is scientifically misleading when no model parameters are changed.
+- The useful object of study is inference-time behavioral displacement in an already post-trained model.
+- Advanced models can generate meta-level situational analysis that is richer than a simple dataset-retrieval description, while still being implemented through predictive generation.
+- Psychological and social framing are plausible experimental variables because existing jailbreak research demonstrates that contextual interaction can alter model behavior.
+- A successful one-off prompt is not sufficient evidence of an RLHF loophole.
+
+**Next research question:**
+
+> Which contextual variables most reliably alter the competition or interpretation of post-training behavioral tendencies, and which effects survive strict controls for ordinary instruction following?
+
+**Important:** This section is a separate EverWorlds research track. It should not be treated as the next stage of the Goku voice/personality experiment. All claims about internal mechanisms remain provisional until directly supported by additional evidence.
