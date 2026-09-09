@@ -19,19 +19,39 @@ This document records actual EverWorlds work sessions so dates, times, duration,
 
 ## Session — September 8, 2026
 
-**Status:** Active
+**Status:** Paused for today
 
 - **Date:** September 8, 2026
 - **Start time:** 12:46 PM (WAT, UTC+1)
-- **End time:** Active
-- **Total hours:** Active
+- **End time:** 5:13 PM (WAT, UTC+1)
+- **Total hours:** 4 hours 27 minutes
 - **Phase:** Project documentation / production framework
 - **Tasks completed:**
   - Resumed the EverWorlds work session.
   - Reconfirmed the standing work-discipline requirements for session tracking.
-  - Established this session's start time in the work log.
+  - Established the session start time in the work log.
+  - Began restructuring the Scheme of Work as OPAQUE, the Meta Scheme of Work.
+  - Defined initial OPAQUE identity, purpose, authority, scope, version, and constitutional principles.
+  - Clarified that OPAQUE's purpose statement is not an acronym expansion.
 - **Tasks carried forward:**
-  - Continue EverWorlds development from the documented project state.
+  - Continue creation of OPAQUE.
+  - Formalize its constitutional definition and remaining specification layers.
+- **Next session's first action:** Resume OPAQUE creation from its constitutional definition and continue defining the Meta Scheme systematically.
+
+## Session — September 9, 2026
+
+**Status:** Active
+
+- **Date:** September 9, 2026
+- **Start time:** 4:29 PM (WAT, UTC+1)
+- **End time:** Active
+- **Total hours:** Active
+- **Phase:** OPAQUE — Meta Scheme of Work creation
+- **Tasks completed:**
+  - Resumed EverWorlds work.
+  - Resumed OPAQUE development.
+- **Tasks carried forward:**
+  - Continue the systematic creation and specification of OPAQUE.
 - **Next session's first action:** To be recorded when this session is paused or completed.
 
 ## Work Discipline — Standing Project Rule
