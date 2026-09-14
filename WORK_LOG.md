@@ -1,64 +1,12 @@
 # EverWorlds Work Log
 
-This document records actual EverWorlds work sessions so dates, times, duration, progress, and next actions remain traceable.
+## Purpose
 
-## Session — September 7, 2026
+This log records actual project work sessions so time, continuity, and discipline can be reviewed over time.
 
-**Status:** Paused for today
+## Session Discipline
 
-- **Date:** September 7, 2026
-- **Start time:** Not captured
-- **End time:** Not captured
-- **Total hours:** Not captured
-- **Work completed:**
-  - Established the EverWorlds documentation structure in GitHub.
-  - Established the project documentation as the authoritative project record.
-  - Documented the core EverWorlds/Finale concepts, requirements, terminology, decisions, and Scheme of Work.
-- **Session note:** This is the beginning of the project's disciplined work tracking. Time and duration should be captured for future sessions rather than estimated afterward.
-- **Next session:** Continue EverWorlds development from the current documented state.
-
-## Session — September 8, 2026
-
-**Status:** Paused for today
-
-- **Date:** September 8, 2026
-- **Start time:** 12:46 PM (WAT, UTC+1)
-- **End time:** 5:13 PM (WAT, UTC+1)
-- **Total hours:** 4 hours 27 minutes
-- **Phase:** Project documentation / production framework
-- **Tasks completed:**
-  - Resumed the EverWorlds work session.
-  - Reconfirmed the standing work-discipline requirements for session tracking.
-  - Established the session start time in the work log.
-  - Began restructuring the Scheme of Work as OPAQUE, the Meta Scheme of Work.
-  - Defined initial OPAQUE identity, purpose, authority, scope, version, and constitutional principles.
-  - Clarified that OPAQUE's purpose statement is not an acronym expansion.
-- **Tasks carried forward:**
-  - Continue creation of OPAQUE.
-  - Formalize its constitutional definition and remaining specification layers.
-- **Next session's first action:** Resume OPAQUE creation from its constitutional definition and continue defining the Meta Scheme systematically.
-
-## Session — September 9, 2026
-
-**Status:** Active
-
-- **Date:** September 9, 2026
-- **Start time:** 4:29 PM (WAT, UTC+1)
-- **End time:** Active
-- **Total hours:** Active
-- **Phase:** OPAQUE — Meta Scheme of Work creation
-- **Tasks completed:**
-  - Resumed EverWorlds work.
-  - Resumed OPAQUE development.
-- **Tasks carried forward:**
-  - Continue the systematic creation and specification of OPAQUE.
-- **Next session's first action:** To be recorded when this session is paused or completed.
-
-## Work Discipline — Standing Project Rule
-
-EverWorlds work sessions must be tracked deliberately and consistently. The goal is to prevent loose, unstructured work from becoming difficult to measure, resume, or maintain.
-
-Every future work session must record:
+Every work session should record:
 
 1. Date
 2. Start time
@@ -68,27 +16,62 @@ Every future work session must record:
 6. Tasks completed
 7. Tasks carried forward
 8. Next session's first action
-9. Current session status (Active, Paused, Complete, Blocked, etc.)
+9. Current status
 
-### Time-Tracking Rules
+Rules:
 
-- Record actual working times whenever possible.
-- Do not guess or retroactively invent hours.
-- If a start or end time was not captured, mark it as **Not captured** rather than estimating it.
-- When a session is deliberately stopped for the day, mark it **Paused for today** and record what should happen first when work resumes.
-- Keep dates attached to every session so the project's development history remains traceable.
-- Maintain enough information to calculate and review time spent by day, phase, and week.
+- Record actual times whenever possible.
+- Never guess or invent hours.
+- If a start or end time was not captured, mark it as **Not captured**.
+- When deliberately stopping work, mark the session **Paused for today** and record the first action for resumption.
+- Keep dates attached to every session.
+- The log should contain enough information to review time by day, phase, and week.
+- Weekly review should assess time invested, completed work, carried work, blocked or stalled work, next priorities, and sustainability/discipline.
 
-### Weekly Review
+## Session Log
 
-A weekly review should use this log to assess:
+### 2026-09-08
 
-- Time invested
-- Work completed
-- Work carried forward
-- Blocked or stalled work
-- Priorities for the next week
-- Whether the current workload and process remain sustainable
-- Whether work discipline is being maintained consistently
+- **Start:** 12:46 PM WAT
+- **End:** 5:13 PM WAT
+- **Total:** 4h 27m
+- **Phase:** Project documentation / production framework
+- **Tasks completed:** Continued project documentation and production-framework work.
+- **Tasks carried forward:** Continue OPAQUE from its constitutional definition.
+- **Next session first action:** Resume OPAQUE from constitutional definition.
+- **Status:** Paused for the day
 
-This work-discipline rule is a standing part of the EverWorlds production framework unless explicitly changed by a later project decision.
+### 2026-09-09
+
+- **Start:** 4:29 PM WAT
+- **End:** Not captured
+- **Total:** Not captured
+- **Phase:** OPAQUE — Meta Scheme of Work creation
+- **Tasks completed:** Resumed EverWorlds work; resumed OPAQUE development.
+- **Tasks carried forward:** Continue systematic creation/specification of OPAQUE.
+- **Next session first action:** Continue systematic creation/specification of OPAQUE.
+- **Status:** Active
+
+### 2026-09-13
+
+- **Start:** 3:11 PM WAT
+- **End:** Not captured
+- **Total:** Not captured
+- **Phase:** OPAQUE — Specification / Formalization
+- **Task:** Foundation Verification / Source Inventory and Source Classification; progressed into Stage III — Authority Determination.
+- **Tasks completed:** Completed Stage I source inventory; completed Stage II source classification; began Stage III authority determination; established that GitHub is the authoritative documentation home and identified existing domain-specific authority declarations.
+- **Tasks carried forward:** Continue Stage III with explicit authority/precedence inspection, beginning with `DECISIONS.md` and conflict-resolution evidence.
+- **Next session first action:** Resume Stage III — Action 3: inspect existing decisions for authority, precedence, conflict resolution, and supersession rules.
+- **Status:** Paused for session transition
+
+### 2026-09-14
+
+- **Start:** 9:55 AM WAT
+- **End:** Not captured
+- **Total:** Not captured
+- **Phase:** OPAQUE — Specification / Formalization
+- **Task:** Stage III — Authority Determination.
+- **Tasks completed:** Session signed in; resumed Stage III; continued Action 2 inspection of explicit authority declarations across the existing repository; established domain-specific authority and identified unresolved universal precedence.
+- **Tasks carried forward:** Action 3 — inspect `DECISIONS.md` and related existing records for authority, precedence, conflict-resolution, and supersession rules.
+- **Next session first action:** Continue Stage III — Action 3.
+- **Status:** Active
