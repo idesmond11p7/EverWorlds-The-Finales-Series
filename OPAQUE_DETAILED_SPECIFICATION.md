@@ -587,13 +587,352 @@ Closure shall not erase unresolved history or imply facts that have not been est
 
 ---
 
-## 5. Immediate Detailed-Specification Priorities
+## 5. Traceability, Evolution, Human–AI Process, Scheme, and Execution Requirements
 
-The next detailed pass shall specify:
+### R-031 — Traceability
 
-1. R-031–R-047: traceability, evolution, human–AI process control, Scheme and execution governance.
+OPAQUE shall preserve traceable relationships between materially relevant source material, determinations, requirements, decisions, changes, operations, outcomes, validation, and resulting controlled state.
 
-The detailed pass shall use the existing control model rather than creating new foundational concepts unless a genuine specification defect demonstrates that one is necessary.
+Traceability shall support both:
+
+- backward tracing: determining the material basis of a current state or determination;
+- forward tracing: determining materially affected state, work, or obligations arising from a source, decision, or change.
+
+Traceability shall not require every piece of incidental information to be individually linked when it has no material governance consequence.
+
+**Failure:** a material controlled state or decision cannot be connected to its relevant basis or material downstream effects.
+
+**Validation:** required backward and forward traces can be reconstructed for material matters.
+
+---
+
+### R-032 — Feedback Incorporation
+
+OPAQUE shall control how observations, outcomes, failures, reviews, and other feedback affect governed state or future work.
+
+Feedback shall first be distinguished as:
+
+- observation/evidence;
+- interpretation;
+- proposal;
+- required correction;
+- validated finding;
+- other applicable status.
+
+Feedback shall not automatically become a requirement, decision, rule, or state change.
+
+Where feedback is incorporated, its effect and basis shall be traceable.
+
+**Failure:** treating feedback as authoritative merely because it was received or appears persuasive.
+
+**Validation:** the relationship between feedback and any resulting change is identifiable.
+
+---
+
+### R-033 — Controlled Evolution
+
+OPAQUE shall permit governed systems, rules, requirements, work structures, and controlled states to evolve without silently losing historical identity or applicable constraints.
+
+Evolution shall distinguish:
+
+- current state;
+- proposed future state;
+- superseded state where applicable;
+- transition basis;
+- affected relationships and dependencies.
+
+A new state shall not silently invalidate prior history or applicable traceability.
+
+**Failure:** uncontrolled drift in which a material change occurs without identifiable transition or basis.
+
+**Validation:** an evolved matter can be related to its prior state and the material basis for evolution.
+
+---
+
+### R-034 — Impact Evaluation
+
+Before a material proposed change becomes authoritative, OPAQUE shall evaluate reasonably identifiable effects on affected objects, states, relationships, dependencies, authority, work, validation, and continuity.
+
+Impact evaluation shall be proportional to the materiality and scope of the change.
+
+Where material impact cannot be determined, that uncertainty shall remain explicit and shall affect whether the change may proceed.
+
+**Failure:** material downstream consequences are knowingly ignored or represented as absent without adequate basis.
+
+**Validation:** material affected areas and unresolved impact are identifiable from the change evaluation.
+
+---
+
+### R-035 — Metacognitive Audit
+
+OPAQUE shall periodically or conditionally audit the current state of project control and the process by which that state is being produced.
+
+The audit shall examine, as applicable:
+
+1. project-state changes;
+2. workflow/process changes;
+3. interaction/communication changes relevant to execution;
+4. efficiency or cognitive-load effects relevant to continued work;
+5. epistemic changes.
+
+The audit shall distinguish detected signals from established causes.
+
+**Failure:** continuing a materially defective process solely because it has already been established, or treating an inferred cause as established fact.
+
+**Validation:** detected control defects and resulting corrective actions or non-actions are traceable.
+
+---
+
+### R-036 — Process Self-Correction
+
+When OPAQUE detects a material process defect, it shall determine whether the defect can be corrected within existing authority and constraints.
+
+Permitted self-correction may include changing immediate work procedure, sequencing, presentation, or other operational process without changing authoritative project requirements unless such change is itself governed.
+
+A process correction shall not silently alter project authority, requirements, or controlled state.
+
+**Failure:** preserving a demonstrably defective process without evaluation, or using process correction as a covert means of changing authoritative project state.
+
+**Validation:** the detected defect, correction, and resulting effect can be identified.
+
+---
+
+### R-037 — Interaction Control
+
+OPAQUE shall maintain sufficient control over human–AI interaction to prevent communication artifacts from being mistaken for authoritative project state.
+
+Material interaction shall be distinguishable, where relevant, from:
+
+- project decisions;
+- proposals;
+- instructions;
+- emotional expressions;
+- observations;
+- questions;
+- corrections;
+- authoritative determinations.
+
+A conversational statement shall not acquire project authority solely through its conversational form.
+
+**Failure:** treating an ambiguous or non-authoritative interaction as a binding project decision without applicable authority.
+
+**Validation:** the system can determine which interaction material affected controlled state and why.
+
+---
+
+### R-038 — User-Facing Complexity Control
+
+OPAQUE shall separate internal control complexity from the complexity presented to the user.
+
+The system may maintain detailed internal reasoning, dependencies, checks, and records while presenting only the information necessary for the user's current decision, action, or understanding.
+
+Simplification shall not remove material distinctions required for correct user understanding or authority.
+
+**Failure:** either exposing unnecessary internal complexity that obstructs execution or simplifying away material information.
+
+**Validation:** user-facing representation remains sufficient for the user's required action or decision without requiring exposure of the entire internal control model.
+
+---
+
+### R-039 — Interest-Drop/Momentum Compensation
+
+OPAQUE shall detect material degradation in work momentum or engagement where observable behavior indicates that continued execution may be impaired.
+
+OPAQUE shall distinguish:
+
+- observed signal;
+- hypothesis about cause;
+- checked or unverified cause;
+- appropriate procedural response.
+
+Possible responses may include reducing immediate scope, changing presentation, selecting a smaller justified work unit, restoring context, changing sequencing, or preserving a clean stopping/resumption point.
+
+This requirement shall not authorize covert psychological manipulation or inference beyond what is necessary for continuity control.
+
+**Failure:** treating a temporary engagement signal as project termination, or treating an inferred psychological cause as established fact.
+
+**Validation:** the signal, procedural response, and effect on continuity are distinguishable.
+
+---
+
+### R-040 — Convergence Control
+
+OPAQUE shall prevent exploratory work from continuing indefinitely once sufficient information exists to perform the current justified determination.
+
+The convergence process shall distinguish:
+
+- exploration;
+- relevance determination;
+- extraction;
+- compression;
+- sufficiency checking;
+- closure of the current inquiry;
+- advancement to the next justified action.
+
+A fixed time or step limit shall not by itself establish sufficiency.
+
+**Failure:** continuing to expand a closed or sufficiently determined question without demonstrated benefit, or closing an inquiry while a material unresolved dependency remains.
+
+**Validation:** the basis for determining sufficiency or continued exploration is identifiable.
+
+---
+
+### R-041 — Milestone and Completion Control
+
+OPAQUE shall define and preserve completion conditions for material milestones and work units.
+
+Completion shall be determined from the applicable completion condition, not merely from activity, elapsed time, or subjective satisfaction.
+
+A milestone may be:
+
+- not started;
+- active;
+- blocked;
+- conditionally complete;
+- complete;
+- reopened;
+- superseded;
+- otherwise explicitly governed.
+
+Completion shall identify remaining material work, unresolved dependencies, and the next justified milestone where applicable.
+
+**Failure:** advancing a milestone as complete when its material completion condition is unsatisfied.
+
+**Validation:** completion status can be matched to its defined condition and supporting evidence.
+
+---
+
+### R-042 — Interruption and Recovery
+
+OPAQUE shall preserve a controlled recovery point when work is interrupted.
+
+A recovery point shall retain sufficient information to identify:
+
+- current state;
+- current work position;
+- completed material work;
+- carried work;
+- blockers;
+- unresolved matters;
+- dependencies;
+- next first action.
+
+Recovery shall not assume that memory of the conversation alone is sufficient.
+
+**Failure:** resumption requires reconstruction by guesswork or causes previously controlled state to be lost or contradicted.
+
+**Validation:** an authorized resumption can reconstruct the relevant work position and state from preserved information.
+
+---
+
+### R-043 — Scheme Integrity
+
+OPAQUE shall protect the integrity of the Scheme of Work as the controlled execution framework for EverWorlds.
+
+OPAQUE shall detect and represent material defects such as:
+
+- broken dependencies;
+- orphaned work;
+- contradictory work conditions;
+- missing completion conditions;
+- uncontrolled scope expansion;
+- loss of continuity;
+- work proceeding outside required conditions.
+
+OPAQUE may require correction, blocking, deferral, or restructuring where authorized by its governing rules.
+
+OPAQUE shall not silently become the substantive Scheme.
+
+**Validation:** a material Scheme defect and its resulting control response are traceable.
+
+---
+
+### R-044 — Work-Unit Governance
+
+OPAQUE shall ensure that each material work unit has sufficient definition to permit controlled execution.
+
+Where applicable, a work unit shall identify:
+
+- objective;
+- scope;
+- inputs;
+- expected output;
+- prerequisites;
+- dependencies;
+- authority;
+- completion condition;
+- current status;
+- carried or unresolved material.
+
+Work units may remain intentionally small or provisional when that is sufficient for the current task.
+
+**Failure:** execution begins on materially undefined work where the missing definition affects validity, authority, dependencies, or completion.
+
+**Validation:** the work unit is sufficiently defined to determine whether it may proceed and when it is complete.
+
+---
+
+### R-045 — Temporal Integrity
+
+OPAQUE shall preserve materially relevant temporal information for governed work.
+
+Where time affects control, OPAQUE shall distinguish:
+
+- planned time;
+- required deadline;
+- actual occurrence;
+- sequence/order;
+- duration where relevant;
+- overdue status;
+- interruption/resumption.
+
+OPAQUE shall not invent missing timestamps or durations.
+
+A missing temporal value shall remain explicitly unknown when it is relevant to governance.
+
+**Failure:** fabricated, conflated, or overwritten temporal information changes the interpretation of work status, sequence, deadline, or continuity.
+
+**Validation:** time-dependent determinations can be reconstructed from recorded temporal evidence.
+
+---
+
+### R-046 — Execution Feasibility
+
+Before materially committing to an execution path, OPAQUE shall determine whether the path is sufficiently feasible under known requirements, dependencies, resources, technology, available capabilities, constraints, and time.
+
+Feasibility may be:
+
+- established;
+- conditionally feasible;
+- requiring prerequisite work;
+- requiring further research;
+- blocked;
+- infeasible under current conditions;
+- otherwise explicitly indeterminate.
+
+OPAQUE shall not represent feasibility as established when a material prerequisite or constraint remains unresolved.
+
+**Failure:** execution commitment rests on an unexamined material dependency or capability assumption.
+
+**Validation:** the feasibility determination identifies its material basis and unresolved constraints.
+
+---
+
+### R-047 — Governance/Execution Boundary
+
+OPAQUE shall preserve the distinction between governance and execution.
+
+OPAQUE governs whether work may proceed, under what conditions, with what dependencies and controls, and how resulting state is evaluated.
+
+Execution performs the substantive work.
+
+OPAQUE shall not silently invent substantive product decisions merely because execution requires a choice.
+
+Where execution encounters an undefined matter that materially affects governed state, it shall be returned to the appropriate determination/authority path rather than being silently converted into an authoritative rule.
+
+**Failure:** execution silently becomes the source of governance, or governance prevents legitimate execution without a material control basis.
+
+**Validation:** the relationship between governing determination and substantive execution remains identifiable.
 
 ---
 
@@ -614,8 +953,12 @@ The following remain unresolved and shall not be silently invented:
 - OPAQUE/Scheme operational interface;
 - termination governance.
 
-These are now treated as explicit specification work items.
+These are explicit specification work items. They do not justify reopening the requirement baseline without a demonstrated defect.
+
+---
 
 ## 7. Stage V-D Completion Condition
 
 Stage V-D is complete when the 47 candidate requirements have sufficiently precise operational definitions to permit later architecture and implementation decisions without requiring the implementation itself to invent missing governance rules.
+
+**Working determination:** R-001–R-047 have now received a complete detailed-specification pass. Remaining work is verification of internal consistency, overlap, unresolved-question treatment, and readiness for formal ratification; this is not permission to silently ratify the specification.
