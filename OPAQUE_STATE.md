@@ -202,9 +202,9 @@ Stage IV is closed provisionally for purposes of advancing the specification pro
 
 **Stage V — OPAQUE Specification**
 
-**Current sub-milestone: Stage V-B — Core Control Model.**
+**Current sub-milestone: Stage V-C — Requirement-to-Control Mapping.**
 
-Stage V-A requirement integrity audit is complete. The candidate baseline remains structurally usable; no requirement family was added or removed. The immediate objective is now to define the minimum finite conceptual control model required to specify the baseline coherently, without introducing an uncontrolled new conceptual layer or downstream implementation decisions.
+Stage V-A requirement integrity audit and Stage V-B core control model are complete working determinations. The baseline remains unchanged. Stage V-B established a finite 14-concept control model without introducing architecture or implementation. The immediate objective is now to map every candidate requirement to that model and identify only genuine specification gaps or model defects.
 
 ## 13. Stage V Completion Direction
 
@@ -271,8 +271,8 @@ Do not create another broad conceptual branch unless it is demonstrated to be ne
 
 The next substantive OPAQUE operation is:
 
-**Proceed through Stage V-B — Core Control Model.**
+**Proceed through Stage V-C — Requirement-to-Control Mapping.**
 
-Use the requirement baseline and Stage V-A audit as inputs. Establish the minimum conceptual control model needed to define governed objects, controlled state, authority, conditions, dependencies, relationships, operations, determinations, validation, change, outcomes, closure, provenance, and controlled incorporation.
+Map R-001–R-047 against C-01–C-14 and I-001. For each requirement, determine its primary/supporting concepts, required relationships, prerequisite concepts, unresolved specification dependencies, and whether formal specification can proceed.
 
-Do not add a new conceptual layer unless a demonstrated specification gap requires it. Close the sub-milestone when the finite model can support requirement mapping without uncontrolled conceptual expansion.
+Do not add concepts unless a demonstrated model defect requires it.
