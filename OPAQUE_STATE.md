@@ -254,6 +254,30 @@ Determine whether any material defect remains that prevents formal ratification 
 
 A failed pass produces a controlled correction target rather than reopening unrestricted exploration.
 
+### Pass A Determination
+
+**PASS — Coverage is complete.**
+
+All 47 candidate requirements remain represented in the detailed specification with substantive treatment. I-001 is represented as a cross-cutting invariant.
+
+### Pass B Determination
+
+**PASS — No material internal contradiction identified within verified scope.**
+
+The principal overlap clusters remain coherent and their distinctions are preserved. Unresolved matters were not silently converted into final rules.
+
+### Pass C Determination
+
+**PASS — The existing 14-concept control model is sufficient for the detailed specification.**
+
+No requirement demonstrated a genuinely missing foundational concept. The remaining pressure points are rule-definition matters within the existing model rather than ontology defects.
+
+### Pass D Determination
+
+**PASS — U-001–U-012 remain explicitly controlled.**
+
+The unresolved matters remain identifiable and are not silently ratified by the detailed specification. U-005 (controlled propagation) and U-010 (closure semantics) have supporting treatment where necessary, but their final governance semantics remain open. Pass D found no material defect requiring reopening Stage V-D or expanding the foundational model.
+
 ## 16. Completion Condition
 
 Stage V-E is complete when the five verification passes have produced one of two explicit outcomes:
@@ -314,4 +338,6 @@ Confirmed project records remain governed by their respective documents and auth
 
 Proceed through **Stage V-E — Specification Verification and Integrity Review**.
 
-Begin with **Pass A — Coverage**, then proceed through the remaining bounded verification passes. Do not add foundational concepts unless a demonstrated verification defect requires one.
+Passes A, B, C, and D are complete. Proceed to **Pass E — Ratification Readiness**.
+
+Do not ratify requirements during verification. Pass E determines whether the specification is ready to enter formal ratification review.
