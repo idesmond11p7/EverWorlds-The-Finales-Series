@@ -202,11 +202,11 @@ Stage IV is closed provisionally for purposes of advancing the specification pro
 
 **Stage V — OPAQUE Specification**
 
-**Current sub-milestone: Stage V-E — Specification Verification and Integrity Review.**
+**Current sub-milestone: Stage V-E — Specification Verification and Integrity Review — Complete.**
 
 Stage V-A requirement integrity audit, Stage V-B core control model, Stage V-C requirement-to-control mapping, and Stage V-D detailed requirement specification are complete working determinations. R-001–R-047 have received a complete detailed specification pass.
 
-Stage V-E now verifies whether the completed specification is internally coherent, whether overlaps and distinctions are intentional, whether unresolved questions are properly contained, and whether the specification is ready for formal ratification review.
+Stage V-E verification is complete across Passes A–E.
 
 ## 13. Stage V-D Determination
 
@@ -220,76 +220,62 @@ This does not ratify the requirements.
 
 Verify the completed detailed specification against the finite candidate baseline and existing 14-concept control model.
 
-The verification shall examine:
+The verification examined:
 
-1. requirement coverage — every R-001–R-047 remains represented;
-2. semantic consistency — no requirement silently contradicts another;
-3. distinction preservation — deliberate overlaps remain distinguishable where their control consequences differ;
-4. control-model sufficiency — no requirement demonstrates the need for a new foundational concept;
-5. unresolved-question containment — U-001–U-012 remain explicit rather than being silently answered;
-6. authority integrity — no specification rule grants authority that the baseline does not establish;
-7. dependency integrity — material prerequisite relationships remain coherent;
-8. closure/completion integrity — completion, closure, interruption, and termination are not conflated;
-9. human–AI boundary integrity — reasoning agency remains distinct from project authority;
-10. implementation independence — later implementation is not forced to invent missing governance rules.
+1. requirement coverage;
+2. semantic consistency;
+3. distinction preservation;
+4. control-model sufficiency;
+5. unresolved-question containment;
+6. authority integrity;
+7. dependency integrity;
+8. closure/completion integrity;
+9. human–AI boundary integrity;
+10. implementation independence.
 
-## 15. Verification Method
+## 15. Verification Method and Determinations
 
-The verification process shall proceed in bounded passes:
-
-**Pass A — Coverage**  
-R-001–R-047 against the detailed specification.
-
-**Pass B — Cross-Requirement Consistency**  
-Check overlapping requirements and preserved distinctions.
-
-**Pass C — Control-Model Consistency**  
-Check the specification against C-01–C-14 and I-001.
-
-**Pass D — Unresolved Matters**  
-Check that U-001–U-012 are neither silently resolved nor allowed to invalidate already sufficient specification material.
-
-**Pass E — Ratification Readiness**  
-Determine whether any material defect remains that prevents formal ratification review.
-
-A failed pass produces a controlled correction target rather than reopening unrestricted exploration.
-
-### Pass A Determination
+### Pass A — Coverage
 
 **PASS — Coverage is complete.**
 
 All 47 candidate requirements remain represented in the detailed specification with substantive treatment. I-001 is represented as a cross-cutting invariant.
 
-### Pass B Determination
+### Pass B — Cross-Requirement Consistency
 
 **PASS — No material internal contradiction identified within verified scope.**
 
 The principal overlap clusters remain coherent and their distinctions are preserved. Unresolved matters were not silently converted into final rules.
 
-### Pass C Determination
+### Pass C — Control-Model Consistency
 
 **PASS — The existing 14-concept control model is sufficient for the detailed specification.**
 
 No requirement demonstrated a genuinely missing foundational concept. The remaining pressure points are rule-definition matters within the existing model rather than ontology defects.
 
-### Pass D Determination
+### Pass D — Unresolved Matters
 
 **PASS — U-001–U-012 remain explicitly controlled.**
 
-The unresolved matters remain identifiable and are not silently ratified by the detailed specification. U-005 (controlled propagation) and U-010 (closure semantics) have supporting treatment where necessary, but their final governance semantics remain open. Pass D found no material defect requiring reopening Stage V-D or expanding the foundational model.
+The unresolved matters remain identifiable and are not silently ratified by the detailed specification. U-005 (controlled propagation) and U-010 (closure semantics) have supporting treatment where necessary, but their final governance semantics remain open.
 
-## 16. Completion Condition
+### Pass E — Ratification Readiness
 
-Stage V-E is complete when the five verification passes have produced one of two explicit outcomes:
+**PASS — READY FOR RATIFICATION REVIEW.**
 
-- **Ready for Ratification Review:** no material specification defect remains within the verified scope; or
-- **Correction Required:** one or more specific defects are identified with affected requirements, consequences, and required corrective action.
+Within the verified scope, no material specification defect was identified that requires correction before entering formal ratification review.
+
+This is a readiness determination only. It does not ratify R-001–R-047, I-001, or U-001–U-012.
+
+## 16. Stage V-E Completion Condition
+
+Stage V-E is complete because all five bounded verification passes produced explicit determinations and no material defect remains that prevents formal ratification review.
 
 No requirement is ratified merely by passing verification.
 
 ## 17. Stage V Completion Direction
 
-After Stage V-E, the next governed milestone is formal ratification review.
+**Next governed milestone: Formal Ratification Review.**
 
 Ratification must separately address the unresolved authority and governance questions that remain legitimately open, including authority precedence, validation authority, supersession/replacement, propagation, closure semantics, the OPAQUE/Scheme interface, and termination governance.
 
@@ -336,8 +322,8 @@ Confirmed project records remain governed by their respective documents and auth
 
 ## 22. Immediate Operating Directive
 
-Proceed through **Stage V-E — Specification Verification and Integrity Review**.
+Stage V-E is complete.
 
-Passes A, B, C, and D are complete. Proceed to **Pass E — Ratification Readiness**.
+Proceed to **Formal Ratification Review**.
 
-Do not ratify requirements during verification. Pass E determines whether the specification is ready to enter formal ratification review.
+Do not treat readiness as ratification. The next milestone is controlled review and disposition of the candidate specification and its remaining governance questions.
