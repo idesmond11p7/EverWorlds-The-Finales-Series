@@ -83,7 +83,19 @@ Rules:
 - **Total:** Not captured
 - **Phase:** OPAQUE — Specification / Process Control
 - **Task:** Metacognitive state audit and process stabilization.
-- **Tasks completed:** Audited the OPAQUE specification process; identified uncontrolled local decomposition and insufficient milestone/state visibility as a process defect; established a controlled working spine and convergence rule; created `OPAQUE_STATE.md) as the current provisional OPAQUE state/control record.
+- **Tasks completed:** Audited the OPAQUE specification process; identified uncontrolled local decomposition and insufficient milestone/state visibility as a process defect; established a controlled working spine and convergence rule; created `OPAQUE_STATE.md` as the current provisional OPAQUE state/control record.
 - **Tasks carried forward:** Consolidate existing OPAQUE candidate requirements into a finite candidate requirement baseline; do not open new conceptual branches unless necessary to complete that milestone.
-- **Next session first action:** Review `OPAQUE_STATE.md), then begin requirement consolidation toward the OPAQUE Requirement Baseline.
+- **Next session first action:** Review `OPAQUE_STATE.md`, then begin requirement consolidation toward the OPAQUE Requirement Baseline.
 - **Status:** Active
+
+### 2026-09-23 — Requirement Consolidation
+
+- **Start:** Not captured
+- **End:** Not captured
+- **Total:** Not captured
+- **Phase:** OPAQUE — Stage IV Requirement Extraction / Consolidation
+- **Task:** Consolidate previously established OPAQUE requirement material into a finite candidate baseline.
+- **Tasks completed:** Re-audited current OPAQUE state and relevant authoritative project records; consolidated candidate requirements into `OPAQUE_REQUIREMENT_BASELINE.md`; separated requirements from the Distinction Preservation candidate invariant, constraints, implementation decisions, and unresolved specification questions; checked coverage and dependency direction; determined that no additional requirement family is currently demonstrated necessary for Stage IV completion.
+- **Tasks carried forward:** Begin Stage V — OPAQUE Specification using the finite candidate baseline.
+- **Next session first action:** Start formal specification from `OPAQUE_REQUIREMENT_BASELINE.md`, beginning with constitutional requirements and their exact scope, conditions, authority, dependencies, and validation criteria.
+- **Status:** Stage IV complete; ready to advance
