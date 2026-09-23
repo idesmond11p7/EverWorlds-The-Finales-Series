@@ -372,18 +372,232 @@ If incorporation requirements are not satisfied, the material shall remain outsi
 
 ---
 
-## 4. Immediate Detailed-Specification Priorities
+## 4. Change, Validation, Operation, Failure, and Closure Requirements
+
+### R-021 — Controlled Change
+
+OPAQUE shall treat any material alteration to controlled state, controlled relationships, governing requirements, or authoritative records as a controlled change.
+
+A change shall be distinguished from:
+
+- a proposal to change;
+- an attempted but unsuccessful change;
+- an observation that a change has occurred externally;
+- a correction to an identified error.
+
+Before a controlled change becomes authoritative, OPAQUE shall determine the affected object and state, proposed alteration, authority, conditions, dependencies, required validation, and resulting state.
+
+**Failure:** an alteration becomes authoritative merely because it occurred, was requested, or was technically possible.
+
+**Validation:** the resulting state and basis for change can be reconstructed from the change record.
+
+---
+
+### R-022 — Change History
+
+OPAQUE shall preserve the history necessary to determine how a material controlled state was reached and materially changed.
+
+For each material change, the history shall preserve, where applicable:
+
+- prior state;
+- resulting state;
+- change description;
+- reason or basis;
+- authority;
+- relevant conditions/dependencies;
+- validation result;
+- provenance;
+- time/order sufficient to establish sequence.
+
+History shall be append-preserving for material prior states; a later state shall not erase the fact that a materially different prior state existed.
+
+**Failure:** overwriting controlled history in a way that makes material state evolution unreconstructable.
+
+**Validation:** a reviewer can trace a material current state backward through its recorded changes to the relevant originating material.
+
+---
+
+### R-023 — Validation Integrity
+
+OPAQUE shall distinguish validation from determination, approval, observation, and incorporation.
+
+Validation shall occur when a governed rule requires evidence that a specified condition, claim, state, transformation, or result satisfies its applicable criteria.
+
+Validation shall identify:
+
+- what is being validated;
+- the criteria or basis;
+- the validation authority or method;
+- the result;
+- relevant evidence/provenance;
+- any limitations or unresolved defects.
+
+Validation shall not be treated as stronger or broader than the scope it actually covers.
+
+**Failure:** treating an unvalidated matter as validated, or treating validation of one property as validation of unrelated properties.
+
+**Validation:** the validation result can be matched to the exact subject, criteria, scope, and authority involved.
+
+---
+
+### R-024 — Conditional Operation
+
+OPAQUE shall permit an operation to proceed only when its required conditions and dependencies are satisfied, or when the operation is explicitly permitted to proceed under an identified conditional state.
+
+OPAQUE shall determine:
+
+- the operation;
+- required conditions;
+- relevant dependencies;
+- current satisfaction state;
+- consequence of proceeding;
+- whether the operation is permitted, blocked, deferred, or conditional.
+
+**Failure:** treating an operation as unconditionally permitted when a required condition or dependency is unsatisfied.
+
+**Validation:** the permission to proceed can be explained from the operation's applicable conditions and dependencies.
+
+---
+
+### R-025 — Operation-State Integrity
+
+OPAQUE shall distinguish an operation's execution state from the controlled state that the operation is intended to affect.
+
+An operation may be:
+
+- proposed;
+- authorized;
+- ready;
+- executing;
+- completed;
+- failed;
+- interrupted;
+- cancelled;
+- otherwise explicitly represented.
+
+Operation completion shall not by itself establish that the intended controlled state change succeeded.
+
+**Failure:** inferring successful state transition merely from attempted or completed execution activity.
+
+**Validation:** operation state and controlled-state result can be determined independently.
+
+---
+
+### R-026 — Outcome Integrity
+
+OPAQUE shall record material outcomes separately from the operations and determinations that produced or interpreted them.
+
+An outcome shall be represented with sufficient context to determine:
+
+- what operation or event produced it;
+- what actually occurred;
+- whether the outcome was expected, unexpected, partial, or indeterminate;
+- what controlled state, if any, it affects;
+- whether further validation or determination is required.
+
+**Failure:** replacing an actual outcome with the intended result, or treating an interpretation of an outcome as the outcome itself.
+
+**Validation:** the recorded outcome can be distinguished from the operation, expectation, interpretation, and resulting state.
+
+---
+
+### R-027 — Controlled Indeterminacy
+
+OPAQUE shall represent material matters as indeterminate when available evidence is insufficient to establish a required fact, state, authority, dependency, outcome, or validation result.
+
+Indeterminacy shall not be silently converted into a convenient assumption, completion, approval, success, or failure.
+
+Where possible, OPAQUE shall identify:
+
+- what is indeterminate;
+- what evidence is missing or conflicting;
+- what depends on its resolution;
+- whether work may continue conditionally;
+- what event or evidence could resolve it.
+
+**Failure:** forced certainty where the governing evidence does not support certainty.
+
+**Validation:** an indeterminate matter remains distinguishable from both established and rejected states.
+
+---
+
+### R-028 — Failure and Recovery Governance
+
+OPAQUE shall govern material failures of controlled operations, state transitions, validation, dependencies, or required control processes.
+
+When a material failure occurs, OPAQUE shall:
+
+1. preserve the pre-failure controlled state;
+2. record the failure and affected operation/state;
+3. determine whether partial effects occurred;
+4. prevent unverified partial effects from being represented as successful completion;
+5. determine available recovery, rollback, containment, or reattempt conditions;
+6. preserve unresolved effects until determined.
+
+Recovery shall itself be subject to applicable authority, conditions, dependencies, and validation.
+
+**Failure:** treating failure as success, silently discarding partial effects, or allowing recovery to bypass governance.
+
+**Validation:** post-failure state and recovery result are distinguishable and reconstructable.
+
+---
+
+### R-029 — Exception Governance
+
+OPAQUE shall distinguish an exception from ordinary operation and shall prevent exceptional handling from becoming an uncontrolled bypass of governing requirements.
+
+An exception shall identify, where applicable:
+
+- the ordinary rule or condition affected;
+- the exceptional circumstance;
+- the authority permitting exceptional handling;
+- scope and duration of the exception;
+- conditions or safeguards;
+- resulting state;
+- validation or review requirements.
+
+An exception shall not silently rewrite the ordinary rule.
+
+**Failure:** treating convenience, urgency, failure, or unusual circumstance as automatic authority to bypass governance.
+
+**Validation:** the exception's scope, authority, and effect are traceable and distinguishable from ordinary operation.
+
+---
+
+### R-030 — Closure Integrity
+
+OPAQUE shall distinguish closure from completion, success, validation, approval, and termination.
+
+A governed matter may be closed only when its applicable closure condition has been established.
+
+Closure shall identify:
+
+- the matter being closed;
+- the state at closure;
+- the closure condition or basis;
+- outstanding unresolved material, if any;
+- authority required for closure;
+- resulting ability or prohibition to reopen or continue.
+
+Closure shall not erase unresolved history or imply facts that have not been established.
+
+**Failure:** declaring a matter closed because activity stopped, because a deadline passed, or because the immediate work ended when the applicable closure condition was not satisfied.
+
+**Validation:** the reason for closure and its effect on future work are identifiable.
+
+---
+
+## 5. Immediate Detailed-Specification Priorities
 
 The next detailed pass shall specify:
 
-1. R-021–R-030: change, validation, operation, outcomes, failure, exceptions, closure;
-2. R-031–R-047: traceability, evolution, human–AI process control, Scheme and execution governance.
+1. R-031–R-047: traceability, evolution, human–AI process control, Scheme and execution governance.
 
 The detailed pass shall use the existing control model rather than creating new foundational concepts unless a genuine specification defect demonstrates that one is necessary.
 
 ---
 
-## 5. Open Specification Questions
+## 6. Open Specification Questions
 
 The following remain unresolved and shall not be silently invented:
 
@@ -402,8 +616,6 @@ The following remain unresolved and shall not be silently invented:
 
 These are now treated as explicit specification work items.
 
----
-
-## 6. Stage V-D Completion Condition
+## 7. Stage V-D Completion Condition
 
 Stage V-D is complete when the 47 candidate requirements have sufficiently precise operational definitions to permit later architecture and implementation decisions without requiring the implementation itself to invent missing governance rules.
