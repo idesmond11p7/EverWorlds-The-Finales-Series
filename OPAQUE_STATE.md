@@ -202,9 +202,9 @@ Stage IV is closed provisionally for purposes of advancing the specification pro
 
 **Stage V — OPAQUE Specification**
 
-**Current sub-milestone: Stage V-C — Requirement-to-Control Mapping.**
+**Current sub-milestone: Stage V-D — Detailed Requirement Specification.**
 
-Stage V-A requirement integrity audit and Stage V-B core control model are complete working determinations. The baseline remains unchanged. Stage V-B established a finite 14-concept control model without introducing architecture or implementation. The immediate objective is now to map every candidate requirement to that model and identify only genuine specification gaps or model defects.
+Stage V-A requirement integrity audit, Stage V-B core control model, and Stage V-C requirement-to-control mapping are complete working determinations. The baseline and 14-concept model remain unchanged. Stage V-D now converts each candidate requirement into sufficiently precise operational rules for later architecture and implementation.
 
 ## 13. Stage V Completion Direction
 
