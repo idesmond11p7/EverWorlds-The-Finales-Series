@@ -202,7 +202,9 @@ Stage IV is closed provisionally for purposes of advancing the specification pro
 
 **Stage V — OPAQUE Specification**
 
-The immediate objective is to transform the finite candidate requirement baseline into a formal, testable specification without silently introducing architecture or implementation decisions.
+**Current sub-milestone: Stage V-B — Core Control Model.**
+
+Stage V-A requirement integrity audit is complete. The candidate baseline remains structurally usable; no requirement family was added or removed. The immediate objective is now to define the minimum finite conceptual control model required to specify the baseline coherently, without introducing an uncontrolled new conceptual layer or downstream implementation decisions.
 
 ## 13. Stage V Completion Direction
 
@@ -269,8 +271,8 @@ Do not create another broad conceptual branch unless it is demonstrated to be ne
 
 The next substantive OPAQUE operation is:
 
-**Begin Stage V formal specification from OPAQUE_REQUIREMENT_BASELINE.md.**
+**Proceed through Stage V-B — Core Control Model.**
 
-Start with the constitutional requirements and define their exact semantics, scope, conditions, authority, dependencies, required behavior, failure behavior, and validation criteria.
+Use the requirement baseline and Stage V-A audit as inputs. Establish the minimum conceptual control model needed to define governed objects, controlled state, authority, conditions, dependencies, relationships, operations, determinations, validation, change, outcomes, closure, provenance, and controlled incorporation.
 
-Then proceed through the remaining requirements in controlled groups, closing each group when its specification is sufficiently determined.
+Do not add a new conceptual layer unless a demonstrated specification gap requires it. Close the sub-milestone when the finite model can support requirement mapping without uncontrolled conceptual expansion.
