@@ -200,9 +200,9 @@ Stage IV is closed provisionally for purposes of advancing the specification pro
 
 ## 12. Current Milestone
 
-**Stage V — OPAQUE Specification**
+**Stage VI — Formal Ratification Review**
 
-**Current sub-milestone: Stage V-E — Specification Verification and Integrity Review — Complete.**
+**Current sub-milestone: Formal Ratification Review — Framework Established; Item Review Not Yet Completed.**
 
 Stage V-A requirement integrity audit, Stage V-B core control model, Stage V-C requirement-to-control mapping, and Stage V-D detailed requirement specification are complete working determinations. R-001–R-047 have received a complete detailed specification pass.
 
@@ -273,13 +273,13 @@ Stage V-E is complete because all five bounded verification passes produced expl
 
 No requirement is ratified merely by passing verification.
 
-## 17. Stage V Completion Direction
+## 17. Formal Ratification Review Direction
 
-**Next governed milestone: Formal Ratification Review.**
+**Current governed milestone: Formal Ratification Review.**
 
 Ratification must separately address the unresolved authority and governance questions that remain legitimately open, including authority precedence, validation authority, supersession/replacement, propagation, closure semantics, the OPAQUE/Scheme interface, and termination governance.
 
-Architecture and implementation remain downstream.
+A provisional review framework has been established in **OPAQUE_FORMAL_RATIFICATION_REVIEW.md**. The next governed work unit is review of R-001–R-011. Architecture and implementation remain downstream.
 
 ## 18. Known Process Defect
 
