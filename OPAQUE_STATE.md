@@ -152,7 +152,7 @@ Maximum practical identification does not mean maximum possible decomposition.
 
 ## 9. Current Specification Status
 
-Foundational examination has already covered:
+Foundational examination has covered:
 
 - project and OPAQUE boundaries;
 - information-object governance;
@@ -178,9 +178,7 @@ Foundational examination has already covered:
 - candidate OPAQUE requirements;
 - requirement coverage and dependency analysis.
 
-A substantial candidate requirement set exists in conversation-derived working material.
-
-**Important:** the above examination does not mean every examined concept is a ratified requirement or architecture.
+Stage IV has now consolidated this material into a finite candidate requirement baseline in **OPAQUE_REQUIREMENT_BASELINE.md**.
 
 ## 10. Candidate Foundational Invariant
 
@@ -192,46 +190,39 @@ OPAQUE should preserve materially relevant distinctions between governed informa
 
 This is a candidate invariant, not yet ratified.
 
-## 11. Current Milestone
+## 11. Stage IV Determination
 
-**Stage IV — OPAQUE Requirement Extraction / Consolidation**
+**Stage IV — OPAQUE Requirement Extraction / Consolidation: Complete (candidate baseline).**
 
-The immediate objective is to consolidate existing candidate requirements into a finite candidate baseline.
+The candidate baseline contains 47 consolidated candidate requirements, one cross-cutting candidate invariant, explicit non-requirement categories, constraints/design principles, unresolved specification matters, and a conceptual dependency structure.
 
-The objective is NOT to reopen every previously examined domain.
+Stage IV is closed provisionally for purposes of advancing the specification process. Review during Stage V may expose a genuine requirement defect; such a finding must be handled as controlled change rather than as permission to reopen unconstrained exploration.
 
-## 12. Milestone Completion Condition
-
-The requirement-consolidation milestone is complete when:
-
-1. the existing candidate requirements are collected;
-2. duplicates and overlaps are identified;
-3. requirements are distinguished from invariants;
-4. requirements are distinguished from constraints, capabilities, questions, and implementation details;
-5. essential coverage gaps are identified;
-6. dependencies and contradictions are checked;
-7. a coherent candidate requirement baseline exists;
-8. unresolved matters are explicitly recorded;
-9. a clear next milestone is established.
-
-## 13. Next Major Milestone
+## 12. Current Milestone
 
 **Stage V — OPAQUE Specification**
 
-After the candidate requirement baseline is established, specification work proceeds into:
+The immediate objective is to transform the finite candidate requirement baseline into a formal, testable specification without silently introducing architecture or implementation decisions.
 
-- formal definitions;
-- required system behavior;
-- governing conditions;
-- state and information semantics;
-- authority and decision rules;
-- interfaces;
-- failure and recovery behavior;
-- validation;
+## 13. Stage V Completion Direction
+
+Stage V will establish, for applicable requirements:
+
+- exact meaning;
+- scope and boundaries;
+- inputs;
+- outputs;
+- states;
+- conditions;
+- authority;
+- dependencies;
+- required behavior;
+- failure behavior;
+- validation criteria;
 - traceability;
-- controlled evolution.
+- controlled change semantics.
 
-Architecture and implementation decisions follow specification rather than silently preceding it.
+Architecture and implementation remain downstream unless a specification finding explicitly demonstrates that a technical decision is itself required for specification closure.
 
 ## 14. Known Process Defect
 
@@ -274,11 +265,12 @@ Confirmed project records remain governed by their respective documents and auth
 
 ## 18. Immediate Operating Directive
 
-Do not create another narrow conceptual branch unless it is demonstrated to be necessary for the current milestone.
+Do not create another broad conceptual branch unless it is demonstrated to be necessary for Stage V.
 
 The next substantive OPAQUE operation is:
 
-**Consolidate the existing requirement material into a candidate OPAQUE Requirement Baseline.**
+**Begin Stage V formal specification from OPAQUE_REQUIREMENT_BASELINE.md.**
 
-Then close the milestone and advance to OPAQUE Specification.
+Start with the constitutional requirements and define their exact semantics, scope, conditions, authority, dependencies, required behavior, failure behavior, and validation criteria.
 
+Then proceed through the remaining requirements in controlled groups, closing each group when its specification is sufficiently determined.
