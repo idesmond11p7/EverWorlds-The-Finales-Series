@@ -277,6 +277,10 @@ No requirement is ratified merely by passing verification.
 
 **Current governed milestone: Formal Ratification Review.**
 
+**Current sub-milestone: Pass 1 — Constitutional Requirements R-001–R-011 — Complete (provisional dispositions).**
+
+Pass 1 recorded provisional dispositions and dependencies in **OPAQUE_FORMAL_RATIFICATION_REVIEW_PASS_1.md**. No requirement was ratified. Next governed work unit: Pass 2 — R-012–R-020.
+
 Ratification must separately address the unresolved authority and governance questions that remain legitimately open, including authority precedence, validation authority, supersession/replacement, propagation, closure semantics, the OPAQUE/Scheme interface, and termination governance.
 
 A provisional review framework has been established in **OPAQUE_FORMAL_RATIFICATION_REVIEW.md**. The next governed work unit is review of R-001–R-011. Architecture and implementation remain downstream.
