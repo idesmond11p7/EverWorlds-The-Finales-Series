@@ -202,31 +202,76 @@ Stage IV is closed provisionally for purposes of advancing the specification pro
 
 **Stage V — OPAQUE Specification**
 
-**Current sub-milestone: Stage V-D — Detailed Requirement Specification.**
+**Current sub-milestone: Stage V-E — Specification Verification and Integrity Review.**
 
-Stage V-A requirement integrity audit, Stage V-B core control model, and Stage V-C requirement-to-control mapping are complete working determinations. The baseline and 14-concept model remain unchanged. Stage V-D now converts each candidate requirement into sufficiently precise operational rules for later architecture and implementation.
+Stage V-A requirement integrity audit, Stage V-B core control model, Stage V-C requirement-to-control mapping, and Stage V-D detailed requirement specification are complete working determinations. R-001–R-047 have received a complete detailed specification pass.
 
-## 13. Stage V Completion Direction
+Stage V-E now verifies whether the completed specification is internally coherent, whether overlaps and distinctions are intentional, whether unresolved questions are properly contained, and whether the specification is ready for formal ratification review.
 
-Stage V will establish, for applicable requirements:
+## 13. Stage V-D Determination
 
-- exact meaning;
-- scope and boundaries;
-- inputs;
-- outputs;
-- states;
-- conditions;
-- authority;
-- dependencies;
-- required behavior;
-- failure behavior;
-- validation criteria;
-- traceability;
-- controlled change semantics.
+**Stage V-D — Detailed Requirement Specification: Complete (working determination).**
 
-Architecture and implementation remain downstream unless a specification finding explicitly demonstrates that a technical decision is itself required for specification closure.
+The 47 candidate requirements have been given operational definitions sufficient to establish their intended scope, behavior, failure behavior, validation direction, and relevant boundaries for later architecture and implementation.
 
-## 14. Known Process Defect
+This does not ratify the requirements.
+
+## 14. Stage V-E Objective
+
+Verify the completed detailed specification against the finite candidate baseline and existing 14-concept control model.
+
+The verification shall examine:
+
+1. requirement coverage — every R-001–R-047 remains represented;
+2. semantic consistency — no requirement silently contradicts another;
+3. distinction preservation — deliberate overlaps remain distinguishable where their control consequences differ;
+4. control-model sufficiency — no requirement demonstrates the need for a new foundational concept;
+5. unresolved-question containment — U-001–U-012 remain explicit rather than being silently answered;
+6. authority integrity — no specification rule grants authority that the baseline does not establish;
+7. dependency integrity — material prerequisite relationships remain coherent;
+8. closure/completion integrity — completion, closure, interruption, and termination are not conflated;
+9. human–AI boundary integrity — reasoning agency remains distinct from project authority;
+10. implementation independence — later implementation is not forced to invent missing governance rules.
+
+## 15. Verification Method
+
+The verification process shall proceed in bounded passes:
+
+**Pass A — Coverage**  
+R-001–R-047 against the detailed specification.
+
+**Pass B — Cross-Requirement Consistency**  
+Check overlapping requirements and preserved distinctions.
+
+**Pass C — Control-Model Consistency**  
+Check the specification against C-01–C-14 and I-001.
+
+**Pass D — Unresolved Matters**  
+Check that U-001–U-012 are neither silently resolved nor allowed to invalidate already sufficient specification material.
+
+**Pass E — Ratification Readiness**  
+Determine whether any material defect remains that prevents formal ratification review.
+
+A failed pass produces a controlled correction target rather than reopening unrestricted exploration.
+
+## 16. Completion Condition
+
+Stage V-E is complete when the five verification passes have produced one of two explicit outcomes:
+
+- **Ready for Ratification Review:** no material specification defect remains within the verified scope; or
+- **Correction Required:** one or more specific defects are identified with affected requirements, consequences, and required corrective action.
+
+No requirement is ratified merely by passing verification.
+
+## 17. Stage V Completion Direction
+
+After Stage V-E, the next governed milestone is formal ratification review.
+
+Ratification must separately address the unresolved authority and governance questions that remain legitimately open, including authority precedence, validation authority, supersession/replacement, propagation, closure semantics, the OPAQUE/Scheme interface, and termination governance.
+
+Architecture and implementation remain downstream.
+
+## 18. Known Process Defect
 
 A recent failure occurred in which the specification process repeatedly generated narrow examination steps without sufficient milestone visibility, causing excessive cognitive load and loss of understanding of the overall objective.
 
@@ -234,7 +279,7 @@ This is recorded as a **process defect**.
 
 It does not imply that OPAQUE or EverWorlds is defective.
 
-## 15. Corrective Control
+## 19. Corrective Control
 
 The specification process must maintain visible:
 
@@ -242,7 +287,7 @@ The specification process must maintain visible:
 
 The AI should not require the user to maintain this structure through repeated continuation prompts.
 
-## 16. Interruption and Recovery
+## 20. Interruption and Recovery
 
 Interruption is not treated as process failure.
 
@@ -257,7 +302,7 @@ The system must preserve the distinction between:
 
 A temporary disruption in one does not automatically redefine the others.
 
-## 17. Documentation Boundary
+## 21. Documentation Boundary
 
 This document is a working state/control record.
 
@@ -265,14 +310,8 @@ It must not silently promote conversational proposals into authoritative EverWor
 
 Confirmed project records remain governed by their respective documents and authority domains.
 
-## 18. Immediate Operating Directive
+## 22. Immediate Operating Directive
 
-Do not create another broad conceptual branch unless it is demonstrated to be necessary for Stage V.
+Proceed through **Stage V-E — Specification Verification and Integrity Review**.
 
-The next substantive OPAQUE operation is:
-
-**Proceed through Stage V-C — Requirement-to-Control Mapping.**
-
-Map R-001–R-047 against C-01–C-14 and I-001. For each requirement, determine its primary/supporting concepts, required relationships, prerequisite concepts, unresolved specification dependencies, and whether formal specification can proceed.
-
-Do not add concepts unless a demonstrated model defect requires it.
+Begin with **Pass A — Coverage**, then proceed through the remaining bounded verification passes. Do not add foundational concepts unless a demonstrated verification defect requires one.
