@@ -99,3 +99,16 @@ Rules:
 - **Tasks carried forward:** Begin Stage V — OPAQUE Specification using the finite candidate baseline.
 - **Next session first action:** Start formal specification from `OPAQUE_REQUIREMENT_BASELINE.md`, beginning with constitutional requirements and their exact scope, conditions, authority, dependencies, and validation criteria.
 - **Status:** Stage IV complete; ready to advance
+
+
+### 2026-09-24 — Post-OPAQUE Memory / Execution Planning
+
+- **Start:** Not captured
+- **End:** Not captured
+- **Total:** Not captured
+- **Phase:** OPAQUE — Continuity / Post-OPAQUE Planning
+- **Task:** Define the controlled memory activation point, mandatory post-OPAQUE reading path, time/session discipline, and execution plan toward the 2026-10-16 EverWorlds target.
+- **Tasks completed:** Created `POST_OPAQUE_MEMORY_AND_EXECUTION_PROTOCOL.md`; added a post-OPAQUE reading/re-entry gate to `OPAQUE_STATE.md`; documented the deliberate memory restriction during OPAQUE construction; documented the approximate 45–60 second attentive reading-time reference and the rule that 1–2 second response gaps are signals rather than read receipts; established the post-OPAQUE execution phases and session opening/closing protocol.
+- **Tasks carried forward:** Complete formal OPAQUE ratification/authorization, then implement and operationalize OPAQUE before activating the post-OPAQUE memory/re-entry procedure.
+- **Next session first action:** Resume from the current governed OPAQUE milestone; do not treat this protocol as authorization to bypass ratification.
+- **Status:** Active
