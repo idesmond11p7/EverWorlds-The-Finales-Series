@@ -202,7 +202,7 @@ Stage IV is closed provisionally for purposes of advancing the specification pro
 
 **Stage VI — Formal Ratification Review**
 
-**Current sub-milestone: Pass 6 — I-001 Distinction Preservation — Complete (provisional disposition).**
+**Current sub-milestone: Pass 7 — U-001–U-012 Unresolved Governance and Specification Matters — Complete (provisional dispositions).**
 
 Stage V-A requirement integrity audit, Stage V-B core control model, Stage V-C requirement-to-control mapping, and Stage V-D detailed requirement specification are complete working determinations. R-001–R-047 have received a complete detailed specification pass.
 
@@ -279,7 +279,7 @@ No requirement is ratified merely by passing verification.
 
 **Current sub-milestone: Pass 2 — Information and Semantic Integrity R-012–R-020 — Complete (provisional dispositions).**
 
-Pass 1 through Pass 5 have recorded provisional dispositions and dependencies in their review artifacts. No requirement was ratified. Next governed work unit: Pass 7 — U-001–U-012: Unresolved Governance and Specification Matters.
+Pass 1 through Pass 5 have recorded provisional dispositions and dependencies in their review artifacts. No requirement was ratified. Next governed work unit: Pass 8 — Final Consistency and Traceability Check.
 
 Ratification must separately address the unresolved authority and governance questions that remain legitimately open, including authority precedence, validation authority, supersession/replacement, propagation, closure semantics, the OPAQUE/Scheme interface, and termination governance.
 
@@ -328,6 +328,6 @@ Confirmed project records remain governed by their respective documents and auth
 
 Stage V-E is complete.
 
-Pass 6 of Formal Ratification Review is complete.
+Pass 7 of Formal Ratification Review is complete.
 
-Proceed to **Pass 7 — U-001–U-012: Unresolved Governance and Specification Matters**. Do not treat provisional dispositions as ratification.
+Proceed to **Pass 8 — Final Consistency and Traceability Check**. Do not treat provisional dispositions as ratification.
