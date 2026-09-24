@@ -202,7 +202,7 @@ Stage IV is closed provisionally for purposes of advancing the specification pro
 
 **Stage VI — Formal Ratification Review**
 
-**Current sub-milestone: Pass 3 — Change, Validation, Operation, Failure, and Closure R-021–R-030 — Complete (provisional dispositions).**
+**Current sub-milestone: Pass 4 — Traceability, Evolution, Human–AI Process, and Continuity/Recovery R-031–R-042 — Complete (provisional dispositions).**
 
 Stage V-A requirement integrity audit, Stage V-B core control model, Stage V-C requirement-to-control mapping, and Stage V-D detailed requirement specification are complete working determinations. R-001–R-047 have received a complete detailed specification pass.
 
@@ -279,11 +279,11 @@ No requirement is ratified merely by passing verification.
 
 **Current sub-milestone: Pass 2 — Information and Semantic Integrity R-012–R-020 — Complete (provisional dispositions).**
 
-Pass 1, Pass 2, and Pass 3 have recorded provisional dispositions and dependencies in their review artifacts. No requirement was ratified. Next governed work unit: Pass 4 — R-031–R-042.
+Pass 1 through Pass 4 have recorded provisional dispositions and dependencies in their review artifacts. No requirement was ratified. Next governed work unit: Pass 5 — R-043–R-047.
 
 Ratification must separately address the unresolved authority and governance questions that remain legitimately open, including authority precedence, validation authority, supersession/replacement, propagation, closure semantics, the OPAQUE/Scheme interface, and termination governance.
 
-The provisional review framework is established in **OPAQUE_FORMAL_RATIFICATION_REVIEW.md**. Pass 3 is recorded in **OPAQUE_FORMAL_RATIFICATION_REVIEW_PASS_3.md**. Architecture and implementation remain downstream.
+The provisional review framework is established in **OPAQUE_FORMAL_RATIFICATION_REVIEW.md**. Pass 3 is recorded in **OPAQUE_FORMAL_RATIFICATION_REVIEW_PASS_3.md** and Pass 4 in **OPAQUE_FORMAL_RATIFICATION_REVIEW_PASS_4.md**. Architecture and implementation remain downstream.
 
 ## 18. Known Process Defect
 
@@ -328,6 +328,6 @@ Confirmed project records remain governed by their respective documents and auth
 
 Stage V-E is complete.
 
-Pass 3 of Formal Ratification Review is complete.
+Pass 4 of Formal Ratification Review is complete.
 
-Proceed to **Pass 4 — R-031–R-042**. Do not treat provisional dispositions as ratification.
+Proceed to **Pass 5 — R-043–R-047**. Do not treat provisional dispositions as ratification.
