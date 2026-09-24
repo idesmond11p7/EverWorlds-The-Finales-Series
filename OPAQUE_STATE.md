@@ -331,3 +331,20 @@ Stage V-E is complete.
 Pass 7 of Formal Ratification Review is complete.
 
 Pass 8 is complete. Proceed to the **Formal Ratification Decision / Authorization Point**. Do not treat provisional dispositions as ratification.
+
+
+## 23. Post-OPAQUE Memory and Re-entry Gate
+
+A preparatory protocol now exists in **POST_OPAQUE_MEMORY_AND_EXECUTION_PROTOCOL.md**.
+
+This document is intended to be read immediately after OPAQUE becomes genuinely operational and before substantive EverWorlds construction begins.
+
+The required distinction is:
+
+**OPAQUE designed ≠ OPAQUE finished ≠ OPAQUE implemented ≠ OPAQUE operational.**
+
+Only the operational threshold permits the post-OPAQUE memory/re-entry procedure described there.
+
+The mandatory reading path begins with this state document, followed by the ratified OPAQUE specification/decision records, the post-OPAQUE protocol, the Scheme of Work, the Work Log, and any project records required by OPAQUE.
+
+This is a preparatory control, not a current ratification or authorization of memory behavior.
