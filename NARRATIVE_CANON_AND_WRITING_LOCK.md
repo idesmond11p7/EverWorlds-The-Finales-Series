@@ -4,359 +4,317 @@
 
 **Confirmed working canon / hard continuity lock**
 
-This document records the current narrative, continuity, prose, and anti-drift constraints for the EverWorlds fanfiction/novel work. These rules are intended to prevent repeated style drift, canon invention, period-setting errors, and accidental importation of conventions from unrelated projects.
+This document records the current narrative, continuity, prose, character-knowledge, setting, and anti-drift constraints for the EverWorlds novel.
 
-If a future draft conflicts with a hard lock here, stop and resolve the conflict before continuing.
+If a future draft conflicts with a hard lock here, **STOP and resolve the conflict before continuing.**
 
 ---
 
 ## 1. Project Identity
 
-The current fanfiction/novel is part of **EverWorlds: The Finales Series**.
+The current novel is part of **EverWorlds: The Finales Series**.
 
-It is **not**:
+It is not:
 - Everworld 6;
 - Simverse 5;
-- any retired Everworld 6/Simverse project unless explicitly revived.
+- any retired project unless explicitly revived.
 
-The novel is a canonical lived example of the same broader evolved reality that the eventual EverWorlds project is intended to represent.
+The novel is a lived/canonical expression of the broader evolved EverWorlds reality.
 
-The original world's recognizable identity should be preserved while the underlying world can be deeply evolved.
-
----
-
-## 2. Core Prose Standard
-
-### Hard rule: no pulp cadence
-
-The prose must **not** use repetitive chopped-up short sentences as its default style.
-
-Avoid repeated patterns such as:
-
-> I looked.
->
-> I paused.
->
-> I stared.
->
-> Nothing happened.
->
-> I sighed.
-
-Do not manufacture tension through sentence fragmentation.
-
-Do not turn ordinary observations into miniature horror beats.
-
-Do not write the chapter as a sequence of punchlines, reaction fragments, or trailer-like beats.
-
-### Required prose character
-
-The preferred prose is:
-
-- flowing;
-- immersive;
-- descriptive;
-- varied in sentence length;
-- comfortable with substantial sentences and paragraphs;
-- visually specific;
-- emotionally natural;
-- capable of sustained imagery;
-- willing to let a scene breathe;
-- literary without becoming purple prose.
-
-Sentence length should vary naturally according to thought, movement, emotion, and description. Short sentences are allowed when the moment genuinely calls for one, but **shortness is not itself the style**.
-
-### Description
-
-Description should render the physical world with high visual fidelity.
-
-The desired visual effect has been described as an **“RTX” feeling**:
-
-- rich light;
-- color depth;
-- material differences;
-- reflections;
-- atmospheric depth;
-- vegetation with variation;
-- clothing and surfaces that feel physically present;
-- believable movement of light, weather, people, and objects.
-
-This does **not** mean every object receives excessive adjectives or that everything glows.
-
-The physical world should feel vividly rendered while remaining ordinary and lived-in.
-
-### Poetry
-
-Poetic language is welcome when it emerges naturally from the scene.
-
-Do not convert every paragraph into poetry.
-
-Do not use purple prose merely to make a scene feel important.
-
-The image should usually be represented as a coherent flowing phenomenon rather than a checklist of effects.
+The recognizable identity of the source setting is preserved while its underlying reality can be deeply expanded and rebuilt.
 
 ---
 
-## 3. Chapter 5 Style Lock
+## 2. Absolute Narrative Continuity Rule
 
-Chapter 5 is a **fresh new start** after Chapter 4.
+**Chapter 5 begins exactly where Chapter 4 ends.**
 
-It must not inherit Chapter 4's cosmic-horror cadence.
+No time skip.
+No scene skip.
+No off-page investigation inserted between chapters.
+No assumed knowledge.
+No beginning halfway through the intended sequence.
 
-### Chapter 4 and Chapter 5 have different jobs
+### Chapter 4 ending state
 
-Chapter 4:
-- cosmic scale;
-- existential disorientation;
-- impossible reality;
-- the transition into the new world;
-- ends with the mirror revelation.
+Chapter 4 ends immediately after Jonah looks into the mirror and realizes:
 
-Chapter 5:
-- begins after Jonah has already cried himself out;
-- returns to ordinary physical reality;
-- is bright, lively, descriptive, messy, human, and often funny;
-- follows Jonah trying to function inside an unfamiliar life;
-- uses ordinary problems as the immediate pressure;
-- gradually establishes the pre-canon Kuoh environment;
-- ends with Jonah exhausted and sleeping without properly studying for the entrance examination.
+**the person looking back at him is not Jonah.**
 
-### Emotional tone
+The final emotional state is shock and identity dislocation.
 
-Chapter 5 is **not horror**.
+Chapter 5 must continue from that state.
 
-Do not manufacture:
-- ominous silence;
-- creepy rooms;
-- sinister shadows;
-- mysterious whispers;
-- constant dread;
-- horror-style object descriptions;
-- Creepypasta atmosphere.
-
-Jonah can be confused, overwhelmed, embarrassed, frustrated, sad, funny, insecure, and existentially distressed without the prose becoming horror.
-
-The world itself should remain bright and alive around him.
+The reader must experience the next discoveries with Jonah rather than receiving a retrospective summary of them.
 
 ---
 
-## 4. Protagonist Identity
+## 3. Jonah's Knowledge at the Start of Chapter 5
 
-### Original identity
+This is a **hard lock**.
+
+At the exact beginning of Chapter 5, Jonah knows:
+
+- he was Jonah Laurence;
+- he is seventeen in identity/memory;
+- he has somehow survived/died/transmigrated into an unfamiliar body;
+- the body is physically different from his own;
+- the mirror confirms that he does not recognize the person/body as himself;
+- he is inside an unfamiliar apartment/room;
+- his own memories are still his.
+
+At the exact beginning of Chapter 5, Jonah **does NOT know**:
+
+- the name **Ira Lowe**;
+- that the body belongs to Ira Lowe;
+- the name **Kuoh**;
+- **Kuoh Academy**;
+- that an entrance examination is tomorrow;
+- who the apartment belongs to;
+- who the body's parents/family are;
+- the body's history;
+- the body's personal memories;
+- the body's previous school history;
+- the supernatural identity of the city;
+- Rias's authority over the city;
+- Sona's authority over the city;
+- the local supernatural ecosystem;
+- the spiritual information food chain;
+- the Church exception;
+- any hidden DxD canon information.
+
+These are discoveries or author-level facts, not starting knowledge.
+
+### Critical correction
+
+Do **not** write:
+
+> “I was Ira Lowe.”
+
+or:
+
+> “I was in Ira's apartment.”
+
+or:
+
+> “I had to get ready for Kuoh Academy.”
+
+before Jonah has actually discovered those facts in the narrative.
+
+The narrator is first-person and knowledge is constrained by Jonah's experience.
+
+---
+
+## 4. Jonah's Identity
+
+### Before
 
 **Jonah Laurence**
-- 17 years old before death/transmigration.
+- 17 years old.
 - Ordinary human teenager.
-- Own memories remain intact.
+- His memories belong to him.
 
-### New identity/body
+### After
 
-**Ira Lowe**
-- The body Jonah wakes in belongs to Ira Lowe.
-- Ira Lowe is the body's identity/name.
-- Ira is physically 16.
-- Jonah is mentally/identity-wise 17.
+The body he wakes in has an identity that the reader/author may know as **Ira Lowe**, but Jonah does not initially know that name.
 
-### Critical memory rule
+**Ira Lowe is the body's identity/name.**
+
+The body is physically **16**.
+
+Jonah remains mentally/identity-wise **17**.
+
+The one-year age difference must not be forgotten.
+
+### Memory boundary
 
 Jonah has **his own memories**.
 
-He does **not** have Ira Lowe's memories.
+He does **not** inherit Ira's memories.
 
 He cannot search Ira's past like a database.
 
-The mystery of Ira's life remains a mystery.
+He cannot simply remember:
+- Ira's family;
+- Ira's childhood;
+- Ira's school history;
+- Ira's relationships;
+- Ira's name;
+- Ira's personal experiences.
 
-The apartment is Ira Lowe's apartment.
+If Jonah needs information about Ira, he must discover it through the environment, documents, people, behaviour, or later events.
 
-Ira's history, family/background, and other personal details must not be invented unless deliberately established.
+---
 
-The only established trait currently safe to state about Ira's own prior characteristics is that he was **bright**.
+## 5. Ira's Unknown Backstory
 
-### Subconscious body influence
+The body belongs to Ira Lowe, but Ira's history is intentionally mysterious.
 
-The body can influence Jonah through:
-- subconscious mannerisms;
-- neurological pathways;
-- automatic movements;
+Do not invent:
+- parents;
+- family structure;
+- childhood;
+- origin;
+- previous relationships;
+- school history;
+- exact hobbies;
+- personal trauma;
+- personal memories;
+- reasons for disappearance;
+- supernatural explanation.
+
+The only currently established prior trait safe to retain is that Ira was **bright**.
+
+Even that is not a substitute for giving Jonah Ira's memories.
+
+---
+
+## 6. Subconscious Body Influence
+
+The body can influence Jonah without transferring memories.
+
+Possible manifestations include:
+- automatic mannerisms;
+- unfamiliar but natural movements;
 - speech rhythms;
-- behavioral tendencies;
-- other non-memory bodily patterns.
+- bodily habits;
+- neurological tendencies;
+- automatic reactions;
+- changes in how thoughts are formed.
 
-These influences are not Ira's memories.
+These are **not memories**.
 
-The body and Jonah's mind are undergoing a gradual reintegration/reset. Over time, Jonah may remain fundamentally Jonah while becoming subtly different in speech, mannerisms, cognition, and behavioral tendencies.
+Jonah should initially experience them as strange discrepancies rather than understand them as a formal mechanism.
 
-Do not explain this to Jonah as a supernatural system in Chapter 5.
+Over time, the body/mind reintegration can subtly alter Jonah while preserving his core identity.
 
----
+This development should be gradual.
 
-## 5. Ira Lowe Visual Identity
-
-Ira is:
-
-- white;
-- green-haired;
-- physically slender and delicate;
-- genuinely feminine/androgynous in facial appearance;
-- not a ripped bishonen;
-- not a generic “cute femboy” design;
-- not built around exaggerated feminine curves;
-- not visibly masculine by default.
-
-Femininity/ambiguity comes primarily from:
-- facial structure;
-- proportions;
-- delicacy;
-- silhouette;
-- eyes;
-- hair;
-- overall presentation.
-
-Current visual details include:
-- elegant slender modified-anime/webtoon facial geometry;
-- soft-edged inverted trapezoid/ogival chin;
-- large almond eyes with positive canthal tilt;
-- luminous layered emerald/jade/seafoam eyes with yellow-green highlights;
-- dense black lashes;
-- ultra-fine brows;
-- delicate nose;
-- porcelain/alabaster skin with warm rosy-peach blush;
-- extremely long black hair with deep teal undertones and vibrant emerald-cyan inner coloration, extending past the hips toward mid-thigh;
-- antique-gold chain with ornate emerald pendant and matching earrings;
-- loose charcoal turtleneck/mock neck;
-- wide-leg high-waisted trousers in terracotta/crimson-wine/burnt-sienna/dusty plum-red;
-- approximately 165 cm / 5'5".
-
-These details should not be casually replaced by generic femboy aesthetics.
+Do not dump a supernatural explanation of this process into Chapter 5.
 
 ---
 
-## 6. Chapter 5 Story Structure
+## 7. Chapter 5 Required Sequence
 
-Chapter 5 should cover the immediate aftermath of the Chapter 4 mirror revelation.
+The chapter must actually **show the progression** from the mirror scene rather than jumping to the later school problem.
 
-Core beats:
+The broad sequence is:
 
-1. Jonah wakes after crying heavily.
-2. He realizes he is still in Ira's body.
-3. He examines his unfamiliar appearance and surroundings.
-4. His own memories remain his; Ira's memories do not appear.
-5. He notices that his body sometimes performs small things automatically, without understanding why.
-6. The apartment is revealed as a normal, visually rich, lived-in place rather than a horror setting.
-7. Jonah discovers school materials and realizes the immediate practical problem.
-8. **Kuoh Academy's entrance examination is tomorrow.**
-9. He recognizes that he is still a student and retains his own school knowledge.
-10. The difficulty is the unfamiliar context and Ira's unknown academic preparation, not that Jonah suddenly became ignorant.
-11. He tries to study.
-12. His thoughts sometimes spiral into identity/existence questions.
-13. He becomes increasingly overwhelmed and emotionally exhausted.
-14. He eventually cries hard again.
-15. He decides he will study tomorrow.
-16. He falls asleep without studying properly.
+### Phase A — Immediate continuation
 
-Do not replace the entrance examination with generic homework.
+1. Chapter 4's mirror revelation carries directly into Chapter 5.
+2. Jonah reacts to seeing an unfamiliar face/body.
+3. He is emotionally overwhelmed.
+4. He may cry again / have already cried himself exhausted depending on the exact transition, but the scene must preserve continuity rather than starting after an unexplained skip.
+5. He tries to understand what happened.
 
----
+### Phase B — Establishing the new body
 
-## 7. Period Setting
+6. Jonah examines himself.
+7. He notices physical differences.
+8. His own memories remain accessible.
+9. Nothing in his mind supplies the previous owner's life.
+10. He realizes the body is a real person/body rather than a cosmetic disguise or dream.
+11. Small subconscious bodily behaviours can occur without explanation.
 
-The setting is approximately **2005/2006**, not the 2020s.
+### Phase C — Establishing the unfamiliar environment
 
-The pre-canon timeline is approximately **21 days / three weeks before the events of High School DxD Light Novel Volume 1**.
+12. Jonah explores the apartment/room naturally.
+13. He finds ordinary evidence that another person lived here.
+14. He does not immediately know who that person is.
+15. Objects can provide clues, but objects do not magically give him memories.
+16. The apartment should be bright, ordinary, lived-in, and visually rich rather than horror-coded.
 
-### Technology lock
+### Phase D — Discovery of identity information
 
-Do not introduce:
-- Android smartphones;
-- iPhones;
-- modern smartphone ecosystems;
-- WhatsApp;
-- modern social-media behavior;
-- AirPods;
-- Google Maps on smartphones;
-- QR-code culture;
-- modern always-connected mobile computing;
-- contemporary app notifications.
+17. Jonah eventually encounters information that gives him the body's name: **Ira Lowe**.
+18. The discovery should be an actual narrative event.
+19. Jonah does not retroactively gain Ira's memories simply because he learns the name.
 
-Technology should belong plausibly to the mid-2000s.
+### Phase E — Discovery of school / setting
 
-Possible technology includes, when appropriate:
-- landlines;
-- period mobile/cell phones;
-- physical alarm clocks;
-- CRT televisions;
-- VHS/DVD-era media;
-- CD players/stereos;
-- desktop computers;
-- wired headphones;
-- printed books and notebooks;
-- newspapers and magazines;
-- early internet.
+20. Jonah discovers evidence about school.
+21. He learns the name **Kuoh Academy** through the environment/materials/other evidence.
+22. He does not know “Kuoh” before this discovery.
+23. He recognizes school concepts because he himself was a student before death/transmigration.
+24. His problem is unfamiliar context, not sudden illiteracy.
 
-Do not force period technology into every scene. The rule is to avoid anachronism.
+### Phase F — Entrance examination
 
----
+25. He discovers that **Kuoh Academy's entrance examination is tomorrow**.
+26. This should feel like a practical catastrophe because he has only just discovered the new life/body.
+27. He tries to prepare.
+28. His own school knowledge helps, but he lacks knowledge of Ira's preparation/history.
+29. The attempt to study becomes chaotic and emotionally difficult.
+30. His thoughts can spiral into questions of identity, death, existence, and what happened to his original life.
 
-## 8. Pre-Canon Kuoh
+### Phase G — Exhaustion
 
-The world is **pre-canon**, approximately three weeks before Volume 1.
+31. Jonah becomes emotionally overloaded.
+32. He cries hard.
+33. The scene remains human rather than horror-like.
+34. He eventually gives up for the night / tells himself he will deal with studying tomorrow.
+35. He sleeps without properly studying.
 
-Kuoh should feel like a normal inhabited city on the surface.
-
-The supernatural is not required to announce itself constantly.
-
-The physical environment should be vivid, colourful, detailed, and alive.
-
-### Kuoh's supernatural hierarchy
-
-Rias and Sona are the dominant supernatural powers of Kuoh.
-
-They effectively own/control the supernatural territory alongside one another.
-
-The supernatural ecosystem of Kuoh is tuned to their authority.
-
-Spirits and lesser supernatural entities recognize that hierarchy and instinctively defer to it.
-
-The supernatural territory functions through a long **spiritual food chain**.
-
-Information can propagate through that ecosystem, meaning Rias and Sona have broad awareness of supernatural activity occurring throughout Kuoh.
-
-This is not equivalent to mundane omniscience over every human action.
-
-### Church exception
-
-The Church is outside this local supernatural information chain.
-
-Rias and Sona therefore do **not** automatically know everything occurring within Church-controlled supernatural activity simply because it happens in Kuoh.
-
-This distinction must remain intact.
-
-### Narrative use
-
-Jonah does not initially understand this ecosystem.
-
-The reader does not need an exposition dump explaining it.
-
-The ecosystem can exist beneath ordinary scenes and become visible through consequences, reactions, environmental behaviour, or later discoveries.
-
-Do not force Rias or Sona into scenes solely to remind the reader that they control Kuoh.
+This sequence is **not optional background**. It is the continuity spine of Chapter 5.
 
 ---
 
-## 9. First-Person Rule
+## 8. No Premature Kuoh Knowledge
 
-The novel uses **first-person POV**.
+**Kuoh is not Jonah's starting vocabulary.**
 
-Jonah is the primary point of projection.
+Do not use “Kuoh” as if Jonah already knows where he is.
 
-He does not need to be the most important actor in every scene, but information should remain constrained by the chosen viewpoint.
+Correct progression:
 
-The narrator must not casually provide hidden supernatural explanations that Jonah could not know.
+**unfamiliar place → evidence → school information → name discovered → Kuoh Academy → entrance examination tomorrow**
 
-This is directly consistent with the project's epistemic-leakage research:
+Incorrect progression:
 
-**recognition of unfamiliarity is not identification of mechanism.**
+**wake up → “I'm in Kuoh” → “Kuoh Academy exam tomorrow”**
+
+The latter is a continuity error.
+
+---
+
+## 9. No Premature Ira Knowledge
+
+Likewise:
+
+**unfamiliar body → investigation → evidence → name discovered → Ira Lowe**
+
+Not:
+
+**wake up → “I'm Ira Lowe”**
+
+The author may know the name. Jonah does not until the narrative gives it to him.
+
+---
+
+## 10. First-Person Epistemic Rule
+
+The novel is first-person.
+
+Jonah is the point of projection.
+
+The narrator must not casually know facts Jonah has not learned.
+
+The world can contain information Jonah does not have.
+
+The author/runtime may know:
+- supernatural hierarchies;
+- hidden entities;
+- future events;
+- metaphysical mechanisms;
+- Ira's actual history;
+- Kuoh's supernatural structure.
+
+Jonah does not automatically know any of these.
+
+**Observation ≠ explanation.**
+
+Recognition of unfamiliarity does not equal identification of mechanism.
 
 Characters can:
 - notice;
@@ -368,316 +326,297 @@ Characters can:
 - remain uncertain;
 - be wrong.
 
-Do not silently give Jonah the author's hidden world model.
+---
+
+## 11. Chapter 5 Tone
+
+Chapter 5 is a **fresh tonal reset** after Chapter 4's cosmic sequence.
+
+It must be:
+- lively;
+- bright;
+- visually rich;
+- human;
+- funny where appropriate;
+- emotionally messy;
+- descriptive;
+- grounded in ordinary physical life.
+
+It must **not** become:
+- horror;
+- Creepypasta;
+- ominous thriller;
+- constant dread;
+- creepy-room fiction;
+- generic dark-protagonist fiction.
+
+Chapter 4's cosmic atmosphere does not become Chapter 5's default atmosphere.
 
 ---
 
-## 10. World Knowledge vs Character Knowledge
+## 12. Core Prose Style
 
-The world may contain truths that Jonah does not know.
+### Hard lock: no chopped-up pulp cadence
 
-The author/runtime may know:
-- supernatural structures;
-- spiritual hierarchies;
-- hidden entities;
-- metaphysical mechanisms;
-- future events.
+Do not use repetitive fragments such as:
 
-Jonah should receive only what enters his experience or what he can reasonably infer.
+> I looked.
+>
+> I paused.
+>
+> Nothing.
+>
+> I stared.
 
-The world being more knowledgeable than the protagonist is intentional.
+Short sentences are allowed when genuinely useful, but they are not the default rhythm.
 
-This is an important EverWorlds principle:
+The prose should have:
+- flowing sentences;
+- varied sentence lengths;
+- substantial paragraphs;
+- natural transitions;
+- immersive description;
+- emotional continuity;
+- room for scenes to breathe.
 
-> The simulation/runtime can be meta-aware; the experiencer should not automatically be.
+Do not manufacture suspense by fragmenting every action.
 
----
+Do not make ordinary scenes read like Creepypasta.
 
-## 11. Supernatural Worldbuilding Presentation
+### Visual rendering
 
-The setting contains many different supernatural systems.
+Use the user's **“RTX”** metaphor as a rendering target:
 
-There is **no universal mana system**.
+- rich natural light;
+- colour variation;
+- material texture;
+- reflections;
+- atmospheric depth;
+- detailed vegetation;
+- physically present clothing and objects;
+- believable movement.
 
-Do not collapse all supernatural phenomena into one resource terminology.
-
-The world should feel larger than what any character currently understands.
-
-Characters may encounter phenomena and not know what system they belong to.
-
-Do not expose the full supernatural architecture merely because the author knows it.
-
----
-
-## 12. Work Make / Workcraft Terminology
-
-### Work Make
-
-A **Work Make** is a deliberately structured supernatural construct that modifies reality within defined specifications to perform a particular function.
-
-It is not a generic “skill.”
-
-It is a structured tool/weapon/function created through:
-- intent;
-- goal/specification;
-- conceptual understanding;
-- psychology;
-- emotion;
-- memory;
-- experience;
-- relevant energies;
-- compatible resources;
-- internal formation and stabilization.
-
-### Workcraft
-
-**Workcraft** is the combination/configuration of a Work Make and a specific technique or specialized use.
-
-A Workcraft can behave like an advanced configuration or specialized attachment to a Work Make.
-
-Example:
-- **All-Out Thunder** is a Workcraft.
-
-Do not replace Work Make with “skill” as the formal term.
-
-Do not replace Workcraft with “Warcraft.”
-
-### Artifact
-
-Artifact remains separate for actual supernatural objects/physical creations.
+This does not mean everything glows or every sentence needs three adjectives.
 
 ---
 
-## 13. Power-System Presentation
+## 13. Ira's Visual Identity
 
-Different supernatural expressions should have different visual grammars.
+Ira is:
+- white;
+- green-haired;
+- extremely slender and delicate;
+- feminine/androgynous enough to be genuinely ambiguous at first glance;
+- not ripped;
+- not broad-shouldered;
+- not generic bishonen;
+- not defined by exaggerated curves.
 
-Do not standardize every supernatural phenomenon into:
+The visual design relies primarily on face, proportions, delicacy, silhouette, eyes, hair, and overall elegance.
+
+Current visual references include:
+- slender modified-anime/webtoon facial geometry;
+- soft-edged inverted trapezoid/ogival chin;
+- large almond eyes;
+- positive canthal tilt;
+- layered emerald/jade/seafoam irises with yellow-green highlights;
+- dense black lashes;
+- ultra-fine brows;
+- delicate nose;
+- porcelain/alabaster skin with rosy-peach warmth;
+- extremely long black hair with deep teal undertones and vibrant emerald-cyan inner colour;
+- antique-gold chain with ornate emerald pendant and matching earrings;
+- charcoal turtleneck/mock neck;
+- wide-leg high-waisted terracotta/crimson-wine/burnt-sienna/dusty-plum trousers;
+- approximately 165 cm / 5'5".
+
+Do not replace this with generic femboy aesthetics.
+
+---
+
+## 14. Period Setting
+
+The story is approximately **2005/2006**.
+
+It is approximately **21 days / three weeks before High School DxD Light Novel Volume 1**.
+
+Do not introduce modern 2020s technology or behaviour.
+
+Avoid:
+- smartphones in modern form;
+- Android/iPhone ecosystems;
+- WhatsApp;
+- AirPods;
+- modern social-media behaviour;
+- smartphone map culture;
+- QR-code culture;
+- modern app notifications.
+
+Plausible period technology includes:
+- landlines;
+- period mobile phones;
+- alarm clocks;
+- CRT televisions;
+- VHS/DVD;
+- CD players;
+- desktop computers;
+- wired headphones;
+- printed books;
+- notebooks;
+- newspapers;
+- magazines;
+- early internet.
+
+Use technology only where the scene actually needs it.
+
+---
+
+## 15. Kuoh's Hidden Supernatural Ecology
+
+These are **author-level world facts**, not Jonah's starting knowledge.
+
+Kuoh is a supernatural territory jointly dominated/owned by **Rias and Sona**.
+
+The local supernatural ecosystem is tuned to their authority.
+
+Lesser supernatural entities/spirits instinctively recognize their position and defer to it.
+
+A long spiritual food chain allows information to propagate through the local supernatural ecosystem.
+
+Consequently Rias and Sona have broad awareness of supernatural activity throughout Kuoh.
+
+### Church exception
+
+The Church is a blind spot/external exception to that local information chain.
+
+Rias/Sona awareness of Kuoh does not automatically mean awareness of Church-controlled supernatural activity.
+
+Do not give Jonah this information before he has reason to learn it.
+
+Do not exposition-dump it merely because it is canon.
+
+---
+
+## 16. Supernatural Systems
+
+There is no universal mana system.
+
+Different supernatural systems can use different resources, architectures, rules, acquisition methods, recovery mechanisms, compatibilities, and limitations.
+
+Do not collapse all supernatural phenomena into one generic energy system.
+
+The world can contain systems no current character understands.
+
+---
+
+## 17. Work Make / Workcraft
+
+**Work Make:** a deliberately structured supernatural construct that modifies reality within defined specifications to perform a particular function.
+
+It is not the formal term “skill.”
+
+**Workcraft:** a specific technique/configuration/use built around a Work Make.
+
+**All-Out Thunder** is an example of a Workcraft.
+
+**Artifact** remains separate for supernatural objects/physical creations.
+
+---
+
+## 18. Visual Power Grammar
+
+Different supernatural phenomena should have different visual languages.
+
+Do not turn everything into:
 - beams;
 - energy balls;
 - shockwaves;
-- glowing auras;
+- generic auras;
 - generic explosions.
 
-The visual form should communicate the identity and behaviour of the underlying phenomenon.
+Major attacks can receive rich cinematic rendering.
 
-The world can be spectacular without turning every phenomenon into the same spectacle.
+Ordinary attacks should be easier to follow and more economical.
 
----
+### Rias
 
-## 14. Rias — Power of Destruction
+Power of Destruction:
+- stealthy;
+- precise;
+- immediate deployment;
+- demonic/ravaging;
+- accelerating destruction;
+- beautiful mythic aftermath.
 
-Rias's Power of Destruction has a distinct visual grammar:
+It is not inherently gravitational and is not a generic beam.
 
-**stealth + precision + demonic destruction + accelerating ravaging + beautiful mythic aftermath.**
+### Akeno
 
-It is not a generic beam/Kamehameha.
+All-Out Thunder:
+- fundamentally thunder/lightning;
+- golden/yellow direction;
+- fluid/rippling/folding storm behaviour;
+- dense layered energy;
+- strong environmental contrast;
+- overwhelming-force identity.
 
-It is not inherently gravitational.
-
-It is not a sterile universal delete button.
-
-Deployment can be compact and immediate, with the intended form appearing without a prolonged charge.
-
-Possible forms include:
-- compact sphere;
-- orb;
-- natural compact manifestation;
-- other forms appropriate to the Workcraft.
-
-The deployment is stealth-oriented:
-- little telegraphing;
-- short activation/deployment;
-- fast reaction;
-- long range;
-- quiet relative to Akeno;
-- target acquisition/locking can support supernatural accuracy.
-
-The environment can react strongly in colour and appearance without requiring physical destruction.
-
-Colours may include:
-- crimson;
-- violet;
-- magenta;
-- pink;
-- white-hot highlights.
-
-The destructive progression is:
-
-**contact → onset → spreading destruction → acceleration → ravaging → catastrophic finish**
-
-The target should appear increasingly helpless as the destruction overtakes it.
-
-The demonic visual language can include fleeting:
-- face-like forms;
-- soul-like forms;
-- screaming mouths;
-- distorted silhouettes.
-
-These can be visually loud while acoustically restrained. Do not turn this into conventional horror.
-
-The mythic after-kill can leave:
-- petal-like destructive energy;
-- crackling;
-- saturated colour;
-- a recognizable signature/marker representing the former target;
-- a gradual fading of that signature.
-
-In ordinary prose, this signature should usually be referenced economically rather than replayed in full.
+Do not turn it into a Dragon Ball ki projectile.
 
 ---
 
-## 15. Akeno Contrast
+## 19. Environmental Standard
 
-Akeno's combat language is distinct from Rias's.
-
-Akeno is associated with:
-- expansive storm-driven expression;
-- luminous energy;
-- loud environmental spectacle;
-- overwhelming force;
-- long cinematic development;
-- large finishing discharge.
-
-All-Out Thunder remains fundamentally thunder/lightning.
-
-Its visual richness may resemble extremely dense, layered game-quality energy without becoming a Dragon Ball-style ki projectile.
-
-The lightning can have:
-- golden/yellow coloration;
-- fluid, rippling, folding visual behaviour;
-- dense filaments;
-- arcs;
-- particles;
-- reflections;
-- dark/light contrast;
-- environmental reactions;
-- subtle overlap from the caster's Realm of Power.
-
-Ultimate attacks can receive a much fuller cinematic rendering than ordinary attacks.
-
-Basic attacks should generally be easier to follow and more economical.
-
----
-
-## 16. Environmental Visual Standard
-
-Earth should feel physically real but visually rich.
-
-“Grounded” does not mean dull.
+Earth is grounded but visually rich.
 
 Daylight can be extremely bright and colourful.
 
-Night should remain rich and dimensional rather than becoming a flat grey/black horror palette.
+Night is rich and dimensional, not automatically horror-dark.
 
-Visual intensity should vary:
-- ordinary scenes: detailed but restrained;
-- striking scenes: stronger visual rendering;
-- supernatural/major scenes: extreme detail when earned.
+Visual intensity should scale with the scene.
 
 Do not make everything glow.
 
 ---
 
-## 17. Combat Description Principle
+## 20. Anti-Drift Checklist
 
-For major/ultimate attacks, when appropriate, preserve the complete causal visual transition:
+Before generating any continuation, verify:
 
-pre-cast → caster change → environment response → phenomenon formation → release → impact → target-specific effect → finishing discharge → aftermath.
+1. **Where did the previous chapter literally end?**
+2. **What does Jonah know at that exact instant?**
+3. **What does he not know?**
+4. **Has he learned the body's name yet?**
+5. **Has he learned the location's name yet?**
+6. **Has he learned the school's name yet?**
+7. **Has the examination been discovered yet?**
+8. **Are we continuing the scene or accidentally skipping it?**
+9. **Are we preserving first-person epistemic limits?**
+10. **Are we using the correct era?**
+11. **Are we preserving the no-horror Chapter 5 tone?**
+12. **Are we preserving flowing prose rather than chopped-up pulp?**
+13. **Are we inventing any unconfirmed facts?**
+14. **Are we accidentally importing canon information Jonah cannot possess?**
 
-Do not mechanically list these stages.
-
-Represent them as one continuous visual phenomenon.
-
-Ordinary/basic attacks do not need this level of expansion.
-
-The game may abbreviate combat for playability; the narrative can expand it.
-
----
-
-## 18. Epistemic Discipline
-
-The Roleplay Research Lab establishes an important rule for all narrative work:
-
-**Observation ≠ explanation.**
-
-A character can perceive:
-- unusual colour;
-- unusual temperature;
-- unfamiliar residue;
-- strange movement;
-- unusual sound;
-- an unfamiliar sensation.
-
-That does not mean the character automatically knows the hidden mechanism.
-
-Characters should preserve uncertainty when evidence is insufficient.
-
-Do not use technically specific explanations merely because the author/model knows the truth.
+If any answer is wrong or uncertain, **STOP before drafting.**
 
 ---
 
-## 19. Anti-Drift Rules
+## 21. Chapter 5 One-Line Continuity Anchor
 
-Before writing new material, verify:
-
-1. Current project identity.
-2. Current chapter position.
-3. POV.
-4. protagonist identity.
-5. memory boundaries.
-6. physical age.
-7. period setting.
-8. canon timeline.
-9. established character facts.
-10. supernatural knowledge boundaries.
-11. prose style.
-12. visual language.
-13. terminology.
-14. current confirmed vs provisional status.
-
-If a detail is not established, do not silently invent it.
-
-If an assumption is necessary, mark it as an assumption before allowing it to become canon.
-
-If a requested direction conflicts with an existing hard lock, **STOP** and surface the conflict rather than silently choosing one.
+**Chapter 5 begins with Jonah still standing at the mirror, having just realized that the person looking back at him is not Jonah; everything that follows—including learning the body's name, learning where he is, learning about Kuoh Academy, and discovering tomorrow's entrance examination—must be experienced in sequence from his limited first-person perspective.**
 
 ---
 
-## 20. Current Chapter 5 Hard Summary
+## 22. Authority
 
-**Chapter:** 5
+This document is subordinate only to later explicit user decisions that deliberately revise canon.
 
-**Timeline:** approximately 21 days before High School DxD Light Novel Volume 1
+A model-generated draft cannot silently override it.
 
-**Era:** approximately 2005/2006
+A convenient assumption is not canon.
 
-**POV:** first person, Jonah
+A remembered author fact is not automatically Jonah's knowledge.
 
-**Opening state:** Jonah has already cried himself out after the Chapter 4 mirror revelation.
+When uncertain, preserve the confirmed state and **STOP rather than invent.**
 
-**Primary mode:** bright, lively, richly descriptive ordinary life.
-
-**Forbidden default mode:** horror, Creepypasta, ominous thriller, chopped-up pulp prose.
-
-**Immediate plot problem:** Kuoh Academy entrance examination is tomorrow.
-
-**Knowledge:** Jonah has his own school knowledge; he does not have Ira's memories.
-
-**Ending direction:** emotional exhaustion, crying, then sleep without properly studying.
-
-**Background world:** Kuoh is already an established supernatural territory ruled/dominated by Rias and Sona, with a spiritual information ecology beneath the ordinary city.
-
-**Jonah's awareness:** he does not understand that supernatural ecology yet.
-
----
-
-## 21. Authority
-
-This document is subordinate to any later explicit user decision that deliberately revises a hard lock.
-
-A casual generation choice does not supersede a confirmed lock.
-
-When uncertain, preserve the confirmed canon and ask rather than invent.
-
-**The objective is continuity, not improvisational convenience.**
+**Continuity is more important than improvisational convenience.**
