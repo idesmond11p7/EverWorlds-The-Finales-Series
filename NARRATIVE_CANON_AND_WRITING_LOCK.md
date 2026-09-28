@@ -216,12 +216,41 @@ The critical order is:
 
 8. Jonah continues trying to understand his situation during the night.
 9. The apartment remains an ordinary, lived-in environment rather than a horror setting.
-10. His thoughts can spiral into identity, death, existence, and what happened to his original life.
-11. He becomes emotionally exhausted.
-12. He cries hard.
-13. He eventually falls asleep.
+10. The nighttime sequence is dominated by **rampant internal thought**.
+11. We remain inside Jonah's head: his memories, confusion, questions, associations, fears, attempts to make sense of death and identity, and contradictory thoughts should be experienced rather than summarized away.
+12. His thinking can become messy and circular as he mentally processes what happened.
+13. He eventually reaches the point where emotional overload breaks through.
+14. He cries hard.
+15. He becomes exhausted and falls asleep.
+
+The nighttime section should not rush toward Kuoh. Its purpose is Jonah's internal processing.
 
 **The chapter must reach the morning before the Kuoh/school sequence begins.**
+
+### Phase C — Morning tonal reset
+
+16. Morning is a **fresh start in both Jonah's emotional state and the prose's immediate rhythm**.
+17. Jonah is no longer written as continuously depressed.
+18. His thoughts become more normal, curious, reactive, optimistic, and occasionally funny.
+19. The world should feel newly rendered through the morning light: vivid colour, material texture, atmosphere, movement, reflections, and environmental detail should make the physical world feel intensely present.
+20. The visual standard is the user's **RTX vibe**: the world feels rendered at extremely high visual fidelity while remaining physical and lived-in.
+21. The morning has a livelier, more comical, slightly exaggerated and mildly cartoonish undertone.
+22. Comedy should emerge through Jonah's reactions, timing, physical awkwardness, internal commentary, and the absurdity of his situation—not through turning the prose into parody.
+23. This is a **prose-mode change**, not a universal prose rule: the story can move between different prose styles according to scene purpose.
+
+### Phase D — Morning body realization
+
+24. Jonah finally gets enough light/privacy to properly examine his new body, including seeing himself clearly while bathing/showering.
+25. The scene remains focused on identity, surprise, bodily unfamiliarity, and Jonah's internal reaction rather than sexual description.
+26. He is genuinely shocked by the realization that the body is male.
+27. The femininity/androgyny of the body's appearance initially conflicts with his expectations and produces a confused, incredulous reaction.
+28. Jonah's initial disgust/rejection of the unfamiliar feminine presentation is part of his immediate reaction, but it should not become a prolonged ideological speech.
+29. His acceptance begins surprisingly quickly as the shock settles and he starts treating the body as **his current life** rather than an impossible problem.
+30. The important thing is the **thought process**: readers should see Jonah notice something, react, question it, mentally argue with himself, reassess it, and arrive at a changed attitude.
+31. Do not collapse this sequence into a narrator statement such as “I accepted it.” The acceptance must be experienced through Jonah's thoughts.
+32. Jonah begins to recognize that this situation might represent a **new chance at life**.
+33. His optimism should emerge organically during the morning rather than being declared as a motivational speech.
+34. Jonah remains Jonah: his humour, insecurity, curiosity, ego, awkwardness, and ordinary teenage reactions remain present.
 
 ### Phase C — Following morning
 
