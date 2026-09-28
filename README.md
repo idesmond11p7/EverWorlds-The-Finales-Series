@@ -19,7 +19,8 @@ The project is intended to reach a professional-tier standard.
 - [Terminology](TERMINOLOGY.md) — controlled vocabulary and definitions.
 - [Scheme of Work](SCHEME_OF_WORK.md) — project productivity and production framework.
 - [Work Log](WORK_LOG.md) — dated work sessions, times, hours, progress, and next actions.
+- [Narrative Canon & Writing Lock](NARRATIVE_CANON_AND_WRITING_LOCK.md) — current novel continuity, prose constraints, character knowledge boundaries, period setting, and narrative/worldbuilding locks.
 
 ## Documentation rule
 
-This repository is the authoritative record for the project's documented concepts, requirements, decisions, terminology, and production framework. Ideas that are still uncertain must be marked as provisional rather than silently treated as requirements.
+This repository is the authoritative record for the project's documented concepts, requirements, decisions, terminology, production framework, and narrative continuity locks. Ideas that are still uncertain must be marked as provisional rather than silently treated as requirements.
