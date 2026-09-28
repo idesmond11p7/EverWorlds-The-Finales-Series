@@ -196,67 +196,70 @@ Do not dump a supernatural explanation of this process into Chapter 5.
 
 ## 7. Chapter 5 Required Sequence
 
-The chapter must actually **show the progression** from the mirror scene rather than jumping to the later school problem.
+The chapter must actually **show the progression** from the mirror scene. It is not one continuous jump from the mirror to Kuoh.
 
-The broad sequence is:
+The critical order is:
 
-### Phase A — Immediate continuation
+**Chapter 4 mirror ending → Chapter 5 immediate aftermath/night → Jonah sleeps → following morning → discovery of the new identity/context → Kuoh/Kuoh Academy → entrance examination problem.**
+
+### Phase A — Immediate continuation from Chapter 4
 
 1. Chapter 4's mirror revelation carries directly into Chapter 5.
 2. Jonah reacts to seeing an unfamiliar face/body.
-3. He is emotionally overwhelmed.
-4. He may cry again / have already cried himself exhausted depending on the exact transition, but the scene must preserve continuity rather than starting after an unexplained skip.
-5. He tries to understand what happened.
+3. He is emotionally overwhelmed and processes what happened.
+4. He investigates himself and the unfamiliar apartment/room.
+5. He does not know the body's name, the apartment's owner, Kuoh, or Kuoh Academy.
+6. His own memories remain accessible; Ira's memories do not appear.
+7. Small subconscious bodily behaviours can occur without explanation.
 
-### Phase B — Establishing the new body
+### Phase B — Nighttime emotional collapse
 
-6. Jonah examines himself.
-7. He notices physical differences.
-8. His own memories remain accessible.
-9. Nothing in his mind supplies the previous owner's life.
-10. He realizes the body is a real person/body rather than a cosmetic disguise or dream.
-11. Small subconscious bodily behaviours can occur without explanation.
+8. Jonah continues trying to understand his situation during the night.
+9. The apartment remains an ordinary, lived-in environment rather than a horror setting.
+10. His thoughts can spiral into identity, death, existence, and what happened to his original life.
+11. He becomes emotionally exhausted.
+12. He cries hard.
+13. He eventually falls asleep.
 
-### Phase C — Establishing the unfamiliar environment
+**The chapter must reach the morning before the Kuoh/school sequence begins.**
 
-12. Jonah explores the apartment/room naturally.
-13. He finds ordinary evidence that another person lived here.
-14. He does not immediately know who that person is.
-15. Objects can provide clues, but objects do not magically give him memories.
-16. The apartment should be bright, ordinary, lived-in, and visually rich rather than horror-coded.
+### Phase C — Following morning
 
-### Phase D — Discovery of identity information
+14. Chapter 5 resumes with Jonah waking the following morning.
+15. The new day creates the practical pressure to figure out what life he has woken into.
+16. He investigates the environment and available information further.
+17. He encounters actual evidence that gives him the body's name: **Ira Lowe**.
+18. This is a discovery; he did not know the name at the beginning of the chapter.
+19. Learning the name does not give him Ira's memories.
 
-17. Jonah eventually encounters information that gives him the body's name: **Ira Lowe**.
-18. The discovery should be an actual narrative event.
-19. Jonah does not retroactively gain Ira's memories simply because he learns the name.
+### Phase D — Discovery of Kuoh and school
 
-### Phase E — Discovery of school / setting
+20. Jonah discovers evidence about his school and location.
+21. He learns the name **Kuoh** through actual evidence.
+22. He learns **Kuoh Academy** through actual evidence.
+23. He did not know either name before these discoveries.
+24. He recognizes school concepts because he himself was a student before death/transmigration.
+25. His problem is unfamiliar context and the previous owner's missing history, not sudden ignorance.
 
-20. Jonah discovers evidence about school.
-21. He learns the name **Kuoh Academy** through the environment/materials/other evidence.
-22. He does not know “Kuoh” before this discovery.
-23. He recognizes school concepts because he himself was a student before death/transmigration.
-24. His problem is unfamiliar context, not sudden illiteracy.
+### Phase E — Entrance examination
 
-### Phase F — Entrance examination
+26. Jonah discovers that **Kuoh Academy's entrance examination is tomorrow**.
+27. The realization becomes the immediate practical problem.
+28. He tries to prepare using his own school knowledge and whatever materials are available.
+29. He does not magically acquire Ira's academic history or memories.
+30. The attempt to study becomes chaotic and emotionally difficult.
+31. His thoughts can spiral into questions of identity, death, existence, and what happened to his original life.
 
-25. He discovers that **Kuoh Academy's entrance examination is tomorrow**.
-26. This should feel like a practical catastrophe because he has only just discovered the new life/body.
-27. He tries to prepare.
-28. His own school knowledge helps, but he lacks knowledge of Ira's preparation/history.
-29. The attempt to study becomes chaotic and emotionally difficult.
-30. His thoughts can spiral into questions of identity, death, existence, and what happened to his original life.
+### Phase F — Later exhaustion
 
-### Phase G — Exhaustion
-
-31. Jonah becomes emotionally overloaded.
-32. He cries hard.
-33. The scene remains human rather than horror-like.
-34. He eventually gives up for the night / tells himself he will deal with studying tomorrow.
-35. He sleeps without properly studying.
+32. Jonah becomes emotionally overloaded again if the scene requires it.
+33. He may cry again.
+34. The scene remains human rather than horror-like.
+35. He eventually decides he will deal with studying tomorrow / gives up for the night.
+36. He sleeps without properly studying.
 
 This sequence is **not optional background**. It is the continuity spine of Chapter 5.
+
 
 ---
 
@@ -603,7 +606,8 @@ If any answer is wrong or uncertain, **STOP before drafting.**
 
 ## 21. Chapter 5 One-Line Continuity Anchor
 
-**Chapter 5 begins with Jonah still standing at the mirror, having just realized that the person looking back at him is not Jonah; everything that follows—including learning the body's name, learning where he is, learning about Kuoh Academy, and discovering tomorrow's entrance examination—must be experienced in sequence from his limited first-person perspective.**
+**Chapter 5 begins at the Chapter 4 mirror revelation, follows Jonah through the immediate nighttime aftermath until he sleeps, reaches the following morning, and only then begins the sequence of discovering the body's identity, Kuoh, Kuoh Academy, and the entrance examination. Every discovery must occur in sequence from Jonah's limited first-person perspective.**
+
 
 ---
 
