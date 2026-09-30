@@ -82,9 +82,11 @@ It is:
 
 | Priority | Work | State |
 |---|---|---|
-| 1 | Chapter 6 beat sheet + dependency map | Active |
-| 2 | Chapter 6 prose draft | Next |
-| 3 | Chapter 6 continuity/rendering audit | Required |
+| 1 | Chapter 6 production control | Complete |
+| 2 | Chapter 6 prose reconstruction | Revision Required |
+| 3 | Chapter 6 continuity/rendering audit | Complete |
+| 4 | Chapter 5 → Chapter 6 direct manuscript verification | Blocked / source gap |
+| 5 | Chapter 6 final prose pass | Waiting on source verification |
 | 4 | Chapter 7 exam architecture | After Ch.6 |
 | 5 | Chapter 8 power architecture | After Ch.7 |
 | 6 | Wider supernatural ecology | Deferred until earned |
