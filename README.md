@@ -10,6 +10,10 @@ The project's true/core goal is to solve basic and fundamental LLM issues that i
 
 The project is intended to reach a professional-tier standard.
 
+## Project Control
+
+- [Project Control System](PROJECT_CONTROL_SYSTEM.md) — source-of-truth hierarchy, state classes, generation gates, change control, failure protocol, and chapter production pipeline.
+
 ## Documentation
 
 - [Project Bible](PROJECT_BIBLE.md) — authoritative high-level project definition.
