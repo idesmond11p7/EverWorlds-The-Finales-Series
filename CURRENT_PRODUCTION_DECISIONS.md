@@ -113,3 +113,58 @@ Research basis includes narrative situation-model studies, paragraphing research
 The reconstruction must preserve the existing canon, scene order, chapter boundary, and information budget while changing paragraph grouping, sentence cadence, spatial relationships, and redundant interpretive commentary.
 
 No new plot is to be invented during this pass.
+
+
+### D-013 — Immersive Prose / Experience-Creation Doctrine
+**Decision:** EverWorlds prose must **create the reader's experience of a scene, not report that the protagonist experienced it**.
+
+This is a generative rule, not a paragraph-formatting preference. Changing line breaks, merging sentences, or adding sensory adjectives does not satisfy it if the underlying prose still enumerates information.
+
+#### Core distinction
+**Reporting mode:** protagonist encounters X → prose identifies X → protagonist explains X → prose moves to Y.
+
+**Experience mode:** the scene is already in motion → the protagonist acts inside it → the environment reacts → physical/social resistance changes what he does → his attention is redirected by events → each action produces the conditions for the next action.
+
+The reader should be able to maintain a continuous mental model of:
+- where the protagonist is;
+- where nearby people and objects are relative to him;
+- what is moving or changing;
+- what he is physically doing;
+- what just caused the current action;
+- what consequence now requires the next action.
+
+#### Relational rendering
+Objects are not introduced as inventory. Their presence should normally be established through **interaction, physical behavior, or consequence**: weight, friction, temperature, texture, sound, obstruction, movement, use, damage, resistance, or effect on the protagonist.
+
+Do not write a room/station/street as a list of objects and then explain what the list means. Make the environment behave while the protagonist moves through it.
+
+#### Persistent scene/camera
+Do not repeatedly reset the reader's mental camera with isolated observation → explanation → movement units. Spatial information should accumulate. The reader should feel that the same physical place continues to exist around the protagonist while attention shifts within it.
+
+#### Causality and friction
+Ordinary movement must still contain believable resistance where the situation naturally permits it: crowds, timing, unfamiliar procedures, awkward interactions, physical inconvenience, navigation errors, sensory unfamiliarity, objects getting in the way, or small failures. Do not manufacture obstacles merely to satisfy a beat sheet; do not remove friction merely to move efficiently between plot points.
+
+#### Information delivery
+Prefer information that arrives through action, perception, dialogue, consequence, and discovery. Do not repeatedly stop the scene to explain why an event matters, what the protagonist should feel, or what the reader should understand.
+
+The protagonist's personality should emerge primarily through choices, reactions, behavior, speech, mistakes, and interaction—not continuous explanatory internal monologue.
+
+#### Prohibited failure pattern
+Do not generate prose as:
+**observation → explanation → short dramatic sentence → reflection → next object.**
+
+Do not substitute paragraph merging for actual reconstruction. Do not use fragment chains, fake cinematic cadence, lyrical overstatement, object catalogs, or constant filter constructions such as “I looked,” “I saw,” “I noticed,” and “I watched” when direct perception/action can carry the scene.
+
+Single-sentence paragraphs are exceptional emphasis tools, not the default architecture. Normal scene movement should allow several causally related sentences to develop together.
+
+#### Fanfiction immersion requirement
+This is a fanfiction/world-entry experience. Mundane scenes are part of the fantasy. The reader must be allowed to **be there** with Jonah: the apartment should feel inhabitable, the commute should feel traversable, the station should feel navigable, and Kuoh should be encountered before it is explained.
+
+The test is not “is this descriptive?” or “is this readable?”
+
+The test is:
+**Can the reader construct and continue imagining the physical experience without the prose having to tell them what the experience means?**
+
+If the answer is no, STOP and rewrite the scene-generation approach rather than polishing the same architecture.
+
+This doctrine supersedes any earlier interpretation that treated the Chapter 6 prose problem primarily as paragraph grouping, sensory density, or sentence-length variation.
