@@ -6,9 +6,7 @@
 ## Function
 Make Jonah/Ira's new life feel **lived before it becomes extraordinary**.
 
-Chapter 5 ends with:
-> Tomorrow, I would take the exam.
-> Today, I had finally found somewhere to go.
+Chapter 5 establishes that Jonah has found somewhere to go and that the entrance examination is imminent. The accepted later chronology places the examination on the subsequent Chapter 6 day.
 
 Chapter 6 answers the next question:
 > **What does that “somewhere” actually feel like when he has to live inside it?**
@@ -153,6 +151,8 @@ Ira begins:
 
 He ends:
 **“I have physically entered the place where my next life will begin.”**
+
+The physical entry occurs on the new Chapter 6 day before the 9:00 AM examination bell.
 
 That is the chapter's actual movement.
 
