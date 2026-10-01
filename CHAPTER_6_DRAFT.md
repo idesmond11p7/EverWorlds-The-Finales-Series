@@ -923,7 +923,3 @@ I tightened my grip on the strap of my bag.
 For a second, I stood still.
 
 Then I moved with everyone else.
-
-Tomorrow had finally arrived.
-
-And this time, I was here for it.
