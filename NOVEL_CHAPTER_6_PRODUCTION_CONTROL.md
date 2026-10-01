@@ -26,11 +26,11 @@ If this document conflicts with a higher source, stop and resolve the conflict r
 - Chapter 5 has already ended.
 - Jonah is now functioning under the identity **Ira Lowe**.
 - The apartment is the place he returns to.
-- The entrance examination is today.
+- The entrance examination is on the Chapter 6 day; Chapter 6 begins on a new day after the Chapter 5 sequence.
 - He has no supernatural framework.
 - He has no Ira memories.
 - Chapter 6 must not repeat the mirror/body-discovery sequence.
-- Chapter 6 ends at the **9:00 AM examination bell**.
+- Chapter 6 ends at the **9:00 AM examination bell**; Chapter 7 owns the examination.
 - Chapter 7 owns the examination itself.
 
 ## Core Emotional Curve
