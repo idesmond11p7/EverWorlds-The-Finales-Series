@@ -112,3 +112,17 @@ Rules:
 - **Tasks carried forward:** Complete formal OPAQUE ratification/authorization, then implement and operationalize OPAQUE before activating the post-OPAQUE memory/re-entry procedure.
 - **Next session first action:** Resume from the current governed OPAQUE milestone; do not treat this protocol as authorization to bypass ratification.
 - **Status:** Active
+
+
+### 2026-10-01 — Source-of-Truth / Spine Recovery
+
+- **Start:** Not captured
+- **End:** Not captured
+- **Total:** Not captured
+- **Phase:** EverWorlds: The Finales — narrative production control
+- **Task:** Recover the authoritative project spine before continuing Chapter 6.
+- **Tasks completed:** Verified the active repository as `idesmond11p7/EverWorlds-The-Finales-Series`; verified `main` as the active production branch and `archive/opaque-2026-09-25` as the historical archive branch; re-read `NARRATIVE_CANON_AND_WRITING_LOCK.md`, `NOVEL_CHAPTER_6_PRODUCTION_CONTROL.md`, `NOVEL_CHAPTER_6_BLUEPRINT.md`, `NOVEL_CHAPTER_6_AUDIT.md`, `NOVEL_PROSE_ARCHITECTURE_STANDARD.md`, `NOVEL_PROSE_RENDERING_STANDARD.md`, and the prose-rendering research record. Confirmed that the narrative canon is the primary continuity authority and that Chapter 6 production control explicitly requires its source-of-truth stack to be consulted before drafting.
+- **Locked production lesson:** Do not reconstruct prose from memory when the repository contains the governing spine. Before any continuation, read the applicable canon/production-control documents and verify the current chapter state against them. If a draft conflicts with the spine, STOP rather than improvising.
+- **Tasks carried forward:** Reconcile Chapter 6 against the verified spine and perform the pending prose/continuity audits before release.
+- **Next session first action:** Open the Chapter 6 production-control stack and the latest Chapter 5/6 manuscript state before writing or revising prose.
+- **Status:** Active
