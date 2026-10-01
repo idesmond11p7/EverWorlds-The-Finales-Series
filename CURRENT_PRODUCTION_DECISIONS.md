@@ -96,3 +96,20 @@ It is:
 Do not skip to the power because it is more exciting.
 
 The power will work better if the reader has first learned what “ordinary” feels like in this world.
+
+
+### D-011 — Narrative Prose Architecture
+**Decision:** EverWorlds now uses a research-backed prose architecture standard covering situation-model construction, spatial coherence, event/attention boundaries, paragraph architecture, sentence cadence, and digital typography.
+
+The standard is stored in `NOVEL_PROSE_ARCHITECTURE_STANDARD.md` and is mandatory for new prose and major revisions.
+
+Key implementation rule: **paragraphs are perceptual/discourse units, not arbitrary readability breaks.** Related observations should accumulate until their perceptual function is complete. Sentence length and punctuation should control attention and processing rhythm. Environmental details must establish spatial/material relationships rather than inventories.
+
+Research basis includes narrative situation-model studies, paragraphing research, eye-tracking/punctuation research, and typographic readability research. Research is used as evidence for constraints and tendencies, not as a claim that experimental psychology dictates literary taste.
+
+### D-012 — Chapter 6 Structural Rewrite
+**Decision:** The current Chapter 6 draft is structurally readable but under-dense in paragraph architecture and too fragmentary in environmental rendering. It requires a prose reconstruction pass before lock.
+
+The reconstruction must preserve the existing canon, scene order, chapter boundary, and information budget while changing paragraph grouping, sentence cadence, spatial relationships, and redundant interpretive commentary.
+
+No new plot is to be invented during this pass.
