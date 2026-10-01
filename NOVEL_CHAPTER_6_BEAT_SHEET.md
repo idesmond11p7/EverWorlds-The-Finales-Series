@@ -7,8 +7,9 @@ This is a pacing target, not a hard word-count requirement. The chapter earns le
 
 ## Starting State
 
-- Ira has reached Kuoh Academy in Chapter 5.
-- The entrance examination is tomorrow.
+- Chapter 5 has ended and the accepted chronology places Chapter 6 on a new day.
+- Ira has already learned Kuoh and Kuoh Academy and is returning to the practical life established in Chapter 5.
+- The entrance examination occurs on the Chapter 6 day; Chapter 6 begins on a new day after the Chapter 5 sequence.
 - He has no supernatural framework.
 - He has no Ira memories.
 - He has only a basic practical understanding of his new situation.
