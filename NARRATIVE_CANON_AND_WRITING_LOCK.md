@@ -272,7 +272,7 @@ The nighttime section should not rush toward Kuoh. Its purpose is Jonah's intern
 
 ### Phase E — Entrance examination
 
-26. Jonah discovers that **Kuoh Academy's entrance examination is tomorrow**.
+26. Jonah discovers that **Kuoh Academy's entrance examination is imminent; the accepted later production chronology places the examination on the subsequent Chapter 6 day rather than the same day as the Chapter 5 school sequence**.
 27. The realization becomes the immediate practical problem.
 28. He tries to prepare using his own school knowledge and whatever materials are available.
 29. He does not magically acquire Ira's academic history or memories.
@@ -284,7 +284,7 @@ The nighttime section should not rush toward Kuoh. Its purpose is Jonah's intern
 32. Jonah becomes emotionally overloaded again if the scene requires it.
 33. He may cry again.
 34. The scene remains human rather than horror-like.
-35. He eventually decides he will deal with studying tomorrow / gives up for the night.
+35. He reaches the end of the Chapter 5 sequence and sleeps; the accepted later production chronology then moves Chapter 6 onto a new day before the examination.
 36. He sleeps without properly studying.
 
 This sequence is **not optional background**. It is the continuity spine of Chapter 5.
@@ -633,7 +633,11 @@ If any answer is wrong or uncertain, **STOP before drafting.**
 
 ---
 
-## 21. Chapter 5 One-Line Continuity Anchor
+## 21. Chapter 5 → Chapter 6 Chronology Lock
+
+The older Chapter 5 wording that described the entrance examination as occurring “tomorrow” is superseded where it conflicts with the later accepted production chronology. Chapter 6 begins on a new day after the Chapter 5 sequence and leads into the 9:00 AM examination bell; Chapter 7 owns the examination.
+
+## 22. Chapter 5 One-Line Continuity Anchor
 
 **Chapter 5 begins at the Chapter 4 mirror revelation, follows Jonah through the immediate nighttime aftermath until he sleeps, reaches the following morning, and only then begins the sequence of discovering the body's identity, Kuoh, Kuoh Academy, and the entrance examination. Every discovery must occur in sequence from Jonah's limited first-person perspective.**
 
