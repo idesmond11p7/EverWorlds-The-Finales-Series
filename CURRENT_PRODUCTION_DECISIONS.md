@@ -30,7 +30,7 @@ It must make the new world feel physically lived-in before the story escalates.
 ### D-005 — Chapter 7
 **Decision:** Chapter 7 owns the entrance examination.
 
-Chapter 6 ends at the 9:00 AM bell.
+Chapter 6 begins on a new day after the Chapter 5 sequence and ends at the 9:00 AM examination bell. The examination itself begins in Chapter 7.
 
 ### D-006 — First Plotline
 **Decision:** The first actual plotline after the grounded school entry is **the power**.
@@ -85,8 +85,8 @@ It is:
 | 1 | Chapter 6 production control | Complete |
 | 2 | Chapter 6 prose reconstruction | Revision Required |
 | 3 | Chapter 6 continuity/rendering audit | Complete |
-| 4 | Chapter 5 → Chapter 6 direct manuscript verification | Blocked / source gap |
-| 5 | Chapter 6 final prose pass | Waiting on source verification |
+| 4 | Chapter 5 → Chapter 6 chronology/state lock | Complete — live state recorded |
+| 5 | Chapter 6 exceptional-function/state reconstruction | Active |
 | 4 | Chapter 7 exam architecture | After Ch.6 |
 | 5 | Chapter 8 power architecture | After Ch.7 |
 | 6 | Wider supernatural ecology | Deferred until earned |
