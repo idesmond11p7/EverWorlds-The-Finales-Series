@@ -163,7 +163,7 @@ Do not give her casual banter with Jonah.
 
 Do not have her explain herself.
 
-Her intelligence should be visible through **selection and precision**.
+Her intelligence should be visible through **selection and precision**, not specialist terminology.
 
 ---
 
@@ -210,6 +210,10 @@ A single tiny physical anomaly may appear:
 Pick **one**.
 
 Keep it subtle enough that Jonah could rationalize it away.
+
+**Do not supply the rationalization for him.**
+
+If Jonah sees a shadow behave incorrectly, he may blink, doubt himself, or wonder whether he misread it. He must not diagnose it as refraction, optics, glass behavior, dust, or another technical cause unless he has actually learned such a cause.
 
 ---
 
@@ -277,7 +281,7 @@ Jonah does not.
 
 ## 10. NO DXD WIKI CAMEO
 
-NeverWorlds is not required to reproduce the exact presentation of High School DxD.
+EverWorlds is not required to reproduce the exact presentation of High School DxD.
 
 DxD is a source/reference layer.
 
@@ -373,7 +377,6 @@ Verify all of the following:
 - The existing chapter typography and spacing remain intact.
 - No other successful Chapter 6 scene is rewritten unnecessarily.
 
-
 ---
 
 ## 14. DEVILS / PSYCHIC PRESENCE — DO NOT HUMAN-LARP
@@ -449,7 +452,191 @@ That is the EverWorlds approach:
 
 ---
 
-## 15. DO NOT LET THE MODEL "FIX" THE PROSE INTO GENERIC AI FORMATTING
+## 15. TERMINOLOGY / EPISTEMIC MYSTERY — CRITICAL DRIFT CONTROL
+
+**This is a hard correction added after auditing the current Gemini Chapter 6 text.**
+
+The problem is **not** that Jonah is incapable of knowing sophisticated words.
+
+The problem is that Gemini has begun using **technical/scientific terminology to explain phenomena Jonah has not learned how to explain**.
+
+That destroys mystery.
+
+### Core rule
+
+**DO NOT SIMPLIFY THE WORLD. SIMPLIFY THE INFORMATION PATH.**
+
+EverWorlds may contain extremely complicated mechanics, supernatural structures, energy behavior, and specialized terminology.
+
+That complexity remains.
+
+But the reader and Jonah must only receive terminology that has been naturally earned by the story.
+
+Use this information order:
+
+**observe → experience → interpret tentatively → remain uncertain**
+
+Do **not** automatically turn it into:
+
+**observe → classify → diagnose → explain.**
+
+### Three vocabulary layers
+
+Maintain the separation between:
+
+1. **EverWorlds reality** — the actual mechanics and terminology that exist.
+2. **Author knowledge** — information the author knows but Jonah/reader has not learned.
+3. **Jonah/reader vocabulary** — what Jonah can reasonably name or understand at this point.
+
+Layer 1 must not leak into Layer 3 merely because the model knows it.
+
+### Specific current drift examples
+
+The following patterns from the current draft are prohibited unless Jonah has actually acquired the relevant knowledge:
+
+- "A momentary refraction of double-glazed glass and airborne dust."
+- "optically distinct"
+- "micro-tremors normal human eyes have when adjusting focus"
+- technical explanations of Sona's facial construction as though Jonah is conducting an analysis;
+- "hydraulic displacement of mass" for ordinary train movement;
+- "surged through my nervous system" when describing an unexplained supernatural reaction;
+- "the entire hallway had reorganized its physics around her."
+
+These phrases are examples of the **failure mode**, not mandatory deletion targets in every future draft. The controlling question is:
+
+> **Does Jonah actually know enough to use this explanation?**
+
+If not, remove the explanation and preserve the experience.
+
+### Sona anomaly rule
+
+If Sona's shadow is wrong:
+
+**Jonah sees the shadow being wrong.**
+
+He may blink.
+
+He may doubt his eyes.
+
+He may look again.
+
+He may think of an ordinary possibility if one naturally occurs to him.
+
+He must **not receive an authorial scientific explanation that resolves the anomaly.**
+
+The anomaly exists to create uncertainty.
+
+Do not explain it away.
+
+### Sona psychic-pressure rule
+
+If Jonah's body reacts to Sona:
+
+Describe the bodily and psychological experience.
+
+Do not label the mechanism.
+
+Good information:
+
+- throat tightening;
+- urge to lower his eyes;
+- shoulders wanting to draw inward;
+- sudden urge to step aside;
+- irrational desire to apologize;
+- conscious resistance;
+- confusion about why he reacted.
+
+Bad information unless explicitly learned later:
+
+- psychic manipulation;
+- neurological mechanism;
+- supernatural aura mechanics;
+- named abilities;
+- energy-field terminology;
+- biological explanation for the supernatural effect.
+
+### Do not confuse sophistication with technical vocabulary
+
+The prose may remain:
+
+**descriptive + vivid + readable + lyrical.**
+
+Jonah may use:
+
+- historical comparisons;
+- architectural comparisons;
+- ordinary cultural knowledge;
+- metaphor;
+- precise physical description;
+- educated observations he genuinely could make.
+
+That is not the problem.
+
+The problem is **unearned technical explanation**.
+
+A line such as "Prussian palaces" can remain if it fits Jonah's knowledge.
+
+A line such as "double-glazed glass and airborne dust caused this refraction" is different because it pretends Jonah has solved an unexplained event.
+
+### EverWorlds terminology is especially protected
+
+Do not invent replacement terminology merely because a phenomenon needs description.
+
+Do not introduce generic system vocabulary such as:
+
+- mana;
+- aura;
+- energy field;
+- power level;
+- psychic field;
+- magical pressure;
+- supernatural wavelength;
+- dimensional frequency;
+- biological mechanism;
+- or other RPG/anime/science-fiction labels
+
+unless that exact concept and terminology has already been established as appropriate to the current point of the story.
+
+**Work Make / Workcraft and other established EverWorlds terminology must not be casually replaced with model-invented synonyms.**
+
+If the correct term is unknown:
+
+**STOP. Preserve the confirmed state rather than inventing terminology.**
+
+### Reader mystery test
+
+Before returning a revised Sona scene, ask:
+
+> **After this scene, does the reader know more about what Sona IS, or only more about what Sona FEELS LIKE?**
+
+For Chapter 6, the answer should primarily be:
+
+**what she feels like.**
+
+The reader should know:
+
+- she is socially exceptional;
+- she is extraordinarily controlled;
+- people respond to her differently;
+- Jonah experiences an inexplicable pressure around her;
+- something about her may be physically wrong;
+- Jonah does not understand why.
+
+The reader should **not** receive a technical explanation of:
+
+- what the pressure is;
+- what caused the anomaly;
+- what supernatural system is operating;
+- what Sona's power is;
+- why her eyes/shadow/body behave strangely.
+
+Mystery is not missing information by accident.
+
+**Mystery is deliberately preserved information.**
+
+---
+
+## 16. DO NOT LET THE MODEL "FIX" THE PROSE INTO GENERIC AI FORMATTING
 
 Gemini must preserve the existing Chapter 6 visual/textual architecture while making this correction.
 
@@ -482,4 +669,3 @@ Before returning the revised chapter, compare the Sona replacement against the s
 - emphasis placement.
 
 Do not "clean up" the chapter's typography.
-
