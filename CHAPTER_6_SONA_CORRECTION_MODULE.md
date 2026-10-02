@@ -372,3 +372,114 @@ Verify all of the following:
 - The world around her remains physically grounded.
 - The existing chapter typography and spacing remain intact.
 - No other successful Chapter 6 scene is rewritten unnecessarily.
+
+
+---
+
+## 14. DEVILS / PSYCHIC PRESENCE — DO NOT HUMAN-LARP
+
+**Critical EverWorlds rule:** supernatural beings, especially devils, must not read as ordinary humans who merely possess supernatural abilities.
+
+Do not write Sona as:
+
+> normal attractive student + mysterious atmosphere + hidden powers.
+
+That is exactly the kind of "human larping" EverWorlds is trying to avoid.
+
+Her presence should contain a **psychic component that precedes ordinary social interpretation**.
+
+For Jonah, the sequence should feel closer to:
+
+**perception → involuntary psychic/social response → conscious attempt to understand the response**
+
+rather than:
+
+**perception → "she is beautiful/intimidating" → ordinary social reaction.**
+
+Sona's **pride core** is important here.
+
+Her pride is not merely a personality adjective. It can exert pressure through the way her presence is perceived. Jonah does not understand the mechanism, and the narration must not explain it to him, but his mind/body can react as though her position is something he should instinctively acknowledge.
+
+The effect can produce an irrational impulse to:
+
+- lower himself socially;
+- become quieter;
+- move out of her way before she asks;
+- avoid drawing attention;
+- apologize despite having done nothing wrong;
+- correct his posture;
+- suppress an objection before speaking;
+- or, at the extreme edge, briefly feel that humiliating himself would be preferable to resisting the pressure.
+
+**Use the last category sparingly.** It should be disturbing precisely because Jonah knows, on a conscious level, that the impulse makes no sense.
+
+Do not turn this into:
+- explicit mind control;
+- hypnosis;
+- telepathy exposition;
+- a named psychic ability;
+- erotic submission;
+- magical "aura" narration;
+- a power-system explanation.
+
+Jonah should experience a **foreign-feeling pressure without possessing the vocabulary to identify it**.
+
+The reader should be able to feel that Sona is not simply socially impressive.
+
+She is something whose **psychology and supernatural nature are leaking into perception without being announced**.
+
+### Important tonal rule
+
+Do not make Sona constantly theatrical, ominous, or robotic to communicate this.
+
+No:
+- villain monologues;
+- cryptic supernatural speeches;
+- glowing eyes;
+- exaggerated silence;
+- "everyone felt her aura";
+- characters explicitly saying she was terrifying;
+- melodramatic declarations of dominance.
+
+The strange quality should emerge from **how the room behaves, how precisely Sona behaves, and how Jonah's own instincts betray him**.
+
+That is the EverWorlds approach:
+
+**the supernatural does not need to cosplay as supernatural.**
+
+---
+
+## 15. DO NOT LET THE MODEL "FIX" THE PROSE INTO GENERIC AI FORMATTING
+
+Gemini must preserve the existing Chapter 6 visual/textual architecture while making this correction.
+
+The target remains:
+
+**descriptive + vivid + readable + lyrical, with grounded physical continuity.**
+
+Do not flatten the prose into:
+- generic minimalist prose;
+- clipped "cinematic" fragments;
+- constant one-line paragraphs;
+- excessive whitespace;
+- screenplay-like dialogue;
+- purple fantasy narration;
+- repetitive "I looked / I saw / I noticed" filtering;
+- explanatory AI narration that tells the reader what Sona "means."
+
+The model is making a **surgical content correction**, not performing a formatting rewrite or style reset.
+
+If the Sona correction changes paragraph length, preserve the chapter's existing paragraph logic and spacing rather than forcing a new layout.
+
+**Typography and spacing are locked.**
+
+Before returning the revised chapter, compare the Sona replacement against the surrounding Chapter 6 paragraphs for:
+- paragraph density;
+- dialogue spacing;
+- blank-line rhythm;
+- indentation;
+- sentence-flow continuity;
+- emphasis placement.
+
+Do not "clean up" the chapter's typography.
+
