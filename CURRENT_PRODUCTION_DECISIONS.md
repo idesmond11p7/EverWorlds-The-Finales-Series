@@ -168,3 +168,42 @@ The test is:
 If the answer is no, STOP and rewrite the scene-generation approach rather than polishing the same architecture.
 
 This doctrine supersedes any earlier interpretation that treated the Chapter 6 prose problem primarily as paragraph grouping, sensory density, or sentence-length variation.
+
+
+### D-014 — Sona: Social/Psychic Gravity and Non-Normalization
+
+**Decision:** Sona's Chapter 6 presence must not be normalized through friendliness, warmth, or casual reciprocal interaction.
+
+Hard locks for the Chapter 6 glimpse:
+- Sona does **not smile at Jonah**.
+- Prefer that Sona does not smile at all during this glimpse unless a later scene explicitly requires it.
+- Jonah does not recognize her by name.
+- No Tsubaki, Saji, or student-council exposition is required in the glimpse.
+- Sona is visibly/socially elevated without being explained as supernatural.
+- Her composure, intelligence, beauty, posture, and social gravity should make her feel like she occupies a different social altitude from the applicants.
+- Her appearance may use controlled poeticism/hyperbole, including one or two subtly unusual facial characteristics, while remaining physically plausible.
+- One restrained visual irregularity may hint that something about her is not entirely ordinary (for example, a shadow behaving slightly incorrectly). Do not stack multiple supernatural tells.
+- The effect on Jonah may be **psychic/perceptual rather than consciously social**: an involuntary pressure to become smaller, deferential, silent, or excessively self-conscious; an irrational urge to submit, avoid embarrassment, or even humiliate himself socially can be suggested through bodily impulse and thought.
+- This effect must remain ambiguous to Jonah. He should not identify it as psychic manipulation, devil power, aura mechanics, or a supernatural ability.
+- Do not turn the effect into mind control, explicit sexual submission, or an explanatory power display. The desired experience is an uncanny involuntary social/psychic pressure produced by Sona's presence and pride, not a lore dump.
+- The reader should be able to wonder whether the reaction came from Sona's extraordinary presence, Jonah's own psychology, or something stranger.
+- EverWorlds is its own continuity. Do not force Sona back into exact DxD characterization or visual proportions when EverWorlds has deliberately diverged.
+
+This decision refines the older Chapter 6 wording that described Sona as merely "ordinary enough to be explainable." The **world/environment remains grounded**; Sona herself may feel unusually elevated and subtly uncanny.
+
+### D-015 — Typography / Spacing Preservation
+
+**Decision:** Generated Chapter 6 prose must preserve the project's intended novel typography and paragraph architecture.
+
+When passing the chapter to another model for revision:
+- do not collapse paragraphs into one dense wall of text;
+- do not insert arbitrary one-line paragraphs after every sentence;
+- do not convert prose into screenplay/script formatting;
+- do not alter dialogue indentation/spacing conventions;
+- do not damage blank-line rhythm between scene/paragraph units;
+- do not replace normal prose punctuation with decorative formatting;
+- do not “clean up” paragraph breaks merely for compactness;
+- preserve the established relationship between paragraph length, perceptual unit, dialogue movement, and emphasis;
+- any surgical Sona correction must preserve the surrounding chapter's existing typography unless a specific typography correction is requested.
+
+**Typography is part of the prose architecture, not disposable formatting.**
