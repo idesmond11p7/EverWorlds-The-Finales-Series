@@ -207,3 +207,18 @@ When passing the chapter to another model for revision:
 - any surgical Sona correction must preserve the surrounding chapter's existing typography unless a specific typography correction is requested.
 
 **Typography is part of the prose architecture, not disposable formatting.**
+
+
+### D-016 — Chapter 6 Release Lock
+
+**Decision:** Chapter 6 is now treated as the released/published chapter for production purposes.
+
+Locked release state:
+- Chapter 6 is the habitation/world-grounding chapter.
+- The chapter ends at the 9:00 AM examination bell.
+- Chapter 7 owns the examination itself.
+- The final release state includes only the two confirmed publication corrections: registration wording changed to "The examination begins at nine sharp." and the obsolete [5] citation marker was removed from the Suica sentence.
+- No further Chapter 6 prose revision should occur unless a concrete continuity, factual, or demonstrable prose defect is identified.
+- The repository must not claim to contain the exact released manuscript unless that manuscript has actually been committed.
+
+**Production consequence:** Chapter 6 leaves the active writing queue. The next session is character/NPC development, not Chapter 7 drafting.
