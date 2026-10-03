@@ -126,3 +126,17 @@ Rules:
 - **Tasks carried forward:** Reconcile Chapter 6 against the verified spine and perform the pending prose/continuity audits before release.
 - **Next session first action:** Open the Chapter 6 production-control stack and the latest Chapter 5/6 manuscript state before writing or revising prose.
 - **Status:** Active
+
+
+### 2026-10-03 — Chapter 6 Release / Production Lock
+
+- **Start:** Not captured
+- **End:** Not captured
+- **Total:** Not captured
+- **Phase:** EverWorlds: The Finales — Chapter 6 release / Chapter 7 boundary
+- **Task:** Close Chapter 6 production and prepare the project for the next character/NPC development session.
+- **Tasks completed:** Final Chapter 6 publication state confirmed for Scribble Hub; two final non-prose corrections were locked: registration wording now states that the examination begins at nine sharp; obsolete inline citation marker removed from the transit paragraph. Chapter 6 boundary remains the 9:00 AM examination bell; Chapter 7 owns the examination itself.
+- **Important state:** The repository's older Chapter 6 draft files remain historical working material and are not silently overwritten with a manuscript version that was not directly available in the repository during this session. The published Chapter 6 state is recorded here as a release decision, not falsely represented as a new committed manuscript copy.
+- **Tasks carried forward:** Do not plan or draft Chapter 7 yet. Begin the next session with character/NPC/antagonist grounding work, using existing canon and avoiding premature plot escalation.
+- **Next session first action:** Establish the character/NPC production layer: identify roles the protagonist will actually encounter, separate ordinary-world grounding characters from future important/antagonistic characters, and mark all unknowns before invention.
+- **Status:** Chapter 6 released; project paused for character/NPC development.
