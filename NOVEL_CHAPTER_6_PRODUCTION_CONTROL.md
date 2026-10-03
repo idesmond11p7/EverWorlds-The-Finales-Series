@@ -1,10 +1,10 @@
 # EverWorlds Chapter 6 — Production Control
 
 ## Status
-**Active — prose reconstruction**
+**Released — production lock**
 
 ## Purpose
-Chapter 6 is the habitation chapter. Its job is to make Jonah/Ira's new life feel physically inhabited and socially ordinary before the narrative becomes extraordinary.
+Chapter 6 is the habitation chapter. Its job is to make Jonah/Ira's new life feel physically inhabited and socially ordinary before the narrative becomes extraordinary. The chapter is now released and is no longer an active prose-reconstruction target.
 
 The previous Chapter 6 prose pass is **retired/quarantined**. It is not a source for line recycling.
 
@@ -492,3 +492,14 @@ It is complete only when:
 **Continuity audit: Pending**
 **Prose audit: Pending**
 **Release: Blocked until audits pass**
+
+
+## Release Lock — 2026-10-03
+
+Chapter 6 has passed into released status for publication on Scribble Hub.
+
+- Final boundary: 9:00 AM examination bell.
+- Chapter 7 owns the examination.
+- Final publication corrections: registration wording corrected to "The examination begins at nine sharp."; obsolete [5] citation marker removed from the Suica sentence.
+- No further revision without a concrete demonstrated defect.
+- Historical draft files remain historical unless explicitly replaced with the exact released manuscript.
