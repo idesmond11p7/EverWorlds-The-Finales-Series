@@ -108,18 +108,26 @@ These control how the novel is rendered. They do not override what happened in c
 | SUPERNATURAL_REALITY_AND_MAGIC_ARCHITECTURE.md | Magic, Work Makes, Aimor, demonic/fallen/angelic architecture | ACTIVE ARCHITECTURE + CANON BOUNDARY | Use, but obey its explicit STOP/recovery boundary |
 | EXPERIMENT_001_SPATIAL_REALITY_SYSTEM.md | Spatial/world/realm technical architecture | EXPERIMENT / ARCHITECTURAL SOURCE | Important evidence for realm mechanics; not proof that every prior realm concept is fully recovered |
 | EVERWORLD_6_RAW_IDEA_DUMP_001.md | Older broad supernatural ecology/raw ideas | HISTORICAL SOURCE | Critical recovery source; not automatically current canon |
-| NARRATIVE_CANON_AND_WRITING_LOCK.md | Kuoh supernatural ecology and current narrative locks | LOCKED / CANON | Highest narrative authority for current novel |
+| NARRATIVE_CANON_AND_WRITING_LOCK.md | Narrative continuity/world/character locks | LOCKED / CANON | Highest narrative authority for current novel |
+| KUOH_SPIRITUAL_ECOLOGY_AND_COSMOLOGY.md | Canonical layered Kuoh ecology, mythology integration, Rias/Sona territorial coupling | AUTHOR-ACCEPTED CANON / ACTIVE ARCHITECTURE | Primary structural authority for Kuoh's spiritual ecology and territorial model |
 
-### Critical recovery note
+### Critical recovery note — resolved for Kuoh territorial ecology
 
-The repository does not currently contain a single clean authoritative file that fully reconstructs the previously explained territory / realm / "ero physics" mechanism.
+The previously missing Kuoh territory/realm/ecology mechanism has now been explicitly redefined and accepted as canon in `KUOH_SPIRITUAL_ECOLOGY_AND_COSMOLOGY.md`.
 
-Therefore:
-- do not invent it;
-- do not infer it from the word "territory";
-- do not substitute generic DxD mechanics;
-- do not silently replace the user's SIN-based Devil ontology with the later "negative potential" formulation;
-- recover older source material or obtain explicit author redefinition first.
+That file now governs:
+- Kuoh's layered spiritual ecology;
+- Rias/Sona's deep territorial coupling;
+- the local invisible supernatural hierarchy and politics;
+- interlocking mythologies and cultural interpretations;
+- blessings, curses, gifts, guardians, ghosts, sleep-paralysis phenomena and related threshold experiences;
+- the systemic basis of Kuoh's erotic/"ero-physics" phenomena.
+
+Do not replace this model with generic DxD territory mechanics.
+
+The exact mechanics of unrelated higher realms, Aimor subtypes, or unrecovered historical systems remain subject to their own recovery/authority rules.
+
+**Devil ontology warning remains:** the user's established Devil feeding model is SIN → associated negative energy/emotions → feeding. Do not silently replace it with the later "negative potential" formulation.
 
 # 5. PROJECT / CONTROL DOCUMENTS
 
