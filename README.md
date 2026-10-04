@@ -12,6 +12,8 @@ The project is intended to reach a professional-tier standard.
 
 ## Project Control
 
+- [Repository Index](REPOSITORY_INDEX.md) — file routing, source-of-truth hierarchy, stale-document warnings, chapter-state routing, and canon-recovery map. **Read this before navigating the repository for continuity work.**
+
 - [Project Control System](PROJECT_CONTROL_SYSTEM.md) — source-of-truth hierarchy, state classes, generation gates, change control, failure protocol, and chapter production pipeline.
 
 ## Documentation
