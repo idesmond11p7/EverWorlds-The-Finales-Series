@@ -129,6 +129,25 @@ The exact mechanics of unrelated higher realms, Aimor subtypes, or unrecovered h
 
 **Devil ontology warning remains:** the user's established Devil feeding model is SIN → associated negative energy/emotions → feeding. Do not silently replace it with the later "negative potential" formulation.
 
+
+
+# 4A. KUOH TRAVERSAL / REALM ARCHITECTURE
+
+| File | Role | State | Routing rule |
+|---|---|---|---|
+| KUOH_SPIRITUAL_ECOLOGY_AND_COSMOLOGY.md | Local Kuoh spiritual ecology, Rias/Sona territorial coupling, invisible supernatural ecosystem | AUTHOR-ACCEPTED CANON / ACTIVE ARCHITECTURE | Primary Kuoh ecological authority |
+| KUOH_REALM_TRAVERSAL_AND_GATEKEEPING.md | Kuoh subembedded realms, external objective-realm links, traversal methods, gatekeeping, restricted areas and intermythological travel law | AUTHOR-ACCEPTED CANON / ACTIVE ARCHITECTURE | Use for Kuoh travel, realm-access and gatekeeping questions |
+| ONTOLOGICAL_SPECTRUM_AND_HIGHER_EXISTENCE.md | Physical→supernatural→spiritual→conceptual→absolute existence spectrum; physics/interface boundary | AUTHOR-ACCEPTED CANON / ACTIVE ARCHITECTURE | Use for ontology, higher-tier interaction and scientific-explanatory-boundary questions |
+
+### Kuoh realm-scope lock
+
+Kuoh's subembedded realms and connected objective realms must never be collapsed into one universal Earth cosmology. External objective realms remain independent territories with their own ontology, politics, inhabitants and traversal systems.
+
+### Ontology-scope lock
+
+Magic and Mystical are distinct but connected categories. The ontological spectrum is not a simple combat-power ladder. Power, ontology, accessibility and causal interface must remain separate.
+
+
 # 5. PROJECT / CONTROL DOCUMENTS
 
 | File | Role | State |
