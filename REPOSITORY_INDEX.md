@@ -148,6 +148,19 @@ Kuoh's subembedded realms and connected objective realms must never be collapsed
 Magic and Mystical are distinct but connected categories. The ontological spectrum is not a simple combat-power ladder. Power, ontology, accessibility and causal interface must remain separate.
 
 
+
+
+# 4B. SUPERNATURAL CIVILIZATION ARCHITECTURE
+
+| File | Role | State | Routing rule |
+|---|---|---|---|
+| SUPERNATURAL_CIVILIZATIONS_AND_NEGATIVE_SPECTRUM.md | Broad civilization ecology, negative-spectrum diversity, human classification limits, hidden/extinct civilizations and inter-civilizational disparity | AUTHOR-ACCEPTED CANON / ACTIVE WORLD ARCHITECTURE | Use for demon/demonic/Nether/Abyss/Inferno/negative-spectrum population and civilization questions |
+
+### Civilization-scope lock
+
+Do not collapse Demon, Demonic Entity, Devils, Nether, Abyss, Rift, Inferno or Hell into one species, civilization or universal realm. Devils are one population among many. Civilization knowledge is incomplete and fragmented; hidden, isolated and extinct populations are legitimate world states.
+
+
 # 5. PROJECT / CONTROL DOCUMENTS
 
 | File | Role | State |
