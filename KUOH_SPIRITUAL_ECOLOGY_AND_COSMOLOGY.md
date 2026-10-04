@@ -40,7 +40,7 @@ The ordinary human population experiences only a fraction of that system.
 
 # 2. Comparative-Cosmology Foundation
 
-The architecture takes structural inspiration from recurring patterns across real mythological and religious traditions.
+The architecture takes structural inspiration from recurring patterns across real mythological and religious traditions, but **this synthesis describes Kuoh's local supernatural ecology only**. It does not declare that every supernatural location on Earth follows the same structure.
 
 It does **not** reproduce any one religion.
 
@@ -321,11 +321,11 @@ A physical location can therefore have multiple different meanings depending on 
 
 # 4. Mythological / Cultural Ecologies
 
-Kuoh does not contain only one supernatural tradition.
+**Kuoh does not contain only one supernatural tradition.**
 
 Japan provides a particularly dense local ecology.
 
-The setting may contain or reference:
+**Within Kuoh**, the local ecosystem may contain or reference:
 
 - Shinto kami;
 - shrine spirits;
@@ -363,7 +363,7 @@ Different traditions can describe genuinely different entities while still occup
 
 # 5. Imported / Interlapping Mythologies
 
-Kuoh can also contain supernatural phenomena associated with traditions originating outside Japan.
+**Within Kuoh**, supernatural phenomena associated with traditions originating outside Japan can also be present.
 
 Examples include:
 
@@ -392,7 +392,7 @@ Conversely, two culturally similar stories can refer to entirely different super
 
 # 6. Supernatural Orders and Populations
 
-The ecosystem contains organized populations in addition to isolated beings.
+**The Kuoh ecosystem** contains organized populations in addition to isolated beings.
 
 These may include:
 
@@ -423,7 +423,7 @@ A powerful entity can be politically isolated.
 
 # 7. Supernatural Politics
 
-The invisible world has politics.
+**Kuoh's invisible supernatural world has politics.**
 
 Relevant relationships include:
 
@@ -553,7 +553,7 @@ These relationships may be understood differently by different cultures.
 
 # 11. Sleep, Dreams and Threshold States
 
-The ecosystem includes phenomena occurring at boundaries between ordinary consciousness and other layers.
+**Kuoh's supernatural ecosystem** includes phenomena occurring at boundaries between ordinary consciousness and other layers.
 
 Examples:
 
@@ -583,7 +583,7 @@ The important principle is **ambiguity**:
 
 # 12. Ghosts and the Dead
 
-Death does not produce one universal type of ghost.
+**Within Kuoh**, death does not produce one universal type of ghost.
 
 Possible post-mortem phenomena include:
 
@@ -1059,4 +1059,4 @@ The model is deliberately expansive enough to accommodate additional mythologies
 
 # 28. One-Sentence Canon
 
-> **Kuoh is a living, multi-layered supernatural ecosystem whose physical, psychological, psychic, spiritual, astral, energetic, political and metaphysical realities overlap and feed back into one another, with Rias and Sona serving as deeply coupled governing poles whose spiritual ownership is an ontological relationship with the territory rather than a mere claim of property.**
+> ****Kuoh alone is a living, multi-layered supernatural ecosystem whose physical, psychological, psychic, spiritual, astral, energetic, political and metaphysical realities overlap and feed back into one another, with Rias and Sona serving as deeply coupled governing poles whose spiritual ownership is an ontological relationship with Kuoh rather than a mere claim of property. This model describes Kuoh's local supernatural ecology; it is not a universal model imposed on all of Earth.****
