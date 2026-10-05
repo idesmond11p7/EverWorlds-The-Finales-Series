@@ -97,6 +97,7 @@ This file is a working state record, not finished Chapter 8 prose.
 | NOVEL_PROSE_ARCHITECTURE_STANDARD.md | Research-backed prose architecture | ACTIVE STANDARD |
 | NOVEL_PROSE_RENDERING_STANDARD.md | Rendering/perceptual prose rules | ACTIVE STANDARD |
 | RESEARCH_PROSE_RENDERING.md | Research supporting prose/rendering decisions | RESEARCH |
+| RESEARCH_SENSUAL_ATTRACTION_PROSE.md | Research-backed attraction, sensuality, fanservice rendering, cadence, attention, synchrony and scene integration | RESEARCH / ACTIVE CRAFT REFERENCE | Use for adult sensual/fanservice prose craft; it does not create narrative canon |
 | COMBAT_VISUAL_LANGUAGE.md | Combat visual/experiential grammar | ACTIVE VISUAL CANON / DESIGN |
 
 These control how the novel is rendered. They do not override what happened in canon.
