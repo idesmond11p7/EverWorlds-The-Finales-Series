@@ -1,36 +1,50 @@
 # Schema of Work
 
-[ID: SW-01]
+[ID: SCH-01]
 [STATUS: ACTIVE / MASTER ROUTER]
 [LAST-UPDATED: 2026-10-06 | TIME: UNKNOWN]
-[READ-BEFORE: ANY MODULE CREATION]
 [UPSTREAM: CG-00]
-[DOWNSTREAM: ALL MODULES]
+[DOWNSTREAM: ALL]
 
 ## Function
-This is the repository's routing table. Human-readable filenames are secondary. Every active module receives an opaque/stable ID and is discovered through this schema.
+Opaque routing layer. Filenames are aliases. IDs are authority.
 
-## Module registry
-- CG-00 → Control Gate
-- SW-01 → Schema of Work
-- DM-02 → Document Map
-- SL-03 → Source Ledger
-- DL-04 → Decision Ledger
-- CM-05 → Canon Matrix
-- IR-06 → Idea Registry
-- CR-07 → Chapter Registry
-- PR-08 → Prose Architecture Matrix
-- PM-09 → Prose Measurement Matrix
-- WR-10 → World/Mechanics Registry
-- SH-11 → Session Handoff
-- AR-12 → Audit/Release Gate
-- RR-13 → Recovery Research Matrix
+## Core modules
+CG-00 CONTROL
+SCH-01 SCHEMA
+MAP-02 DOCUMENT GRAPH
+SRC-03 SOURCE LEDGER
+QTE-04 QUOTE LEDGER
+DEC-05 DECISION LEDGER
+MMG-06 MENTAL MODEL GRADES
+CAN-07 CANON CLAIM MATRIX
+IDE-08 IDEA REGISTRY
+CHR-09 CHAPTER REGISTRY
+PRO-10 PROSE ARCHITECTURE
+MET-11 PROSE MEASUREMENT
+WRK-12 WORK LOG
+REC-13 RECOVERY / QUARANTINE
+AUD-14 AUDIT / RELEASE
+HND-15 SESSION HANDOFF
+INP-16 INPUT REQUIREMENTS
+ARC-17 ARCHIVE INDEX
+
+## Atomicity rule
+A module is a reusable information surface, not a topic bucket. One concept may have records across source, quote, model, canon, chapter, and prose modules.
+
+## Mental-model axis
+Every important record receives G1, G2, or G3:
+- G1 = one-dimensional / flat / collapsed.
+- G2 = partially structured / unique structure exists but information remains collapsed.
+- G3 = fully operational mental model: components, relations, boundaries, interactions, exceptions, consequences and usage are understood.
+
+GRADE IS NOT CANONICITY.
+
+## Evidence axis
+SOURCE / AUTHOR / VERIFIED / DERIVED / PROVISIONAL / RECONSTRUCTION / RETRACTED / UNKNOWN.
+
+## Operational axis
+UNUSABLE / REFERENCE-ONLY / OPERATIONAL / VERIFIED-IN-USE.
 
 ## Creation rule
-No new active document may be created until this registry receives a proposed ID, purpose, inputs, outputs, dependencies, and retirement/supersession path.
-
-## Modularity rule
-Do not make one document “about an idea” when the information belongs to multiple reusable modules. Store claims as atomic records and link them.
-
-## Web rule
-The active system is an interconnected graph, not a chronological pile.
+No new module without ID, purpose, upstream, downstream, schema, evidence rules, grade rules, and retirement path.
