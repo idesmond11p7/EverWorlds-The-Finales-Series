@@ -1,0 +1,41 @@
+# Audit and Release Gate
+
+[ID: AUD-14]
+[STATUS: ACTIVE / HARD RELEASE GATE]
+[LAST-UPDATED: 2026-10-06 | TIME: UNKNOWN]
+[UPSTREAM: CAN-07, CHR-09, PRO-10, PRO-11, REC-13]
+[DOWNSTREAM: HND-15]
+
+## Required gates
+SOURCE-IDENTITY
+PROVENANCE
+CANON-CHECK
+DEPENDENCY-FRESHNESS
+MENTAL-MODEL-GRADE
+CONTINUITY
+PROSE-FUNCTION
+READABILITY
+TYPOGRAPHY
+SPATIAL-CLARITY
+CADENCE
+NO-INVENTION
+AUTHOR-REVIEW
+RELEASE-EVIDENCE
+
+## Fail conditions
+Any unresolved source, stale dependency, accidental canon promotion, unmeasured final prose, unreadable delivery, or unresolved contradiction fails release.
+
+## Release record
+RELEASE-ID
+DATE/TIME
+TARGET
+SOURCE-VARIANT
+CHECKS
+FAILURES
+CORRECTIONS
+AUTHOR-ACCEPTED
+RELEASED
+SUPERSEDED
+
+## Principle
+"Mostly good" is not a release state.
