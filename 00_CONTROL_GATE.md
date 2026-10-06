@@ -1,46 +1,34 @@
-# Apocrypha Documentation Control Gate
+# Control Gate
 
-STATUS: ACTIVE — MANDATORY
-LAST VERIFIED: 2026-10-06
+[ID: CG-00]
+[STATUS: ACTIVE / ENFORCEMENT]
+[LAST-UPDATED: 2026-10-06 | TIME: UNKNOWN]
+[SCHEMA: SW-00]
+[READ-BEFORE: ALL ACTIVE WORK]
+[UPSTREAM: 01-SOURCE-LEDGER, 02-DECISION-LEDGER, 03-SCHEMA-OF-WORK]
+[DOWNSTREAM: ALL]
 
-This is the first document to consult before changing project state.
+## Function
+Hard gate between repository knowledge and generation. It is not a summary and does not contain canon.
 
-## Purpose
-Prevent memory drift, provenance loss, accidental canonization, stale-document reuse, and model self-confirmation.
+## Mandatory traversal
+CONTROL GATE → SCHEMA OF WORK → DOCUMENT MAP → SOURCE LEDGER → DECISION LEDGER → TARGET MODULE → AUDIT → HANDOFF.
 
-## Mandatory order
-1. Read this file.
-2. Read 05_SESSION_HANDOFF.md.
-3. Read 01_SOURCE_REGISTER.md for the material being touched.
-4. Read every linked source marked REQUIRED by the register.
-5. Check 02_DECISION_LEDGER.md for superseding decisions.
-6. Check 03_CHAPTER_REGISTER.md for chapter status and dependencies.
-7. Only then perform work.
-8. After work, update 05_SESSION_HANDOFF.md and the relevant ledger/register entries before ending the session.
+## Required checks before writing/updating anything
+1. Identify the target module by ID, not memory or filename.
+2. Read its dependency list.
+3. Read every required upstream module whose update date is newer than the target.
+4. Check supersession/retraction records.
+5. Check the last-touch record.
+6. Verify source provenance.
+7. Define intended change before execution.
+8. After execution, update the target's dependency timestamp and affected modules.
 
-## Authority
-SOURCE > explicit author decision > confirmed derived canon > verified research > active plan > proposal > draft > model memory.
+## Hard STOP
+STOP if source identity is unresolved, dependencies are stale, two authoritative records conflict, a reconstruction is being promoted, or a claim exists only in model memory.
 
-Model memory is never a source.
+## Precision rule
+Unknown means UNKNOWN. Approximate dates/times are not upgraded into exact metadata. Quotes must be copied from source, not reconstructed.
 
-## STOP gates
-STOP if:
-- the source is missing;
-- two authoritative records conflict;
-- a reconstruction is being mistaken for an original;
-- a draft is being used as canon without explicit acceptance;
-- a fact cannot be traced to a source or decision;
-- a requested next step would compound a known error;
-- the assistant would have to guess.
-
-## Provenance rule
-Every durable claim must have a source pointer, date, status, and relationship to prior knowledge. “I remember” is not provenance.
-
-## Change rule
-Do not silently edit history. Corrections create a new dated decision that explicitly invalidates the old claim.
-
-## Session close rule
-Before stopping, record: exact task, exact result, files touched, sources consulted, decisions made, unresolved questions, and the first safe next action. Unknown times remain UNKNOWN; never fabricate timestamps.
-
-## Cross-document contract
-Every active document must state what it contains, what it does not contain, what it depends on, and what must be read next.
+## Enforcement principle
+The system is intentionally inconvenient when evidence is weak. That inconvenience is the feature.
