@@ -134,15 +134,21 @@ Core tendency:
 
 > **Termination / consumption of potential / apocalyptic finality.**
 
-Devils feed on forms of **negative potential**, rather than merely "negative emotion."
+Devils are **Enders**. Their deeper ecological orientation is toward bringing active potential and trajectories to an end.
 
-The valuable target is not simply someone who is already miserable.
+Devils feed on **SIN-associated negative energy and negative emotional energy**. **Negative potential is not a replacement fuel** and is not synonymous with misery. It is the **polar opposite of positive potential** and forms part of the deeper potential ecology that explains why Devil predation is especially interested in people with meaningful positive trajectories.
 
-A target with substantial unrealized potential — the possibility of growth, prosperity, relationships, achievement, development, or positive change — represents a larger field of possibility that can be corrupted, consumed, or terminated.
+The important distinction is:
 
-A person whose life has already been completely collapsed into a stable state of misery may represent comparatively less unrealized potential.
+- **negative energy / SIN** = part of the Devil's feeding ecology;
+- **negative potential** = the opposite pole of positive potential;
+- **Ender instinct** = termination/finality and the destruction or consumption of potential.
 
-The devil therefore attacks the **possibility of what could have been**.
+A person who is already permanently miserable or effectively ended is not automatically an ideal target. If there is little meaningful positive trajectory left to terminate, a Devil may move on and seek someone whose life is still rising.
+
+A person becoming confident, successful, connected, ambitious, spiritually stronger, or otherwise developing substantial positive potential can therefore be a more meaningful target. The relevant attraction is to **rise and the potential that can subsequently be ended**, not simply to a static quantity of suffering.
+
+See `DEVIL_DEMON_NEGATIVE_POTENTIAL_ARCHITECTURE.md` for the authoritative detailed relationship.
 
 Relevant conceptual vocabulary:
 
