@@ -28,6 +28,7 @@ AUD-14 AUDIT / RELEASE
 HND-15 SESSION HANDOFF
 INP-16 INPUT REQUIREMENTS
 ARC-17 ARCHIVE INDEX
+CLN-18 DOCUMENT CLEANUP / CLASSIFICATION
 
 ## Atomicity rule
 A module is a reusable information surface, not a topic bucket. One concept may have records across source, quote, model, canon, chapter, and prose modules.
