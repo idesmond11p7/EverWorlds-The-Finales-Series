@@ -1,35 +1,47 @@
 # Source Ledger
 
-[ID: SL-03]
-[STATUS: ACTIVE / PROVENANCE]
+[ID: SRC-03]
+[STATUS: ACTIVE / ATOMIC PROVENANCE]
 [LAST-UPDATED: 2026-10-06 | TIME: UNKNOWN]
-[UPSTREAM: CG-00, ARCHIVE]
-[DOWNSTREAM: CM-05, IR-06, CR-07, PR-08]
+[UPSTREAM: ARC-17, CG-00]
+[DOWNSTREAM: QTE-04, DEC-05, MMG-06, CAN-07, IDE-08, CHR-09, PRO-10]
 
 ## Function
-Atomic source records. This is where the old archive is converted rather than merely summarized.
+Convert historical material into atomic evidence records. Do not copy archives into new documents.
 
 ## Source classes
-ORIGINAL_MANUSCRIPT / AUTHOR_QUOTE / AUTHOR_DECISION / RESEARCH / DERIVED / PROPOSAL / RECONSTRUCTION / RETRACTED.
+ORIGINAL_MANUSCRIPT
+AUTHOR_STATEMENT
+AUTHOR_DECISION
+VERIFIED_RESEARCH
+DERIVED
+PROPOSAL
+RECONSTRUCTION
+RETRACTED
+UNKNOWN
 
-## Required source record
+## Record schema
 SOURCE-ID
 ORIGINAL-FILE
 ARCHIVE-PATH
 GIT-COMMIT(S)
-DATE/TIME
+DATE
+TIME
+CONTEXT
 EXACT-QUOTE(S)
-LINES / SECTION
-CLAIM(S)
+LINE/SECTION
+CLAIM
 CONTAINS
 DOES-NOT-CONTAIN
 AUTHORITY
-DEPENDENCIES
-SUPERSEDED-BY
+MODEL-GRADE
+EVIDENCE-STATE
+DEPENDENTS
+SUPERSEDES
 STATUS
 
-## Conversion rule
-Archive documents remain immutable evidence. Their useful information is atomized into source records and routed into the appropriate canonical, decision, idea, chapter, prose, or research modules.
+## Critical distinction
+A source may be highly authoritative while the assistant's mental model of that source is only G1/G2.
 
-## No dumping
-Do not copy an entire old document into a new document simply to preserve it. Preserve the source in archive; extract reusable claims into atomic records.
+## Recovery rule
+A source identity remains UNKNOWN until the actual artifact, Git history, publication evidence, or explicit author confirmation resolves it.
