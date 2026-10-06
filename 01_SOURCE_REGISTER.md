@@ -1,9 +1,11 @@
 # Source Register
 
-STATUS: ACTIVE — MANDATORY ROUTING
-LAST VERIFIED: 2026-10-06
+[STATUS: ACTIVE — MANDATORY ROUTING]
+[LAST_TOUCH: 2026-10-06 UNKNOWN]
+[MUST_READ_NEXT: 10_ARCHIVE_AUDIT_PASS_1.md]
 
-This file answers: “Where did this information come from, and is it safe to use?”
+## Purpose
+This file answers: where did information come from, and is it safe to use?
 
 ## Source classes
 - ORIGINAL_SOURCE — author manuscript, direct author text, supplied artifact.
@@ -14,13 +16,21 @@ This file answers: “Where did this information come from, and is it safe to us
 - RECONSTRUCTION — rebuilt from incomplete evidence; never source authority.
 - QUARANTINED — preserved history that must not drive new work.
 
-## Pre-reset archive
-All pre-reset Markdown documentation has been preserved byte-for-byte under _ARCHIVE_PRE_RESET_2026-10-06/.
+## Preserved archive
+41 Markdown files were moved byte-for-byte into _ARCHIVE_PRE_RESET_2026-10-06/ on 2026-10-06. Git history remains intact.
 
-The archive is historical evidence. It is not an authority hierarchy. Its contents must be re-evaluated before reuse.
+## Currently identified high-authority sources
+1. CHAPTER_5_SOURCE_TEXT.md — explicitly identifies itself as the complete author-supplied Chapter 5 manuscript dated 2026-10-01.
+2. CHAPTER_5_TO_6_LIVE_STATE.md — later chronology/state lock for the Chapter 5 → 6 handoff.
+3. SUPERNATURAL_ONTOLOGY_MASTER.md — author-defined/locked foundational supernatural ontology.
+4. KUOH_SPIRITUAL_ECOLOGY_AND_COSMOLOGY.md — author-accepted local Kuoh architecture.
+5. KUOH_REALM_TRAVERSAL_AND_GATEKEEPING.md — author-accepted Kuoh traversal architecture.
+6. ONTOLOGICAL_SPECTRUM_AND_HIGHER_EXISTENCE.md — author-accepted ontological architecture.
+7. CHAPTER_8_MASTER_STATE.md — active Chapter 8 working state, not finished prose.
+8. The prose research files — craft evidence, not story canon.
 
 ## Critical warning
-Existing chapter files were allowed to mix original material, reconstruction, plans, audits, and later corrections. Therefore filenames do not establish authority.
+Existing chapter files mixed original material, reconstruction, plans, audits, and later corrections. Filenames do not establish authority.
 
 ## Registration requirement
 For every recovered source record:
@@ -38,4 +48,4 @@ For every recovered source record:
 - verification status.
 
 ## Recovery rule
-A document is not promoted merely because it sounds plausible or matches memory. Promotion requires evidence.
+A document is not promoted merely because it sounds plausible, appears newer, or matches model memory. Promotion requires evidence.
