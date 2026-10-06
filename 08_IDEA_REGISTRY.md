@@ -1,0 +1,39 @@
+# Idea Registry
+
+[ID: IDE-08]
+[STATUS: ACTIVE / ATOMIC IDEATION]
+[LAST-UPDATED: 2026-10-06 | TIME: UNKNOWN]
+[UPSTREAM: SRC-03, QTE-04]
+[DOWNSTREAM: CAN-07, CHR-09, PRO-10]
+
+## Purpose
+The raw idea archive is an ingestion source, not an idea document to keep rereading as a blob.
+
+## Idea types
+WORLD / CHARACTER / MECHANIC / COSMOLOGY / POWER / RESOURCE / POLITICS / CULTURE / LOCATION / NARRATIVE / PROSE / EXPERIMENT / SYSTEM / META-PRODUCTION
+
+## Required record
+IDEA-ID
+RAW-SOURCE-ID
+EXACT-QUOTE
+DATE/TIME
+TYPE
+CORE-PROPOSITION
+PURPOSE
+DEPENDENCIES
+INTERACTIONS
+LIMITATIONS
+CONSEQUENCES
+RELATED-CLAIMS
+RELATED-IDEAS
+RESEARCH-NEEDED
+MODEL-GRADE
+STATUS
+
+## Lifecycle
+RAW → CLASSIFIED → EXPANDED → RESEARCHED → PROVISIONAL → AUTHOR-ACCEPTED → CANON
+or
+REJECTED / RETRACTED / UNKNOWN
+
+## Rule
+Every useful idea becomes atomic before being connected. No giant "idea summary" is allowed to masquerade as a knowledge base.
