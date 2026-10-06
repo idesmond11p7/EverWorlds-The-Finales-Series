@@ -91,3 +91,31 @@ When a historical statement is wrong, stale, speculative, duplicated, or unsuppo
 PRESERVE → CLASSIFY → LINK → RETRACT/QUARANTINE → PREVENT REUSE.
 
 Deletion destroys the evidence needed to understand how the error occurred.
+
+## Audit Pass 1 — Archive inventory completed
+**Verified:** 2026-10-06
+**Archive size:** 41 Markdown files
+**Archive tree SHA:** 7d7de2221bfe289bda643651e63c83e0d05b8d37
+
+All 41 archived files were retrieved from the preserved archive tree and reviewed for document role, authority, chapter/prose contamination, stale production state, terminology drift, and recovery value. The raw archive remains untouched.
+
+### Critical findings
+1. The archive is **not safe as a generation source**. It contains manuscripts, drafts, plans, audits, research, experiments, canon architecture, obsolete control layers, and contradictory production states.
+2. Chapter 6 has multiple prose artifacts. None is to be silently treated as the released manuscript merely because its filename says DRAFT.
+3. CHAPTER_5_SOURCE_TEXT.md is a strong direct manuscript source, but its statement that the examination is “tomorrow” conflicts with the later accepted Chapter 6 production chronology. That conflict must remain explicit until the authoritative chronology event is linked.
+4. NOVEL_CHAPTER_6_PRODUCTION_CONTROL.md, CURRENT_PRODUCTION_DECISIONS.md, WORK_LOG.md, and older control material contain different temporal states. They must be treated as event history, not merged into one timeless statement.
+5. NARRATIVE_CANON_AND_WRITING_LOCK.md contains later supersession language and should be treated as a high-authority narrative control source, while its individual claims still require quote-level provenance.
+6. ROLEPLAY_RESEARCH_LAB.md, ROLEPLAY_RESEARCH_EPISTEMIC_LEAKAGE.md, and the research files are evidence/research surfaces, not story canon.
+7. EVERWORLD_6_RAW_IDEA_DUMP_001.md is a historical ingestion source. Its individual propositions must be classified before reuse.
+8. EXPERIMENT_001_SPATIAL_REALITY_SYSTEM.md is experimental implementation architecture and must not silently become fictional spatial canon.
+9. SUPERNATURAL_ONTOLOGY_MASTER.md, DEVIL_DEMON_NEGATIVE_POTENTIAL_ARCHITECTURE.md, SUPERNATURAL_REALITY_AND_MAGIC_ARCHITECTURE.md, KUOH_SPIRITUAL_ECOLOGY_AND_COSMOLOGY.md, KUOH_REALM_TRAVERSAL_AND_GATEKEEPING.md, ONTOLOGICAL_SPECTRUM_AND_HIGHER_EXISTENCE.md, and SUPERNATURAL_CIVILIZATIONS_AND_NEGATIVE_SPECTRUM.md contain valuable author-defined architecture but must be consumed through claim/quote records rather than copied wholesale into new summaries.
+10. OPAQUE_ARCHIVED.md explicitly marks OPAQUE as historical. It is not an active narrative requirement source.
+
+### Contamination rule
+RAW ARCHIVE → RECOVERY → ATOMIC RECORD → VERIFICATION → PROMOTION.
+Never RAW ARCHIVE → GENERATION.
+
+If an archived statement is needed again, the assistant must retrieve its promoted atomic record or perform a fresh recovery operation. This prevents stale archive wording from becoming a hidden second canon.
+
+### Hole-closure rule
+Every archived file must appear in 19_ARCHIVE_MANIFEST.md. A file without a manifest record is a documentation integrity failure.
