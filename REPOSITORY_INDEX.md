@@ -156,6 +156,13 @@ Magic and Mystical are distinct but connected categories. The ontological spectr
 | File | Role | State | Routing rule |
 |---|---|---|---|
 | SUPERNATURAL_CIVILIZATIONS_AND_NEGATIVE_SPECTRUM.md | Broad civilization ecology, negative-spectrum diversity, human classification limits, hidden/extinct civilizations and inter-civilizational disparity | AUTHOR-ACCEPTED CANON / ACTIVE WORLD ARCHITECTURE | Use for demon/demonic/Nether/Abyss/Inferno/negative-spectrum population and civilization questions |
+| SUPERNATURAL_ONTOLOGY_MASTER.md | First-stop invariant map for Demon, Devil, Angel, Fallen Angel, potential polarity, SIN/negative energy, Ender ecology | LOCKED CORE ONTOLOGY / ROUTING AUTHORITY | **Mandatory first read for basic ontology questions.** Routes to detailed files and STOP protocol. |
+
+### Core ontology routing lock
+
+For any basic question about what a Demon, Devil, Angel, or Fallen Angel fundamentally is, retrieve `SUPERNATURAL_ONTOLOGY_MASTER.md` first. Do not answer from model memory. Then retrieve the relevant detailed domain file. If the master and a detailed current file conflict, STOP and resolve the conflict before answering.
+
+This master exists because fragmented supernatural documentation previously caused negative potential, negative energy/SIN, and Devil Ender ecology to be incorrectly treated as competing definitions. That class of maintenance failure is now a repository-level STOP condition.
 
 ### Civilization-scope lock
 
