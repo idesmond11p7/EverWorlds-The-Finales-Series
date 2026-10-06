@@ -1,24 +1,51 @@
-# Apocrypha — Documentation Control Surface
+# Apocrypha — Documentation Control Surface V2
 
 [STATUS: ACTIVE]
-[LAST_TOUCH: 2026-10-06 UNKNOWN]
-[MUST_READ_NEXT: 00_CONTROL_GATE.md]
+[LAST-UPDATED: 2026-10-06 | TIME: UNKNOWN]
+[ENTRY: CG-00]
 
-The active root is the rebuilt control surface for the Apocrypha project.
+This repository now uses a modular evidence graph rather than a document pile.
 
-## Start here
-1. 00_CONTROL_GATE.md
-2. 05_SESSION_HANDOFF.md
-3. 01_SOURCE_REGISTER.md
-4. 02_DECISION_LEDGER.md
-5. 03_CHAPTER_REGISTER.md
-6. 04_WORK_LOOP.md
-7. 08_SCHEME_OF_WORK.md
+## Mandatory entry
+CG-00 → SCH-01 → MAP-02 → SRC-03 → QTE-04 → DEC-05 → MMG-06 → target module → AUD-14 → HND-15
 
-## Historical evidence
-All pre-reset Markdown documentation is preserved under _ARCHIVE_PRE_RESET_2026-10-06/.
+## Core separation
+- Evidence: where information came from.
+- Quotes: exact language used as retrieval anchors.
+- Decisions: what was explicitly changed or locked.
+- Mental-model grade: how completely the structure is understood.
+- Canon state: whether the proposition belongs to project truth.
+- Operational state: whether the model can safely be used.
+- Prose architecture: how writing delivers information.
+- Measurement: what the actual text statistically/structurally does.
+- Quarantine: what exists but must not silently drive generation.
 
-Historical files are evidence, not automatic canon. Their claims must be promoted through the recovery method.
+## Mental-model grades
+**G1:** flat / one-dimensional / collapsed.
 
-## Core principle
-The repository must make model limitations visible and enforceable. If a claim cannot be traced, it is not safe to generate from it.
+**G2:** forming / structurally differentiated but incomplete.
+
+**G3:** fully modeled / operationally recoverable and artifact-verified.
+
+A G3 model is not automatically canon. A canon claim is not automatically well understood.
+
+## Historical material
+_ARCHIVE_PRE_RESET_2026-10-06/ remains preserved. Historical documents are evidence and are being atomized into the new graph.
+
+The old control surface is historical evidence too. Its mistakes are not silently erased.
+
+## Immediate blocker
+The chapter/prose layer cannot be honestly completed from summaries or remembered drafts.
+
+**Actual final/current chapter texts for Chapters 1–7 are required.**
+
+See INP-16 for the exact input gate.
+
+## Non-negotiable
+If the source is missing, the record says UNKNOWN.
+
+If the model is incomplete, the grade says G1/G2.
+
+If a dependency changed, the dependent becomes STALE.
+
+If a release fails a gate, it is not released.
