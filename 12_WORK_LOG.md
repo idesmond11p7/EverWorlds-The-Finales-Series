@@ -1,0 +1,31 @@
+# Work Log
+
+[ID: WRK-12]
+[STATUS: ACTIVE / EXECUTION HISTORY]
+[LAST-UPDATED: 2026-10-06 | TIME: UNKNOWN]
+[UPSTREAM: CG-00, DEC-05]
+[DOWNSTREAM: HND-15, AUD-14]
+
+## Purpose
+Record what actually happened during work, not what was intended.
+
+## Required event
+WORK-ID
+DATE
+TIME
+EXACT-MOMENT
+INTENT
+TARGET-ID
+SOURCES-READ
+QUOTES-EXTRACTED
+DECISIONS-MADE
+CHANGES
+INVALIDATED
+GRADE-CHANGES
+DEPENDENTS-MARKED-STALE
+VERIFICATION
+RESULT
+NEXT-ACTION
+
+## Rule
+No "completed" statement without a concrete artifact or verification result.
