@@ -23,6 +23,9 @@ Every active module must expose:
 [EVIDENCE-STATE]
 [OPERATIONAL-STATE]
 
+## Current cleanup rule
+Legacy documents are not assumed clean. Roleplay research, experimental files, raw idea dumps, prose research, and canon masters are each audited for authority leakage, duplicate definitions, unsupported inference, and stale terminology before their information is promoted.
+
 ## Dependency propagation
 When A changes a fact consumed by B, B becomes STALE. A change is incomplete until affected dependents are either rechecked or explicitly quarantined.
 
