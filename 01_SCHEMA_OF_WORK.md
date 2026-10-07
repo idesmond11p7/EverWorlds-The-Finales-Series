@@ -2,7 +2,7 @@
 
 [ID: SCH-01]
 [STATUS: ACTIVE / MASTER ROUTER]
-[LAST-UPDATED: 2026-10-06 | TIME: UNKNOWN]
+[LAST-UPDATED: 2026-10-07 | TIME: 09:43+01:00]
 [UPSTREAM: CG-00]
 [DOWNSTREAM: ALL]
 
@@ -33,6 +33,45 @@ CLN-18 DOCUMENT CLEANUP / CLASSIFICATION
 ## Atomicity rule
 A module is a reusable information surface, not a topic bucket. One concept may have records across source, quote, model, canon, chapter, and prose modules.
 
+## User-statement integrity rule
+For materially meaningful user input:
+1. Preserve the exact user wording before interpretation.
+2. Split multi-part input into distinct statements/clauses when meaningfully separable.
+3. Preserve negations, exceptions, contrasts, corrections, temporal qualifiers and emphasis.
+4. Classify each statement before compressing it.
+5. Answer each material statement or explicitly state why it is unresolved.
+6. Never allow an assistant paraphrase to silently replace the original user statement.
+7. If voice/transcription is ambiguous, preserve the raw wording and mark the interpretation UNKNOWN rather than silently normalizing meaning.
+
+Minimum statement classes:
+USER-FACT, USER-CONSTRAINT, USER-REQUEST, USER-DECISION, USER-CORRECTION, USER-RETRACTION, USER-QUESTION, USER-HYPOTHESIS, HISTORICAL-STATE, ASSISTANT-INFERENCE, UNKNOWN.
+
+## State hierarchy
+Persistence priority:
+1. Fundamental project facts, ontology, locked constraints and durable operating rules.
+2. Historical decisions, rejected paths and provenance.
+3. Current architecture/state.
+4. Current drafts and production plans.
+5. Temporary ideation.
+
+Lower-level material may be superseded without erasing historical evidence. Recency alone never outranks authority or persistence class.
+
+## Contradiction rule
+A contradiction is a state transition problem, not permission to guess.
+Record:
+- earlier statement;
+- later statement;
+- exact source/quote;
+- chronology;
+- whether the later statement corrects, supersedes, qualifies or merely conflicts;
+- affected dependents.
+Unresolved conflicts remain CONFLICTED/UNKNOWN and block dependent promotion where necessary.
+
+## Memory firewall
+Stored, remembered, inferred, current, authoritative and verified are separate states.
+A familiar assistant recollection is never evidence by itself.
+No generation claim may be promoted from memory-only material.
+
 ## Mental-model axis
 Every important record receives G1, G2, or G3:
 - G1 = one-dimensional / flat / collapsed.
@@ -42,7 +81,7 @@ Every important record receives G1, G2, or G3:
 GRADE IS NOT CANONICITY.
 
 ## Evidence axis
-SOURCE / AUTHOR / VERIFIED / DERIVED / PROVISIONAL / RECONSTRUCTION / RETRACTED / UNKNOWN.
+SOURCE / AUTHOR / VERIFIED / DERIVED / PROVISIONAL / RECONSTRUCTION / RETRACTED / UNKNOWN / CONFLICTED.
 
 ## Operational axis
 UNUSABLE / REFERENCE-ONLY / OPERATIONAL / VERIFIED-IN-USE.
