@@ -2,8 +2,8 @@
 
 [ID: QTE-04]
 [STATUS: ACTIVE / EXACT-LANGUAGE MEMORY]
-[LAST-UPDATED: 2026-10-06 | TIME: UNKNOWN]
-[UPSTREAM: SRC-03]
+[LAST-UPDATED: 2026-10-07 | TIME: 09:43+01:00]
+[UPSTREAM: SRC-03, SCH-01]
 [DOWNSTREAM: MMG-06, DEC-05, CHR-09, PRO-10]
 
 ## Function
@@ -17,6 +17,8 @@ Q-R = quoted research/source material.
 
 ## Q-U rule
 Copy the user's wording exactly. Store date/time/context when available. Never replace it with a cleaner paraphrase.
+
+For multi-part voice input, preserve each materially meaningful statement separately where necessary. Do not discard short clauses because they appear conversational, repetitive, emotional, corrective or grammatically incomplete.
 
 ## Q-A rule
 Assistant-retained wording is explicitly marked as assistant-origin. It can guide retrieval but cannot become user canon merely because the assistant remembers it.
@@ -39,3 +41,6 @@ STATUS
 
 ## Retrieval principle
 If a complex idea has a memorable exact formulation, preserve the formulation and link the expanded model to it. The quote is the handle; the model is the structure.
+
+## Answer-alignment rule
+When a user explicitly says something like “give me exactly what I said,” the exact quote is the primary retrieval anchor. The response must answer that quoted statement rather than a generalized interpretation of the surrounding conversation.
