@@ -28,7 +28,7 @@ Opening:
 > "I woke up before my alarm."
 
 Ending:
-> "And this time, he knew the voice wasn't his mother's."
+> "And slept."
 
 ## Story-state extraction
 The manuscript opens with Jonah waking at 6:17, checking the room and finding no immediate anomaly.
