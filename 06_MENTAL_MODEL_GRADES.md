@@ -2,9 +2,9 @@
 
 [ID: MMG-06]
 [STATUS: ACTIVE / GRADE CONTROL]
-[LAST-UPDATED: 2026-10-06 | TIME: UNKNOWN]
-[UPSTREAM: SRC-03, QTE-04, DEC-05]
-[DOWNSTREAM: CAN-07, IDE-08, CHR-09, PRO-10, PRO-10]
+[LAST-UPDATED: 2026-10-07 | TIME: 09:43+01:00]
+[UPSTREAM: SRC-03, QTE-04, DEC-05, SCH-01]
+[DOWNSTREAM: CAN-07, IDE-08, CHR-09, PRO-10]
 
 ## Purpose
 Measure whether the assistant actually possesses a structured mental model rather than merely a fluent description.
@@ -55,3 +55,7 @@ G3 → lower grade occurs when a contradiction, missing dependency, or failed ap
 ## Grade is independent of truth
 G3/PROVISIONAL means "well understood, not yet canon."
 G1/LOCKED means "canonically fixed, poorly understood."
+
+## Retrieval-grade rule
+A record cannot be treated as fully operational merely because it is stored.
+For G3, the system must be able to recover the exact source/quote, explain the model, distinguish it from adjacent concepts, and apply it without importing unsupported assumptions.
