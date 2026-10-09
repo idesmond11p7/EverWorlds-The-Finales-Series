@@ -8,6 +8,28 @@
 
 This is the mandatory bridge between sessions. Read the current memory bridge and workflow decision before constructing another chapter prompt. Do not rely on a chat summary as the only recovery path.
 
+## Latest touch — operationalize Gemini master-prompt memory (2026-10-09)
+
+The author rejected the initial memory update as insufficient: “you'll have to put in extra more than that”. In response, created the detailed execution standard 21_GEMINI_MASTER_PROMPT_PROTOCOL.md (ID GMP-21) and routed it through the memory bridge, document link map, source/quote/decision ledgers, and source register.
+
+GMP-21 defines the role split and a repeatable procedure for source recovery, chronology reconstruction, draft-specific diagnosis, public research, full context transfer to Gemini, a complete Chapter 6-style creative operating brief, preflight acceptance gates, output requirements, and verified handoff. It documents what each prompt section must do, not only its heading. It explicitly records that the original Chapter 6 prompt excerpt remains partial and the new protocol is G2 until tested against a complete real chapter task.
+
+Files touched in this pass:
+- Created 21_GEMINI_MASTER_PROMPT_PROTOCOL.md.
+- Updated 09_MEMORY_BRIDGE.md.
+- Updated 07_DOCUMENT_LINK_MAP.md.
+- Updated 03_SOURCE_LEDGER.md.
+- Updated 04_QUOTE_LEDGER.md.
+- Updated 02_DECISION_LEDGER.md.
+- Updated 01_SOURCE_REGISTER.md.
+- Updated this handoff.
+
+New protocol commit: 158a44af4ad09c37fe77ed7acdd5a442afb096d7.
+
+Verification status: pending fetch-back verification after these routed updates complete.
+
+Next safe action: apply GMP-21 to the actual next Gemini prompting task after retrieving its authoritative manuscript, master state, previous-chapter handoff, timeline and canon dependencies. Research actual problems; do not draft from a missing/ambiguous manuscript; never assume Gemini can access private project links; never claim the message was delivered without tool confirmation.
+
 ## Current session — workflow correction and durable memory
 
 DATE: 2026-10-09
