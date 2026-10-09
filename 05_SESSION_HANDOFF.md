@@ -1,81 +1,98 @@
 # Session Handoff / Last Touch Record
 
 [STATUS: ACTIVE — MUST UPDATE BEFORE SESSION END]
-[LAST_TOUCH: 2026-10-09 11:15+01:00]
-[MUST_READ_NEXT: 00_CONTROL_GATE.md → this file → 13_PROSE_PERCEPTION_SOUND_WORLD_DEPTH_CHECKPOINT.md]
-[CURRENT_MODE: RESEARCH PAUSED AT BUFFER STOP; RESEARCH NOT COMPLETE]
+[LAST_TOUCH: 2026-10-09 UNKNOWN]
+[MUST_READ_NEXT: 00_CONTROL_GATE.md → this file → 09_MEMORY_BRIDGE.md → 02_DECISION_LEDGER.md → 04_QUOTE_LEDGER.md]
+[CURRENT_MODE: GEMINI MASTER-PROMPT WORKFLOW RECORDED; CHAPTER 8 WORK NOT EXECUTED IN THIS HANDOFF]
 [AUTHORITATIVE_REPO: idesmond11p7/EverWorlds-The-Finales-Series]
 
-This is the mandatory bridge between sessions. Read the checkpoint in full before continuing this research. Do not rely on a chat summary as the only recovery path.
+This is the mandatory bridge between sessions. Read the current memory bridge and workflow decision before constructing another chapter prompt. Do not rely on a chat summary as the only recovery path.
 
-## Current session
+## Current session — workflow correction and durable memory
+
 DATE: 2026-10-09
-TIME: 11:15+01:00
+TIME: UNKNOWN
 
-## Exact task completed
-Created a durable research checkpoint for the emerging prose system: perceptual completeness, visual dissonance and spatial anchoring, conscious/automatic cognition, soundscape and acoustic geography, textual prosody, and world depth/game-ness. Updated this handoff and the decision ledger to route future work through the checkpoint.
+### Exact task completed
+The user identified “EVERWORLDS: THE FINALES — CHAPTER 6 — MASTER GEMINI PRODUCTION PROMPT” (header: “Paste October 02, 2026 - 1:54PM”) as the benchmark for future prompts and corrected the assistant's role: its job is to master-prompt Gemini. Gemini cannot access locked project GitHub links in the user's current workflow; all necessary project context must be embedded in the prompt itself. Public research links must be accessible to Gemini and directly connected to concrete manuscript diagnosis.
 
-## Files touched
-- Created `13_PROSE_PERCEPTION_SOUND_WORLD_DEPTH_CHECKPOINT.md`.
-- Updated `02_DECISION_LEDGER.md`.
-- Updated `05_SESSION_HANDOFF.md`.
+The durable rule is recorded in 09_MEMORY_BRIDGE.md, the decision ledger, quote ledger, source ledger, and source register.
 
-## Sources read this session
-- `00_CONTROL_GATE.md`
-- `01_SOURCE_REGISTER.md`
-- `02_DECISION_LEDGER.md`
-- `04_QUOTE_LEDGER.md`
-- `05_SESSION_HANDOFF.md`
-- `06_RESEARCH_AND_RECOVERY_METHOD.md`
-- `07_DOCUMENT_LINK_MAP.md`
-- `08_SCHEME_OF_WORK.md`
-- `10_PROSE_ARCHITECTURE.md`
-- `README.md`
-- Author's direct statement identifying “The Mechanics of Morning” as the published finalized Chapter 6, plus the research synthesis recorded in the current session.
+### Locked operational takeaway
+The assistant owns source recovery, continuity reconstruction, canon/unknown boundaries, research, prompt architecture, and preflight. Gemini is the writing/execution model. Each prompt must be a self-contained creative operating brief, not a generic checklist. Transfer Chapter 6's prompting methodology—not its chapter-specific plot or timeline—to the chapter being written.
 
-## New facts / state corrections
-- Chapter 6 (“The Mechanics of Morning”) is author-confirmed published final. This supersedes the older handoff's statement that the exact final Chapter 6 was not established. That older statement remains historically accurate for the earlier session, not current status.
-- Chapter 6's successful execution of its intended goal must not be conflated with the broader finding that its method alone may not create a complete story-wide audio/video and cognitive experience.
-- The new research checkpoint is explicitly provisional. It is a buffer stop, not a finished theory, locked canon, or chapter-drafting authorization.
-- Research work must continue through a traceable mechanism-to-test chain, not as disconnected notes.
-- A connected GitHub repository search did not locate a repository named TypeShift. The checkpoint has been saved in this verified authoritative repository so the work is preserved, but no claim is made that a separate TypeShift destination was updated.
+The production brief must make the reader-experience/rendering model operational: physical action and consequence, stable spatial relations, attention, sensory/environmental behaviour, character cognition, POV epistemic limits, layered plot and worldbuilding, elastic prose modes, intensity control, and anti-generic-AI guardrails. It must also preserve that chapter's actual chronology, dramatic job, canon, and unresolved facts.
 
-## Current mental model
-Working synthesis: Chapter 6 mastered much of “make the reader inhabit the journey.” The broader prose system must investigate how to make the reader inhabit the mind, body, space, soundscape, social field, and world system together.
+Require work on the actual manuscript when correction is requested. Research must support specific craft recommendations; it cannot be decorative or presented as universal law. Never point Gemini to inaccessible private project records. Never claim a prompt was sent into Gemini unless an actual connected tool successfully sends it.
 
-Key modules in the checkpoint:
-- Perceptual anchoring: stabilize scene geometry before increasing visual density.
-- Cognitive layering: distinguish automatic registration, implicit appraisal, conscious interpretation, verbal thought, and action; do not turn all cognition into explicit monologue.
-- Acoustic field: model source, location, distance, masking, attention, inference, and consequence.
-- Textual prosody: syntax, punctuation, grouping, stress, pauses, and voice affect the reader's implicit acoustic experience.
-- World depth: experienced scale comes from independent, explorable systems, not lore quantity alone.
+### Files touched
+- 09_MEMORY_BRIDGE.md — added the locked Gemini production-prompt workflow and Chapter 6 benchmark method.
+- 03_SOURCE_LEDGER.md — registered the supplied Chapter 6 prompt excerpt and the user's workflow correction with provenance limits.
+- 01_SOURCE_REGISTER.md — added a provenance record for the prompt.
+- 04_QUOTE_LEDGER.md — preserved the user's exact correction and the prompt's experiential-rendering principle.
+- 02_DECISION_LEDGER.md — recorded the locked role split and prompt-construction rules.
+- 05_SESSION_HANDOFF.md — this handoff update.
 
-These are provisional synthesis, not universal laws. Checkpoint records failure conditions and verification tests.
+### Git commits created
+- Memory bridge: b21c663fcb8dbd87056a6773bd963197a673b0bf
+- Source ledger: c2ba7297addd50f67dfb88c7afde82dd6cff98ed
+- Quote ledger: bc28a32aa1c89f4b35babaf9b61fce539b7a08c9
+- Decision ledger: 46c98f0dec0414ce60788c5394eb3e2e22e513a9
+- Source register: 16914678b4e5d8b4335d9c583f6bc2df573e9dc2
 
-## Research trace / limitations
-The previous research batch covered spontaneous thought, visual working memory and object/location binding, change blindness, auditory scene analysis, masking, localization, reverberation, auditory imagery, literary soundscapes, implicit prosody, embodied reading, and game-world scale/environmental storytelling.
+### Source/provenance limitation
+The user pasted a visible excerpt of the Chapter 6 prompt and said it was the prompt that made Chapter 6 a masterpiece. The excerpt in this conversation ends mid-section; a complete, independently archived copy of every original line has not been established. The workflow rules are recorded from the author's explicit correction and the supplied excerpt; do not pretend the full source file has been preserved.
 
-The checkpoint is not yet a complete bibliography. Exact sources, stable URLs/DOIs, claims supported, limitations, and verification status still need to be registered before individual research claims are treated as fully sourced. Research remains OPEN.
+### What this update does NOT establish
+- It does not mean a message was sent to Gemini. No direct Gemini messaging connector was available in this session.
+- It does not mean Chapter 8 has been repaired or its production prompt finalized.
+- It does not authorize carrying Chapter 6 plot, timeline, or chapter purpose into Chapter 8.
+- It does not make unverified supernatural/canon mechanics known.
+- It does not close the separate prose-perception/sound/world-depth research checkpoint.
 
-## What is NOT established
+### Next safe action
+When Chapter 8 prompt work resumes:
+1. Read 00_CONTROL_GATE.md, this handoff, 09_MEMORY_BRIDGE.md, 02_DECISION_LEDGER.md, 04_QUOTE_LEDGER.md, and 07_DOCUMENT_LINK_MAP.md.
+2. Read the active Chapter 8 master state and the actual draft/manuscript, plus the preceding chapter's locked ending and relevant canon dependencies.
+3. Reconstruct exact chronology and reconcile Chapter 8's character/exploration architecture with the locked Chapter 8 “Power” plotline. Do not let one silently replace the other.
+4. Research relevant prose/plot mechanisms using public academic or otherwise credible sources; verify source details and links; connect findings to specific defects in the draft.
+5. Build a comprehensive, self-contained Gemini master production prompt modeled on Chapter 6's method, with Chapter 8's own facts and purpose. Embed every fact Gemini needs; never rely on its access to private GitHub links.
+6. Audit for chronology, source authority, canon boundaries, full context transfer, actual-manuscript specificity, and concrete deliverables.
+7. If direct Gemini messaging remains unavailable, do not claim the prompt was sent. Complete the preparation possible and clearly distinguish a paste-ready prompt from a successfully delivered message.
+8. Fetch modified repository documents back to verify persistence and update this handoff after any further meaningful work.
+
+---
+
+## Previous checkpoint — prose perception/sound/world-depth research (2026-10-09)
+
+The research described below remains open and provisional. This is retained from the previous handoff so it is not lost when the current workflow correction becomes the latest handoff.
+
+### Exact task completed at that checkpoint
+Created 13_PROSE_PERCEPTION_SOUND_WORLD_DEPTH_CHECKPOINT.md as a durable research checkpoint for the emerging prose system: perceptual completeness, visual dissonance and spatial anchoring, conscious/automatic cognition, soundscape and acoustic geography, textual prosody, and world depth/game-ness. Updated that handoff and the decision ledger to route future work through the checkpoint.
+
+### Previous sources and context
+At that earlier checkpoint, the sources read included 00_CONTROL_GATE.md, 01_SOURCE_REGISTER.md, 02_DECISION_LEDGER.md, 04_QUOTE_LEDGER.md, 05_SESSION_HANDOFF.md, 06_RESEARCH_AND_RECOVERY_METHOD.md, 07_DOCUMENT_LINK_MAP.md, 08_SCHEME_OF_WORK.md, 10_PROSE_ARCHITECTURE.md, README.md, and the author's direct statement identifying “The Mechanics of Morning” as the published finalized Chapter 6, plus the research synthesis then discussed.
+
+### Previous confirmed and provisional states
+- Chapter 6 (“The Mechanics of Morning”) is author-confirmed published final. This supersedes the older handoff's statement that the exact final Chapter 6 was not established. That older statement remains historical, not current status.
+- Chapter 6's successful execution of its intended goal is separate from the author's concern that its method alone may be incomplete at story-wide scale.
+- The research checkpoint is explicitly provisional: a buffer stop, not a finished theory, locked canon, or chapter-drafting authorization.
+- Research must continue through a traceable mechanism-to-test chain, not disconnected notes.
+- A connected GitHub repository search did not locate a repository named TypeShift. The checkpoint was saved in this verified repository; do not claim that a separate TypeShift destination was updated.
+
+### Previous unresolved research questions
 - A final unified theory of prose perception/sound/world depth.
 - Which proposed craft rules survive passage-level stress tests.
 - A complete durable research bibliography with exact citations and limitations.
 - The identity/write target for any separate TypeShift destination.
 - Any new story canon arising from these craft hypotheses.
 
-## Current blocker / safe boundary
-Do not declare the research finished. Do not promote provisional synthesis into canon or universal rules. Do not resume chapter drafting as an assumed next step; the current task is to continue research from this buffer stop.
-
-## Next safe action
-At resume:
-1. Read `00_CONTROL_GATE.md`, this handoff, and `13_PROSE_PERCEPTION_SOUND_WORLD_DEPTH_CHECKPOINT.md` in full.
+### Resume protocol for that separate research track
+If the author explicitly resumes prose-perception/sound/world-depth research:
+1. Re-read 13_PROSE_PERCEPTION_SOUND_WORLD_DEPTH_CHECKPOINT.md in full.
 2. Recheck Git state and the current versions of the checkpoint, quote ledger, decision ledger, source register, and prose architecture.
 3. Continue external research in focused batches, beginning with claims that most affect implementation: auditory scene organization/localization/masking; implicit cognition and attention; spatial scene construction; and world scale/environmental storytelling.
 4. For each source, record title, author, publication/date, stable URL/DOI, exact claim supported, method/sample where relevant, limitations, and confidence.
 5. Translate only supported mechanisms through: QUESTION → SOURCE/METHOD → MECHANISM → OBSERVABLE EFFECT → LIMITATIONS → PROSE TRANSLATION → IMPLEMENTATION RULE → FAILURE CONDITION → VERIFICATION TEST → DEPENDENCIES.
-6. Stress-test the resulting rules against actual passages before promoting them into `10_PROSE_ARCHITECTURE.md`.
-7. Update this handoff at the next pause/end of session.
+6. Stress-test the resulting rules against actual passages before promoting them into 10_PROSE_ARCHITECTURE.md.
 
-## Required handoff format
-LAST DATE / TIME → EXACT TASK → FILES TOUCHED → SOURCES READ → NEW FACTS → DECISIONS → INVALIDATED CLAIMS → OPEN QUESTIONS → NEXT SAFE ACTION.
