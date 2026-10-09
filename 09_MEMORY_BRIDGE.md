@@ -54,3 +54,18 @@ Transfer its *method*—not its plot, timeline, or chapter function—to later c
 
 ### Stop condition
 If the current manuscript, source version, timeline, or necessary canon cannot be verified, STOP the dependent claim or operation. Do not compensate for missing project context with fluent reconstruction, and do not make the user repeatedly re-explain a rule already recorded here.
+
+
+## Operational prompt protocol — GMP-21 (2026-10-09)
+
+The role split above is necessary but not sufficient. Before any chapter-prompt task, read the complete current file 21_GEMINI_MASTER_PROMPT_PROTOCOL.md. It defines an executable process and acceptance gates rather than a reminder.
+
+The Chapter 6 master prompt must be carried forward as a **full creative operating brief**. Do not compress it into a checklist of qualities. Explain the novel's exact context, handoff, chapter purpose, timeline, POV/epistemic limits, character psychology, world behaviour, prose modes, rendering shorthand, attention, space, physical response, intensity/contrast, research applications, draft-specific defects, prohibitions, and concrete execution contract.
+
+The prompt must tell Gemini not only what to do but how the relevant parts interact, what each principle is NOT, what failure looks like, and how to apply it to the actual scenes. Include every story fact needed for correct work directly in the prompt; private GitHub links never substitute for context transfer.
+
+Mandatory order: recover sources/manuscript → reconstruct timeline/handoff → separate fact/inference/unknown → diagnose actual plot/prose → research and verify mechanisms → translate findings to concrete edits → build self-contained master prompt → preflight every gate → deliver honestly → record changes and handoff.
+
+A prompt is not ready merely because it is long. It fails if it contains the wrong timeline, guesses at canon, misses a locked plot obligation, names craft terms without explaining them, cites research without applying it, describes a manuscript not actually recovered, or asks only for critique when a correction was requested.
+
+GMP-21 is the operational reference; this bridge is the entry point. Protocol grade remains G2 until successfully applied and audited against a complete actual chapter task. The full original Chapter 6 prompt remains only partially recovered; never claim that the whole original was archived.
