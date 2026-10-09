@@ -78,3 +78,18 @@ A document is not promoted merely because it sounds plausible, appears newer, or
 - SUPERSEDED: Generic critique-only prompts; prompts that direct Gemini to access inaccessible private GitHub records for required continuity.
 - CONFIDENCE: Author assessment and role split = CONFIRMED; full prompt artifact = PARTIAL in current conversation.
 - VERIFICATION STATUS: Workflow rule recorded in memory bridge and decision/quote ledgers; original prompt still not independently archived as a complete standalone file.
+
+
+## Operational prompt protocol — GMP-21
+
+- SOURCE-ID: GMP-21
+- ORIGINAL PATH/NAME: 21_GEMINI_MASTER_PROMPT_PROTOCOL.md
+- SOURCE TYPE: WORKING_PROTOCOL / DERIVED OPERATIONALIZATION
+- DATE: 2026-10-09
+- EXACT PROVENANCE: Created from the author's direct assessment of the supplied Chapter 6 Master Gemini Production Prompt as a successful benchmark, the exact role correction, and the later instruction that the memory record needed more depth.
+- WHAT IT ESTABLISHES: A detailed repeatable method for source recovery, chronology reconstruction, research-driven draft diagnosis, context-complete Gemini prompting, and preflight verification.
+- WHAT IT DOES NOT ESTABLISH: Plot canon; a complete verbatim source copy of the original Chapter 6 prompt; proven effectiveness on a future task before use.
+- DEPENDENCIES: SRC-WORKFLOW-2026-10-09-01; DEC-WORKFLOW-2026-10-09-01; DEC-GMP-21-2026-10-09; Q-U-WORKFLOW-DEPTH-2026-10-09-01.
+- AFFECTED DOCUMENTS: 09_MEMORY_BRIDGE.md; 07_DOCUMENT_LINK_MAP.md; 05_SESSION_HANDOFF.md; all future chapter production prompts.
+- CONFIDENCE: The protocol content is verified to be committed; effectiveness is not yet artifact-tested.
+- VERIFICATION: Fetch the created/updated GitHub files back; do not infer success from the write request alone.
