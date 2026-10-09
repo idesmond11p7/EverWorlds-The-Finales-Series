@@ -1,7 +1,7 @@
 # Decision Ledger
 
 STATUS: ACTIVE — CHANGE CONTROL
-LAST VERIFIED: 2026-10-06
+LAST VERIFIED: 2026-10-09
 
 This is the chronological record of decisions and corrections. It is not a summary.
 
@@ -39,10 +39,6 @@ AFFECTS: every chapter, canon record, research record, plan, and production work
 
 LINKED MEMORY: Opaque existed to prevent this class of memory/provenance failure; the replacement must reproduce that function through explicit source tracking and execution gates.
 
-## Correction policy
-Never delete a wrong decision merely to make the repository look clean. Mark it RETRACTED, preserve the original wording, record why it failed, and prevent reuse.
-
-
 ## Research buffer-stop decision — 2026-10-09
 TIME: 11:15+01:00 (session time supplied by runtime; preserve this precision only for this entry).
 
@@ -77,3 +73,41 @@ WHAT THIS AFFECTS: 05_SESSION_HANDOFF.md; 10_PROSE_ARCHITECTURE.md when evidence
 LINKED MEMORY / PRIOR DECISION: 2026-10-06 documentation reset and mandatory evidence graph; 04_QUOTE_LEDGER.md exact-language retrieval rule.
 
 REQUIRED DOCUMENT UPDATES: Create the checkpoint; update this ledger; update 05_SESSION_HANDOFF.md; verify the created checkpoint and both updated files by fetching them back.
+
+## DEC-WORKFLOW-2026-10-09-01 — Gemini master-prompt role split
+
+DATE: 2026-10-09
+TIME: UNKNOWN
+
+CONTEXT / EXACT MOMENT: User supplied the Chapter 6 Master Gemini Production Prompt and corrected the assistant's failed Chapter 8 prompt strategy.
+
+USER INTENT: Make the assistant reliably reproduce the comprehensive production-prompt methodology that the user credits with Chapter 6's success. Gemini cannot access the locked project GitHub links in the user's workflow, so the prompt must carry the required context directly.
+
+EXACT USER QUOTE: “You keep forgeting THAT YOUR JOB is to PROMPT gemini ...Gemini can't access locked LINKS like github only research papers and other surface things YOU didn't and you keep leading gemini astray your supposed to be a master prompter”
+
+DECISION:
+1. The assistant owns source recovery, continuity reconstruction, contradiction detection, external research, and prompt construction.
+2. Gemini receives a self-contained chapter-specific master production prompt. Never rely on Gemini opening inaccessible private GitHub records to discover canon or chronology.
+3. Use the Chapter 6 production prompt as the methodological benchmark: complete creative brief; exact prior-chapter handoff; explicit POV/epistemic boundaries; character, setting, period, prose-rendering and layered-story architecture; research tied to concrete manuscript problems; and concrete execution requirements.
+4. Transfer the method, not Chapter 6's chapter-specific content. Each chapter retains its own locked purpose, chronology, plot, and unresolved facts.
+5. Prompt for actual work on the supplied manuscript, not a generic editorial checklist, outline, or advice-only response when substantive correction is requested.
+6. Cite public, accessible research sources and state what they support and what they do not. The prompt must include enough of the research's relevant meaning to remain actionable without private sources.
+7. Preflight every prompt for self-containment, timeline accuracy, source-state fidelity, chapter-specific purpose, no invented canon, accessible source links, and a complete deliverable.
+8. Never claim to have sent a prompt into Gemini unless an actual connected tool successfully performs that action. If there is no connector, be direct about the limit and still complete the supported preparation rather than pretending a handoff occurred.
+
+SOURCE: SRC-WORKFLOW-2026-10-09-01; Q-U-WORKFLOW-2026-10-09-01; user-pasted Chapter 6 production-prompt excerpt.
+
+STATUS: LOCKED WORKFLOW DECISION.
+
+WHAT THIS INVALIDATES:
+- Generic prompts that merely enumerate desired qualities.
+- Prompts that outsource project continuity retrieval to Gemini through inaccessible GitHub links.
+- Research lists that are not connected to diagnosed defects in the actual chapter.
+- Critique-only outputs where the requested job is substantive revision.
+- Carrying chapter-specific plot or chronology from Chapter 6 into later chapters merely because the production method is reused.
+
+WHAT THIS AFFECTS: 09_MEMORY_BRIDGE.md; 04_QUOTE_LEDGER.md; 05_SESSION_HANDOFF.md; all future Gemini chapter-production prompts and associated continuity/research audits.
+
+LINKED MEMORY / PRIOR DECISION: 2026-10-06 reset decision; mandatory source/provenance workflow; 04_WORK_LOOP.md; 09_MEMORY_BRIDGE.md.
+
+REQUIRED DOCUMENT UPDATES: Record source provenance; preserve exact user correction; update the memory bridge; update the session handoff; fetch the modified records back and verify.
