@@ -44,3 +44,13 @@ If a document has no source/decision dependency, it cannot be treated as authori
 - Decision record: `02_DECISION_LEDGER.md`, “Research buffer-stop decision — 2026-10-09”.
 - Source record: `01_SOURCE_REGISTER.md`, “Research checkpoint — RCH-2026-10-09-01”.
 - Any future validated upgrade to `10_PROSE_ARCHITECTURE.md` must cite its supporting research source records and include a passage-level verification test.
+
+
+## Gemini master-prompt workflow routing — added 2026-10-09
+
+- GMP-21: 21_GEMINI_MASTER_PROMPT_PROTOCOL.md is the active operational standard for constructing chapter-specific Gemini production prompts.
+- Read it after 00_CONTROL_GATE.md, 05_SESSION_HANDOFF.md, and 09_MEMORY_BRIDGE.md; then trace the target chapter's source, master state, previous-chapter handoff, timeline, decision ledger, canon dependencies, and actual manuscript.
+- This is an assistant-side recovery and execution protocol. It does not make the project repository accessible to Gemini. The prompt itself must embed the necessary project context.
+- Provenance: SRC-WORKFLOW-2026-10-09-01 and GMP-21. Decision: DEC-WORKFLOW-2026-10-09-01 plus its GMP-21 operationalization entry.
+- Acceptance condition: full creative operating brief, actual-draft diagnosis, public/accessible research tied to concrete corrections, correct chapter-specific purpose, and a passed self-containment/continuity audit.
+- The user's supplied Chapter 6 prompt is a partial source excerpt; method is author-approved, but the exact complete original artifact has not been recovered.
