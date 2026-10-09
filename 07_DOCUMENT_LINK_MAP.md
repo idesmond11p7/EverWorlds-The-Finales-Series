@@ -34,3 +34,13 @@ These are routing metadata, not prose.
 
 ## Failure condition
 If a document has no source/decision dependency, it cannot be treated as authoritative simply because it is newer.
+
+
+## Research checkpoint routing — added 2026-10-09
+
+- `13_PROSE_PERCEPTION_SOUND_WORLD_DEPTH_CHECKPOINT.md` is the central recovery anchor for the open research on perception, sound, textual prosody, visual coherence, and world depth.
+- Read it after `00_CONTROL_GATE.md` and `05_SESSION_HANDOFF.md`; read its listed dependencies before promoting claims.
+- Current grade: provisional synthesis / research open. Do not treat as story canon or a completed bibliography.
+- Decision record: `02_DECISION_LEDGER.md`, “Research buffer-stop decision — 2026-10-09”.
+- Source record: `01_SOURCE_REGISTER.md`, “Research checkpoint — RCH-2026-10-09-01”.
+- Any future validated upgrade to `10_PROSE_ARCHITECTURE.md` must cite its supporting research source records and include a passage-level verification test.
