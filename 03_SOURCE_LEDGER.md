@@ -78,3 +78,21 @@ A source identity remains UNKNOWN until the actual artifact, Git history, public
 - SUPERSEDED CLAIMS: The prior handoff's Chapter 6 manuscript-identity uncertainty is superseded by the author's direct confirmation in this session. Earlier historical record is retained as history.
 - CONFIDENCE: Author's Chapter 6 status statement = CONFIRMED; research framework = PROVISIONAL.
 - VERIFICATION STATUS: Checkpoint file and handoff/decision updates fetched back from GitHub successfully; bibliography still incomplete.
+
+
+## GMP-21 — Operational Gemini master-prompt protocol
+
+- SOURCE-ID: GMP-21
+- ORIGINAL-FILE: 21_GEMINI_MASTER_PROMPT_PROTOCOL.md
+- SOURCE-TYPE: WORKING_PROTOCOL / DERIVED OPERATIONALIZATION grounded in AUTHOR_STATEMENT and ORIGINAL_SOURCE excerpt
+- DATE: 2026-10-09
+- EXACT-PROVENANCE: Created after the author supplied the Chapter 6 Master Gemini Production Prompt excerpt, identified it as the successful benchmark, corrected the assistant's role, and then directed that the initial memory record was insufficient.
+- CLAIM: Future Gemini chapter prompts must be built through source/continuity recovery, research-driven actual-draft diagnosis, and construction of a self-contained creative operating brief with explicit acceptance gates.
+- CONTAINS: role split; Chapter 6 prompt architecture; source recovery loop; context-transfer requirements; narrative-job matrix; prompt section architecture; research trace; prose/diagnostic standards; preflight gates; failure-pattern safeguards; Chapter 8 case application; evidence and change-control rules.
+- DOES-NOT-CONTAIN: Story canon; the complete verbatim original Chapter 6 prompt; proof that the method alone caused any outcome; proof of successful use on a future chapter before application testing.
+- AUTHORITY: Author-approved workflow requirement + assistant-authored operationalization.
+- MODEL-GRADE: G2 pending full artifact recovery and successful artifact-level application.
+- EVIDENCE-STATE: ACTIVE PROTOCOL / PARTIAL SOURCE / DERIVED METHOD.
+- DEPENDENTS: 09_MEMORY_BRIDGE.md; 07_DOCUMENT_LINK_MAP.md; 01_SOURCE_REGISTER.md; 02_DECISION_LEDGER.md; 04_QUOTE_LEDGER.md; 05_SESSION_HANDOFF.md; all future chapter production prompts.
+- SUPERSEDES: Generic checklist-only prompts and prompts that expect Gemini to retrieve private GitHub context.
+- STATUS: ACTIVE — operational standard; source limits remain explicit.
