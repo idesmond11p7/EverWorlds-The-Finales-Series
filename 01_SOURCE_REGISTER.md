@@ -49,3 +49,18 @@ For every recovered source record:
 
 ## Recovery rule
 A document is not promoted merely because it sounds plausible, appears newer, or matches model memory. Promotion requires evidence.
+
+
+## Research checkpoint — RCH-2026-10-09-01
+
+- SOURCE-ID: RCH-2026-10-09-01
+- ORIGINAL PATH/NAME: 13_PROSE_PERCEPTION_SOUND_WORLD_DEPTH_CHECKPOINT.md
+- SOURCE TYPE: WORKING_PLAN / DERIVED SYNTHESIS (not VERIFIED_RESEARCH and not story canon)
+- DATE/TIME: 2026-10-09 11:15+01:00
+- EXACT PROVENANCE: Built from the author's current-session assessment of the published final Chapter 6 and the research synthesis already discussed in-session. It is a pause/recovery record, not a replacement for original research sources.
+- WHAT IT ESTABLISHES: Current research questions, provisional perception/sound/world-depth models, implementation hypotheses, failure conditions, verification tests, and the required continuation method.
+- WHAT IT DOES NOT ESTABLISH: A final theory, completed bibliography, locked fictional canon, validated universal prose rules, or an update to a separate TypeShift destination.
+- DEPENDENT DOCUMENTS: 05_SESSION_HANDOFF.md; 02_DECISION_LEDGER.md; 10_PROSE_ARCHITECTURE.md when findings are later validated and promoted.
+- SUPERSEDED CLAIMS: The prior handoff's Chapter 6 manuscript-identity uncertainty is superseded by the author's direct confirmation in this session. Earlier historical record is retained as history.
+- CONFIDENCE: Author's Chapter 6 status statement = CONFIRMED; research framework = PROVISIONAL.
+- VERIFICATION STATUS: Checkpoint file and handoff/decision updates fetched back from GitHub successfully; bibliography still incomplete.
