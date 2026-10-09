@@ -111,3 +111,39 @@ WHAT THIS AFFECTS: 09_MEMORY_BRIDGE.md; 04_QUOTE_LEDGER.md; 05_SESSION_HANDOFF.m
 LINKED MEMORY / PRIOR DECISION: 2026-10-06 reset decision; mandatory source/provenance workflow; 04_WORK_LOOP.md; 09_MEMORY_BRIDGE.md.
 
 REQUIRED DOCUMENT UPDATES: Record source provenance; preserve exact user correction; update the memory bridge; update the session handoff; fetch the modified records back and verify.
+
+
+## DEC-GMP-21-2026-10-09 — Operationalize the Chapter 6 master-prompt method
+
+DATE: 2026-10-09
+TIME: UNKNOWN
+
+CONTEXT: After the role split and high-level workflow were recorded, the author corrected that the memory update needed to contain more than the initial summary: “you'll have to put in extra more than that”.
+
+USER INTENT: Preserve a complete, operational method for producing the kind of chapter-specific Gemini production brief that the author identifies as successful for Chapter 6, so a later session can execute the method rather than merely repeat its headline.
+
+DECISION:
+1. Establish 21_GEMINI_MASTER_PROMPT_PROTOCOL.md (GMP-21) as the active execution standard.
+2. Preserve a full prompt architecture that includes project identity; exact handoff; chronology; chapter-specific dramatic job; layered goals; psychology; first-person epistemic limits; world behaviour; elastic prose modes; explained authorial shorthand; spatial/perceptual/cognitive rendering; physical response; contrast/intensity control; research and limitations; actual-draft diagnosis; hard constraints; execution steps; deliverables; and final audit.
+3. Require source-first recovery, actual-draft-specific critique, verified public research, full context transfer, and prompt acceptance gates.
+4. Treat the prompt as a local operational model, not a list of labels. For each core instruction, clarify what it means, what it is not, what it changes at the scene/sentence level, and how it can fail.
+5. Separate the author's confirmed method from the assistant's derived operationalization. The user-provided original prompt remains a partial excerpt; do not claim that the full original file has been archived.
+6. Keep the protocol at G2 until it is successfully applied to a complete real chapter task and its output is audited.
+7. Update memory bridge, document routing, source register, quote/decision provenance, and session handoff; verify all writes by fetching them back.
+
+SOURCE: User-pasted Chapter 6 production-prompt excerpt and exact follow-up “you'll have to put in extra more than that”; SRC-WORKFLOW-2026-10-09-01; GMP-21.
+
+STATUS: LOCKED WORKFLOW DECISION.
+
+WHAT THIS INVALIDATES:
+- Treating a role-split reminder as enough memory.
+- Treating a long list of stylistic desiderata as equivalent to a complete production model.
+- Shipping chapter prompts without a source, timeline, and manuscript audit.
+- Relying on Gemini to access the private project repository.
+- Declaring the protocol fully proven before artifact-level testing.
+
+WHAT THIS AFFECTS: All future Gemini chapter prompts; 09_MEMORY_BRIDGE.md; 07_DOCUMENT_LINK_MAP.md; 01_SOURCE_REGISTER.md; 03_SOURCE_LEDGER.md; 04_QUOTE_LEDGER.md; 05_SESSION_HANDOFF.md.
+
+LINKED MEMORY: GMP-21; DEC-WORKFLOW-2026-10-09-01; Q-U-WORKFLOW-DEPTH-2026-10-09-01.
+
+REQUIRED NEXT ACTION: Apply the complete protocol to the next actual chapter-prompt task only after source/version/timeline recovery; audit the result and then grade operational effectiveness.
