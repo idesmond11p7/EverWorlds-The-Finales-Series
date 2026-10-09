@@ -78,3 +78,21 @@ When a user explicitly says something like “give me exactly what I said,” th
 - LINKED-DECISIONS: DEC-WORKFLOW-2026-10-09-01
 - MODEL-GRADE: G2 pending recovery of complete original artifact and operational testing
 - STATUS: LOCKED AS A PROMPTING PRINCIPLE
+
+
+## Q-U-WORKFLOW-DEPTH-2026-10-09-01
+
+- QUOTE-ID: Q-U-WORKFLOW-DEPTH-2026-10-09-01
+- CLASS: Q-U
+- EXACT-TEXT: “you'll have to put in extra more than that”
+- SOURCE-ID: SRC-WORKFLOW-2026-10-09-01
+- DATE: 2026-10-09
+- TIME: UNKNOWN
+- CONTEXT: User rejected the initial memory update as insufficient and required deeper operational memory.
+- INTENT: Require more than a high-level role-split summary; preserve the actual method in a usable, testable protocol that can prevent recurrence.
+- WHAT-IT-ESTABLISHES: The memory must operationalize the entire Chapter 6 prompting method and its failure conditions, not merely state that the assistant is the master prompter.
+- WHAT-IT-DOES-NOT-ESTABLISH: Permission to claim complete recovery of the original prompt, or that a protocol is effective before it is applied to an actual task.
+- LINKED-CLAIMS: GMP-21; 09_MEMORY_BRIDGE.md
+- LINKED-DECISIONS: DEC-GMP-21-2026-10-09
+- MODEL-GRADE: G3 for the instruction's meaning; future protocol effectiveness remains unverified.
+- STATUS: LOCKED
