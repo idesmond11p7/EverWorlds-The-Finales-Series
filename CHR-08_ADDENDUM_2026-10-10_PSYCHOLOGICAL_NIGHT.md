@@ -256,3 +256,81 @@ Before accepting the architecture, answer:
 8. What practical constraint makes the final undertaking an adventure rather than a single instruction?
 9. What makes the ending psychologically resonant without being a perfect repetition of an earlier wound?
 10. Does every major arc beat have enough room to breathe, with later development deliberately left for later chapters?
+
+
+## 12. Author clarification — immature pre-simulation, identity liability, and emotional dissonance (2026-10-10)
+
+This section incorporates the latest author corrections. It supersedes any assistant interpretation that makes Ira too mature, too psychologically strong, or too capable too early.
+
+### 12.1 Developmental timing is a hard narrative constraint
+
+Chapter 8 does **not** show an established pre-simulation system, sophisticated metacognition, or a protagonist who can explain his own psychology. Those are later developments. The chapter shows the first awkward formation of a habit that may eventually become more capable.
+
+The sequence is:
+1. In private, Ira adopts an excessive, initially delusional version of hyper-discipline: if he can force himself to prepare and think ahead, perhaps he can stop making mistakes and avoid being hurt.
+2. He goes into a social interaction without a mature method.
+3. During the interaction—not as a fully formed plan before it—he remembers or activates that philosophy and decides to try predicting where the conversation may go.
+4. He makes a small prediction and chooses a response based on it.
+5. Sometimes the prediction works for a limited, concrete reason. This encourages him.
+6. Sometimes the prediction fails badly, misses a basic cue, or is made irrelevant by another person's independent choice. He may be teased, misunderstood, found interesting or strange, or simply surprised.
+7. He interprets these outcomes imperfectly. A win can feed overconfidence; a failure can make him rigid or embarrassed. The chapter does not resolve the method's limits.
+
+Do not turn this into a polished decision tree, a chess match, a series of perfect counterfactual branches, or a narrator explaining social psychology. It should feel like a teenager trying a new mental trick while still in the middle of living.
+
+### 12.2 Ira must remain emotionally young and psychologically unsettled
+
+The author explicitly rejects making Ira too mature, too strong, too hardened, or too articulate about his own inner mechanisms. His Gen Z background is not a command to make him thick-skinned, emotionally numb, or unshakable. Nor does the more flexible neurology of Ira's body grant instant competence.
+
+Jonah's learned defensive habits coexist with Ira's less-traumatized, more open, playful, curious disposition and instinctive way of responding. The resulting person is a synthesis. Do not mechanically alternate “Jonah thoughts” and “Ira thoughts,” and do not explain the synthesis to the reader as a clinical model.
+
+Emotions can hit Ira hard—sometimes more directly than Jonah expects—because the inherited disposition/body is less shaped by Jonah's history of trauma. The important effect is a felt mismatch: he may become excited, curious, embarrassed, amused, hurt, or pleased before his defensive expectations catch up. He notices the mismatch in an immediate, immature way and may try to prevent, hide, or correct it. That attempt can itself be clumsy or counterproductive.
+
+Do not confuse bodily response with psychological defeat. He can blush and still think; feel hurt and still joke; enjoy attention while distrusting it; feel curious and then withdraw. Let contradictory reactions coexist without immediately naming or resolving them.
+
+### 12.3 Gen Z background is a specific influence, not a superpower
+
+Jonah's origin-world generation can shape his familiar forms of irony, memes, internet cynicism, casual joking, and assumptions about what is shocking or socially legible. These habits may help him reframe an awkward moment, but they do not make him universally desensitized or resistant to stress. The face-to-face interaction is not automatically a “shield collapse” every time. Let the particular person, vulnerability, stakes, and bodily/social context determine what happens.
+
+The people Ira meets in the isekai's 2005-era Japanese setting do not share Jonah's generational background by default. Their humor, assumptions, and social habits must be designed as their own, not as contemporary Gen Z behavior in Japanese costumes. Avoid broad claims about all Japanese people; write specific people in specific situations.
+
+### 12.4 Paperwork as a concrete vulnerability, not an exposition dump
+
+The apartment opening should let Ira inspect or remember the official identity dossier associated with Ira Lowe. The current known record includes school/application papers, identification, address, school information, an “overseas transfer”/“independent curriculum” framing, and the application placard 1044. Chapter 7 shows an administrator asking “Overseas transfer track?” and Ira answering “Independent curriculum. Everything is in the dossier.”
+
+The author's latest direction is that the dossier's official background is bizarre enough that serious follow-up could expose how fragile the story is. This creates a practical secret: Ira cannot truthfully explain either his original life or the detailed history he is now expected to inhabit. He may need to keep answers short and ordinary because he does not know what further questions his cover story can survive.
+
+**Do not invent the dossier's exact contents as if they were already canon.** The scene architecture may propose a specific, legible discrepancy—such as an education-history page that uses an official-sounding “independent curriculum” category but does not give Ira a lived school history he can describe. Keep it clearly a designed scene choice until it is accepted. The psychological fact is locked; the exact documentary mechanics are not yet verified.
+
+The key is not that Ira understands immigration law or performs an expert forensic audit. He is a teenager who sees a stack of official papers and realizes he cannot answer ordinary follow-up questions about his own life. His fear can be partly accurate and partly catastrophized.
+
+### 12.5 Social realism and adult teasing
+
+The social dynamic must not use visual-novel seduction, femme-fatale banter, or adults treating a random sixteen-year-old as a romantic fantasy. Adult teasing, if used, should arise from the actual relationship and immediate behavior: amused recognition that he is trying too hard to sound grown, ordinary curiosity about a foreign-looking boy, practical concern, mild patronizing ease, or a dry joke. No one is required to comment on his appearance. No encounter should exist solely to admire him.
+
+A foreign-looking, androgynous boy may attract a glance or an uncertain assumption, but responses must vary. Someone may assume he speaks English; someone else may simply use Japanese; someone may be curious but avoid speaking; someone may be indifferent. If he answers in fluent Japanese, the response should be specific and proportionate—not a theatrical collective shock. His appearance is a factor in the interaction, not its entire purpose.
+
+Ira is sixteen. Keep teasing non-explicit and do not eroticize his body. A warm, amused adult may still be patronizing, distracted, matter-of-fact, or slightly awkward rather than sultry.
+
+### 12.6 Evidence and proposal boundary
+
+The author has delegated concrete scene design to the assistant. The architecture should therefore make real choices about route, activities, social participants, motives, prediction attempts, partial successes, failures, and the ending undertaking. These are proposals made under delegated authority, not recovered facts. Clearly separate:
+- existing canon/manuscript evidence;
+- the author's locked psychological constraints;
+- the assistant's chosen scene architecture;
+- details still requiring verification.
+
+Do not stop at an empty skeleton or return a menu of options instead of selecting a strong sequence. But do not label invented scene details as facts already present in the source.
+
+### 12.7 New rejection tests
+
+Reject the chapter plan or draft if:
+- Ira explains his own developmental model in polished adult language;
+- his social prediction begins as a fully developed system rather than an awkward attempt activated mid-interaction;
+- every prediction is correct, or every prediction fails;
+- the narrator treats every emotional response as something he can immediately diagnose;
+- his Gen Z background makes him immune to embarrassment or stress;
+- all local characters share Jonah's modern irony;
+- adults behave like anime seducers toward a sixteen-year-old;
+- the dossier is treated as proven fraudulent in a specific legal sense without evidence;
+- the scene ends with an arbitrary fetch quest or unrelated conspiracy;
+- the prose jumps ahead to later-stage pre-simulation, metacognition, or self-mastery.
