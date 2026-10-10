@@ -81,7 +81,7 @@ Latest author corrections supersede assistant interpretations that made Ira too 
 - Ira remains childish, emotionally intense, curious, inconsistent, and unable to explain every reaction. His less-traumatized, more open disposition and flexible neurology coexist with Jonah's cyberbullying-shaped learned defenses. Do not mechanically split them into two voices.
 - Gen Z irony is a background influence, not immunity to embarrassment or stress. Local people in the 2005-era Japanese isekai setting do not share Jonah's generational habits by default.
 - The identity dossier is a practical liability because Ira cannot explain the official history he is expected to inhabit. Exact document mechanics are not yet canon; use the active proposal carefully and never make an unsupported legal conclusion.
-- Chapter 8 remains the same Tuesday night and has no supernatural manifestation before after Chapter 20.
+- Chapter 8 remains the same Tuesday night and has no supernatural manifestation until after Chapter 20.
 - Current working files: CHR-08_ADDENDUM_2026-10-10_PSYCHOLOGICAL_NIGHT.md, CHR-08_SCENE_ARCHITECTURE_2026-10-10.md, CHR-08_GEMINI_MASTER_PROMPT_2026-10-10.md, LIT-17_SENSORY_COGNITIVE_PROSE_ENGINE.md, and 21_GEMINI_MASTER_PROMPT_PROTOCOL.md.
 - The full original Chapter 6 prompt has not been recovered; use the documented GMP-21 method and Chapter 6 function/rendering records without claiming missing text.
 
