@@ -147,3 +147,38 @@ WHAT THIS AFFECTS: All future Gemini chapter prompts; 09_MEMORY_BRIDGE.md; 07_DO
 LINKED MEMORY: GMP-21; DEC-WORKFLOW-2026-10-09-01; Q-U-WORKFLOW-DEPTH-2026-10-09-01.
 
 REQUIRED NEXT ACTION: Apply the complete protocol to the next actual chapter-prompt task only after source/version/timeline recovery; audit the result and then grade operational effectiveness.
+
+
+## Chapter 8 developmental correction and production package — 2026-10-10
+TIME: UNKNOWN
+
+CONTEXT: Author delegated scene architecture and Gemini master prompting after supplying the psychological and social skeleton. Several assistant interpretations had advanced Ira into a mature, over-capable social strategist.
+
+EXACT USER QUOTES:
+- “he starts with social interactions, and midway through the social interaction, he decides to switch on that philosophy and try to predict where an interaction can go.”
+- “he still feels childish, like Ira. If we jump to that level, we skipped over tons of character development”
+- “official background is completely ridiculous and absurd that if anyone with half a brain actually looks into it, the entire story falls apart.”
+- “Now it's your job. Now it's time for you to fill the flesh out.”
+
+DECISION:
+- Chapter 8 begins the hyper-discipline/pre-simulation habit; it does not demonstrate a mature system.
+- The first deliberate prediction starts during an already unfolding social interaction, triggered by a cue. Include a narrow win and a meaningful miss.
+- Ira remains emotionally young, inconsistent, curious, embarrassed, and sometimes irrational. His less-traumatized, more open disposition and flexible neurology coexist with Jonah's learned defenses; they do not produce instant mastery.
+- The dossier creates a concrete vulnerability because Ira cannot explain the official life it records. Exact documentary mechanics remain proposal/unknown until source evidence or author decision establishes them.
+- The social setting must avoid anime-seduction dynamics; people in the 2005-era isekai setting have independent motives and different reactions.
+- Proposed ending: Ira commits to checking the education/contact line using ordinary 2005 resources, with the actual investigation allowed to unfold later.
+- Two working artifacts created: CHR-08_SCENE_ARCHITECTURE_2026-10-10.md and CHR-08_GEMINI_MASTER_PROMPT_2026-10-10.md.
+- Current active Chapter 8 addendum updated with Section 12.
+
+STATUS: ACTIVE WORKING DECISION / author constraints locked; specific scene choices remain proposals pending review.
+
+INVALIDATES:
+- Any Chapter 8 plan in which Ira begins with a fully developed simulation method.
+- Any polished, adult-sounding self-analysis that compresses later development.
+- Any interpretation of Gen Z as universal emotional numbness.
+- Any adult flirtation/visual-novel dialogue with Ira.
+- Any invented mother-death thread or supernatural manifestation.
+
+AFFECTS: Chapter 8 scene architecture, prompt, draft, future developmental pacing, and any later chapter that depends on the new habit's origin.
+
+REQUIRED DOCUMENT UPDATES: addendum, architecture, Gemini prompt, README, link map, memory bridge, session handoff, source register.
