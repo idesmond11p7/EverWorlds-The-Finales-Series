@@ -47,7 +47,7 @@ The examination has already happened. Chapter 8 owns the psychological aftermath
 - Jonah's mother is alive in original-life Chapters 1–2. He is separated from his former life and cannot simply contact her in this new situation. Do not invent her death or a bereavement timeline. The loss is real without making it a death story.
 - Ira's phone is an older silver Panasonic flip phone, dead/silent in the recent source material. Do not give him a smartphone, mobile internet, social media, or instant map navigation in 2005.
 - The current world is in a 2005-era Japanese setting. Do not import contemporary Gen Z Japanese social habits as the default for local characters.
-- **Absolute power lock:** no supernatural ability manifests before after Chapter 20. Chapter 8 contains no awakening, impossible physical feat, latent-power explanation, or supernatural set piece. The world/power system is under development; do not infer mechanics from franchise conventions or from the prior contaminated draft.
+- **Absolute power lock:** no supernatural ability manifests until after Chapter 20. Chapter 8 contains no awakening, impossible physical feat, latent-power explanation, or supernatural set piece. The world/power system is under development; do not infer mechanics from franchise conventions or from the prior contaminated draft.
 
 ## 2. WHAT THIS CHAPTER IS FOR
 
