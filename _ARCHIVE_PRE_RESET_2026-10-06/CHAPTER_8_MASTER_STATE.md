@@ -45,7 +45,7 @@ Chapter 8 is primarily an **inside-Ira character-development chapter**.
 The chapter should:
 - decompress after the examination;
 - let Ira think rather than immediately forcing a plot event;
-- develop his relationship with his mother and his unresolved grief;
+- preserve the truth that Jonah's mother is alive in his original-life chapters (Chapters 1–2); do not invent her death, bereavement, or a timeline of loss;
 - show him confronting the habit of self-limitation;
 - develop a personal philosophy through lived thought/action, not as a motivational speech;
 - eventually get him out of the apartment and into Kuoh;
@@ -76,12 +76,14 @@ Core formulations currently locked as conceptual anchors:
 
 These are **thought anchors**, not instructions to paste all four into the chapter. The prose should earn the philosophy through Ira's memories, reactions, choices, mistakes, and small acts of agency.
 
-## MOTHER / EMOTIONAL THREAD
+## MOTHER / ORIGINAL-LIFE CONTINUITY — CORRECTED
 
-- Ira can cry again, but the emotion should remain grounded rather than melodramatic.
-- He quietly misses his mother.
-- Her absence should affect how he interprets safety, home, freedom, and his own future.
-- The mother thread should deepen Ira rather than become a separate plot.
+AUTHOR-LOCKED CORRECTION (2026-10-10):
+- Jonah's mother is alive in the original-life scenes in Chapters 1–2.
+- Do not state or imply that she died before Jonah, that he is grieving her death, or that there is a two-year bereavement timeline.
+- The previous Chapter 8 draft's line "She had been dead two years before I died" is false and must not be reused.
+- Any reflection on his mother must remain compatible with the actual Chapters 1–2 manuscript. Do not invent the nature of their relationship, her fate after the transition, or whether contact is possible unless the manuscript/author explicitly establishes it.
+- Emotional reflection may address the loss of his former life and separation from people he knew, but do not convert separation into a death claim.
 - Do not turn the chapter into a trauma monologue.
 
 ## KUOH EXPLORATION
@@ -184,27 +186,22 @@ Rules:
 - the "ero physics" phenomenon is an established in-world mechanic and must NOT be invented/reconstructed from generic DxD tropes;
 - before explicitly explaining the mechanism, recover the author's actual territory/realm/physics concept from project canon.
 
-## SUPERNATURAL HANDLING
+## SUPERNATURAL HANDLING — AUTHOR-LOCKED CORRECTION (2026-10-10)
 
-Supernatural material has already existed in the story. Chapter 8 is NOT the introduction of "the supernatural."
+- **No supernatural abilities manifest in Chapter 8.**
+- **No ability awakening, power plotline, steel-crushing grip, kinetic anchor, impossible physical feat, supernatural action set piece, or explanatory ability reveal.**
+- The author has explicitly locked the rule that abilities do not appear until after Chapter 20. Do not move that threshold earlier.
+- Chapter 8 may contain an understated oddity, unresolved discrepancy, or mysterious connection that creates a question carried into Chapter 9. It must not establish that the cause is supernatural, show Ira using an ability, or explain a power system.
+- Chapter 9 has not yet been drafted. Do not treat a speculative Chapter 9 outline or an earlier model-generated suggestion as locked canon.
+- Keep the foreground grounded and ordinary. If an odd detail is used, it should remain interpretable in more than one way and must come from a verified author-approved chapter plan or be presented as a clearly bounded proposal for author review—not silently invented as canon.
+- This correction supersedes the stale D-006 / "Chapter 8 — Power" instruction in CURRENT_PRODUCTION_DECISIONS.md and all matching language in the erroneous October 10 diagnostic/draft.
 
-Instead:
-- the supernatural remains partly outside Ira's explicit model;
-- mundane reality should dominate the foreground;
-- clues can accumulate;
-- environmental oddities can be noticed without immediate explanation;
-- Chapter 9 can push the investigation further.
+## CHAPTER 8 -> CHAPTER 9 HANDOFF — CORRECTED
 
-Do not force a supernatural reveal simply because the chapter contains strange details.
-
-## CHAPTER 8 -> CHAPTER 9 HANDOFF
-
-Current intended trajectory:
-- Chapter 8 ends on an unresolved clue or contradiction.
-- Chapter 9 follows that clue into a more difficult investigation.
-- The eventual discovery can involve a low-tier supernatural item/treasure.
-- It should NOT feel like "I found a random magic object, therefore plot."
-- The discovery must emerge from the investigation/environment established in Chapter 8.
+- Chapter 8 may end with one unresolved, author-approved clue/contradiction or mysterious connection.
+- The clue is a question, not a supernatural reveal. Do not identify its cause, give Ira an ability, or build a full conspiracy without source evidence.
+- Chapter 9 is not drafted yet. Its exact event sequence is not locked here.
+- Remove the earlier speculative claim that the next discovery "can involve a low-tier supernatural item/treasure" unless the author confirms it from a separate authoritative source.
 
 ## PROSE CONTROL
 
@@ -227,7 +224,8 @@ Rules:
 
 - Do NOT start school in Chapter 8.
 - Do NOT treat the entrance examination as the first school day.
-- Do NOT make supernatural activity suddenly begin here.
+- Do NOT manifest abilities or begin an ability plotline here; abilities are prohibited until after Chapter 20.
+- Do NOT turn an oddity into a confirmed supernatural event.
 - Do NOT sexualize Ira.
 - Do NOT turn Ira's philosophy into a motivational essay.
 - Do NOT make his emotional recovery instant.
