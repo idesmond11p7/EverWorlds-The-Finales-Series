@@ -25,7 +25,7 @@ This is not a story about a genius discovering social engineering. It is a teena
 - Original identity: Jonah Laurence. Current embodied/legal identity: Ira Lowe.
 - Jonah's mother is alive in original-life Chapters 1–2. Chapter 8 may evoke separation, absence, and the lost life, but must not invent her death or a bereavement timeline.
 - Ira's more open, playful, curious, less-traumatized baseline and flexible neurology coexist with Jonah's learned defensiveness. This is a synthesis, not two voices taking turns.
-- No supernatural ability, awakening, impossible physical feat, or explanatory power-system reveal before after Chapter 20.
+- No supernatural ability, awakening, impossible physical feat, or explanatory power-system reveal until after Chapter 20.
 - Kuoh's deeper cosmology and power system remain unresolved. Do not import generic DxD or DBZ logic.
 - No adult sexualization of a sixteen-year-old; no visual-novel seduction or femme-fatale dialogue.
 - No conspiracy plot, freight-yard clue, courier countdown, arbitrary fetch quest, or inherited events from the contaminated prior Chapter 8 draft.
