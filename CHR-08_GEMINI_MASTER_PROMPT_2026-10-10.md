@@ -116,7 +116,7 @@ Instead:
 7. He interprets the result imperfectly.
 
 ### First attempt: a small win with a social cost
-At a small neighborhood kissaten, the shopkeeper notices that Ira looks foreign and may be uncertain about the menu or the area. He predicts that she will ask if he needs help or wants English. He is partly right. He answers in fluent Japanese, but his wording is excessively formal and stiff for a teenager ordering a drink. The shopkeeper finds the mismatch amusing and makes a dry, mildly patronizing joke. Ira has predicted the topic but not the social effect of his own delivery.
+At a small neighborhood kissaten, the shopkeeper notices that Ira looks foreign and may be uncertain about the menu or the area. Only after she gives him a cue—looking from his face to the menu, asking whether he needs help, or checking if he understands—does he remember his crude rule and decide to predict what she will ask next. He is partly right. He answers in fluent Japanese, but his wording is excessively formal and stiff for a teenager ordering a drink. The shopkeeper finds the mismatch amusing and makes a dry, mildly patronizing joke. Ira has predicted the topic but not the social effect of his own delivery.
 
 This is not a brilliant win. His prediction works because the cue was obvious; his performance is still awkward.
 
@@ -151,11 +151,11 @@ The paperwork should create dark, ordinary comedy beside the distress. He can be
 ## 7. SCENE ARCHITECTURE — FOLLOW THIS CAUSAL SEQUENCE
 
 ### Scene 1 — Apartment: kettle, quiet, papers
-Continue from the exact Chapter 7 line and physical state. Let the kettle and room remain present. Ira looks at the envelope and paperwork. A specific phrase or gap triggers the thought that he cannot explain his own official life. A memory of his former home or living mother may surface, but do not write a dead-mother scene or a memorial montage. Let the memory interrupt the present rather than become a polished flashback essay.
+Continue from the exact Chapter 7 line and physical state. The kettle is still heating as established at Chapter 7's ending; do not advance it to boiling unless the source line supports that change. The room remains present. Ira looks at the envelope and paperwork. A specific phrase or gap triggers the thought that he cannot explain his own official life. A memory of his former home or living mother may surface, but do not write a dead-mother scene or a memorial montage. Let the memory interrupt the present rather than become a polished flashback essay.
 
 He tries to decide what he would say if someone asked where he studied. He can assemble a short, boring answer but realizes he cannot support a long conversation. The document is his legal armor and a live grenade in the sense that he does not know how to use it. He is not a legal expert.
 
-He invents the crude hyper-discipline rule. He decides to leave because he cannot sit with the papers any longer, wants a drink or snack, and wants to see whether he can speak to someone. These motives can coexist; he does not need to confess all of them to himself.
+He invents the crude hyper-discipline rule and reaches a temporary, slightly delusional conclusion that he has a chance in this world and is going to take it, even if he cannot prove that hope is sensible. It should sound like a teenager trying to convince himself, not a polished vow. He decides to leave because he cannot sit with the papers any longer, wants a drink or snack, and needs to clear his head. He does not leave with a fully formed plan to test social interactions. If he later chooses to predict someone, that choice must be triggered by something said or done after the interaction has already begun.
 
 ### Scene 2 — Short walk through the nearby commercial area
 He pockets his dead silver flip phone and wallet, takes some cash, and leaves the dossier at home. Establish the route incrementally: apartment entrance, residential lane, the brighter commercial street, shopfronts, people finishing ordinary tasks. Do not invent an elaborate city map or a faraway landmark. The trip is a neighborhood walk, not the chapter's major journey.
@@ -165,7 +165,7 @@ The city should be active before he arrives. A shopkeeper is closing a shutter; 
 ### Scene 3 — Small neighborhood kissaten
 Use a modest independent café, not a nightclub, not a supernatural meeting place, and not a glamorous noir bar. It has a counter, a few tables, warm light, a wooden door, and a limited number of customers. It existed before Ira walked in.
 
-The proposed shopkeeper is Miki Kuroda, in her early thirties. She is practical, observant, dryly amused, and busy with her own evening. A middle-aged regular is occupied with his drink/newspaper/local concern. Do not make either person an exposition machine.
+The proposed shopkeeper is Miki Kuroda, in her early thirties. She is practical, observant, dryly amused, and busy with her own evening. A middle-aged regular is occupied with his drink/newspaper/local concern. Give him one small, observable oddity—such as checking the door whenever its bell sounds and then returning to the same line of print. Choose one behavior; leave its cause unknown. It must have ordinary possible explanations, not act as a supernatural clue. Do not make either person an exposition machine.
 
 Miki notices Ira because he looks out of place and may need help. She may initially assume he is foreign and ask whether he needs English or help with the menu. When he answers in fluent Japanese with excessive formality, she is surprised and amused. Her teasing is ordinary and mildly patronizing: “You can just tell me what you want. I'm not interviewing you,” or a natural equivalent. Do not use both as canned punchlines. No purring, sultry dialogue, seduction, or romantic framing.
 
