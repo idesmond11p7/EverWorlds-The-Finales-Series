@@ -56,6 +56,7 @@ If a release fails a gate, it is not released.
 The archive under `_ARCHIVE_PRE_RESET_2026-10-06/` is preserved as historical evidence. Its Chapter 8 documents contain stale instructions and must not override the newer author-corrected active records.
 
 - [LIT-17 — Sensory-Cognitive Prose Engine](LIT-17_SENSORY_COGNITIVE_PROSE_ENGINE.md): research-backed working system for perception, sensory selection, acoustic layering, body-in-space continuity, social inference, paragraph architecture, and Gemini handoff requirements.
+- [LIT-18 — Acoustic Gameworld Prose Mini-Module](LIT-18_ACOUSTIC_GAMEWORLD_PROSE_MINI_MODULE.md): focused extension for sound as spatial evidence, Arkham-style environmental density, traversal continuity, and gameworld feeling without game UI.
 - [CHR-08 Addendum — Psychological Night / Social Entry](CHR-08_ADDENDUM_2026-10-10_PSYCHOLOGICAL_NIGHT.md): current author concept, Chapter 8's psychological arc, social-encounter design requirements, ending function, and unresolved items.
 - [Chapter Registry](09_CHAPTER_REGISTRY.md): source identity and chapter-state control.
 
