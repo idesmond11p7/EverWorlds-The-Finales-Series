@@ -137,14 +137,17 @@ The source establishes:
 - Kuoh Academy application papers;
 - an “overseas transfer” / “independent curriculum” framing;
 - the administrator asked “Overseas transfer track?” and Ira answered “Independent curriculum. Everything is in the dossier”;
-- the blue examination placard numbered 1044.
+- the blue examination placard numbered 1044;
+- Jonah has already worried that a sixteen-year-old with no legal guardians may have to pay rent without knowing how.
+
+Do not invent a blank guardian field or a definitive legal violation unless a verified source establishes it.
 
 The author's latest direction is that the official background is bizarre enough that serious follow-up could expose how fragile it is. Ira cannot tell people that he died in another world, and he cannot explain the detailed backstory in those papers because he did not live it.
 
 ### One concrete document discrepancy — use as a proposed scene detail, not a legal verdict
 Show an education-history page under an official-sounding “Overseas Transfer / Independent Curriculum” category. It may list course equivalencies and an issuing/contact line, but it does not give Ira a normal lived school history he can naturally describe: no classmates, campus routines, teachers, or sequence of school years he remembers. He realizes that “Everything is in the dossier” works only until someone asks what is in the dossier.
 
-Do not invent a specific immigration violation, fake passport, dead guardian, deceased parent, or guaranteed legal exposure. Do not claim a real Japanese authority would certainly identify fraud. Ira is a teenager recognizing that he cannot answer ordinary follow-up questions about his supposed past. His fear may be accurate, exaggerated, or both.
+Do not invent a specific immigration violation, fake passport, dead guardian, deceased parent, a blank guardian field, or guaranteed legal exposure. Do not claim a real Japanese authority would certainly identify fraud. Ira is a teenager recognizing that he cannot answer ordinary follow-up questions about his supposed past. His fear may be accurate, exaggerated, or both.
 
 The paperwork should create dark, ordinary comedy beside the distress. He can be upset about losing his former life and still think the official packet is absurd. Humor does not cancel emotion.
 
