@@ -54,3 +54,14 @@ If a document has no source/decision dependency, it cannot be treated as authori
 - Provenance: SRC-WORKFLOW-2026-10-09-01 and GMP-21. Decision: DEC-WORKFLOW-2026-10-09-01 plus its GMP-21 operationalization entry.
 - Acceptance condition: full creative operating brief, actual-draft diagnosis, public/accessible research tied to concrete corrections, correct chapter-specific purpose, and a passed self-containment/continuity audit.
 - The user's supplied Chapter 6 prompt is a partial source excerpt; method is author-approved, but the exact complete original artifact has not been recovered.
+
+
+## Chapter 8 production package — 2026-10-10
+
+- `CHR-08_ADDENDUM_2026-10-10_PSYCHOLOGICAL_NIGHT.md` — current author constraints and developmental corrections.
+- `CHR-08_SCENE_ARCHITECTURE_2026-10-10.md` — detailed scene causality and proposed NPC/venue/ending design.
+- `CHR-08_GEMINI_MASTER_PROMPT_2026-10-10.md` — self-contained Gemini production brief.
+- `LIT-17_SENSORY_COGNITIVE_PROSE_ENGINE.md` — sensory, acoustic, spatial, cognitive prose model.
+- `21_GEMINI_MASTER_PROMPT_PROTOCOL.md` — active master-prompt method, based on the documented Chapter 6 workflow.
+
+Authority note: current author corrections and verified manuscript evidence outrank proposed architecture. Archive prompts and the previous contaminated Chapter 8 draft remain quarantined.
