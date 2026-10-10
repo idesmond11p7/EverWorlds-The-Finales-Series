@@ -38,7 +38,7 @@ Do not:
 - invent a date, timestamp, receipt, or calendar detail not verified in the supplied manuscript;
 - compress the entire night into a summary.
 
-The examination has already happened. Chapter 8 owns the psychological aftermath, the first tentative social experiments, and the commitment that launches a small practical investigation.
+The examination has already happened. Chapter 8 owns the psychological aftermath, the first spontaneous, imperfect attempts to predict social behavior, and the commitment that launches a small practical investigation.
 
 ### Identity and age
 - Original identity: **Jonah Laurence**, an ordinary teenager from the original world.
@@ -47,6 +47,7 @@ The examination has already happened. Chapter 8 owns the psychological aftermath
 - Jonah's mother is alive in original-life Chapters 1–2. He is separated from his former life and cannot simply contact her in this new situation. Do not invent her death or a bereavement timeline. The loss is real without making it a death story.
 - Ira's phone is an older silver Panasonic flip phone, dead/silent in the recent source material. Do not give him a smartphone, mobile internet, social media, or instant map navigation in 2005.
 - The current world is in a 2005-era Japanese setting. Do not import contemporary Gen Z Japanese social habits as the default for local characters.
+- **Absolute power lock:** no supernatural ability manifests before after Chapter 20. Chapter 8 contains no awakening, impossible physical feat, latent-power explanation, or supernatural set piece. The world/power system is under development; do not infer mechanics from franchise conventions or from the prior contaminated draft.
 
 ## 2. WHAT THIS CHAPTER IS FOR
 
@@ -56,7 +57,7 @@ The chapter needs to do all of the following:
 1. Continue the exact quiet of Chapter 7 and let the absence of the old life register.
 2. Give Ira a concrete reason to worry about his identity documents: the official life he is expected to inhabit is difficult for him to explain because he did not live it.
 3. Let him invent an initially excessive, partly delusional philosophy of hyper-discipline: perhaps he can prevent mistakes by thinking ahead and controlling himself.
-4. Get him outside for a believable mixture of reasons: the apartment feels oppressive, he needs or wants something ordinary, and he is curious about whether he can handle a social interaction.
+4. Get him outside for a believable mixture of reasons: the apartment feels oppressive, he needs or wants something ordinary, and he needs to clear his head. He may be curious about the town or quietly hope the evening feels less impossible, but he does not leave with a plan to practice social prediction. Social contact happens naturally; the first prediction begins only after a cue in an interaction.
 5. Show several people whose lives and purposes exist independently of him.
 6. Let him try his first crude social prediction **during** an interaction, after something happens that prompts him to apply the new philosophy.
 7. Give him a modest prediction win and a meaningful prediction failure. The win is limited; the failure is not a total humiliation.
