@@ -66,7 +66,7 @@ The chapter should not mechanically display this table in prose. It is the causa
 ## 4. Opening scene — the paperwork on the table
 
 ### Physical continuity
-Continue from the exact last line of Chapter 7. The kettle has just finished heating or is at the point described in the verified Chapter 7 ending; do not re-stage the exam or invent a time jump. Preserve the apartment's actual layout and objects. The brown envelope contains the blue examination placard 1044 and application material.
+Continue from the exact last line of Chapter 7. The kettle is still heating as established at Chapter 7's ending; do not advance it to boiling unless the actual source line supports that change. Do not re-stage the exam or invent a time jump. Preserve the apartment's actual layout and objects. The brown envelope contains the blue examination placard 1044 and application material.
 
 Let the quiet initially remain quiet. Ira should not immediately launch into a polished monologue. Use a concrete sequence: the envelope, the card, a page he has already read, a line of text, a gap in his knowledge, and a memory that arrives because of the object or phrase.
 
@@ -89,10 +89,10 @@ His first philosophy is blunt and excessive, something a teenager can believe be
 - “If I get serious and stop wasting time, I can make this work.”
 - “I can't control what this world is, but I can at least stop being careless.”
 
-Do not use all these lines verbatim. They define the thought-shape. He must not reach the later polished formulation of a mature life philosophy. The rule is partly a genuine attempt to function and partly a way to blame himself for everything that goes wrong.
+Do not use all these lines verbatim. They define the thought-shape. He must not reach the later polished formulation of a mature life philosophy. The rule is partly a genuine attempt to function and partly a way to blame himself for everything that goes wrong. Let him reach a provisional, slightly delusional conclusion that he has a chance here and is going to take it—even if he cannot prove the hope is sensible. It should sound like a teenager trying to convince himself, not a polished vow or a solved philosophy.
 
 ### Exit motivation
-He cannot keep sitting with the papers. He wants air, something to eat/drink, and proof that the town exists outside the apartment. He tells himself one reason is practical and only gradually admits that he wants to test whether he can speak to someone without retreating. He takes the dead silver Panasonic flip phone, wallet, and a small amount of cash. He does not take the whole dossier outside.
+He cannot keep sitting with the papers. He wants air, something to eat or drink, and relief from the apartment's pressure. He does not leave with a mature plan to practice social prediction. He tells himself the outing is practical or that he merely needs to clear his head. He takes the dead silver Panasonic flip phone, wallet, and a small amount of cash. He does not take the whole dossier outside. Any conscious decision to predict a conversation happens only after an interaction is already underway.
 
 ## 5. The chosen social environment
 
@@ -115,7 +115,7 @@ Indoor smoking is historically plausible for a Japanese café in 2005: a 2005 su
 - She is allowed to find him unusual or a little cute in the ordinary, non-sexual sense that an adult might find a stiff teenager amusing. Do not describe sexual attraction, eroticize his body, or frame the scene as flirtation.
 
 ### NPC B — regular customer
-A middle-aged regular, mostly occupied with his drink, a newspaper, the day's sports, or a minor local complaint. He speaks to Miki about his own matter and may briefly react to the exchange, but does not deliver exposition about Kuoh. He provides social context: the café has habits and regulars, and Ira is an interruption rather than its center.
+A middle-aged regular is mostly occupied with his drink, a newspaper, the day's sports, or a minor local complaint. Give him one small, observable oddity—perhaps he stops reading to check the door whenever its bell sounds, then returns to the exact same line, or repeatedly aligns his cigarette packet with the table edge. Choose one behavior and leave its cause unknown. It should be ordinary enough to have many explanations, not a supernatural signal or a clue that demands a reveal. He speaks to Miki about his own matter and may briefly react to the exchange, but does not deliver exposition about Kuoh. He provides social context: the café has habits and regulars, and Ira is an interruption rather than its center.
 
 ### NPC C and D — local teenagers
 **Proposed roles:** two local teenagers, approximately Ira's age, who enter briefly or share the covered street immediately outside. They have their own small evening plan and are not waiting to meet Ira.
