@@ -118,3 +118,28 @@ If the author explicitly resumes prose-perception/sound/world-depth research:
 5. Translate only supported mechanisms through: QUESTION → SOURCE/METHOD → MECHANISM → OBSERVABLE EFFECT → LIMITATIONS → PROSE TRANSLATION → IMPLEMENTATION RULE → FAILURE CONDITION → VERIFICATION TEST → DEPENDENCIES.
 6. Stress-test the resulting rules against actual passages before promoting them into 10_PROSE_ARCHITECTURE.md.
 
+
+
+## Current session — Chapter 8 architecture and Gemini prompt prepared
+DATE: 2026-10-10
+TIME: UNKNOWN
+
+### Exact work completed
+- Re-read GMP-21, 00_CONTROL_GATE, 01_SCHEMA_OF_WORK, 04_WORK_LOOP, INP-16, current Chapter 8 addendum, LIT-17, Chapter 6 function map, Chapter 6 correction material, source register, chapter registry, and relevant handoff records.
+- Confirmed the original Chapter 6 master prompt is only partially recovered; the documented production method is available in GMP-21.
+- Updated CHR-08 addendum with Section 12, preserving the latest correction that Ira's pre-simulation begins as an immature, mid-interaction experiment.
+- Created CHR-08_SCENE_ARCHITECTURE_2026-10-10.md and CHR-08_GEMINI_MASTER_PROMPT_2026-10-10.md.
+- Conducted targeted research for teasing ambiguity, 2005 Japanese restaurant smoking context, and school-document qualification context; links and limitations are embedded in the architecture and prompt.
+- Corrected the prompt/architecture to make the first social prediction start after an interaction is already underway, preserve a provisional and slightly delusional “I have a chance” conclusion, and add one ordinary but unexplained behavior from a café regular.
+
+### New artifact links
+- https://github.com/idesmond11p7/EverWorlds-The-Finales-Series/blob/main/CHR-08_SCENE_ARCHITECTURE_2026-10-10.md
+- https://github.com/idesmond11p7/EverWorlds-The-Finales-Series/blob/main/CHR-08_GEMINI_MASTER_PROMPT_2026-10-10.md
+- https://github.com/idesmond11p7/EverWorlds-The-Finales-Series/blob/main/CHR-08_ADDENDUM_2026-10-10_PSYCHOLOGICAL_NIGHT.md
+- https://github.com/idesmond11p7/EverWorlds-The-Finales-Series/blob/main/21_GEMINI_MASTER_PROMPT_PROTOCOL.md
+
+### Current state
+Architecture and prompt are **working proposals**, not author-approved canon and not yet fully audited. They must be fetched back and compared against the current addendum, verified Chapter 7 manuscript/handoff, Chapter 5 identity-document discovery, and the GMP-21 acceptance gates. Specific NPCs, café, directory/library step, and dossier discrepancy are assistant-designed proposals. The legal status of the dossier is UNKNOWN; the protagonist's inability to explain it is the locked psychological issue.
+
+### Next safe action
+Fetch back the new files and audit them. Correct any omitted mandatory Chapter 8 requirements before treating the prompt as ready. Do not claim the prompt was sent to Gemini. Do not draft Chapter 8 prose until the user asks for the next step or the prompt is explicitly being executed.
