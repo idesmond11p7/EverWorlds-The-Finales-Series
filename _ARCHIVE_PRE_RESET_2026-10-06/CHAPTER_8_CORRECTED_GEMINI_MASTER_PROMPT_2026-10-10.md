@@ -75,6 +75,25 @@ The chapter should preserve the distinction between:
 
 Use the supplied actual Chapter 8 plan/draft to determine the specific event sequence. Do not replace missing beats with your own plot.
 
+
+
+## 3A. Working scene architecture — use this sequence, do not invent a different plot
+
+This sequence is the bounded architecture for the chapter. Treat its functions as required; treat any unverified location, named NPC, errand, or clue-mechanism as unavailable rather than filling it in from imagination.
+
+1. **The kettle / immediate pause.** Continue from the exact Chapter 7 line. Let the kettle, apartment, exam fatigue, and sudden lack of obligations remain physically present. Do not recap the exam.
+2. **The old defense.** A present detail prompts a selective memory of Jonah's established original-life isolation and online hostility. His mother is alive in Chapters 1–2. Show how he learned to reject himself before others could do it; no invented bereavement.
+3. **The thought becomes a choice.** Ira recognizes, imperfectly, that fear has been acting like permission to withdraw. He does not become fearless or solve his psychology. He decides to do one ordinary thing while still uncertain.
+4. **Exit into Tuesday night.** Give him a plausible reason to leave—fresh air and learning the nearby area are acceptable if consistent with the draft. Keep preparations, locking the apartment, street lighting, weather, and time continuous. No next-day plan or morning commute.
+5. **Grounded night exploration.** Let a limited route through Kuoh unfold through movement, attention, and causal choices. Use only verified locations. Show a town with its own life: people finishing work, closing businesses, travelling, eating, and going home. Do not turn it into an inventory or guided tour.
+6. **A small social test.** If supported by the source, let a mundane encounter test Ira's tendency to shrink or over-explain when his appearance is misread. Keep the interaction ordinary and proportionate. A casual friendship is optional unless explicitly locked; do not invent a named recurring character or relationship.
+7. **A small chain of choices.** One ordinary observation leads to a practical action and a consequence, so the night gains momentum without a contrived quest. No frantic courier, artificial countdown, arbitrary reward, or procedural freight errand unless independently confirmed in author-approved material.
+8. **Confidence, then friction.** Give Ira a modest success for acting before he has certainty, then a believable inconvenience, mistake, or social deflation. He remains imperfect and vulnerable; no supernatural feats.
+9. **One unresolved oddity, if source-supported.** A small mismatch or mysterious connection may point toward Chapter 9. Do not explain it, identify it as supernatural, or invent a conspiracy. The prior freight-yard/Academy-seal scheme and crushed-steel scene are contaminated draft material, not default canon. If no approved clue can be recovered, do not fabricate one; end on the strongest verified unresolved question.
+10. **End in the same night.** Close with a concrete physical position and a subtle change in Ira's willingness to act. Preserve the unresolved question. No sleeping through the night, Wednesday morning, next-day document, or ability awakening.
+
+The exact route, social participants, practical task, and clue identity must be drawn from recovered author-approved source material where it exists. The sequence above defines dramatic functions and causal order, not permission to invent unsupported story facts.
+
 ## 4. Ira's psychological spine
 
 The current master state describes a pattern formed by cyberbullying and fear of judgment: Ira pre-rejects himself to blunt the force of possible rejection. He can treat avoidance as prudence and decide not to attempt something before reality has actually stopped him. This is protective behavior, not a one-note cowardice trait.
@@ -180,4 +199,4 @@ When the author-approved Chapter 8 beat plan and actual working draft are includ
 4. State honestly which checks were verified from supplied source text and which could not be checked because the source was absent.
 5. Do not claim the chapter is canon-verified merely because you followed this prompt. Do not invent a source or claim access to private repository links.
 
-**Final hard rule:** The assistant who prepared this prompt owns story architecture and source recovery. Gemini must not be asked to invent missing story events. If the actual approved beat sequence is not supplied, return the missing-dependency note rather than fabricating Chapter 8.
+**Final hard rule:** The assistant who prepared this prompt owns story architecture and source recovery. Gemini must not be asked to invent missing story events. Use the working scene architecture in Section 3A as the bounded sequence. Before drafting, recover the actual manuscript and any author-approved details for its route, social participants, practical task, and ending clue. Where details remain unverified, preserve the scene function without inventing canon.
