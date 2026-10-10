@@ -36,7 +36,7 @@ Chapter 7 ends with Ira back in the apartment after the entrance examination. He
 Chapter 8 must begin from that exact Tuesday-night state. Do not skip past the quiet that the line creates. Do not repeat the examination as though it has not happened. Do not start a new day.
 
 ### Ability lock — absolute prohibition
-**No supernatural ability manifests in Chapter 8. No ability awakening occurs before after Chapter 20.**
+**No supernatural ability manifests in Chapter 8. No ability awakening occurs until after Chapter 20.**
 
 Prohibited in this chapter:
 - an ability or “Power” plotline;
