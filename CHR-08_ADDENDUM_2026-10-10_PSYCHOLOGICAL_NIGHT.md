@@ -149,3 +149,110 @@ Do not generate the full chapter until the scene architecture is complete. Do no
 - Any clue or mystery beyond the chapter's psychological/social chain.
 
 These are not invitations to guess. Resolve through repository/manuscript recovery or deliberate scene design labelled as proposal. Do not promote proposal to canon without a decision record.
+
+
+## 11. Author clarification — character trajectory, social encounters, and adventure ending (2026-10-10)
+
+This section records the author's expanded explanation. It does not replace the open items in Section 10; exact scene choices remain design work.
+
+### 11.1 Chapter 8 is a beginning, not a compressed character arc
+
+Chapter 8 must not resolve Ira's whole psychology or demonstrate every later-stage capability. It should show the earliest visible seeds:
+- He begins trying to impose deliberate thought on ordinary social interaction: making a small prediction about how a conversation may go, preparing a response, and attempting to think one move ahead.
+- These small simulations sometimes help him survive an interaction or avoid an avoidable mistake. That is a modest win, not proof that he is exceptional.
+- A partial success can tempt him to overgeneralize the method. He may then over-plan, become rigid, misread a situation, or exhaust himself.
+- His old habits remain active: procrastination, instinctive avoidance, disorientation, and the urge to leave or do something drastic when pressure becomes difficult to interpret.
+- The resulting pattern is not “smart versus stupid.” It is prediction → action → feedback → interpretation → adjustment, with uneven results. Some models survive contact with reality; others fail.
+- Hyper-preparation and hyper-discipline are not automatically virtues. They can consume effort, produce brittle expectations, and burn him out. Chapter 8 may foreshadow this cost but must not complete the later arc.
+
+The long-term character trajectory includes increasingly useful pre-simulation and improved mental models, interrupted by failures, false assumptions, and the limits of effort. Distribute that development across later chapters. Do not compress it into a single epiphany.
+
+### 11.2 Jonah's learned defense and Ira's neurological disposition
+
+The author's model distinguishes several interacting layers. Treat these as a planning model, not a clinical diagnosis:
+- **Jonah-shaped learned response:** cyberbullying has trained him to take judgment personally, anticipate hostile interpretation, and evaluate himself against internal standards. The lasting wound is not merely remembering insults; it is believing the insults expose a failure to meet standards he already applies to himself.
+- **Ira's underlying disposition:** more open, playful, curious, and inclined toward benign interpretations than Jonah's defensive layer expects. This is not stupidity or magical optimism. It can give him room to notice evidence Jonah would prematurely discount.
+- **Neurological compatibility:** the author's lore establishes Ira's neurology as more flexible/compatible with learning and adjustment than Jonah's. This may help explain why Ira can gradually develop better models, but it does not make him omniscient, instantly disciplined, or uniformly smarter in every domain.
+- **Conflict and integration:** the story should let these tendencies disagree in the same person. A first impression may be open; a later interpretation may turn suspicious; observed evidence may then correct either one. Avoid mechanically labeling every thought “Jonah” or “Ira.” The reader should infer the conflict through changes in attention, interpretation, action, and self-correction.
+
+The character can be calm and calculating without becoming an emotionless rationalist. He is not Rimuru Tempest: no early overpowered support ability that guarantees success, no default pacifistic warmth, and no effortless solution engine. His starting advantage is limited survival capacity, growing adaptability, and small, fallible attempts to anticipate what happens next.
+
+### 11.3 Self-evaluation, appearance, and social perception
+
+Ira's appearance must affect how people respond to him, without making every interaction revolve around it. Other people may:
+- mistake him for a girl or be uncertain how to categorize his appearance;
+- notice him, stare, comment, tease, flirt lightly, or approach for their own reasons;
+- interpret his expression, posture, silence, or movement incorrectly;
+- ignore his appearance entirely when they have something more pressing to do.
+
+These responses must be distributed across different people with different priorities. Do not turn the city into a chorus of people commenting on him. His height, proportions, hair, gait, and spatial relationship with other people must remain consistent with verified character design and source manuscripts. Do not invent measurements or silently change the design.
+
+The author wants occasional sultry or suggestive social teasing as part of the world's interpersonal texture, not explicit sexual content. Since Ira is a minor at this point, portray any such interaction non-explicitly and without eroticizing his body or framing him sexually for the reader. Keep the emphasis on social ambiguity, embarrassment, misclassification, confidence, intent, and Ira's interpretation—not sexual detail. This preserves the intended tone without turning a minor character into sexualized spectacle.
+
+### 11.4 The world must have its own momentum
+
+Ira is a focal character, not the sole source of significance. People he meets need independent motives, competencies, constraints, philosophies, social relationships, and ongoing concerns. Some may be more capable than him in particular domains. Their competence should be shown through decisions and consequences, not explained in authorial résumé paragraphs.
+
+The city should feel inhabited because events continue for reasons that exist independently of Ira. Encounters should arise from plausible routes, shared spaces, schedules, misunderstandings, needs, incentives, and chance. A person approaching him may have misread him, want company, need something, be recruiting help, be showing off, or have another ordinary motive. Suspicion is one possible interpretation, not proof of hidden manipulation.
+
+### 11.5 The ending: an undertaking that behaves like an adventure
+
+Chapter 8 ends when Ira is drawn into a concrete undertaking—a mission, errand, challenge, or obligation that gives him something to do. It should feel like the beginning of a small adventure, not a videogame quest notification and not a disconnected teaser.
+
+The undertaking should:
+- emerge causally from the night's people and activities;
+- give Ira a real reason to agree, hesitate, or become involved, even if his reasoning is imperfect;
+- have a clear immediate objective but enough uncertainty for the reader to wonder how it will unfold;
+- involve practical navigation and changing spatial relationships, with people, events, objects, directions, and what he carries all affecting the journey;
+- permit interruptions, detours, social friction, missing information, small failures, and discoveries that change what he thinks the task requires;
+- provide a natural way to reveal more of Kuoh through Ira's situated perception rather than a city-guide exposition dump;
+- echo the shape of an earlier psychological problem without duplicating it so precisely that it feels engineered or coincidental;
+- end Chapter 8 at the commitment/launch point or a comparably strong threshold. The ensuing journey should have room to unfold in the next chapter(s).
+
+The adventure must not be made “interesting” solely by adding danger or supernatural spectacle. Logistics, navigation, changing plans, social obligations, ordinary bad luck, and the gap between expectation and reality can create forward motion.
+
+### 11.6 Ordinary luck, social friction, and the middle-ground protagonist
+
+The chapter should include relatable minor setbacks and uneven outcomes: a bad read of a situation, awkward timing, a failed attempt, an inconvenience, someone misunderstanding him, or a small piece of luck that helps without solving everything. Avoid both humiliation-as-personality and protagonist competence fantasy.
+
+Ira's early mode is **he survives, sometimes gains a little ground, and sometimes pays for his assumptions**. He does not win every context, but he is not rendered pathetic in every context either. Let an imperfect prediction work for a concrete reason, then let him overextend it or meet a situation it cannot handle.
+
+Bullying and social judgment may recur, but should not become repetitive reminders that he is bullied. Use variation in mechanism: exclusion, ambiguous laughter, a glance he overinterprets, a remark with multiple plausible meanings, a direct insult, a rumor's aftereffect, or the gap between what he fears others think and what they actually do. Distinguish evidence from his inference.
+
+### 11.7 Adventure rendering and the acoustic city
+
+Chapter 8 should learn from Chapter 6's strengths while correcting its occasional spatial and acoustic miscue:
+- Keep Ira's viewpoint primary. Describe what enters his attention, what he can infer from it, what remains unclear, and what he physically does next.
+- Layer sounds as a changing scene—foreground voice or footsteps, nearby activity, traffic or transit, ventilation or music, and shifts caused by walls, openings, distance, or movement—only where the scene supports them. Do not stack every sound at once.
+- Establish the physical relation among Ira, the path, nearby bodies, entrances, barriers, and destination before asking the reader to track complex movement.
+- Use sensory detail selectively. The first image a reader constructs is part of the scene's meaning; prevent accidental mental pictures of the wrong vehicle, layout, distance, or body position.
+- Keep grammar and vocabulary close to the clear, calm register of the stronger early chapters. Precision is not the same as obscure terminology.
+- Let the city's detail accumulate through repeated, situated encounters. Do not describe every location completely upon arrival; retain uncertainty and reveal features as Ira moves, waits, listens, interacts, or changes direction.
+
+### 11.8 Cosmology and power-system guardrails
+
+The world is vastly larger than the real world and contains many overlapping spectrums of competence, psychology, and capability. Do not import Dragon Ball's resolve-to-power logic or assume one protagonist can outthink every institution. Resolve can matter without defeating biology, scale, collective competence, or material limits.
+
+Kuoh's galaxy-scale black-hole/lust-associated cosmology and the broader power system remain in development. The brief description previously given is only an orientation, not a complete mechanism. Do not use “energy” as a default explanatory term, invent rules for the phenomenon, or let Chapter 8 accidentally explain or activate powers. No supernatural abilities manifest before after Chapter 20.
+
+### 11.9 Continuity and pacing locks
+
+- Begin with the exact final line of Chapter 7 and continue the same Tuesday evening/night without a sleep-and-morning jump.
+- The initial private sequence receives enough narrative space for disorientation, the absent-mother expectation, self-evaluation, flawed overcorrection, and a provisional decision to act.
+- The social movement begins after that psychological sequence has earned the decision to leave; it should not replace the internal work or appear as an unrelated adventure.
+- The night develops gradually from private thought into public interaction and then into the undertaking that ends the chapter.
+- Do not attempt to resolve Ira's complete psychological development, the world's cosmology, the power system, or the later real-Ira arc here.
+
+### 11.10 New design tests
+
+Before accepting the architecture, answer:
+1. What concrete cue triggers each major shift in Ira's attention or interpretation?
+2. What does he predict before an interaction, and what does reality actually do with that prediction?
+3. What does he learn from each small success, and where does he overgeneralize?
+4. Which details are observable, which are inferred, and which remain unknown?
+5. What independent goal is each significant person pursuing?
+6. Why does each encounter occur at this place and time?
+7. How does the soundscape change with position, distance, obstruction, and activity?
+8. What practical constraint makes the final undertaking an adventure rather than a single instruction?
+9. What makes the ending psychologically resonant without being a perfect repetition of an earlier wound?
+10. Does every major arc beat have enough room to breathe, with later development deliberately left for later chapters?
