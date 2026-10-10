@@ -93,3 +93,20 @@ A document is not promoted merely because it sounds plausible, appears newer, or
 - AFFECTED DOCUMENTS: 09_MEMORY_BRIDGE.md; 07_DOCUMENT_LINK_MAP.md; 05_SESSION_HANDOFF.md; all future chapter production prompts.
 - CONFIDENCE: The protocol content is verified to be committed; effectiveness is not yet artifact-tested.
 - VERIFICATION: Fetch the created/updated GitHub files back; do not infer success from the write request alone.
+
+
+## WORKING-PLAN-CHR08-2026-10-10 — Chapter 8 production artifacts
+
+- SOURCE-ID: WORKING-PLAN-CHR08-2026-10-10
+- ORIGINAL-FILE: CHR-08_SCENE_ARCHITECTURE_2026-10-10.md; CHR-08_GEMINI_MASTER_PROMPT_2026-10-10.md
+- DATE: 2026-10-10
+- TIME: UNKNOWN
+- CONTEXT: Assistant-created scene architecture and self-contained Gemini prompt, derived from active author clarifications, CHR-08 addendum, LIT-17, GMP-21, verified Chapter 7 handoff details, and targeted public research.
+- CLAIM: Chapter 8 can be designed as a same-night psychological/social sequence in which Ira adopts an immature hyper-discipline rule, attempts social prediction only mid-interaction, receives mixed feedback, and commits to checking the identity dossier's education/contact line.
+- CONTAINS: proposed NPCs, kissaten setting, limited social encounters, one ambiguous ordinary oddity, proposed document discrepancy, paper-directory investigation hook, research references and prompt instructions.
+- DOES-NOT-CONTAIN: proof that the dossier is legally invalid; a fully recovered original Chapter 6 prompt; proof that proposed NPCs/venue/address are canon; a Chapter 8 manuscript draft.
+- AUTHORITY: author constraints are authoritative; specific scene choices are assistant proposals.
+- MODEL-GRADE: G2 until source-level audit and author review.
+- EVIDENCE-STATE: WORKING_PLAN / DERIVED / VERIFIED_RESEARCH as individually indicated in the artifacts.
+- DEPENDENTS: README, document link map, memory bridge, session handoff, later Chapter 8 draft.
+- STATUS: ACTIVE WORKING PLAN; not yet author-approved.
