@@ -170,4 +170,4 @@ Remaining limitation: the original full Chapter 6 prompt is not recovered. The a
 
 The scene architecture and prompt are working proposals. They have not been sent to Gemini, and no Chapter 8 draft has been generated in this step.
 
-Next safe action: provide the self-contained master prompt for author use/review. If the author accepts the proposed scene choices, paste the complete prompt into Gemini with any required source manuscript attachments. Do not ask the author to repeat already-recorded constraints.
+Next safe action: author reviews the self-contained prompt now supplied in the conversation. If the proposed scene choices are accepted, paste the complete prompt into Gemini with the relevant manuscript/source context required by the user's workflow. Do not ask the author to repeat already-recorded constraints. No Chapter 8 prose has been drafted in this pass.
