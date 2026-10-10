@@ -222,3 +222,16 @@ Locked release state:
 - The repository must not claim to contain the exact released manuscript unless that manuscript has actually been committed.
 
 **Production consequence:** Chapter 6 leaves the active writing queue. The next session is character/NPC development, not Chapter 7 drafting.
+
+
+## D-017 — Chapter 8 correction (2026-10-10)
+
+**Author-locked correction; supersedes D-006 for Chapter 8.** The old 'Ch.8 — Power' sequence is invalid for Chapter 8 and caused continuity errors. Preserve D-006 as historical evidence, but do not apply it to this chapter.
+
+- Chapter 8 takes place entirely during the same Tuesday night and begins directly from Chapter 7's final line: 'For the first time since morning, I had nothing I needed to do.' No Wednesday morning or overnight skip.
+- No supernatural ability or awakening in Chapter 8. The author's explicit threshold is after Chapter 20. No kinetic anchor, steel-crushing scene, supernatural action set piece, or explanation of an ability.
+- A restrained unresolved oddity may be considered as a Chapter 9 handoff only when supported by an approved plan; it cannot confirm a supernatural cause or invent Chapter 9's plot.
+- Jonah's mother is alive in the original-life scenes in Chapters 1–2. Do not invent her death or a bereavement timeline. The sentence claiming she had been dead two years is false.
+- Any older Chapter 8 prompt, draft, or verification report that conflicts with these locks is contaminated, not canon.
+
+Corrected self-contained prompt: `_ARCHIVE_PRE_RESET_2026-10-06/CHAPTER_8_CORRECTED_GEMINI_MASTER_PROMPT_2026-10-10.md`.
