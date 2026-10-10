@@ -13,7 +13,7 @@ This addendum records the author's latest explanation and supersedes conflicting
 ### Canon locks
 - Chapter 8 begins immediately from Chapter 7's final line: **“For the first time since morning, I had nothing I needed to do.”**
 - It remains one continuous Tuesday evening/night. No overnight jump, Wednesday morning, or reset.
-- No supernatural abilities manifest before after Chapter 20. Chapter 8 cannot reveal an ability or use supernatural feats.
+- No supernatural abilities manifest until after Chapter 20. Chapter 8 cannot reveal an ability or use supernatural feats.
 - Jonah's mother is alive in original-life Chapters 1–2. Do not invent her death or a bereavement timeline.
 - The new world's power system and cosmology remain under development. No generic Dragon Ball Z scaling logic, no generic DxD assumptions, no completed mechanism inferred from a brief lore fragment.
 - Ira's new social encounters, unnamed people, exact activities, and night-bar details are design space for the architecture model to develop, not already established events.
@@ -233,7 +233,7 @@ Chapter 8 should learn from Chapter 6's strengths while correcting its occasiona
 
 The world is vastly larger than the real world and contains many overlapping spectrums of competence, psychology, and capability. Do not import Dragon Ball's resolve-to-power logic or assume one protagonist can outthink every institution. Resolve can matter without defeating biology, scale, collective competence, or material limits.
 
-Kuoh's galaxy-scale black-hole/lust-associated cosmology and the broader power system remain in development. The brief description previously given is only an orientation, not a complete mechanism. Do not use “energy” as a default explanatory term, invent rules for the phenomenon, or let Chapter 8 accidentally explain or activate powers. No supernatural abilities manifest before after Chapter 20.
+Kuoh's galaxy-scale black-hole/lust-associated cosmology and the broader power system remain in development. The brief description previously given is only an orientation, not a complete mechanism. Do not use “energy” as a default explanatory term, invent rules for the phenomenon, or let Chapter 8 accidentally explain or activate powers. No supernatural abilities manifest until after Chapter 20.
 
 ### 11.9 Continuity and pacing locks
 
