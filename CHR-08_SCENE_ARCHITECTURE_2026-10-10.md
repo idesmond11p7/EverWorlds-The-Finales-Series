@@ -72,10 +72,10 @@ Let the quiet initially remain quiet. Ira should not immediately launch into a p
 
 ### Designed document detail — proposal
 Use one clear, legible discrepancy, not a pile of random contradictions:
-- The school application is stamped and accepted; it is real enough to have carried him through registration and the examination.
+- The school application is stamped and accepted; it is real enough to have carried him through registration and the examination. Chapter 7 also records Jonah worrying that a sixteen-year-old with no legal guardians may have to pay rent without knowing how.
 - The education history is described through an official-sounding “Overseas Transfer / Independent Curriculum” category.
 - The packet lists course equivalencies and a formal contact/issuing line, but does not give Ira a normal, lived school history he can describe naturally: no familiar campus, teachers, classmates, or ordinary sequence of school years that he remembers.
-- The documents may look administratively tidy. Their danger is not that Ira has proven them legally fraudulent; it is that he does not know the story behind them and cannot answer the second and third questions a curious person might ask.
+- The documents may look administratively tidy. Their danger is not that Ira has proven them legally fraudulent; it is that he does not know the story behind them and cannot answer the second and third questions a curious person might ask. Carry forward the existing no-legal-guardians worry without inventing a specific blank form field or legal ruling.
 - Do not invent a specific immigration-law violation or assert that a real authority would certainly detect fraud. This is Ira's practical vulnerability and fear, not a legal verdict.
 
 The phrase “Everything is in the dossier” from the exam scene can echo in his mind as an awkwardly successful answer that only works until someone asks what the dossier means. He is not an expert auditor. He is a sixteen-year-old realizing that his official life contains details he cannot inhabit.
