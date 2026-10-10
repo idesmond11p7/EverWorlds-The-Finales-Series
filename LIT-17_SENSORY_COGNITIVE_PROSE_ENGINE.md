@@ -274,3 +274,55 @@ Status remains **PROVISIONAL** until applied to actual prose and reviewed agains
 ## 13. Research status / next work
 
 This is a first-pass synthesis. It is not a complete literature review of all sensory modalities, autobiographical memory, interoception, social cognition, fear learning, cyberbullying, or urban perception. Those are separate research modules to be added only when they materially change a writing decision. Do not use a broad “evolutionary biology explains 90% of everything” claim as a shortcut; identify the specific mechanism relevant to the scene and distinguish evolved capacities from learned, cultural, and individual differences.
+
+
+## 14. Additional biological and sensorimotor foundations
+
+This section extends the first-pass synthesis into the user's specific requirement: bodily perception, action, instinctive response, and emotion must be represented through plausible mechanisms rather than vague “realism.”
+
+### 14.1 Perception is action-oriented, not a camera feed
+Reviews of perception–action research describe multiple complementary accounts linking perception with motor control, action planning, and environmental affordances. Ecological psychology uses affordances to describe possibilities for action relative to an organism and its environment. A doorway is not only a visual object; depending on the character's body, position, intention, and whether it is obstructed, it may be passable, narrow, blocked, or useful for waiting. Objects carried or attached to the body can alter the actions available and require calibration.
+Sources:
+- Creem-Regehr & Kunz (2010), *Perception and Action*: https://doi.org/10.1002/wcs.82
+- Chong & Proctor (2020), *On the Evolution of a Radical Concept: Affordances According to Gibson and Their Subsequent Use and Development*: https://doi.org/10.1177/1745691619868207
+- Systematic review of person-plus-object affordances (2023): https://pubmed.ncbi.nlm.nih.gov/37407795/
+- Rolfs & Schweitzer (2022), *Coupling perception to action through incidental sensory consequences of motor behaviour*: https://www.nature.com/articles/s44159-021-00015-x
+
+**Prose rule:** describe the environment in terms of what Ira can do with it, what stops him, and what movement reveals. Do not force an explicit affordance analysis into his thoughts. The action itself can reveal the relationship.
+
+### 14.2 Interoception: the body contributes to emotion
+Interoception concerns signals about the body's internal state. Reviews describe its relationship to emotion as involving bodily signals alongside attention, interpretation, and context; it is not a simple one-to-one code in which a racing heart always means fear. Anxiety-related research finds associations with negative evaluation and attention to bodily signals, but also notes measurement limitations and individual differences.
+Sources:
+- Greenwood & Garfinkel (2025), *Interoceptive Mechanisms and Emotional Processing*: https://doi.org/10.1146/annurev-psych-020924-125202
+- Craig (2002), *How do you feel? Interoception: the sense of the physiological condition of the body*: https://www.nature.com/articles/nrn894
+- *The relationship between self-reported interoception and anxiety: A systematic review and meta-analysis* (2024): https://pubmed.ncbi.nlm.nih.gov/39427810/
+- *Threat and the Body: How the Heart Supports Fear Processing*: https://pubmed.ncbi.nlm.nih.gov/26628111/
+
+**Prose rule:** use bodily changes as evidence and pressure, not as a universal emotion label. A tight throat, warm face, unsettled stomach, breath held too long, or urge to move may accompany an interpretation; the character's meaning-making and context determine how the signal is experienced. Do not pile on symptoms to certify an emotion, and do not assume every emotion has a clear bodily signature.
+
+### 14.3 Fear and vigilance must be specific to the cue
+The auditory ecology literature supports the importance of monitoring meaningful environmental changes, but it does not justify making every human hypervigilant or treating every sound as a threat. Learned experience, current goals, fatigue, context, and individual differences influence what becomes salient.
+
+**Prose rule:** when Ira is anxious, attention may narrow toward a particular uncertainty: the person who has moved behind him, the silence after a remark, whether someone is waiting for him to answer, or the exit he can use. Do not render generalized “he noticed everything” hyperawareness. He should miss other details precisely because attention is selective.
+
+### 14.4 Evolutionary explanation must not become biological determinism
+Evolutionary history can inform broad capacities and recurring pressures—monitoring danger, coordinating socially, protecting bodily integrity, managing resources, learning from outcomes—but it does not supply a universal explanation for each individual's behavior. Immediate context, development, learning, culture, incentives, and personal history matter. The same behavior can serve different functions in different situations.
+
+**Prose rule:** explain a behavior at the level the scene supports. If Ira leaves because he feels disoriented, the chapter may show the immediate relief that movement offers and the longer-term cost of avoiding uncertainty. It should not claim a single evolutionary purpose for the behavior. Use evolutionary reasoning to ask better questions, not to replace characterization with a grand theory.
+
+## 15. Expanded test suite: body, action, and inference
+
+### Test 7 — Body signal versus emotion label
+Remove the emotion label and see whether the body/action/context allow the reader to infer the experience without ambiguity becoming confusing. Add a direct label only if clarity requires it.
+
+### Test 8 — Affordance and contact
+For any consequential interaction with an object or surface, check body position, reach, obstruction, contact, resistance, and what changes after contact. The scene must not claim the hand/body can pass through, bend, reach, or perceive something inconsistent with the actual geometry.
+
+### Test 9 — Threat salience
+If Ira notices a potential threat or social risk, identify the cue that attracts attention and the reason it matters to him. If no cue or context exists, the vigilance may be author-imposed rather than psychologically earned.
+
+### Test 10 — Competing explanations
+For ambiguous social behavior, record at least two plausible explanations in the planning layer. The prose need not list them both. This protects the architecture from treating suspicion as omniscience.
+
+### Test 11 — Evolutionary claim audit
+Any sentence in planning documents that begins “humans evolved to…” must identify a specific, supported mechanism and distinguish a broad hypothesis from established evidence. If that precision does not change the scene, remove the claim rather than use evolutionary language as decoration.
