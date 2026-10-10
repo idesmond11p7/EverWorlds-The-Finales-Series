@@ -12,7 +12,7 @@
 
 ## 0. Chapter in one sentence
 
-On the same Tuesday night as the entrance exam, Ira sits with the life he cannot explain, notices that the official identity he must inhabit is both his only practical protection and a story he cannot convincingly tell, then goes outside to test an excessive new rule about discipline; his first attempts to predict ordinary people produce small wins, embarrassing misses, and unexpected feelings, until he decides to investigate the one part of his new life he cannot afford to improvise: the paperwork.
+On the same Tuesday night as the entrance exam, Ira sits with the life he cannot explain, notices that the official identity he must inhabit is both his only practical protection and a story he cannot convincingly tell, then goes outside for air and an ordinary reason to move. He carries a crude new rule about discipline but has no plan to test it; an interaction activates it mid-conversation. His first attempts to predict ordinary people produce a narrow win, an embarrassing miss, and unexpected feelings, until he decides to investigate the one part of his new life he cannot afford to improvise: the paperwork.
 
 This is not a story about a genius discovering social engineering. It is a teenager inventing a crude way to feel less helpless, trying it while already in a conversation, and discovering that the world is more variable than his first rule can handle.
 
