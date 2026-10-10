@@ -143,3 +143,31 @@ Architecture and prompt are **working proposals**, not author-approved canon and
 
 ### Next safe action
 Fetch back the new files and audit them. Correct any omitted mandatory Chapter 8 requirements before treating the prompt as ready. Do not claim the prompt was sent to Gemini. Do not draft Chapter 8 prose until the user asks for the next step or the prompt is explicitly being executed.
+
+
+## Final fetch-back and content audit — 2026-10-10
+STATUS: VERIFIED FETCH-BACK; AUTHOR REVIEW PENDING
+
+Fetched the latest active files from GitHub and compared the architecture and prompt against the active addendum, Chapter 7 manuscript ending, and GMP-21 method.
+
+Verified:
+- exact Chapter 7 last line and same Tuesday evening/night continuity;
+- no invented mother death;
+- no supernatural ability before after Chapter 20 (wording normalized to “until after Chapter 20”);
+- immature hyper-discipline philosophy, with the first prediction triggered only after an interaction has begun;
+- a narrow prediction win and a meaningful miss;
+- emotionally young, inconsistent Ira rather than a mature social strategist;
+- a foreign-looking protagonist in a 2005-era setting without assuming all local people behave alike;
+- independent NPCs, non-seductive adult teasing, minor-protection guardrails, and one ambiguous ordinary behavior;
+- dossier vulnerability framed as Ira's inability to explain his official past, not a proven legal verdict;
+- a self-generated, period-appropriate investigation using paper resources;
+- accessible research links and explicit limitations;
+- a self-contained Gemini brief with no reliance on private GitHub access.
+
+Correction applied during audit: the first interaction is not preplanned as a “social experiment.” Ira leaves for ordinary reasons; only after a cue occurs mid-interaction does he try his crude prediction rule. The provisional “I have a chance and will take it” conclusion is framed as immature and partly delusional, not a polished vow.
+
+Remaining limitation: the original full Chapter 6 prompt is not recovered. The active brief uses the documented Chapter 6 method and source modules without claiming missing wording.
+
+The scene architecture and prompt are working proposals. They have not been sent to Gemini, and no Chapter 8 draft has been generated in this step.
+
+Next safe action: provide the self-contained master prompt for author use/review. If the author accepts the proposed scene choices, paste the complete prompt into Gemini with any required source manuscript attachments. Do not ask the author to repeat already-recorded constraints.
