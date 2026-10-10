@@ -73,3 +73,16 @@ Use the following priority when sources conflict:
 **Not yet locked:** exact people, route, activities, night venue, unusual person's motive, and final mission. These must be developed into a causal scene architecture, not improvised as disconnected events.
 
 **Production chain:** source/canon recovery → evidence ledger → psychological causal model → scene/activity system → beat chain → POV and sensory/acoustic plan → prose technique plan → complete Gemini master prompt → draft → independent audit → decision/registry update.
+
+
+## Chapter 8 production package — 2026-10-10
+
+- [CHR-08 Scene Architecture](CHR-08_SCENE_ARCHITECTURE_2026-10-10.md): detailed causal scene plan with the apartment/dossier opening, immature mid-interaction prediction attempts, differentiated social encounters, acoustic/spatial plan, and the self-generated paperwork investigation ending. The scene choices are proposals until author-approved; author constraints are locked.
+- [CHR-08 Gemini Master Prompt](CHR-08_GEMINI_MASTER_PROMPT_2026-10-10.md): self-contained production brief for Gemini. All required story context is embedded; Gemini must not be expected to retrieve private GitHub context.
+- [CHR-08 Addendum](CHR-08_ADDENDUM_2026-10-10_PSYCHOLOGICAL_NIGHT.md): Sections 11–12 contain the current author clarifications, including the latest correction that Ira's pre-simulation is immature and begins mid-interaction.
+
+### Latest developmental guardrail
+Do not advance Ira into mature metacognition or an established social simulation system. Chapter 8 shows the first crude hyper-discipline rule and its first imperfect tests. His wins are small, his failures matter, and his emotions can arrive before he knows how to manage them. The identity dossier is a practical vulnerability because he cannot explain the life it describes; the precise legal status of its contents remains unverified.
+
+### Current status
+The detailed scene architecture and complete Gemini prompt have been created and are awaiting independent audit/fetch-back verification. The original Chapter 6 prompt is still only partially recovered; GMP-21 and the Chapter 6 production/function documents preserve the documented method without claiming missing wording.
