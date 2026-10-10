@@ -68,7 +68,7 @@ Use the following priority when sources conflict:
 4. Historical/archive plans, prompts, and generated drafts.
 5. Model inference (never canon without review).
 
-**Locked:** Chapter 8 starts from Chapter 7's exact final line and remains in the same Tuesday evening/night; no supernatural ability manifests before after Chapter 20; Jonah's mother is alive in original-life Chapters 1–2; no generic power-system or DxD assumptions.
+**Locked:** Chapter 8 starts from Chapter 7's exact final line and remains in the same Tuesday evening/night; no supernatural ability manifests until after Chapter 20; Jonah's mother is alive in original-life Chapters 1–2; no generic power-system or DxD assumptions.
 
 **Not yet locked:** exact people, route, activities, night venue, unusual person's motive, and final mission. These must be developed into a causal scene architecture, not improvised as disconnected events.
 
