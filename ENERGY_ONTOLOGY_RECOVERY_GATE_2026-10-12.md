@@ -20,7 +20,7 @@ This is a recovery gate, not a new energy-system specification. It exists becaus
 
 Operational meaning: when an analogy is needed to explain a mechanic, record the analogy inside the relevant project document alongside the actual mechanic. Explain what the analogy maps to, what it does not map to, and where it stops being accurate. The analogy is not a substitute for the mechanic and must not be left only in chat.
 
-> “I don't want that. It's my ideas being forgotten and left in the dust, and being changed to something they were absolutely not.”
+> “I don't want that. My ideas being forgotten and left in the dust, and being changed to something they were absolutely not.”
 
 This is a preservation requirement. Do not simplify an author's idea into a generic taxonomy and then treat the simplification as the original.
 
