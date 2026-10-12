@@ -171,3 +171,21 @@ Remaining limitation: the original full Chapter 6 prompt is not recovered. The a
 The scene architecture and prompt are working proposals. They have not been sent to Gemini, and no Chapter 8 draft has been generated in this step.
 
 Next safe action: author reviews the self-contained prompt now supplied in the conversation. If the proposed scene choices are accepted, paste the complete prompt into Gemini with the relevant manuscript/source context required by the user's workflow. Do not ask the author to repeat already-recorded constraints. No Chapter 8 prose has been drafted in this pass.
+
+
+## Energy ontology recovery — 2026-10-12
+
+The author explicitly directed the assistant to use the existing documentation pipeline and stated that analogies must be included in the actual project document. The assistant created ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md and routed the correction through source, quote, decision, link-map, register, and memory records. The gate is not the completed ontology.
+
+### Verified sources recovered in this pass
+- _ARCHIVE_PRE_RESET_2026-10-06/EVERWORLD_6_RAW_IDEA_DUMP_001.md — raw ideation only; documents the breadth of the power-system ecology and uses ammunition types as an analogy for distinct pools/resources. Its proposals are not automatically canon.
+- _ARCHIVE_PRE_RESET_2026-10-06/SUPERNATURAL_ONTOLOGY_MASTER.md — locked core ontology and explicit resource/energy versus ontological-function distinction.
+- _ARCHIVE_PRE_RESET_2026-10-06/DEVIL_DEMON_NEGATIVE_POTENTIAL_ARCHITECTURE.md — author-defined Devil/Ender ecology and its rise-sensitive feedback-loop analogy.
+- _ARCHIVE_PRE_RESET_2026-10-06/SUPERNATURAL_REALITY_AND_MAGIC_ARCHITECTURE.md — historical magic/Aimor architecture; current project context rejects Aimor/Aimor pools as current canonical terminology.
+- 00_CONTROL_GATE.md, 06_RESEARCH_AND_RECOVERY_METHOD.md, 09_MEMORY_BRIDGE.md, 02_DECISION_LEDGER.md, 03_SOURCE_LEDGER.md, 04_QUOTE_LEDGER.md, 07_DOCUMENT_LINK_MAP.md, and README.md — operational documentation controls.
+
+### Unresolved — do not improvise
+The exact author-defined meaning of “variable energy” and Ether has not yet been recovered. The broad global scope of Ender beyond the sourced Devil ecology also remains unresolved. These are recovery gaps, not evidence the author never defined them. Do not ask the author to repeat the lore and do not invent definitions. Continue checking the source register, archive audit, known source paths, and history.
+
+### Next safe action
+Continue artifact-level source recovery for the energy ontology, identify and read every relevant source fully, compare any contradictory versions, extract exact author wording/analogies, then update the target lore module and all dependent registers. Do not write a generic replacement taxonomy. Fetch back and verify every changed artifact before claiming the documentation pass is complete.
