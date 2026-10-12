@@ -110,3 +110,19 @@ A document is not promoted merely because it sounds plausible, appears newer, or
 - EVIDENCE-STATE: WORKING_PLAN / DERIVED / VERIFIED_RESEARCH as individually indicated in the artifacts.
 - DEPENDENTS: README, document link map, memory bridge, session handoff, later Chapter 8 draft.
 - STATUS: ACTIVE WORKING PLAN; not yet author-approved.
+
+
+## Energy ontology recovery gate — ENERGY-RECOVERY-2026-10-12-01
+
+- SOURCE-ID: SRC-ENERGY-RECOVERY-2026-10-12-01
+- ORIGINAL PATH/NAME: Author statements in 2026-10-12 conversation; ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md
+- SOURCE TYPE: AUTHOR_DECISION / AUTHOR_STATEMENT + DERIVED RECOVERY PROTOCOL
+- DATE/TIME: 2026-10-12 / UNKNOWN
+- EXACT PROVENANCE: User directly corrected the assistant's repeated substitution of generic frameworks for existing energy lore and required the documentation pipeline and in-document analogies to be used.
+- WHAT IT ESTABLISHES: A locked workflow requirement for source-first energy-lore recovery, exact terminology preservation, in-document analogies, honest UNKNOWN states, and artifact-level verification.
+- WHAT IT DOES NOT ESTABLISH: The complete definition of “variable energy”; the exact Ether definition; a global definition of Ender beyond sourced scopes; promotion of raw ideation to canon.
+- DEPENDENCIES: 00_CONTROL_GATE.md; 02_DECISION_LEDGER.md; 03_SOURCE_LEDGER.md; 04_QUOTE_LEDGER.md; 06_RESEARCH_AND_RECOVERY_METHOD.md; 07_DOCUMENT_LINK_MAP.md; 09_MEMORY_BRIDGE.md; the linked archived energy/ontology sources.
+- AFFECTED DOCUMENTS: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md; README.md; 05_SESSION_HANDOFF.md; all future energy/ontology modules.
+- SUPERSEDED CLAIMS: Generic assistant reconstructions made in the 2026-10-12 conversation; no author-canon claim is superseded.
+- CONFIDENCE: User's workflow and preservation requirement = CONFIRMED; exact “variable energy” and Ether models = UNKNOWN pending source recovery.
+- VERIFICATION STATUS: Recovery gate created; cross-document routing and fetch-back verification in progress.
