@@ -126,3 +126,14 @@ Do not deliver an energy-system explanation as complete until all applicable che
 ## Current state
 
 **Energy ontology recovery: INCOMPLETE / G1–G2.** The repository contains useful, source-backed material on resource diversity and particular supernatural ecologies, but this pass has not recovered the exact author-defined “variable energy” and Ether concepts. This document is a guardrail and recovery pointer—not a claim that the energy ontology is complete, and not a request for the author to explain it again.
+
+
+## Control-surface conflict discovered during recovery
+
+The active root currently exposes overlapping routes that do not agree cleanly:
+
+- 00_CONTROL_GATE.md routes the decision stage through DEC-05, which is the ID on 05_DECISION_LEDGER.md; 02_DECISION_LEDGER.md also contains an active detailed decision history and is referenced by other active documents.
+- The control chain names HND-15 / 15_SESSION_HANDOFF.md, while 05_SESSION_HANDOFF.md is also described in README.md and 09_MEMORY_BRIDGE.md as a mandatory/current bridge.
+- The source/quote/decision files were updated along both relevant paths for this recovery, but this does not resolve the duplicated control surfaces.
+
+Do not infer which duplicate is disposable. Preserve both records and reconcile precedence through an explicit maintenance decision. Until then, treat the duplicated routing as a continuity risk and check both when recovering prior work.
