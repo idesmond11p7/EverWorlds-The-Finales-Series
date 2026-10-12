@@ -37,3 +37,19 @@ Do not solve a missing source by creating a better-sounding summary. Create a re
 
 ## Naming rule
 Opaque IDs route. Human-readable filenames describe. Never infer authority from filenames.
+
+
+## Energy ontology recovery graph entry — 2026-10-12
+
+- TARGET: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md
+- TARGET ROLE: Recovery/anti-drift gate; not canon specification.
+- SOURCE: SRC-ENERGY-RECOVERY-2026-10-12-01
+- DECISION: DEC-ENERGY-RECOVERY-2026-10-12-01
+- QUOTES: Q-U-ENERGY-RECOVERY-2026-10-12-01; Q-U-ENERGY-ANALOGY-2026-10-12-01; Q-U-ENERGY-PRESERVATION-2026-10-12-01
+- DEPENDENCIES: 00_CONTROL_GATE.md; 01_SOURCE_REGISTER.md; 02_DECISION_LEDGER.md; 03_SOURCE_LEDGER.md; 04_QUOTE_LEDGER.md; 05_DECISION_LEDGER.md; 06_MENTAL_MODEL_GRADES.md; 06_RESEARCH_AND_RECOVERY_METHOD.md; 07_DOCUMENT_LINK_MAP.md; 09_MEMORY_BRIDGE.md; archived energy/ontology source files.
+- EXCLUDES: Any inferred definition of variable energy or Ether; global definition of Ender beyond source-backed scope; promotion of raw ideation to canon.
+- MODEL-GRADE: G1/G2 for exact variable-energy and Ether definitions until source recovery.
+- OPERATIONAL-STATE: Recovery in progress; no complete ontology release.
+
+### Existing routing conflict discovered during recovery
+The repository currently has duplicate-looking decision/handoff routes: 05_DECISION_LEDGER.md carries opaque ID DEC-05, while 02_DECISION_LEDGER.md contains the longer chronological history and is referenced by other active documents; 15_SESSION_HANDOFF.md carries HND-15, while 05_SESSION_HANDOFF.md is described elsewhere as the active bridge. Do not silently choose one and discard the other. Preserve both, route this recovery through both records, and reconcile their authority as a separate documented maintenance task. This conflict is itself a dependency risk for future continuity work.
