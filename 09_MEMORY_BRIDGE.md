@@ -86,3 +86,12 @@ Latest author corrections supersede assistant interpretations that made Ira too 
 - The full original Chapter 6 prompt has not been recovered; use the documented GMP-21 method and Chapter 6 function/rendering records without claiming missing text.
 
 Next safe action: fetch back and audit the new Chapter 8 architecture/prompt against the active addendum, exact Chapter 7 handoff, the latest author corrections, and GMP-21. Do not draft Chapter 8 prose until this audit is complete.
+
+
+## Energy ontology / lore-preservation hard gate — 2026-10-12
+
+Before explaining or expanding energy, ontology, or power-system lore, execute the repository's control chain: CG-00 → schema → MAP-02 → SRC-03 → QTE-04 → DEC-05 → MMG-06 → target module → AUD-14 → HND-15. Read the actual source artifacts and their dependencies. Search excerpts and model memory are not substitutes for source recovery; a failed indexed search does not prove that the source is absent. Check known paths, link maps, archive audits, source registers, and history.
+
+The author explicitly requires explanatory analogies to be placed in the relevant project document, alongside the literal mechanic. Preserve the analogy's mapping and limits; never leave it only in chat or let it replace the rule. Preserve exact terms and source status. Never promote raw ideation to canon or revive rejected terminology. Never ask the author to repeat already-documented lore. If source recovery genuinely fails, mark the missing definition UNKNOWN, continue recovery through available source paths, and do not invent a replacement.
+
+Current recovery pointer: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md. It is a recovery/anti-drift gate, **not** a complete energy ontology. The exact author-defined “variable energy” and Ether concepts remain unrecovered and must not be redefined from inference. The historical raw idea dump proposes broad resource diversity and an ammunition-ecosystem analogy, but is explicitly RAW IDEATION ONLY. Archived ontology sources establish specific distinctions, including energy/resource versus ontological function and the Devil/Ender ecology, within their documented scopes. Aimor/Aimor pools are not current canonical terminology.
