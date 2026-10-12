@@ -48,7 +48,7 @@ The exact author-defined “variable energy” and Ether definitions remain UNKN
 
 A routing inconsistency was found: DEC-05 is assigned to 05_DECISION_LEDGER.md while 02_DECISION_LEDGER.md also functions as a detailed active history; HND-15 is assigned to 15_SESSION_HANDOFF.md while 05_SESSION_HANDOFF.md is also used as the current bridge. Both routes have been preserved and updated where appropriate. Do not silently resolve this conflict; reconcile it as a separate maintenance task.
 
-Next action: finish fetching back all changed files; continue source-level recovery for the exact energy definitions; then reconcile duplicated decision/handoff control surfaces before declaring the documentation pipeline fully coherent.
+Next action: continue source-level recovery for the exact energy definitions; then reconcile duplicated decision/handoff control surfaces before declaring the documentation pipeline fully coherent. Fetch-back verification for this pass is complete.
 
 
 ### Fetch-back verification — 2026-10-12
