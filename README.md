@@ -99,3 +99,9 @@ The major gates are present. Scene specifics (Miki Kuroda, the kissaten, the reg
 
 - [Cosmology Lore — Working Record](LORE_COSMOLOGY_WORKING_RECORD_2026-10-12.md): provisional record of the author's broader “your verse” cosmology, kept separate from the Apocrypha/DxD chapter canon. It preserves the current working notes on creation, uneven realm structures, Earth's dependency relationships, Great Red and Ophis, primordial beings, and the provisionally named “Shizink” phenomenon.
 - **Authority:** this record is explicitly a conversational-context reconstruction. It is not yet source-verified canon; its own verification gate must be completed before its wording or unresolved mechanics are treated as fully authoritative.
+
+
+## Energy ontology recovery gate — 2026-10-12
+
+- [Energy Ontology Recovery Gate](ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md): active recovery/anti-drift route for energy and power-system lore. Preserves the requirement to use the documentation pipeline and put explanatory analogies in the actual relevant document. It records source-backed distinctions and explicit UNKNOWNs; it is **not** a completed energy ontology.
+- The exact author-defined “variable energy” and Ether concepts remain unrecovered in this pass. Do not redefine them from inference or ask the author to repeat them. Continue from the gate's source links and provenance records.
