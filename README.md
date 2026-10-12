@@ -94,3 +94,8 @@ The detailed scene architecture and complete Gemini prompt have been created and
 The addendum, scene architecture, and Gemini master prompt were fetched back from GitHub after their latest writes. The prompt was checked for the exact Chapter 7 handoff, same-night timeline, mother-alive continuity, no-power lock through Chapter 20, immature mid-interaction prediction, mixed outcomes, independent NPCs, one ambiguous ordinary oddity, non-sexual treatment of a minor, dossier liability, 2005 material-culture constraints, research links, and the self-generated investigation ending.
 
 The major gates are present. Scene specifics (Miki Kuroda, the kissaten, the regular's odd behavior, the exact dossier/contact-line detail, and the library/directory first step) remain **assistant-designed proposals**, not author-locked canon. The prompt is self-contained and does not rely on Gemini accessing GitHub. It has not been sent to Gemini.
+
+## Separate project record — cosmology lore (2026-10-12)
+
+- [Cosmology Lore — Working Record](LORE_COSMOLOGY_WORKING_RECORD_2026-10-12.md): provisional record of the author's broader “your verse” cosmology, kept separate from the Apocrypha/DxD chapter canon. It preserves the current working notes on creation, uneven realm structures, Earth's dependency relationships, Great Red and Ophis, primordial beings, and the provisionally named “Shizink” phenomenon.
+- **Authority:** this record is explicitly a conversational-context reconstruction. It is not yet source-verified canon; its own verification gate must be completed before its wording or unresolved mechanics are treated as fully authoritative.
