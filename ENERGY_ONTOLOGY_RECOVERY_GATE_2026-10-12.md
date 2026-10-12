@@ -137,3 +137,15 @@ The active root currently exposes overlapping routes that do not agree cleanly:
 - The source/quote/decision files were updated along both relevant paths for this recovery, but this does not resolve the duplicated control surfaces.
 
 Do not infer which duplicate is disposable. Preserve both records and reconcile precedence through an explicit maintenance decision. Until then, treat the duplicated routing as a continuity risk and check both when recovering prior work.
+
+
+## Record links — 2026-10-12
+
+- Source record: SRC-ENERGY-RECOVERY-2026-10-12-01 in 03_SOURCE_LEDGER.md and 01_SOURCE_REGISTER.md.
+- Exact user quotes: Q-U-ENERGY-RECOVERY-2026-10-12-01; Q-U-ENERGY-ANALOGY-2026-10-12-01; Q-U-ENERGY-PRESERVATION-2026-10-12-01 in 04_QUOTE_LEDGER.md.
+- Locked workflow decision: DEC-ENERGY-RECOVERY-2026-10-12-01 in 05_DECISION_LEDGER.md; detailed linked history also recorded in 02_DECISION_LEDGER.md.
+- Formal graph entry: 02_DOCUMENT_MAP.md; human-readable route: 07_DOCUMENT_LINK_MAP.md.
+- Execution record: WRK-ENERGY-RECOVERY-2026-10-12-01 in 12_WORK_LOG.md.
+- Audit / blocked-release record: AUD-ENERGY-RECOVERY-2026-10-12-01 in 14_AUDIT_RELEASE.md.
+- Session continuation: 15_SESSION_HANDOFF.md and 05_SESSION_HANDOFF.md.
+- Operational memory rule: 09_MEMORY_BRIDGE.md; index: README.md.
