@@ -49,3 +49,10 @@ The exact author-defined “variable energy” and Ether definitions remain UNKN
 A routing inconsistency was found: DEC-05 is assigned to 05_DECISION_LEDGER.md while 02_DECISION_LEDGER.md also functions as a detailed active history; HND-15 is assigned to 15_SESSION_HANDOFF.md while 05_SESSION_HANDOFF.md is also used as the current bridge. Both routes have been preserved and updated where appropriate. Do not silently resolve this conflict; reconcile it as a separate maintenance task.
 
 Next action: finish fetching back all changed files; continue source-level recovery for the exact energy definitions; then reconcile duplicated decision/handoff control surfaces before declaring the documentation pipeline fully coherent.
+
+
+### Fetch-back verification — 2026-10-12
+
+Verified by fetching from GitHub after updates: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md; 01_SOURCE_REGISTER.md; 02_DECISION_LEDGER.md; 02_DOCUMENT_MAP.md; 03_SOURCE_LEDGER.md; 04_QUOTE_LEDGER.md; 05_DECISION_LEDGER.md; 05_SESSION_HANDOFF.md; 07_DOCUMENT_LINK_MAP.md; 09_MEMORY_BRIDGE.md; 12_WORK_LOG.md; 14_AUDIT_RELEASE.md; README.md; and this HND-15 file. The expected recovery/decision/quote/work/audit references were present where applicable.
+
+This confirms the documentation changes persisted. It does not complete the energy ontology: the exact variable-energy and Ether definitions remain UNKNOWN. The next session must continue source recovery and must not ask the author to repeat the lore.
