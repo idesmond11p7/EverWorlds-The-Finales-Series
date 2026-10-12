@@ -65,3 +65,13 @@ If a document has no source/decision dependency, it cannot be treated as authori
 - `21_GEMINI_MASTER_PROMPT_PROTOCOL.md` — active master-prompt method, based on the documented Chapter 6 workflow.
 
 Authority note: current author corrections and verified manuscript evidence outrank proposed architecture. Archive prompts and the previous contaminated Chapter 8 draft remain quarantined.
+
+
+## Energy ontology recovery — 2026-10-12
+
+- Start with ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md after CG-00 and the session handoff.
+- It is a recovery/anti-drift gate, not a canon specification. It routes to the archived source artifacts and records the exact unresolved definitions.
+- Required dependencies: 01_SOURCE_REGISTER.md; 02_DECISION_LEDGER.md; 03_SOURCE_LEDGER.md; 04_QUOTE_LEDGER.md; 06_RESEARCH_AND_RECOVERY_METHOD.md; 09_MEMORY_BRIDGE.md.
+- Historical source pointers include EVERWORLD_6_RAW_IDEA_DUMP_001.md (raw ideation only), SUPERNATURAL_ONTOLOGY_MASTER.md (locked core ontology), DEVIL_DEMON_NEGATIVE_POTENTIAL_ARCHITECTURE.md (Devil/Ender ecology), and SUPERNATURAL_REALITY_AND_MAGIC_ARCHITECTURE.md (historical magic/Aimor architecture; rejected terminology must not be revived).
+- Current model grade: G1/G2 for the exact “variable energy” and Ether concepts until their source definitions are recovered. Do not ask the author to restate them. Do not promote the raw idea dump into canon.
+- Decision: DEC-ENERGY-RECOVERY-2026-10-12-01. Source record: SRC-ENERGY-RECOVERY-2026-10-12-01. Exact quotes: Q-U-ENERGY-RECOVERY-2026-10-12-01 and linked quote entries in 04_QUOTE_LEDGER.md.
