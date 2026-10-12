@@ -96,3 +96,55 @@ When a user explicitly says something like “give me exactly what I said,” th
 - LINKED-DECISIONS: DEC-GMP-21-2026-10-09
 - MODEL-GRADE: G3 for the instruction's meaning; future protocol effectiveness remains unverified.
 - STATUS: LOCKED
+
+
+## Q-U-ENERGY-RECOVERY-2026-10-12-01
+
+- QUOTE-ID: Q-U-ENERGY-RECOVERY-2026-10-12-01
+- CLASS: Q-U
+- EXACT-TEXT: “You've created entire systems and documentation to prevent the same problem. Please use those systems.”
+- SOURCE-ID: SRC-ENERGY-RECOVERY-2026-10-12-01
+- DATE: 2026-10-12
+- TIME: UNKNOWN
+- CONTEXT: User correction after the assistant again replaced established energy lore with generic reconstructions.
+- INTENT: Enforce the existing documentation pipeline rather than merely describing it.
+- WHAT-IT-ESTABLISHES: Existing project control systems must be executed for continuity and lore recovery.
+- WHAT-IT-DOES-NOT-ESTABLISH: That the current assistant has fully recovered the energy ontology.
+- LINKED-CLAIMS: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md
+- LINKED-DECISIONS: DEC-ENERGY-RECOVERY-2026-10-12-01
+- MODEL-GRADE: G3 for the instruction; compliance is verified only after artifact-level work and fetch-back.
+- STATUS: LOCKED WORKFLOW REQUIREMENT
+
+## Q-U-ENERGY-ANALOGY-2026-10-12-01
+
+- QUOTE-ID: Q-U-ENERGY-ANALOGY-2026-10-12-01
+- CLASS: Q-U
+- EXACT-TEXT: “When explaining, you're supposed to use the analogy and put it in the document rather than just using bullshit.”
+- SOURCE-ID: SRC-ENERGY-RECOVERY-2026-10-12-01
+- DATE: 2026-10-12
+- TIME: UNKNOWN
+- CONTEXT: User specifies how mechanics must be explained and documented.
+- INTENT: Make analogies part of durable, useful documentation rather than chat-only commentary.
+- WHAT-IT-ESTABLISHES: A mechanic's explanatory analogy must be placed in the relevant project document alongside the mechanic, with mapping and limits clear.
+- WHAT-IT-DOES-NOT-ESTABLISH: Permission for an analogy to replace the literal rule or introduce new mechanics.
+- LINKED-CLAIMS: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md
+- LINKED-DECISIONS: DEC-ENERGY-RECOVERY-2026-10-12-01
+- MODEL-GRADE: G3 for the requirement.
+- STATUS: LOCKED
+
+## Q-U-ENERGY-PRESERVATION-2026-10-12-01
+
+- QUOTE-ID: Q-U-ENERGY-PRESERVATION-2026-10-12-01
+- CLASS: Q-U
+- EXACT-TEXT: “I don't want that. My ideas being forgotten and left in the dust, and being changed to something they were absolutely not.”
+- SOURCE-ID: SRC-ENERGY-RECOVERY-2026-10-12-01
+- DATE: 2026-10-12
+- TIME: UNKNOWN
+- CONTEXT: User states the core harm caused by repeated lore drift.
+- INTENT: Preserve exact author ideas and prevent generic reconstruction from replacing them.
+- WHAT-IT-ESTABLISHES: Source recovery and faithful preservation take priority over producing a fast but simplified answer.
+- WHAT-IT-DOES-NOT-ESTABLISH: Any new fictional mechanic.
+- LINKED-CLAIMS: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md
+- LINKED-DECISIONS: DEC-ENERGY-RECOVERY-2026-10-12-01
+- MODEL-GRADE: G3 for the preservation requirement.
+- STATUS: LOCKED
