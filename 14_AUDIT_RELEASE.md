@@ -55,9 +55,16 @@ SUPERSEDED
   - MENTAL-MODEL-GRADE: PASS; exact variable-energy and Ether definitions are marked UNKNOWN / G1–G2.
   - NO-INVENTION: PASS; no replacement definitions are asserted.
   - ANALOGY-PRESERVATION: PASS for the new recovery gate's requirement that future mechanic analogies be included in the actual target document.
-  - FETCH-BACK: PASS for the recovery gate and initial eight route/register/README updates; remaining route updates are being verified.
+  - FETCH-BACK: PASS — the recovery gate and updated source register, both decision histories, document map, source ledger, quote ledger, both session handoffs, link map, memory bridge, work log, audit record, and README were fetched back from GitHub. Expected markers were present where applicable.
 - FAILURES: The actual author-defined “variable energy” and Ether definitions remain unrecovered. The energy ontology therefore fails release. The repository's duplicate decision/handoff control surfaces remain unresolved.
 - CORRECTIONS: Created a recovery gate; routed author quotes and workflow decision; separated confirmed historical source content from raw ideation and unresolved definitions.
 - AUTHOR-ACCEPTED: NO — not yet reviewed by author.
 - RELEASED: NO — this is not an ontology release.
 - SUPERSEDED: This audit record supersedes no canon; it explicitly blocks claiming completion.
+
+
+## AUD-ENERGY-RECOVERY-2026-10-12-01 — Final verification
+
+- FETCH-BACK: PASS — all changed recovery, source, quote, decision, map, work-log, audit, memory, README, and handoff artifacts were fetched back successfully.
+- DEPENDENCY-FRESHNESS: PARTIAL — duplicate decision/handoff control surfaces remain an unresolved control risk.
+- RELEASE DECISION: Recovery gate and routing records persisted successfully. **Energy ontology release remains FAILED / BLOCKED** because the exact author-defined variable-energy and Ether models have not been recovered.
