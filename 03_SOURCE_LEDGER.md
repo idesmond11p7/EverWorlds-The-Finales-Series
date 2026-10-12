@@ -96,3 +96,23 @@ A source identity remains UNKNOWN until the actual artifact, Git history, public
 - DEPENDENTS: 09_MEMORY_BRIDGE.md; 07_DOCUMENT_LINK_MAP.md; 01_SOURCE_REGISTER.md; 02_DECISION_LEDGER.md; 04_QUOTE_LEDGER.md; 05_SESSION_HANDOFF.md; all future chapter production prompts.
 - SUPERSEDES: Generic checklist-only prompts and prompts that expect Gemini to retrieve private GitHub context.
 - STATUS: ACTIVE — operational standard; source limits remain explicit.
+
+
+## SRC-ENERGY-RECOVERY-2026-10-12-01 — Energy ontology recovery gate and author correction
+
+- SOURCE-ID: SRC-ENERGY-RECOVERY-2026-10-12-01
+- ORIGINAL-FILE: Current-session author statements dated 2026-10-12; recovery record ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md
+- ARCHIVE-PATH: Multiple sources listed in the recovery gate; see direct artifact links there
+- DATE: 2026-10-12
+- TIME: UNKNOWN
+- CONTEXT: Assistant repeatedly gave generic explanations of “variable energy” instead of recovering the author's established meaning. The author explicitly required use of the existing documentation system and inclusion of explanatory analogies in the actual document.
+- EXACT-QUOTE(S): “You've created entire systems and documentation to prevent the same problem. Please use those systems.”; “When explaining, you're supposed to use the analogy and put it in the document rather than just using bullshit.”; “I don't want that. My ideas being forgotten and left in the dust, and being changed to something they were absolutely not.”
+- CLAIM: Future energy-ontology work must begin with source/quote/decision recovery, preserve the author's terminology and distinctions, and document the mechanic plus its analogy in the target artifact. The author must not be asked to repeat information that is already recoverable from project records.
+- CONTAINS: Direct author correction; a recovery gate; source-backed historical evidence about resource diversity, energy-vs-ontology separation, and Devil/Ender ecology.
+- DOES-NOT-CONTAIN: A complete recovered definition of “variable energy” or Ether; authorization to redefine Ender globally; promotion of raw idea-dump proposals into canon.
+- AUTHORITY: AUTHOR_STATEMENT + recovery protocol derived from active control documents and cited historical artifacts.
+- MODEL-GRADE: G2 for the broad resource architecture; G1/G2 for the exact “variable energy” and Ether concepts until their original source is recovered.
+- EVIDENCE-STATE: Author correction confirmed; historical proposals and specific source claims retain their own source/status labels; missing definitions remain UNKNOWN.
+- DEPENDENTS: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md; 01_SOURCE_REGISTER.md; 02_DECISION_LEDGER.md; 04_QUOTE_LEDGER.md; 05_SESSION_HANDOFF.md; 07_DOCUMENT_LINK_MAP.md; README.md; 09_MEMORY_BRIDGE.md.
+- SUPERSEDES: This session's generic assistant reconstructions of “variable energy.” It does not supersede or amend author canon.
+- STATUS: ACTIVE RECOVERY RECORD; not a completed energy ontology.
