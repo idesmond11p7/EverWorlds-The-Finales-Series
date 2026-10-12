@@ -182,3 +182,29 @@ INVALIDATES:
 AFFECTS: Chapter 8 scene architecture, prompt, draft, future developmental pacing, and any later chapter that depends on the new habit's origin.
 
 REQUIRED DOCUMENT UPDATES: addendum, architecture, Gemini prompt, README, link map, memory bridge, session handoff, source register.
+
+
+## DEC-ENERGY-RECOVERY-2026-10-12-01 — Enforce source-first energy ontology recovery
+
+- DATE: 2026-10-12
+- TIME: UNKNOWN
+- CONTEXT / EXACT MOMENT: User states that the existing documentation systems must be used, that explanatory analogies must be written into the relevant document, and that the project cannot tolerate established ideas being forgotten or rewritten as something else.
+- USER INTENT: Preserve existing lore and operationalize the documentation pipeline instead of repeating process talk or asking the author to re-explain stored material.
+- EXACT USER QUOTES:
+  - “You've created entire systems and documentation to prevent the same problem. Please use those systems.”
+  - “When explaining, you're supposed to use the analogy and put it in the document rather than just using bullshit.”
+  - “I don't want that. My ideas being forgotten and left in the dust, and being changed to something they were absolutely not.”
+- DECISION:
+  1. Energy/ontology work must follow CG-00 → schema → link map → source ledger → quote ledger → decision ledger → mental-model grade → target module → audit → handoff.
+  2. Read actual artifacts and cross-check provenance before explanation or expansion. A failed indexed search is not proof of absence.
+  3. Preserve author wording, existing analogies, canon state, rejected terminology, and unresolved conflicts. Never replace a missing definition with a generic taxonomy.
+  4. When an analogy is used, record the literal mechanic, analogy, mapping, limits, example, and source/status inside the relevant project document.
+  5. Do not ask the author to repeat lore that is already documented. If source recovery genuinely fails, record UNKNOWN and continue source recovery from known paths/history without inventing a definition.
+  6. Mark ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md as a recovery/anti-drift gate only, not as the completed energy ontology.
+  7. Fetch every changed file back from GitHub and verify its content and routing links.
+- SOURCE: SRC-ENERGY-RECOVERY-2026-10-12-01; Q-U-ENERGY-RECOVERY-2026-10-12-01; Q-U-ENERGY-ANALOGY-2026-10-12-01; Q-U-ENERGY-PRESERVATION-2026-10-12-01.
+- STATUS: LOCKED WORKFLOW DECISION; energy definition recovery remains incomplete.
+- WHAT THIS INVALIDATES: This session's generic reconstructions of “variable energy”; the assumption that describing a process is equivalent to executing it; any chat-only analogy that is not preserved in the target document.
+- WHAT THIS AFFECTS: All energy, resource, power-system, ontology, character-power, and world-lore work.
+- LINKED MEMORY / PRIOR DECISION: 00_CONTROL_GATE.md; 09_MEMORY_BRIDGE.md; 06_RESEARCH_AND_RECOVERY_METHOD.md; 07_DOCUMENT_LINK_MAP.md; the 2026-10-06 reset decision and model-memory quarantine.
+- REQUIRED DOCUMENT UPDATES: Energy recovery gate; source register; source ledger; quote ledger; this decision ledger; session handoff; document link map; README; memory bridge. Fetch back and verify every updated artifact.
