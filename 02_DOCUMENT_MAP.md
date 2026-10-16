@@ -53,3 +53,30 @@ Opaque IDs route. Human-readable filenames describe. Never infer authority from 
 
 ### Existing routing conflict discovered during recovery
 The repository currently has duplicate-looking decision/handoff routes: 05_DECISION_LEDGER.md carries opaque ID DEC-05, while 02_DECISION_LEDGER.md contains the longer chronological history and is referenced by other active documents; 15_SESSION_HANDOFF.md carries HND-15, while 05_SESSION_HANDOFF.md is described elsewhere as the active bridge. Do not silently choose one and discard the other. Preserve both, route this recovery through both records, and reconcile their authority as a separate documented maintenance task. This conflict is itself a dependency risk for future continuity work.
+
+
+## Everworld 6 / Apocrypha integration modules — 2026-10-16
+
+- TARGET: EVERWORLD_6_APOCRYPHA_RELATIONSHIP_AND_CANON_BOUNDARY_2026-10-16.md
+- TARGET ROLE: Author-declared project relationship and canon-boundary record; not a complete cosmology.
+- SOURCE: SRC-EW6-APOCRYPHA-2026-10-16-01
+- DECISION: DEC-EW6-APO-CONNECTION-2026-10-16-01
+- QUOTES: Q-U-EW6-APO-CONNECTION-2026-10-16-01
+- DEPENDENCIES: CG-00; SRC-03; QTE-04; DEC-05; MMG-06; 09_MEMORY_BRIDGE.md
+- MODEL-GRADE: G2
+- EVIDENCE-STATE: Author-declared relationship; integration semantics unresolved.
+- OPERATIONAL-STATE: Active routing decision.
+
+- TARGET: EVERWORLD_6_AI_SYNCHRONIZATION_BRIEF_2026-10-16.md
+- TARGET ROLE: AI continuity/synchronization brief; not a complete world bible and not code-verification evidence.
+- SOURCE: Existing README, control/provenance records, historical architecture context, current author decision.
+- DEPENDENCIES: relationship record; source/quote/decision ledgers; archive audit; memory bridge.
+- MODEL-GRADE: G2 for recorded architecture; G1–G2 for full integrated model.
+- EVIDENCE-STATE: Mixed; code implementation not independently verified.
+- OPERATIONAL-STATE: Active onboarding record.
+
+- TARGET: GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md
+- TARGET ROLE: Cross-model prompt construction protocol.
+- SOURCE: Q-U-GEMINI-WORKFLOW-2026-10-16-01; existing 21_GEMINI_MASTER_PROMPT_PROTOCOL.md.
+- MODEL-GRADE: G2; task-by-task evaluation required.
+- OPERATIONAL-STATE: Active workflow preference; version name unverified.
