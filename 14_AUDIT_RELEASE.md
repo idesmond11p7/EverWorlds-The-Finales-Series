@@ -85,3 +85,12 @@ SUPERSEDED
 - AUTHOR-REVIEW: PENDING.
 - RELEASE-EVIDENCE: Three new files created through GitHub and returned commit SHAs; file-by-file verification is in progress.
 - RESULT: Initial docs exist; do not mark integration complete until fetch-back and routing validation are done.
+
+
+## Fetch-back audit — Everworld 6 / Apocrypha (2026-10-16)
+
+- FETCH-BACK: PASS — all three new documents fetched after creation; README, source register, source ledger, quote ledger, both decision ledgers, document map, link map, memory bridge, session handoff, work log, and audit record fetched with expected markers.
+- ROUTING: PASS for the records checked in this pass; README and session handoff point to the new synchronization materials.
+- IMPLEMENTATION VERIFICATION: NOT RUN — no claim is made that Everworld 6 TypeScript modules, frontend, seed scenario, build, or tests were verified.
+- CANON COMPLETENESS: NOT COMPLETE — this package establishes relationship and continuity routing only; the full lore and integration map remain open.
+- RELEASE DECISION: Documentation package is persisted and fetch-back verified as an initial synchronization package. The Everworld 6 world bible and runtime implementation remain unverified/incomplete.
