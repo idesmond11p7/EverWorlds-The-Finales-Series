@@ -208,3 +208,19 @@ REQUIRED DOCUMENT UPDATES: addendum, architecture, Gemini prompt, README, link m
 - WHAT THIS AFFECTS: All energy, resource, power-system, ontology, character-power, and world-lore work.
 - LINKED MEMORY / PRIOR DECISION: 00_CONTROL_GATE.md; 09_MEMORY_BRIDGE.md; 06_RESEARCH_AND_RECOVERY_METHOD.md; 07_DOCUMENT_LINK_MAP.md; the 2026-10-06 reset decision and model-memory quarantine.
 - REQUIRED DOCUMENT UPDATES: Energy recovery gate; source register; source ledger; quote ledger; this decision ledger; session handoff; document link map; README; memory bridge. Fetch back and verify every updated artifact.
+
+
+## Decision — Everworld 6 is connected to Apocrypha (2026-10-16)
+
+- DATE: 2026-10-16
+- TIME: UNKNOWN
+- CONTEXT / EXACT MOMENT: Author redirected current work to Apocrypha/worldbuilding and instructed the assistant to document Everworld 6 so future AI variants can recover it.
+- USER INTENT: Preserve project continuity and establish the relationship in durable documentation.
+- EXACT USER QUOTE: “Everworld 6 will now be in fact connected to Apocrypha.”
+- DECISION: Treat Everworld 6 and Apocrypha as connected; Apocrypha is the active worldbuilding focus. Keep project roles and source records distinct until the author specifies more exact integration semantics.
+- SOURCE: SRC-EW6-APOCRYPHA-2026-10-16-01; Q-U-EW6-APO-CONNECTION-2026-10-16-01
+- STATUS: LOCKED as a relationship/routing decision; detailed integration model remains PROVISIONAL.
+- WHAT THIS INVALIDATES: Default assumption that Everworld 6 is unrelated to Apocrypha.
+- WHAT THIS AFFECTS: README, synchronization briefing, future lore records, integration mapping, handoff.
+- LINKED MEMORY / PRIOR DECISION: Everworld 6 prior architecture context; this decision does not establish that all historical implementation claims are current.
+- REQUIRED DOCUMENT UPDATES: source/quote/decision records, document/link maps, README, memory bridge, handoff, work log, audit.
