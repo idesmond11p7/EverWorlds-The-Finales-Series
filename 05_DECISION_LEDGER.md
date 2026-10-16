@@ -57,3 +57,37 @@ A decision affecting a foundational model automatically triggers recheck of its 
 
 ### Routing warning attached to this decision
 The current repository exposes two decision records (05_DECISION_LEDGER.md / DEC-05 and 02_DECISION_LEDGER.md) and two handoff records (15_SESSION_HANDOFF.md / HND-15 and 05_SESSION_HANDOFF.md). Both paths have been preserved and updated where applicable for this pass. Their precedence is not silently resolved here; reconcile the duplicate control surfaces as a separate maintenance decision.
+
+
+## DEC-EW6-APO-CONNECTION-2026-10-16-01 — Connect Everworld 6 and Apocrypha
+
+- DECISION-ID: DEC-EW6-APO-CONNECTION-2026-10-16-01
+- DATE: 2026-10-16
+- TIME: UNKNOWN
+- EXACT-MOMENT: Author said to focus on Apocrypha for the rest of the day and explicitly connected Everworld 6 to Apocrypha.
+- USER-INTENT: Ensure future AI variants know the Everworld 6 context and do not detach it from Apocrypha.
+- EXACT-USER-QUOTE: “Apokrypha is the world-building for Everworld 6. In the sense that I'm not putting Apokrypha apart because Everworld 6. But Everworld 6 will now be in fact connected to Apocrypha.”
+- DECISION: Everworld 6 is connected to Apocrypha; Apocrypha is the current worldbuilding focus. This does not authorize flattening the projects into one undifferentiated identity.
+- SOURCE-IDS: SRC-EW6-APOCRYPHA-2026-10-16-01; Q-U-EW6-APO-CONNECTION-2026-10-16-01
+- CLASSIFICATION: AUTHOR-DECLARED / LOCKED RELATIONSHIP
+- INVALIDATES: Default unrelated-project assumption.
+- AFFECTS: EW6-APO-REL-2026-10-16; EW6-AI-SYNC-2026-10-16; README; memory bridge; handoff; future canon and engine mapping.
+- REQUIRES-UPDATE: README.md; 02_DOCUMENT_MAP.md; 07_DOCUMENT_LINK_MAP.md; 09_MEMORY_BRIDGE.md; 05_SESSION_HANDOFF.md; 12_WORK_LOG.md; 14_AUDIT_RELEASE.md.
+- LINKED-MEMORY: User's Everworld 6 / Apocrypha project correction.
+- STATUS: LOCKED for relationship; integration details remain UNKNOWN/PROVISIONAL.
+
+## DEC-GEMINI-WORKFLOW-2026-10-16-01 — Prefer Gemini-involved workflows
+
+- DECISION-ID: DEC-GEMINI-WORKFLOW-2026-10-16-01
+- DATE: 2026-10-16
+- TIME: UNKNOWN
+- EXACT-MOMENT: Author stated that future workflows should involve “Germany” and requested a prompting/personalization system.
+- USER-INTENT: Improve cross-model prompting and continuity.
+- EXACT-USER-QUOTE: “from now on, every single workflow we're ever gonna have is going to be involving Germany, okay?”
+- DECISION: Future workflows should explicitly consider and involve Gemini where useful and available; use a self-contained, source-aware prompting standard. The speech-transcribed exact version name “Germany 3.8” remains unverified.
+- SOURCE-IDS: Q-U-GEMINI-WORKFLOW-2026-10-16-01; GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md
+- CLASSIFICATION: AUTHOR WORKFLOW PREFERENCE / ACTIVE
+- INVALIDATES: Generic prompts that omit provenance, task boundaries, and acceptance tests.
+- AFFECTS: Future AI-assisted workflows and prompts.
+- REQUIRES-UPDATE: README.md; 09_MEMORY_BRIDGE.md; 05_SESSION_HANDOFF.md.
+- STATUS: ACTIVE
