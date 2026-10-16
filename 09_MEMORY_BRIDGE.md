@@ -95,3 +95,18 @@ Before explaining or expanding energy, ontology, or power-system lore, execute t
 The author explicitly requires explanatory analogies to be placed in the relevant project document, alongside the literal mechanic. Preserve the analogy's mapping and limits; never leave it only in chat or let it replace the rule. Preserve exact terms and source status. Never promote raw ideation to canon or revive rejected terminology. Never ask the author to repeat already-documented lore. If source recovery genuinely fails, mark the missing definition UNKNOWN, continue recovery through available source paths, and do not invent a replacement.
 
 Current recovery pointer: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md. It is a recovery/anti-drift gate, **not** a complete energy ontology. The exact author-defined “variable energy” and Ether concepts remain unrecovered and must not be redefined from inference. The historical raw idea dump proposes broad resource diversity and an ammunition-ecosystem analogy, but is explicitly RAW IDEATION ONLY. Archived ontology sources establish specific distinctions, including energy/resource versus ontological function and the Devil/Ender ecology, within their documented scopes. Aimor/Aimor pools are not current canonical terminology.
+
+
+## Everworld 6 / Apocrypha connection — 2026-10-16
+
+The author explicitly stated that Everworld 6 is connected to Apocrypha and that Apocrypha is the current worldbuilding focus. Recover this decision from EVERWORLD_6_APOCRYPHA_RELATIONSHIP_AND_CANON_BOUNDARY_2026-10-16.md; do not treat them as unrelated by default. Do not collapse their identities beyond the exact relationship the author established.
+
+Start with:
+1. 00_CONTROL_GATE.md.
+2. 05_SESSION_HANDOFF.md.
+3. This memory bridge.
+4. EVERWORLD_6_APOCRYPHA_RELATIONSHIP_AND_CANON_BOUNDARY_2026-10-16.md.
+5. EVERWORLD_6_AI_SYNCHRONIZATION_BRIEF_2026-10-16.md.
+6. GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md for prompting workflows.
+
+The author prefers future workflows to involve Gemini. The speech-transcribed label “Germany 3.8” is not independently verified; preserve the preference without asserting the version. Prompts must be self-contained and must not assume another model can access private GitHub documents or hidden chat history. The repository remains the persistent record; author decisions remain the canon authority.
