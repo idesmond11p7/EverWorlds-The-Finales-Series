@@ -75,3 +75,18 @@ Authority note: current author corrections and verified manuscript evidence outr
 - Historical source pointers include EVERWORLD_6_RAW_IDEA_DUMP_001.md (raw ideation only), SUPERNATURAL_ONTOLOGY_MASTER.md (locked core ontology), DEVIL_DEMON_NEGATIVE_POTENTIAL_ARCHITECTURE.md (Devil/Ender ecology), and SUPERNATURAL_REALITY_AND_MAGIC_ARCHITECTURE.md (historical magic/Aimor architecture; rejected terminology must not be revived).
 - Current model grade: G1/G2 for the exact “variable energy” and Ether concepts until their source definitions are recovered. Do not ask the author to restate them. Do not promote the raw idea dump into canon.
 - Decision: DEC-ENERGY-RECOVERY-2026-10-12-01. Source record: SRC-ENERGY-RECOVERY-2026-10-12-01. Exact quotes: Q-U-ENERGY-RECOVERY-2026-10-12-01 and linked quote entries in 04_QUOTE_LEDGER.md.
+
+
+## Everworld 6 / Apocrypha synchronization route — 2026-10-16
+
+Read in this order when recovering Everworld 6:
+1. 00_CONTROL_GATE.md.
+2. 05_SESSION_HANDOFF.md.
+3. 09_MEMORY_BRIDGE.md.
+4. EVERWORLD_6_APOCRYPHA_RELATIONSHIP_AND_CANON_BOUNDARY_2026-10-16.md.
+5. EVERWORLD_6_AI_SYNCHRONIZATION_BRIEF_2026-10-16.md.
+6. Relevant source-specific lore records, including LORE_COSMOLOGY_WORKING_RECORD_2026-10-12.md and ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md.
+7. Verify current code/specification files before asserting implementation.
+8. Use GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md for any substantive cross-model task.
+
+The synchronization brief is an entry point, not canon authority for every detail. If a downstream source is missing, stale, or contradictory, stop and record UNKNOWN rather than improvising.
