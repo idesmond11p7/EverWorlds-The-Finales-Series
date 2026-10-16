@@ -126,3 +126,12 @@ A document is not promoted merely because it sounds plausible, appears newer, or
 - SUPERSEDED CLAIMS: Generic assistant reconstructions made in the 2026-10-12 conversation; no author-canon claim is superseded.
 - CONFIDENCE: User's workflow and preservation requirement = CONFIRMED; exact “variable energy” and Ether models = UNKNOWN pending source recovery.
 - VERIFICATION STATUS: Recovery gate created; cross-document routing and fetch-back verification in progress.
+
+
+## Everworld 6 / Apocrypha integration — 2026-10-16
+
+- EW6-APO-REL-2026-10-16 — EVERWORLD_6_APOCRYPHA_RELATIONSHIP_AND_CANON_BOUNDARY_2026-10-16.md; class AUTHOR_STATEMENT / WORKING ROUTING DECISION; records the author's explicit connection decision. Model grade G2: connection is explicit, full relationship model incomplete.
+- EW6-AI-SYNC-2026-10-16 — EVERWORLD_6_AI_SYNCHRONIZATION_BRIEF_2026-10-16.md; class DERIVED SYNCHRONIZATION BRIEF; consolidates existing repository context with explicit verification boundaries. Not a replacement for original sources.
+- GMP-EW6-2026-10-16 — GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md; class AUTHOR WORKFLOW PREFERENCE + DERIVED PROTOCOL; the workflow preference is explicit, while the exact spoken “Germany 3.8” model/version label is unverified.
+
+The new records do not promote the provisional cosmology record or energy recovery gate into completed canon. Continue from their source pointers and preserve UNKNOWNs.
