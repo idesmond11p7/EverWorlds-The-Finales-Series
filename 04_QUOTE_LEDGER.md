@@ -148,3 +148,38 @@ When a user explicitly says something like “give me exactly what I said,” th
 - LINKED-DECISIONS: DEC-ENERGY-RECOVERY-2026-10-12-01
 - MODEL-GRADE: G3 for the preservation requirement.
 - STATUS: LOCKED
+
+
+## Q-U-EW6-APO-CONNECTION-2026-10-16-01
+
+- QUOTE-ID: Q-U-EW6-APO-CONNECTION-2026-10-16-01
+- CLASS: Q-U — exact user wording
+- EXACT-TEXT: “Apokrypha is the world-building for Everworld 6. In the sense that I'm not putting Apokrypha apart because Everworld 6. But Everworld 6 will now be in fact connected to Apokrypha.”
+- SOURCE-ID: SRC-EW6-APOCRYPHA-2026-10-16-01
+- DATE: 2026-10-16
+- TIME: UNKNOWN
+- CONTEXT: Explicit project relationship decision.
+- INTENT: Connect Everworld 6 to Apocrypha and prevent future sessions from separating them by default.
+- WHAT-IT-ESTABLISHES: Author-declared relationship and worldbuilding relevance.
+- WHAT-IT-DOES-NOT-ESTABLISH: Complete setting equivalence, metaphysical mechanics, or runtime implementation.
+- LINKED-CLAIMS: Everworld 6 is connected to Apocrypha; Apocrypha is the active worldbuilding focus.
+- LINKED-DECISIONS: DEC-EW6-APO-CONNECTION-2026-10-16-01
+- MODEL-GRADE: G2
+- STATUS: ACTIVE
+
+## Q-U-GEMINI-WORKFLOW-2026-10-16-01
+
+- QUOTE-ID: Q-U-GEMINI-WORKFLOW-2026-10-16-01
+- CLASS: Q-U — exact user wording
+- EXACT-TEXT: “from now on, every single workflow we're ever gonna have is going to be involving Germany, okay?”
+- SOURCE-ID: Current user message, 2026-10-16; linked to GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md.
+- DATE: 2026-10-16
+- TIME: UNKNOWN
+- CONTEXT: Author's AI workflow preference. “Germany 3.8” may be speech transcription; exact model/version not verified.
+- INTENT: Make future workflows Gemini-involved and improve prompting quality.
+- WHAT-IT-ESTABLISHES: Preference for Gemini-involved workflows and a self-contained prompt system.
+- WHAT-IT-DOES-NOT-ESTABLISH: Product/version availability or that Gemini participated in this specific repository pass.
+- LINKED-CLAIMS: Future prompts should include context, constraints, sources, task boundaries, and acceptance tests.
+- LINKED-DECISIONS: DEC-GEMINI-WORKFLOW-2026-10-16-01
+- MODEL-GRADE: G2
+- STATUS: ACTIVE
