@@ -201,3 +201,12 @@ Continue artifact-level source recovery for the energy ontology, identify and re
 - VERIFIED: New documents were written to GitHub; fetch-back verification is still required before marking this handoff complete.
 - UNKNOWN: Current source-tree/build/test status for the previously named Everworld 6 TypeScript modules; full canon and integration model.
 - MUST-READ-NEXT: 00_CONTROL_GATE.md → this file → 09_MEMORY_BRIDGE.md → EVERWORLD_6_APOCRYPHA_RELATIONSHIP_AND_CANON_BOUNDARY_2026-10-16.md → EVERWORLD_6_AI_SYNCHRONIZATION_BRIEF_2026-10-16.md → GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md.
+
+
+## Fetch-back audit — Everworld 6 / Apocrypha (2026-10-16)
+
+- PASS: All three new documents fetched from GitHub after creation: relationship/canon-boundary record, AI synchronization brief, and Gemini workflow/prompting standard.
+- PASS: README, source register, source ledger, quote ledger, both decision-ledger routes, document map, link map, memory bridge, work log, and audit record fetched back with the expected new records/markers.
+- PASS: Work-log and audit entries were added after the initial write pass.
+- PARTIAL: The complete universe and Everworld 6 source inventory have not been recovered in this pass; the named implementation modules and runtime/test claims remain unverified.
+- NEXT: Recover actual Everworld 6 source/specification files and establish a file-level source/authority inventory before mapping Apocrypha lore into simulation contracts.
