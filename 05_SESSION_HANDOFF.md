@@ -189,3 +189,15 @@ The exact author-defined meaning of “variable energy” and Ether has not yet 
 
 ### Next safe action
 Continue artifact-level source recovery for the energy ontology, identify and read every relevant source fully, compare any contradictory versions, extract exact author wording/analogies, then update the target lore module and all dependent registers. Do not write a generic replacement taxonomy. Fetch back and verify every changed artifact before claiming the documentation pass is complete.
+
+
+## Latest touch — Everworld 6 / Apocrypha synchronization (2026-10-16)
+
+- AUTHORITATIVE_REPO: idesmond11p7/EverWorlds-The-Finales-Series
+- WORKING_FOCUS: Apocrypha/worldbuilding, with Everworld 6 now explicitly connected.
+- DECISION: DEC-EW6-APO-CONNECTION-2026-10-16-01; detailed integration boundaries remain provisional.
+- CREATED: EVERWORLD_6_APOCRYPHA_RELATIONSHIP_AND_CANON_BOUNDARY_2026-10-16.md; EVERWORLD_6_AI_SYNCHRONIZATION_BRIEF_2026-10-16.md; GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md.
+- UPDATED: README, source register, source ledger, quote ledger, both decision-ledger routes, document map, link map, memory bridge, work log, audit record.
+- VERIFIED: New documents were written to GitHub; fetch-back verification is still required before marking this handoff complete.
+- UNKNOWN: Current source-tree/build/test status for the previously named Everworld 6 TypeScript modules; full canon and integration model.
+- MUST-READ-NEXT: 00_CONTROL_GATE.md → this file → 09_MEMORY_BRIDGE.md → EVERWORLD_6_APOCRYPHA_RELATIONSHIP_AND_CANON_BOUNDARY_2026-10-16.md → EVERWORLD_6_AI_SYNCHRONIZATION_BRIEF_2026-10-16.md → GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md.
