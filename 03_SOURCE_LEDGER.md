@@ -116,3 +116,22 @@ A source identity remains UNKNOWN until the actual artifact, Git history, public
 - DEPENDENTS: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md; 01_SOURCE_REGISTER.md; 02_DECISION_LEDGER.md; 04_QUOTE_LEDGER.md; 05_SESSION_HANDOFF.md; 07_DOCUMENT_LINK_MAP.md; README.md; 09_MEMORY_BRIDGE.md.
 - SUPERSEDES: This session's generic assistant reconstructions of “variable energy.” It does not supersede or amend author canon.
 - STATUS: ACTIVE RECOVERY RECORD; not a completed energy ontology.
+
+
+## SRC-EW6-APOCRYPHA-2026-10-16-01 — Author declares Everworld 6 / Apocrypha connection
+
+- SOURCE-ID: SRC-EW6-APOCRYPHA-2026-10-16-01
+- ORIGINAL-FILE: User's direct message in the 2026-10-16 conversation.
+- ARCHIVE-PATH: Not independently archived as a standalone source artifact; exact material recorded in this entry and the quote ledger.
+- DATE: 2026-10-16
+- TIME: UNKNOWN
+- CONTEXT: Author redirected the workstream to Apocrypha/worldbuilding and explicitly stated that Everworld 6 is connected to Apocrypha; requested durable documentation for future AI variants and adherence to the repository protocol.
+- EXACT-QUOTE(S): “Apokrypha is the world-building for Everworld 6. In the sense that I'm not putting Apokrypha apart because Everworld 6. But Everworld 6 will now be in fact connected to Apokrypha.”
+- CLAIM: Everworld 6 is connected to Apocrypha; Apocrypha is the active worldbuilding focus for this workstream.
+- DOES-NOT-CONTAIN: Complete metaphysical relationship, full setting identity, exact engine/story mapping, or claim that every Apocrypha fact is already implemented in the Everworld 6 runtime.
+- AUTHORITY: AUTHOR STATEMENT for the relationship decision.
+- MODEL-GRADE: G2 for the declared relationship; G1–G2 for full integration.
+- EVIDENCE-STATE: AUTHOR-DECLARED.
+- DEPENDENTS: README.md; 02_DOCUMENT_MAP.md; 07_DOCUMENT_LINK_MAP.md; 05_SESSION_HANDOFF.md; new Everworld 6 sync documents.
+- SUPERSEDES: Default treatment of Everworld 6 and Apocrypha as unrelated projects.
+- STATUS: ACTIVE.
