@@ -105,3 +105,14 @@ The major gates are present. Scene specifics (Miki Kuroda, the kissaten, the reg
 
 - [Energy Ontology Recovery Gate](ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md): active recovery/anti-drift route for energy and power-system lore. Preserves the requirement to use the documentation pipeline and put explanatory analogies in the actual relevant document. It records source-backed distinctions and explicit UNKNOWNs; it is **not** a completed energy ontology.
 - The exact author-defined “variable energy” and Ether concepts remain unrecovered in this pass. Do not redefine them from inference or ask the author to repeat them. Continue from the gate's source links and provenance records.
+
+
+## Everworld 6 ↔ Apocrypha synchronization — 2026-10-16
+
+The author explicitly connected Everworld 6 to Apocrypha and directed this workstream to focus on Apocrypha/worldbuilding while creating durable Everworld 6 records for future AI sessions. Do not treat the projects as unrelated; do not collapse their identities or infer an integration model beyond the author decision.
+
+- [Everworld 6 Relationship and Canon Boundary](EVERWORLD_6_APOCRYPHA_RELATIONSHIP_AND_CANON_BOUNDARY_2026-10-16.md): exact author decision, project boundaries, canon/provenance rules, and unresolved questions.
+- [Everworld 6 AI Synchronization Brief](EVERWORLD_6_AI_SYNCHRONIZATION_BRIEF_2026-10-16.md): current project identity, previously recorded simulation architecture, verification boundaries, and next safe recovery steps.
+- [Gemini Workflow and Prompting Standard](GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md): self-contained prompt construction and verification workflow reflecting the author's Gemini-involved workflow preference. “Germany 3.8” remains a speech-transcribed, unverified model/version label.
+
+These are onboarding and routing documents, not a completed world bible. The full universe remains under construction. Claims about implementation modules, runtime behavior, and tests remain unverified until the actual current source files and test results are inspected.
