@@ -59,3 +59,16 @@ G1/LOCKED means "canonically fixed, poorly understood."
 ## Retrieval-grade rule
 A record cannot be treated as fully operational merely because it is stored.
 For G3, the system must be able to recover the exact source/quote, explain the model, distinguish it from adjacent concepts, and apply it without importing unsupported assumptions.
+
+
+## Everworld 6 / Apocrypha integration — 2026-10-16
+
+- TARGET: Everworld 6 ↔ Apocrypha relationship.
+- GRADE: G2 — the author's relationship decision is explicit and recoverable, but the complete setting/integration model is not yet structurally resolved.
+- EVIDENCE: Current-session author statement preserved in the relationship record, source ledger, quote ledger, and decision ledger.
+- KNOWN LIMITS: Exact setting equivalence, world/engine mapping, and full lore integration remain unresolved. Do not infer these from project names.
+- UPGRADE REQUIREMENTS: Recover authoritative lore sources; define boundaries and relationships; trace world rules into intended simulation contracts; test changed conditions and failure modes; fetch back artifacts in a later session.
+
+- TARGET: Gemini-involved prompting standard.
+- GRADE: G2 — a structured prompt protocol exists and is linked to the existing GMP-21 protocol; performance remains task-dependent and requires artifact-level audit.
+- LIMIT: The speech-transcribed “Germany 3.8” label is unverified.
