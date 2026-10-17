@@ -1,7 +1,7 @@
 # Chapter Register
 
 [STATUS: ACTIVE — CHAPTER ROUTING]
-[LAST_TOUCH: 2026-10-06 UNKNOWN]
+[LAST_TOUCH: 2026-10-17 | TIME: NOT RECORDED]
 [MUST_READ_NEXT: 12_CHAPTER_RECOVERY_RECORD_TEMPLATE.md]
 
 This is a state register, not a substitute for manuscripts.
@@ -32,9 +32,16 @@ SOURCE STATUS: CONFIRMED AUTHOR-SUPPLIED MANUSCRIPT
 SOURCE: _ARCHIVE_PRE_RESET_2026-10-06/CHAPTER_5_SOURCE_TEXT.md
 DATE STATED BY SOURCE: 2026-10-01
 
-### Chapter 6
-SOURCE STATUS: UNRESOLVED
-Multiple archived prose implementations exist. Do not promote any of them to canonical manuscript status merely because a control document calls Chapter 6 released.
+### Chapter 6 — The Mechanics of Morning
+SOURCE STATUS: CONFIRMED RECOVERED AUTHOR-SUPPLIED RELEASE MANUSCRIPT
+AUTHORITATIVE MANUSCRIPT: MIGRATION_BUNDLE_APOCRYPHA_DXD_FOREVER/CHAPTER_06_RELEASED_MANUSCRIPT.md
+RECOVERED SOURCE ARTIFACT: Library file “Pasted markdown(4).md” (file reference: turn88file2)
+SOURCE ARTIFACT TIMESTAMP: created 2026-10-08 16:29:56 UTC; modified 2026-10-08 16:29:59 UTC
+PUBLICATION EVIDENCE: ScribbleHub series listing identified Chapter 6 as “The Mechanics of Morning,” published 2026-10-02.
+TEXT CHECKS: 449 lines; opens with “The futon didn’t feel like an alien landing site anymore.”; registration dialogue contains “The examination begins at nine sharp.”; final line is “The examination will now begin.”
+LOCKED BOUNDARY: Chapter 6 ends at the 9:00 AM examination threshold; Chapter 7 owns the examination itself.
+KNOWN NON-CANONICAL ALTERNATIVES: _ARCHIVE_PRE_RESET_2026-10-06/CHAPTER_6_DRAFT.md, CHAPTER_6_RESTRUCTURED_DRAFT.md, and NOVEL_CHAPTER_6_DRAFT.md are historical/retired drafts. They are not the released manuscript and must not be substituted for it.
+RECOVERY NOTE: Exact released text was recovered from the author-supplied Library artifact and copied into the migration bundle without prose edits. This resolves the prior false “unresolved” status; retain the source artifact reference and this repository path together.
 
 ### Chapter 7
 SOURCE STATUS: MANUSCRIPT NOT RECOVERED IN MAIN ARCHIVE
