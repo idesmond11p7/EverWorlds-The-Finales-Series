@@ -25,7 +25,7 @@
 - Primary work: **Apocrypha DXD: Dragon × Deus — Forever**.
 - Published series: https://www.scribblehub.com/series/2585664/apocrypha-dxd-dragon--deus--forever/
 - Protagonist premise: Jonah Laurence wakes as Ira Lowe.
-- Chapter 6, `CHAPTER_6_DRAFT.md` where present in the preserved archive, is a prose/rhythm benchmark—not permission to mechanically imitate every sentence.
+- The authoritative released Chapter 6 manuscript is `CHAPTER_06_RELEASED_MANUSCRIPT.md` in this bundle. The similarly named files under `_ARCHIVE_PRE_RESET_2026-10-06/` are retired historical drafts and must not be used as the release text or as the primary prose benchmark.
 - The source repository contains active documentation, chapter production material, archived drafts, research, recovered notes, and Everworld 6 synchronization/boundary records. They are copied as source material, **not all certified as current canon**.
 - Preserve the evidence/decision/canon-status distinctions already documented. A proposal, historical idea, archived prompt, or conversational reconstruction must not become canon merely because it was copied.
 - The broader Everworld 6 simulation-engine project and the Apocrypha fanfiction remain distinct project identities. Reuse or transfer a mechanic only where an explicit project decision authorizes it; never silently merge their canon.
