@@ -103,3 +103,8 @@
 - `LORE_COSMOLOGY_WORKING_RECORD_2026-10-12.md` — 8749 bytes; source blob `a8313e0dd2a3c0073e533316347c7a3a8f43e3ff`
 - `README.md` — 9964 bytes; source blob `7ea3a37c0bc1e0421a97f5f1785139d733825b3c`
 - `UR_VERSE_FOUNDATIONAL_COSMOLOGY_RECORD_001.md` — 3356 bytes; source blob `32954ea4c3472cbd0a677e45fded0c16c9a4c504`
+
+
+## Post-snapshot recovery additions — 2026-10-17
+
+The 92-file inventory above describes the original source snapshot at commit `84c05c96b8d20a039caae42bea0af2ab2540052b`; it is not a complete inventory of later recovery work. After that snapshot, the exact author-supplied Chapter 6 release manuscript was recovered from the Library artifact `Pasted markdown(4).md` (created 2026-10-08 16:29:56 UTC; modified 16:29:59 UTC) and committed as `MIGRATION_BUNDLE_APOCRYPHA_DXD_FOREVER/CHAPTER_06_RELEASED_MANUSCRIPT.md` in commit `fd68d1bb82b5f8ac98b074cb2abdba4bc2d3867d`. The root and bundle chapter registers were updated to identify it as authoritative. This recovery addition does not alter or relabel the historical archived drafts.
