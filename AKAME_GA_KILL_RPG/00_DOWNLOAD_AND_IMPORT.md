@@ -1,6 +1,6 @@
 # Akame ga Kill! RPG CCV3 — Download Index
 
-**Start here:** [CCV3 core card JSON](https://github.com/idesmond11p7/Everworlds-The-Finales-Series/blob/akame-rpg-ccv3-research/AKAME_GA_KILL_RPG/30_AKAME_GA_KILL_RPG_CCV3_CORE_CARD.json). Open the file and use GitHub's Download raw option. It embeds the full 167-entry lorebook.
+**Start here:** [CCV3 core card JSON](https://github.com/idesmond11p7/Everworlds-The-Finales-Series/blob/akame-rpg-ccv3-research/AKAME_GA_KILL_RPG/30_AKAME_GA_KILL_RPG_CCV3_CORE_CARD.json). Open the file and use GitHub's Download raw option. It embeds the full 204-entry lorebook.
 
 ## Supporting files
 - [Standalone World Info import](https://github.com/idesmond11p7/Everworlds-The-Finales-Series/blob/akame-rpg-ccv3-research/AKAME_GA_KILL_RPG/34_AKAME_RPG_WORLD_INFO_IMPORT.json)
@@ -17,7 +17,7 @@
 
 ## Structural verification
 - CCV3 envelope uses `chara_card_v3` version `3.0`.
-- 167 embedded entries and 167 unique entry IDs.
+- 204 embedded entries and 204 unique entry IDs.
 - All trigger keywords are separate strings in arrays.
 - Standalone World Info has matching entry IDs, keys and content.
 - Campaign state is `UNINITIALIZED`.
