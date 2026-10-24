@@ -2592,6 +2592,186 @@
       "position": 0,
       "use_regex": false,
       "extensions": {}
+    },
+    "143": {
+      "uid": 143,
+      "comment": "PLACE — The Seven Mouths",
+      "key": [
+        "The Seven Mouths",
+        "canyon delta",
+        "hydraulic wards"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PLACE SEED, not manga geography. The Seven Mouths is a canyon delta where seven dry ravines converge during rare floods. Stone sluices and flood markers divide the settlement into hydraulic wards. A blocked gate may protect one district while endangering another. Maintenance labor and downstream rights drive conflict; water engineering determines which routes and neighborhoods remain safe during flood pulses.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 17,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "144": {
+      "uid": 144,
+      "comment": "PLACE — Saffron Mile",
+      "key": [
+        "Saffron Mile",
+        "caravan service town",
+        "freight repair"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PLACE SEED, not manga geography. Saffron Mile is a caravan service town built around shaded courtyards, animal yards and freight repair. Its wealth comes from verified route information, water-credit clearing and repair contracts rather than a royal palace. Counting halls dominate the skyline. A caravan's delay can affect credit, water allotments, animal health and the town's reputation for reliable route data.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 19,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "145": {
+      "uid": 145,
+      "comment": "PLACE — Salt Choir Basin",
+      "key": [
+        "Salt Choir Basin",
+        "seasonal salt lake",
+        "wind tones"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PLACE SEED, not manga geography. Salt Choir Basin is a seasonal salt lake surrounded by low white ridges. Wind through narrow cuts produces tonal sounds interpreted differently by local religious groups. Dust storms erase tracks and damage exposed machinery. Pilgrims and mineral traders compete for access, while changing water levels alter salt quality, crossing routes and the reliability of landmarks.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 21,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "146": {
+      "uid": 146,
+      "comment": "PLACE — Urum's Vent Crown",
+      "key": [
+        "Urum's Vent Crown",
+        "buried aquifer city",
+        "vent towers"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PLACE SEED, not manga geography. Urum's Vent Crown is the surface district above a buried aquifer city. Vent towers, condensation screens and maintenance wells shape its skyline. A sealed shaft may be ventilation, a pressure hazard or a protected water intake, not automatically a treasure room. Access depends on water rights, maintenance authority and the risks of disrupting air or groundwater systems.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 23,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "147": {
+      "uid": 147,
+      "comment": "PLACE — Ashen Compass",
+      "key": [
+        "Ashen Compass",
+        "volcanic desert",
+        "geothermal channels"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PLACE SEED, not manga geography. Ashen Compass is a black-glass volcanic settlement using geothermal channels for kilns and mineral processing. Heat routes separate industrial and residential districts. A failed channel can produce steam, contaminate a cistern or interrupt production. Its infrastructure requires inspection, safe ventilation, repair materials and clear authority over hazardous industrial zones.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 25,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "148": {
+      "uid": 148,
+      "comment": "PLACE — The Last Shade",
+      "key": [
+        "The Last Shade",
+        "caravan shade rights",
+        "tree-line crossing"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PLACE SEED, not manga geography. The Last Shade is a caravan stop at the last reliable tree line before a dry crossing. Shade rights are codified in local law because shelter directly affects survival, animal health and travel schedules. A fallen tree can become an economic and political crisis. Water, repairs, rest capacity and route knowledge determine how many caravans it can safely support.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 27,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "149": {
+      "uid": 149,
+      "comment": "PLACE — The Cold Meridian",
+      "key": [
+        "The Cold Meridian",
+        "high desert observatory",
+        "star tables"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PLACE SEED, not manga geography. The Cold Meridian is a high-desert observatory with underground sleeping halls and wind-protected instrument courts. Its star tables guide caravans across featureless regions. Calendar disputes can delay trade and military movement. Precision instruments need maintenance, and observations depend on weather, horizon visibility, trained interpreters and the age of the tables.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 29,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "150": {
+      "uid": 150,
+      "comment": "PLACE — Red Silt Locks",
+      "key": [
+        "Red Silt Locks",
+        "irrigation locks",
+        "upstream release"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PLACE SEED, not manga geography. Red Silt Locks is a river-margin industrial town controlling irrigation locks. Neighborhoods are stratified by flood height and canal access. An upstream release can change food prices, damage crops or strand boats. Lock operators, downstream farmers, merchants and local authorities have competing incentives, so a gate adjustment can become a political event with traceable consequences.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 31,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "151": {
+      "uid": 151,
+      "comment": "PLACE — Bone-Wind Market",
+      "key": [
+        "Bone-Wind Market",
+        "seasonal bone market",
+        "beast provenance"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PLACE SEED, not manga geography. Bone-Wind Market is a seasonal market where large animal remains accumulate after droughts. Bone, horn and mineralized tissue are traded under provenance rules. Illegal relic hunters operate beside legitimate anatomists; not every skeleton is a Danger Beast. Material quality, species identification, contamination, processing skill and legal ownership affect value.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 33,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "152": {
+      "uid": 152,
+      "comment": "PLACE — Bellfoundry Below",
+      "key": [
+        "Bellfoundry Below",
+        "cavern industry",
+        "resonance plates"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PLACE SEED, not manga geography. Bellfoundry Below is a cavern industrial settlement where resonance plates relay warnings through tunnels. Mining and construction change acoustic paths, so old signals can become misleading. Production depends on ventilation, transport lifts, support structures and sound calibration. A mine expansion can improve output while breaking warning coverage or creating new hazards.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 35,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
     }
   }
 }
