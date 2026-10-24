@@ -1,13 +1,13 @@
 # Akame ga Kill! RPG CCV3 — Core Package
 
 ## Primary import
-Import **30_AKAME_GA_KILL_RPG_CCV3_CORE_CARD.json** directly into SillyTavern as a character card. The card embeds all 113 core lorebook entries, so it is sufficient for a first campaign.
+Import **30_AKAME_GA_KILL_RPG_CCV3_CORE_CARD.json** directly into SillyTavern as a character card. The card embeds all 160 core lorebook entries, so it is sufficient for a first campaign.
 
 ## Optional standalone World Info
 Import **34_AKAME_RPG_WORLD_INFO_IMPORT.json** as a SillyTavern World Info/Lorebook file if you want to manage the entries separately. Do not bind both the embedded book and this standalone copy to the same character unless duplicate prompt injection is intentional.
 
 ## Other files
-- **31_AKAME_RPG_CORE_LOREBOOK.json** — canonical source representation for all 113 entries.
+- **31_AKAME_RPG_CORE_LOREBOOK.json** — canonical source representation for all 160 entries.
 - **32_CAMPAIGN_STATE_TEMPLATE.json** — blank campaign state. Null/empty values mean unknown or uninitialized, not permission to invent.
 - **33_PLAYABILITY_REGRESSION_TESTS_V1.md** — 24 scenario tests covering agency, inventory, time, geometry, canon, causality, and state persistence.
 - Numbered research files — world geography, factions, powers, ecology, canon, procedural generation, and simulation contracts.
@@ -30,8 +30,8 @@ Import **34_AKAME_RPG_WORLD_INFO_IMPORT.json** as a SillyTavern World Info/Loreb
 - The card/lorebook is a prompt and data package, not a deterministic simulation engine or external database.
 
 ## Verification
-- CCV3 card JSON: parsed; fetched back from GitHub; 113 embedded entries; 113 unique entry IDs; trigger keys are arrays of discrete strings.
-- Standalone World Info JSON: generated from the same 113-entry source and uses SillyTavern-style World Info entry fields.
+- CCV3 card JSON: parsed; fetched back from GitHub; 160 embedded entries; 113 unique entry IDs; trigger keys are arrays of discrete strings.
+- Standalone World Info JSON: generated from the same 160-entry source and uses SillyTavern-style World Info entry fields.
 - State template: valid JSON.
 - Regression suite: 24 cases written; they have not been executed in a live SillyTavern session here. Do not treat them as passed.
 - Live import/round-trip into the target SillyTavern installation remains the final external UI acceptance check.
