@@ -17,7 +17,7 @@
 
 ## Structural verification
 - CCV3 envelope uses `chara_card_v3` version `3.0`.
-- 167 embedded entries and 113 unique entry IDs.
+- 167 embedded entries and 167 unique entry IDs.
 - All trigger keywords are separate strings in arrays.
 - Standalone World Info has matching entry IDs, keys and content.
 - Campaign state is `UNINITIALIZED`.
