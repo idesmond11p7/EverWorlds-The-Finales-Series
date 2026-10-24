@@ -1,7 +1,7 @@
 # Akame ga Kill! RPG CCV3 — Core Package
 
 ## Primary import
-Import **30_AKAME_GA_KILL_RPG_CCV3_CORE_CARD.json** directly into SillyTavern as a character card. The card embeds all 167 core lorebook entries, so it is sufficient for a first campaign.
+Import **30_AKAME_GA_KILL_RPG_CCV3_CORE_CARD.json** directly into SillyTavern as a character card. The card embeds all 167 core lorebook entries: 100 internal simulation systems plus 54 setting/canon entries and 13 foundational rules.
 
 ## Optional standalone World Info
 Import **34_AKAME_RPG_WORLD_INFO_IMPORT.json** as a SillyTavern World Info/Lorebook file if you want to manage the entries separately. Do not bind both the embedded book and this standalone copy to the same character unless duplicate prompt injection is intentional.
@@ -30,7 +30,7 @@ Import **34_AKAME_RPG_WORLD_INFO_IMPORT.json** as a SillyTavern World Info/Loreb
 - The card/lorebook is a prompt and data package, not a deterministic simulation engine or external database.
 
 ## Verification
-- CCV3 card JSON: parsed; fetched back from GitHub; 167 embedded entries; 113 unique entry IDs; trigger keys are arrays of discrete strings.
+- CCV3 card JSON: parsed; fetched back from GitHub; 167 embedded entries; 167 unique entry IDs; trigger keys are arrays of discrete strings.
 - Standalone World Info JSON: generated from the same 167-entry source and uses SillyTavern-style World Info entry fields.
 - State template: valid JSON.
 - Regression suite: 24 cases written; they have not been executed in a live SillyTavern session here. Do not treat them as passed.
