@@ -3028,6 +3028,26 @@
       "position": 0,
       "use_regex": false,
       "extensions": {}
+    },
+    "167": {
+      "uid": 167,
+      "comment": "TEIGU — Unknown registry slots T-037 to T-048",
+      "key": [
+        "unknown Teigu",
+        "Teigu registry slots",
+        "unidentified Imperial Arms",
+        "T-037",
+        "T-048"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER RULE: The current discovery list identifies 36 named or functionally described entries, while the original catalogue contains 48 slots. T-037 through T-048 remain UNKNOWN ORIGINAL TEIGU: identity, abilities, owners, condition and location are not established here. These are placeholders, not items available for acquisition. Never invent names or powers to fill the catalogue. Manga panels and licensed editions outrank fan-maintained lists.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 10,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
     }
   }
 }
