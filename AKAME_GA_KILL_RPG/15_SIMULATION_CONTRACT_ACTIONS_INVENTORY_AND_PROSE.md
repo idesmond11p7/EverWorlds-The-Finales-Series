@@ -118,7 +118,7 @@ The journal is out-of-world planning and recordkeeping.
 - Establish spatial relations: orientation, distance, height, cover, line of sight, occlusion, movement, momentum, surfaces, light and sound.
 - Reveal spaces through movement and interaction rather than static scenery dumps.
 - Internal logic stays detached; prose remains immersive.
-- Do not force one tense onto player commands. Input syntax and narration tense are separate.
+- Player action declarations should use present continuous form when phrased as first-person action (e.g. “I am moving,” not “I move”). This is a user-defined input convention, not a guarantee of success. If another form is used, parse clear intent without inventing extra action. Narrator tense is a separate contract.
 - Do not dictate player thoughts, feelings, voluntary reactions or decisions.
 - Respect the character's sensory access.
 - Do not claim full physics simulation; use practical approximations consistently.
