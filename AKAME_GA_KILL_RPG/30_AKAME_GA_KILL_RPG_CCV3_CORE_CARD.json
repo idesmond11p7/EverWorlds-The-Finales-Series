@@ -3756,6 +3756,167 @@
           "use_regex": false,
           "probability": 100,
           "depth": 4
+        },
+        {
+          "keys": [
+            "Mournwater Nomads",
+            "salt basin",
+            "seasonal lake"
+          ],
+          "content": "ORIGINAL EXPANSION, not manga canon. The Mournwater Nomads move around a salt basin whose shallow lake appears only after unusual rains. They rely on brackish springs and seasonal collection; treatment requires charcoal, ceramics and labor. Seasonal camps and floating reed platforms serve wet periods, while dry-season routes follow mineral crusts and old shorelines. Salt, mineral pigments, reedwork and seasonal labor sustain them. Route assemblies coordinate access, but changing water levels can invalidate old agreements.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 16,
+          "case_sensitive": false,
+          "name": "WORLD — The Mournwater Nomads",
+          "priority": 16,
+          "id": 160,
+          "comment": "WORLD — The Mournwater Nomads",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            "Deep Ember Caravans",
+            "desert highlands",
+            "mineral springs"
+          ],
+          "content": "ORIGINAL EXPANSION, not manga canon. The Deep Ember Caravans cross broken desert highlands marked by caves, fumaroles and mineral springs. Water is found at spring enclaves connected by dangerous passes, and route knowledge is guarded as a trade secret. Caravans use portable heat shields and modular camps; permanent towns occupy cave mouths and sheltered shelves. Their economy includes rare minerals, heat-resistant ceramics, medicinal salts, escort work and cave exploration. Shared rescue obligations limit how far route secrecy can go.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 18,
+          "case_sensitive": false,
+          "name": "WORLD — The Deep Ember Caravans",
+          "priority": 18,
+          "id": 161,
+          "comment": "WORLD — The Deep Ember Caravans",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            "The Wet Ladder",
+            "underground aquifer",
+            "vertical town"
+          ],
+          "content": "ORIGINAL PLACE SEED, not manga geography. The Wet Ladder is a vertical underground town built around a descending aquifer shaft. Lifts, stairs and rope platforms separate districts by elevation. Water pressure, ventilation and rescue access determine which levels can safely support housing. A broken lift can isolate a district; a damaged intake can threaten the whole settlement. Movement, supply delivery and emergency response must account for vertical distance.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 20,
+          "case_sensitive": false,
+          "name": "PLACE — The Wet Ladder",
+          "priority": 20,
+          "id": 162,
+          "comment": "PLACE — The Wet Ladder",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            "Mycelium Reach",
+            "fungal cultivation",
+            "spore chambers"
+          ],
+          "content": "ORIGINAL PLACE SEED, not manga geography. Mycelium Reach is a fungal cultivation basin divided into dry, wet and spore-sensitive chambers. Light, airflow and contamination control shape its architecture. Food shortages may appear weeks after an initial cultivation failure because the production cycle is delayed. Workers track moisture, ventilation and disease; careless visitors can damage a crop without seeing immediate effects.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 22,
+          "case_sensitive": false,
+          "name": "PLACE — Mycelium Reach",
+          "priority": 22,
+          "id": 163,
+          "comment": "PLACE — Mycelium Reach",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            "The Mute Causeway",
+            "low vibration tunnel",
+            "sound sensitive entity"
+          ],
+          "content": "ORIGINAL PLACE SEED, not manga geography. The Mute Causeway is a low-vibration tunnel route used by communities avoiding sound-sensitive entities. Layered floors dampen noise, and traffic follows quiet procedures. A loud collapse may attract threats from beyond the visible corridor. The route's safety depends on surface condition, traffic discipline and acoustic knowledge; silence is a risk-management practice, not invisibility.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 24,
+          "case_sensitive": false,
+          "name": "PLACE — The Mute Causeway",
+          "priority": 24,
+          "id": 164,
+          "comment": "PLACE — The Mute Causeway",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            "Blackwater Gate",
+            "underground river ferry",
+            "cave passage"
+          ],
+          "content": "ORIGINAL PLACE SEED, not manga geography. Blackwater Gate is a fortified ferry station on an underground river connecting otherwise separate cave systems. Flood pulses, boat capacity and toll politics govern passage. Closure forces a long detour. The gate needs mooring infrastructure, flood warnings, maintenance crews and a defensible water-level record; a route shown on a map is not proof that a boat can pass at the current water level.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 26,
+          "case_sensitive": false,
+          "name": "PLACE — Blackwater Gate",
+          "priority": 26,
+          "id": 165,
+          "comment": "PLACE — Blackwater Gate",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            "Nine-Keel Drydock",
+            "naval drydock",
+            "ship repair"
+          ],
+          "content": "ORIGINAL PLACE SEED, not manga geography. Nine-Keel Drydock serves the Nine-Keel Directorate's shipbuilding and repair economy. Its docks, timber yards, ropewalks, metal shops and provisioning depots impose a hard throughput limit on naval ambition. A shortage of hull timber or skilled repair crews delays both commercial vessels and warships. Industrial output depends on managed forests, imported food, safe harbor access and labor bargaining.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 28,
+          "case_sensitive": false,
+          "name": "PLACE — Nine-Keel Drydock",
+          "priority": 28,
+          "id": 166,
+          "comment": "PLACE — Nine-Keel Drydock",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
         }
       ]
     }
