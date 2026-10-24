@@ -2268,6 +2268,330 @@
       "position": 0,
       "use_regex": false,
       "extensions": {}
+    },
+    "125": {
+      "uid": 125,
+      "comment": "POWER — Vowcraft",
+      "key": [
+        "Vowcraft",
+        "binding vow",
+        "oath magic"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL POWER TRADITION, not Teigu. Vowcraft links a narrow effect to a formally stated obligation with valid witnesses, scope, duration, exceptions and proof conditions. It cannot force acceptance without a mechanism, grant limitless power through dramatic wording, or prove intent from a signature alone. Ambiguity, coercion, invalid witnesses and incompatible obligations can weaken a vow. Its institutions include oath courts, contract schools and brokers; unequal bargaining power is a central danger.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 18,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "126": {
+      "uid": 126,
+      "comment": "POWER — Rootsong",
+      "key": [
+        "Rootsong",
+        "plant signals",
+        "living networks"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL POWER TRADITION. Rootsong uses trained interaction with living networks, selected plants, fungi and symbioses to detect local ecological stress, influence growth within biological limits, or transmit limited signals. It requires suitable habitat, time, nutrients and knowledge; it cannot command all plants or create biomass from nothing. Fire, contamination, habitat loss and isolation disrupt it. Its institutions include forest assemblies, healers and living-bridge engineers.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 20,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "127": {
+      "uid": 127,
+      "comment": "POWER — Salt Memory",
+      "key": [
+        "Salt Memory",
+        "mineral memory",
+        "forensic traces"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL POWER TRADITION. Salt Memory interprets incomplete traces of pressure, heat, sound or contact retained in selected mineral matrices. It requires samples, instruments and trained interpretation. It is not a perfect recording, soul storage or automatic playback; mixed traces, contamination and missing context invite false conclusions. Maritime courts, archives and forensic guilds may use it, but a real trace can still be attributed to the wrong event.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 22,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "128": {
+      "uid": 128,
+      "comment": "POWER — Grave Arithmetic",
+      "key": [
+        "Grave Arithmetic",
+        "mortuary rites",
+        "death records"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL POWER TRADITION. Grave Arithmetic uses remains, names, burial records and measured exchanges to investigate unresolved obligations, death patterns or disturbed graves. Some rites attach limited effects to marked sites. It cannot resurrect the dead or identify every killer. Missing records, mistaken identity and fraudulent ledgers undermine results. Mortuary courts, plague registries and battlefield custodians preserve its procedures.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 24,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "129": {
+      "uid": 129,
+      "comment": "POWER — Hearth Engines",
+      "key": [
+        "Hearth Engines",
+        "industrial engines",
+        "pressure circuits"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL POWER/TECHNOLOGY TRADITION. Hearth Engines convert fuel, heat, pressure, motion or constrained anomalous materials into repeatable mechanical work. They power pumps, lifts, furnaces, alarms and defined defensive mechanisms. They need fuel, trained operators, seals, replacement parts, ventilation, maintenance and waste handling. Heat, pressure, corrosion and wear accumulate; field systems are harder to repair than workshop systems. There is no perpetual motion.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 26,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "130": {
+      "uid": 130,
+      "comment": "POWER — Beastcraft",
+      "key": [
+        "Beastcraft",
+        "Danger Beast materials",
+        "biological crafting"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL POWER/CRAFT TRADITION. Beastcraft uses verified anatomy, chemistry and carefully processed biological materials to make tools, armor, medicines or limited traits. It requires hunting or lawful sourcing, preservation, skilled processing and transport. No arbitrary monster-part powers are granted. Species variation, spoilage, toxicity and ecological pressure matter; profitable harvesting can collapse a population or create dangerous waste.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 28,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "131": {
+      "uid": 131,
+      "comment": "POWER — Breath Geometry",
+      "key": [
+        "Breath Geometry",
+        "breath discipline",
+        "physical technique"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL POWER TRADITION. Breath Geometry combines breathing, posture and movement to improve timing, balance, recovery and controlled bursts within biological limits. It consumes oxygen and conditioning, and fails under exhaustion, injury, disrupted breathing or poor footing. It does not create energy blasts or limitless strength. Martial schools, rescue crews and labor guilds teach variants adapted to their tasks.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 30,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "132": {
+      "uid": 132,
+      "comment": "POWER — Echo Binding",
+      "key": [
+        "Echo Binding",
+        "acoustic resonance",
+        "sound wards"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL POWER TRADITION. Echo Binding uses tuned spaces, instruments and materials to redirect, focus, dampen or encode sound. Strong effects require prepared geometry and risk acoustic feedback. It is not mind control or universal open-air sound control. Irregular surfaces, moving boundaries, competing noise and broken instruments can defeat it. Underground communities, signal corps and tunnel engineers use its principles.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 32,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "133": {
+      "uid": 133,
+      "comment": "POWER — Thread Calculus",
+      "key": [
+        "Thread Calculus",
+        "tension lines",
+        "filament traps"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL POWER/ENGINEERING TRADITION. Thread Calculus uses filaments, knots, tension and anchored mechanical systems for restraints, lifting rigs, trip lines, signals and traps. It requires setup, strong anchors and maintenance. Lines are not invisible, unbreakable or infinite. Inspection, cutting tools, heat, slack or anchor removal can defeat a design. Assassins, rescue crews, stage engineers and bridgewrights adapt it differently.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 34,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "134": {
+      "uid": 134,
+      "comment": "POWER — Miasma Acclimation",
+      "key": [
+        "Miasma Acclimation",
+        "miasma",
+        "anomalous vapor"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL POWER/SURVIVAL TRADITION. Miasma Acclimation combines physiological adaptation, protective equipment and limited symbiosis with a specific anomalous vapor. It may reduce exposure or sense one defined miasma type, at the cost of maintenance, metabolic strain and contamination risk. It grants no universal toxin immunity. Different chemistry, ventilation, barriers and exposure duration remain relevant. Tolerance to one bloom does not imply safety around another.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 36,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "135": {
+      "uid": 135,
+      "comment": "ORG — The Red Loom",
+      "key": [
+        "Red Loom",
+        "battlefield witches",
+        "blood rites"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL ORGANIZATION. The Red Loom is a battlefield witch covenant focused on blood temperature, clotting and management of living tissue through prepared rites. Its doctrine treats the body as a temporary treaty between blood, breath and memory. It is not a Teigu institution. Field medicine and battlefield denial require preparation, materials and trained practitioners; it cannot freely control every living body.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 38,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "136": {
+      "uid": 136,
+      "comment": "ORG — The Black Hush",
+      "key": [
+        "Black Hush",
+        "sensory misdirection",
+        "quiet witches"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL ORGANIZATION. The Black Hush comprises quiet witch houses specializing in silence, sensory misdirection and concealment of small groups. Its methods combine breath discipline, acoustic geometry and prepared hush-wards, not universal invisibility. It performs extraction, counter-surveillance and refugee concealment. Moving crowds, poor geometry, weather and unfamiliar observers can expose its operations.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 40,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "137": {
+      "uid": 137,
+      "comment": "ORG — The Ashen Veil",
+      "key": [
+        "Ashen Veil",
+        "funeral witches",
+        "mortuary rites"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL ORGANIZATION. The Ashen Veil is a funeral-witch network responsible for dangerous death rites, plague burials and contested remains. It combines mortuary procedure, salt marks and narrow Grave Arithmetic practices. Its work includes corpse identification, quarantine and inheritance testimony. It needs records, trained staff and proper handling; it is neither a universal necromancer order nor a source of unrestricted resurrection.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 42,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "138": {
+      "uid": 138,
+      "comment": "ORG — The Green Thorn Chapter",
+      "key": [
+        "Green Thorn Chapter",
+        "ecological witches",
+        "warning groves"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL ORGANIZATION. The Green Thorn Chapter maintains cultivated warning groves and limited plant-signal networks through Rootsong and species knowledge. It monitors forests, mediates boundaries and restores habitats. Signals are local, slow and ambiguous, and depend on living systems that can be damaged by fire, disease or contamination. It cannot command every plant or instantly know distant events.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 44,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "139": {
+      "uid": 139,
+      "comment": "ORG — The Candle Parliament",
+      "key": [
+        "Candle Parliament",
+        "ritual schools",
+        "magic arbitration"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL ORGANIZATION. The Candle Parliament is a coalition of rival ritual schools that convenes when crises threaten their shared legal privileges. It exists to prevent any one school from defining magic for everyone. Its operations include licensing, arbitration and banned-practice hearings. Multiple incompatible traditions coexist under negotiated procedure; agreement is slow, factional and vulnerable to forged evidence or political capture.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 46,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "140": {
+      "uid": 140,
+      "comment": "ORG — The Ninth Lantern",
+      "key": [
+        "Ninth Lantern",
+        "occult investigators",
+        "false miracles"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL ORGANIZATION. The Ninth Lantern investigates alleged hauntings, false miracles and supernatural incidents using survey tools, trained observation, Salt Memory and ritual countermeasures. It values evidence over fear and conducts investigations, containment and public warnings. Its agents are not omniscient; they can lack access, misread traces or be deceived. A frightening claim remains a claim until supported by evidence.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 48,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "141": {
+      "uid": 141,
+      "comment": "ORG — The White Briar Hospice",
+      "key": [
+        "White Briar Hospice",
+        "curse treatment",
+        "restorative rites"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL ORGANIZATION. The White Briar Hospice treats unusual injuries, curse-like conditions and dangerous power exhaustion through medicine and carefully limited restorative rites. Its doctrine separates care from ownership. Treatment has material, staffing and recovery limits; it does not provide universal healing or erase all consequences. It also supports rehabilitation, quarantine and safer power use.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 50,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "142": {
+      "uid": 142,
+      "comment": "ORG — The Cinder Choir",
+      "key": [
+        "Cinder Choir",
+        "fire rites",
+        "kiln guild"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL ORGANIZATION. The Cinder Choir maintains kilns, controlled burns and emergency firebreaks through Hearth Engine engineering, fuel chemistry and limited heat rites. It handles kiln maintenance, wildfire response, industrial safety and ceremonial cremation. It cannot command all fire. Fuel, wind, ventilation, material conditions and heat accumulation govern what its practitioners can safely do.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 52,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
     }
   }
 }
