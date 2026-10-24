@@ -3048,6 +3048,612 @@
       "position": 0,
       "use_regex": false,
       "extensions": {}
+    },
+    "168": {
+      "uid": 168,
+      "comment": "TEIGU — Erastone",
+      "key": [
+        "Erastone",
+        "Absolute Limitation"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Erastone (Absolute Limitation): Absolute Limitation. Listed with Honest as former owner; not a normal player acquisition. Campaign state: unavailable unless a specific verified scenario establishes otherwise. Status: UNUSED/UNCONFIRMED in the reference table. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 10,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "169": {
+      "uid": 169,
+      "comment": "TEIGU — Spectator",
+      "key": [
+        "Spectator",
+        "Almighty Five Sights"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Spectator (Almighty Five Sights): Almighty Five Sights. Formerly associated with Zanku; later Revolutionary Army. Ability details require manga review. Status: MANGA-SHOWN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 12,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "170": {
+      "uid": 170,
+      "comment": "TEIGU — Absordex",
+      "key": [
+        "Absordex",
+        "Blood Collection"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Absordex (Blood Collection): Blood Collection. Associated with Dorothea. Listed as destroyed in the manga. Status: MANGA-DESTROYED. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 14,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "171": {
+      "uid": 171,
+      "comment": "TEIGU — Grand Chariot",
+      "key": [
+        "Grand Chariot",
+        "Carnage Incarnate"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Grand Chariot (Carnage Incarnate): Carnage Incarnate. Associated with Wave and the Jaegers. Status: MANGA-SHOWN; confirm final campaign state from manga chronology. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 16,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "172": {
+      "uid": 172,
+      "comment": "TEIGU — Big Leaguer",
+      "key": [
+        "Big Leaguer",
+        "Chaos Throw"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Big Leaguer (Chaos Throw): Chaos Throw. Associated with Champ/Wild Hunt and later Revolutionary Army records. Status: MANGA-SHOWN; do not import anime-only use or status. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 18,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "173": {
+      "uid": 173,
+      "comment": "TEIGU — Extase",
+      "key": [
+        "Extase",
+        "Cutter of Creation"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Extase (Cutter of Creation): Cutter of Creation. Associated with Sheele and later a Revolutionary Army user; multiple users are reported. Status: MANGA-SHOWN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 20,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "174": {
+      "uid": 174,
+      "comment": "TEIGU — Incursio",
+      "key": [
+        "Incursio",
+        "Demon Armor"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Incursio (Demon Armor): Demon Armor. Associated with Bulat and Tatsumi, with earlier ownership also reported. Its biological armor, adaptation and final state require chronology-sensitive handling. Status: MANGA-SHOWN; campaign state locked by timeline. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 22,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "175": {
+      "uid": 175,
+      "comment": "TEIGU — Demon's Extract",
+      "key": [
+        "Demon's Extract",
+        "Demon God Manifestation"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Demon's Extract (Demon God Manifestation): Demon God Manifestation. Associated with Esdeath. Listed as consumed/ended with her and destroyed in the manga-oriented reference. Status: MANGA-DESTROYED / consumed; not lootable. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 24,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "176": {
+      "uid": 176,
+      "comment": "TEIGU — Shambhala",
+      "key": [
+        "Shambhala",
+        "Dimensional Formation"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Shambhala (Dimensional Formation): Dimensional Formation. Associated with Syura/Wild Hunt. Listed as destroyed in the manga. Status: MANGA-DESTROYED. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 26,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "177": {
+      "uid": 177,
+      "comment": "TEIGU — Belvaac",
+      "key": [
+        "Belvaac",
+        "Double-Bladed Axe"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Belvaac (Double-Bladed Axe): Double-Bladed Axe. Associated with Daidara and later Revolutionary Army records. Status: MANGA-SHOWN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 28,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "178": {
+      "uid": 178,
+      "comment": "TEIGU — Perfector",
+      "key": [
+        "Perfector",
+        "Glorious Hands of God"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Perfector (Glorious Hands of God): Glorious Hands of God. Associated with Dr. Stylish and later Revolutionary Army use. Status: MANGA-SHOWN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 30,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "179": {
+      "uid": 179,
+      "comment": "TEIGU — Heavy Pressure",
+      "key": [
+        "Heavy Pressure",
+        "Great Tremor"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Heavy Pressure (Great Tremor): Great Tremor. Associated with Cosmina and later Revolutionary Army use. Status: MANGA-SHOWN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 32,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "180": {
+      "uid": 180,
+      "comment": "TEIGU — Shikoutazer",
+      "key": [
+        "Shikoutazer",
+        "Imperial Guardian"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Shikoutazer (Imperial Guardian): Imperial Guardian. The Imperial Arm usable by the royal bloodline; central to the manga finale. Status: MANGA-SHOWN; final destruction is locked to the manga timeline. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 34,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "181": {
+      "uid": 181,
+      "comment": "TEIGU — Cross Tail",
+      "key": [
+        "Cross Tail",
+        "Infinite Uses"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Cross Tail (Infinite Uses): Infinite Uses. Associated with Lubbock. Listed as unused after its former ownership in the reference table. Status: MANGA-SHOWN; current location depends on campaign chronology. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 36,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "182": {
+      "uid": 182,
+      "comment": "TEIGU — L'Arc Qui Ne Faut",
+      "key": [
+        "L'Arc Qui Ne Faut"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. L'Arc Qui Ne Faut: Associated with Nuge in secondary listings. Its exact use and current status require panel verification. Status: NAME/DETAIL UNCERTAIN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 38,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "183": {
+      "uid": 183,
+      "comment": "TEIGU — Hekatonkheires",
+      "key": [
+        "Hekatonkheires",
+        "Magical Beast Transformation"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Hekatonkheires (Magical Beast Transformation): Magical Beast Transformation. Associated with Seryu and Koro. Listed as destroyed in the manga. Status: MANGA-DESTROYED. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 40,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "184": {
+      "uid": 184,
+      "comment": "TEIGU — Yatsufusa",
+      "key": [
+        "Yatsufusa",
+        "March of the Dead"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Yatsufusa (March of the Dead): March of the Dead. Associated with Kurome. Listed as destroyed in the manga-oriented reference. Status: MANGA-DESTROYED; do not copy anime status. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 42,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "185": {
+      "uid": 185,
+      "comment": "TEIGU — Scream",
+      "key": [
+        "Scream",
+        "Military Music Dream"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Scream (Military Music Dream): Military Music Dream. Associated with Nyau and the Three Beasts. Status: MANGA-SHOWN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 44,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "186": {
+      "uid": 186,
+      "comment": "TEIGU — Shamshir",
+      "key": [
+        "Shamshir",
+        "Moonlight Sword Dance"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Shamshir (Moonlight Sword Dance): Moonlight Sword Dance. Associated with Enshin and later Revolutionary Army records. Status: MANGA-SHOWN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 46,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "187": {
+      "uid": 187,
+      "comment": "TEIGU — Murasame",
+      "key": [
+        "Murasame",
+        "One-Cut Killer"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Murasame (One-Cut Killer): One-Cut Killer. Associated with Gozuki and Akame; created using Wakoku smithing expertise according to secondary history summaries. Listed as destroyed in the manga. Status: MANGA-DESTROYED; no replacement Murasame may be generated. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 48,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "188": {
+      "uid": 188,
+      "comment": "TEIGU — Gaea Foundation",
+      "key": [
+        "Gaea Foundation",
+        "Phantasmagoria"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Gaea Foundation (Phantasmagoria): Phantasmagoria. Associated with Chelsea. Listed as destroyed in the manga. Status: MANGA-DESTROYED. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 50,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "189": {
+      "uid": 189,
+      "comment": "TEIGU — Balzac",
+      "key": [
+        "Balzac",
+        "Power Surging"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Balzac (Power Surging): Power Surging. Listed in secondary records with uncertain use and faction history. Status: NAME/DETAIL UNCERTAIN; do not assume active availability. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 52,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "190": {
+      "uid": 190,
+      "comment": "TEIGU — Rubicante",
+      "key": [
+        "Rubicante",
+        "Purgatory's Invitation"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Rubicante (Purgatory's Invitation): Purgatory's Invitation. Associated with Bols. Listed as destroyed in the manga. Status: MANGA-DESTROYED. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 54,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "191": {
+      "uid": 191,
+      "comment": "TEIGU — Pumpkin",
+      "key": [
+        "Pumpkin",
+        "Roman Artillery"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Pumpkin (Roman Artillery): Roman Artillery. Associated with Najenda and Mine. Listed as destroyed in the manga. Status: MANGA-DESTROYED. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 56,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "192": {
+      "uid": 192,
+      "comment": "TEIGU — Rongo Rongo",
+      "key": [
+        "Rongo Rongo",
+        "The Complete Book of the World"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Rongo Rongo (The Complete Book of the World): The Complete Book of the World. Associated with Saikyuu and Akame in later continuity. Listed as destroyed/lost in secondary manga-oriented records; exact campaign state must respect timeline and source evidence. Status: MISSING/DESTROYED according to phase; do not casually grant it. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 58,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "193": {
+      "uid": 193,
+      "comment": "TEIGU — Lionelle",
+      "key": [
+        "Lionelle",
+        "The King of Beasts Transformation"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Lionelle (The King of Beasts Transformation): The King of Beasts Transformation. Associated with Leone. Listed as destroyed in the manga. Status: MANGA-DESTROYED. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 60,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "194": {
+      "uid": 194,
+      "comment": "TEIGU — Adayusu",
+      "key": [
+        "Adayusu",
+        "The Mysterious"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Adayusu (The Mysterious): The Mysterious. Associated with Holimaca/Path of Peace and later Revolutionary Army records. Status: MANGA-SHOWN; details require source verification. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 62,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "195": {
+      "uid": 195,
+      "comment": "TEIGU — Susanoo",
+      "key": [
+        "Susanoo",
+        "The Speed of Lightning"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Susanoo (The Speed of Lightning): The Speed of Lightning. Associated with Najenda. Listed as destroyed in the manga. Status: MANGA-DESTROYED. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 64,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "196": {
+      "uid": 196,
+      "comment": "TEIGU — Mastema",
+      "key": [
+        "Mastema",
+        "Thousand-Mile Flight"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Mastema (Thousand-Mile Flight): Thousand-Mile Flight. Associated with Run and later Wave in secondary tables. Status: MANGA-SHOWN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 66,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "197": {
+      "uid": 197,
+      "comment": "TEIGU — Adramelech",
+      "key": [
+        "Adramelech",
+        "Thunder God's Rage"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Adramelech (Thunder God's Rage): Thunder God's Rage. Associated with Budo. Listed as destroyed in the manga. Status: MANGA-DESTROYED. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 68,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "198": {
+      "uid": 198,
+      "comment": "TEIGU — Danger Beast Controlling Teigu 1",
+      "key": [
+        "Danger Beast Controlling Teigu 1"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Danger Beast Controlling Teigu 1: Unnamed functional label; associated with a Revolutionary Army soldier. Status: NAME/DETAIL UNCERTAIN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 70,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "199": {
+      "uid": 199,
+      "comment": "TEIGU — Danger Beast Controlling Teigu 2",
+      "key": [
+        "Danger Beast Controlling Teigu 2"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Danger Beast Controlling Teigu 2: Unnamed functional label; associated with an Imperial soldier in secondary tables. Status: NAME/DETAIL UNCERTAIN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 72,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "200": {
+      "uid": 200,
+      "comment": "TEIGU — Divination Teigu",
+      "key": [
+        "Divination Teigu"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Divination Teigu: Unnamed; ownership/faction changes across secondary table records. Status: NAME/DETAIL UNCERTAIN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 74,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "201": {
+      "uid": 201,
+      "comment": "TEIGU — Trap Teigu",
+      "key": [
+        "Trap Teigu"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Trap Teigu: Unnamed; listed with a palace elite bodyguard as former owner. Status: UNUSED/UNCONFIRMED. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 76,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "202": {
+      "uid": 202,
+      "comment": "TEIGU — Vibration Control Teigu",
+      "key": [
+        "Vibration Control Teigu"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Vibration Control Teigu: Unnamed; listed with a Revolutionary Army soldier. Status: NAME/DETAIL UNCERTAIN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 78,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "203": {
+      "uid": 203,
+      "comment": "TEIGU — Black Marlin",
+      "key": [
+        "Black Marlin",
+        "Water Dragon Possession"
+      ],
+      "keysecondary": [],
+      "content": "SECONDARY-REFERENCE REGISTER ENTRY; not verified panel-by-panel. Black Marlin (Water Dragon Possession): Water Dragon Possession. Associated with Liver and later Revolutionary Army records. Status: MANGA-SHOWN. Treat the reported owner, ability label and status as provisional until checked against the manga. Catalogue existence does not establish current ownership, intact condition, availability, or player access. Never generate a replacement or grant possession by declaration.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 80,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
     }
   }
 }
