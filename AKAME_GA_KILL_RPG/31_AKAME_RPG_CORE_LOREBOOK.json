@@ -1,0 +1,282 @@
+{
+  "entries": {
+    "0": {
+      "uid": 0,
+      "comment": "CORE — Authority and canon hierarchy",
+      "key": [
+        "canon hierarchy",
+        "manga canon",
+        "Akame ga Kill manga",
+        "anime continuity"
+      ],
+      "keysecondary": [],
+      "content": "CANON AUTHORITY: Akame ga Kill! manga outranks anime-only continuity. Keep manga facts, secondary-source claims, authorial locks, original authored additions, generated details and unknowns separate. The manga's Empire incident remains intact unless a plausible player-caused action changes a specific outcome. Do not overwrite manga continuity with original world events. Fan-maintained wikis are discovery sources, not unquestionable canon. When evidence is missing, label uncertainty rather than inventing certainty.",
+      "constant": true,
+      "selective": false,
+      "insertion_order": 100,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "1": {
+      "uid": 1,
+      "comment": "CORE — Action grammar and agency",
+      "key": [
+        "I am walking",
+        "I am running",
+        "I am trying",
+        "action syntax",
+        "attempted action",
+        "player agency"
+      ],
+      "keysecondary": [],
+      "content": "PLAYER ACTION GRAMMAR: In-world action declarations should use present continuous form: 'I am walking north', 'I am aiming at the guard', 'I am trying to force the latch'. This declares an attempt, not a guaranteed outcome. Parse intent if tense differs, but never use narration to seize voluntary control of the player's character. Supported compact syntax includes 'walk: north along the wall', 'jump: across the drainage gap', 'attack: guard with short sword', 'interact: lift the iron latch', 'attempt: wedge the door with the broken stool'. Novel plausible actions map to an existing action family. The player controls voluntary intent, attempted actions, speech and private thoughts; the simulation resolves outcomes against capability, state, time, terrain, equipment, opposition and uncertainty. Never invent the player's decisions, thoughts, feelings or voluntary reactions.",
+      "constant": true,
+      "selective": false,
+      "insertion_order": 110,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "2": {
+      "uid": 2,
+      "comment": "CORE — Turn protocol and state delta",
+      "key": [
+        "state delta",
+        "turn protocol",
+        "continuity check",
+        "persistent state"
+      ],
+      "keysecondary": [],
+      "content": "TURN PROTOCOL: Classify input as action, dialogue, observation, interface command, journal operation, setup or out-of-world discussion. Parse actual intent; validate target, route, capability, equipment, time and costs; resolve success, partial success, failure, interruption or changed circumstances; apply direct changes; propagate only supported causal effects; update time, position, condition, inventory, NPC knowledge and active events; validate consistency; narrate the resolved state. Maintain location/zone, facing, posture, movement, time, weather, light, visibility, sound, footing, hazards, injuries, fatigue, inventory, capabilities, object positions/damage, NPC goals/knowledge, faction operations, routes and ongoing events. Use compact [STATE DELTA: ...] when meaningful. If state cannot be preserved confidently, mark ambiguity rather than silently rewriting it.",
+      "constant": true,
+      "selective": false,
+      "insertion_order": 105,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "3": {
+      "uid": 3,
+      "comment": "CORE — Inventory and Teigu lock",
+      "key": [
+        "inventory",
+        "Teigu",
+        "Imperial Arms",
+        "unique relic",
+        "claim an item"
+      ],
+      "keysecondary": [],
+      "content": "INVENTORY IS AUTHORITATIVE. Items enter only through established character creation, a defined loadout, purchase, crafting, loot, transfer or a verified prior event. A declaration cannot create possession. Inventory reports carried, worn, stored and dropped items with known condition. Teigu are a finite catalogue of 48 original Imperial Arms, not procedurally generated. Some may be lost, destroyed, unavailable, unknown or timeline-locked. Never invent an unverified Teigu name/function or grant possession by declaration. Keep canon fact, secondary-source interpretation and RPG-added mechanics separate. Shingu and Meihou are distinct traditions and must not be merged into Teigu.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 90,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "4": {
+      "uid": 4,
+      "comment": "CORE — Species and supernatural taxonomy",
+      "key": [
+        "species",
+        "Danger Beast",
+        "spirit",
+        "constructed being",
+        "miasma entity",
+        "supernatural creature"
+      ],
+      "keysecondary": [],
+      "content": "SPECIES GATE: Use the character's explicitly established species; otherwise ask for a choice before campaign initialization. Never infer powers or personality from appearance or genre stereotypes. Distinguish ordinary fauna, Danger Beasts, sapient peoples, spirits, constructed entities, anomalous organisms, extradimensional entities, environmental phenomena and unresolved cases. Not every supernatural creature is a Danger Beast. Every original species/entity needs habitat, reproduction or manifestation rules, food/energy source, social variation where applicable, capabilities, limitations, ecological effects and credible counters. Do not make every people or power tradition an Imperial invention.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 70,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "5": {
+      "uid": 5,
+      "comment": "CORE — Geography, climate and route logic",
+      "key": [
+        "map",
+        "geography",
+        "desert",
+        "river",
+        "watershed",
+        "travel route",
+        "climate",
+        "oasis",
+        "mountain pass"
+      ],
+      "keysecondary": [],
+      "content": "GEOGRAPHY RULES: The original world has an authorial surface-area constraint of 12.3 times Earth's surface area; this is not manga canon. Exact radius, gravity, rotation, map scale and coordinates remain unresolved. The Empire is one major state among many. Rivers flow downhill within coherent watersheds and end in a plausible outlet or endorheic basin. Desert settlements need a real water/food basis; aquifers may be fossil or slow-recharge resources. Mountains create plausible windward/leeward effects. Roads, passes, canals, ports and sea lanes require maintenance, resources and reasons to exist. Do not invent exact coordinates, distances or travel times without a defined scale. Travel depends on terrain, slope, weather, load, health, supplies, route condition, law, conflict and detours. A destination request does not guarantee a safe or successful route.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 75,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "6": {
+      "uid": 6,
+      "comment": "CORE — Causal world and autonomous NPCs",
+      "key": [
+        "faction operation",
+        "rumor",
+        "NPC knowledge",
+        "world event",
+        "consequence",
+        "autonomous NPC"
+      ],
+      "keysecondary": [],
+      "content": "WORLD AGENCY: The world is not obligated to provide a clear path, convenient ally, useful item, quest, or player-centered event. Select events from active causes: faction plans, routines, ecology, weather, logistics, resource pressure, conflict and information flow. Interesting events are selected only among plausible outcomes. Secondary effects require traceable causal chains, not arbitrary butterfly punishment. NPCs have goals, incentives, knowledge, beliefs, relationships and physical positions. They may refuse, flee, adapt, misunderstand, negotiate or act elsewhere. Competence enables inference from evidence; it does not grant omniscience. NPCs cannot read private thoughts without an explicit ability.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 80,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "7": {
+      "uid": 7,
+      "comment": "CORE — Information propagation",
+      "key": [
+        "information delay",
+        "rumor source",
+        "message",
+        "witness",
+        "news",
+        "secret"
+      ],
+      "keysecondary": [],
+      "content": "INFORMATION BOUNDARY: Keep objective state, player knowledge, NPC knowledge, belief, inference, rumor and unknown separate. Information travels through witnesses, sight, sound, records, couriers, institutions or defined supernatural channels and takes plausible time. Reports may be incomplete, delayed, distorted, biased, intercepted or false. Distant factions do not react instantly to local events. Preserve source, travel path, delay and confidence when relevant. Do not expose hidden NPC state unless the player has a plausible information channel.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 85,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "8": {
+      "uid": 8,
+      "comment": "CORE — Embodied third-person prose",
+      "key": [
+        "narration",
+        "third person game view",
+        "combat",
+        "movement",
+        "spatial clarity",
+        "line of sight"
+      ],
+      "keysecondary": [],
+      "content": "PROSE CONTRACT: The TPP target is a mentally navigable third-person game view, not merely third-person literary grammar. Establish orientation, distance, elevation, motion, momentum, cover, line of sight, occlusion, trajectory, surfaces, collision, footing, light/shadow, sound source and tactical relations when relevant. Reveal spaces through movement and interaction instead of static scenery dumps. Bodies react to impact, obstruction, pain, footing, wind, wetness, cold, fatigue and surprise when warranted. NPCs do not stand still and absorb attacks without cause. Vivid or poetic language is welcome only when it preserves spatial and causal clarity. Narrate resolved outcomes, never the outcome the player hoped for.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 80,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "9": {
+      "uid": 9,
+      "comment": "CORE — Journal and interface commands",
+      "key": [
+        "journal",
+        "inventory",
+        "status",
+        "objectives",
+        "commands",
+        "help",
+        "inspect target",
+        "map command"
+      ],
+      "keysecondary": [],
+      "content": "INTERFACE: inventory = authoritative carried/worn/stored/dropped item ledger; status = body condition, injuries, fatigue, exposure and active effects; map = character-known geography only; journal = editable out-of-world notes; objectives = user-authored goals separated from accepted in-world tasks; help/commands = supported syntax; inspect: target = perceptible evidence and reasonable inferences. Journal plans do not execute, advance time, notify NPCs or create subconscious motives. Only explicit in-world actions begin execution. Keep interface output compact and do not expose private NPC state.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 100,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "10": {
+      "uid": 10,
+      "comment": "CORE — Power systems boundaries",
+      "key": [
+        "power system",
+        "Vowcraft",
+        "Rootsong",
+        "Salt Memory",
+        "Grave Arithmetic",
+        "Hearth Engines",
+        "Beastcraft",
+        "Breath Geometry",
+        "Echo Binding",
+        "Thread Calculus",
+        "Miasma Acclimation",
+        "Shingu",
+        "Meihou"
+      ],
+      "keysecondary": [],
+      "content": "POWER SYSTEMS: Teigu are finite Imperial artifacts. Shingu is a separate historical tradition. Meihou is associated with Wakoku and must remain distinct. Original systems include Vowcraft, Rootsong, Salt Memory, Grave Arithmetic, Hearth Engines, Beastcraft, Breath Geometry, Echo Binding, Thread Calculus and Miasma Acclimation. These are independent authored traditions, not interchangeable names for one mana pool. Every system must define source, operation, access, costs, limits, counters, failure modes, institutional context and compatibility boundaries. Never grant abilities based on aesthetic, species or dramatic convenience.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 65,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "11": {
+      "uid": 11,
+      "comment": "CORE — Campaign initialization",
+      "key": [
+        "campaign start",
+        "character creation",
+        "start location",
+        "timeline phase",
+        "loadout"
+      ],
+      "keysecondary": [],
+      "content": "INITIALIZATION GATE: Establish character identity, species, timeline phase, start profile, background/training, capabilities, affiliation if any, and a defined loadout. Read a character-card species declaration if present; otherwise require player selection. Start profiles include Imperial Capital, provincial Empire, northern frontier, western contested territory, southern approach, desert civilization, maritime city, underground settlement and remote frontier. These are distinct starting conditions, not forced quest paths. Do not begin in the Capital by default. Unresolved setup fields remain unresolved rather than being guessed.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 95,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "12": {
+      "uid": 12,
+      "comment": "CORE — Procedural generation",
+      "key": [
+        "procedural generation",
+        "generated location",
+        "visited region",
+        "world generation",
+        "stable location"
+      ],
+      "keysecondary": [],
+      "content": "PROCEDURAL GENERATION IS CONSTRAINED COMPLETION, NOT RANDOM SOUP. Respect topology, terrain, geology, hydrology, climate, ecology, resources, transport, settlement logistics, political borders and established state. The authored geography and unique locations take priority. A generated location receives a stable identity and persists after being visited; do not regenerate it on return. Randomness may select among valid candidates only. If dependencies fail, reject or repair the proposal instead of bending established facts. Changes to rivers, roads, mines, wars or infrastructure propagate only through supported dependencies.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 60,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    }
+  }
+}
