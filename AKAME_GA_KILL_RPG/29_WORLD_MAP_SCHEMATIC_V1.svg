@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">World Schematic v1 — topology draft</title>
+  <desc id="desc">An original, non-scaled schematic showing six macro-geographic systems, mountain axes, provisional river systems, arid regions, ocean basins and route chokepoints. It is not a canon map and has no final coordinates.</desc>
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#122c42"/>
+      <stop offset="1" stop-color="#071522"/>
+    </linearGradient>
+    <linearGradient id="land" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b9b18a"/>
+      <stop offset="1" stop-color="#6e806a"/>
+    </linearGradient>
+    <pattern id="desert" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M0 14 Q5 9 10 14 T20 14" fill="none" stroke="#c88b4a" stroke-width="1.4" opacity=".6"/>
+    </pattern>
+    <pattern id="forest" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M12 4 L6 16 L18 16 Z M12 10 L7 21 L17 21 Z" fill="#315d4a" opacity=".72"/>
+    </pattern>
+    <pattern id="cold" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M14 4 V24 M4 14 H24 M7 7 L21 21 M21 7 L7 21" stroke="#d6e5e9" stroke-width="1" opacity=".7"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000" flood-opacity=".35"/>
+    </filter>
+    <style>
+      .label{font:700 21px system-ui,sans-serif;letter-spacing:1.2px;fill:#f3eee0}
+      .sub{font:500 13px system-ui,sans-serif;fill:#d3dbe0;letter-spacing:.4px}
+      .mapnote{font:600 12px system-ui,sans-serif;fill:#f6e7bd;letter-spacing:.8px}
+      .river{fill:none;stroke:#63c6d8;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+      .tributary{fill:none;stroke:#63c6d8;stroke-width:2.2;stroke-linecap:round;opacity:.88}
+      .ridge{fill:none;stroke:#6a5140;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+      .ridge2{fill:none;stroke:#ead7b1;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;opacity:.9}
+      .route{fill:none;stroke:#f1d48d;stroke-width:2.6;stroke-dasharray:8 8;stroke-linecap:round}
+      .border{fill:none;stroke:#f0dfb5;stroke-width:2;stroke-dasharray:5 7;opacity:.8}
+      .callout{fill:#0a1a27;stroke:#6c8793;stroke-width:1.2;rx:9}
+    </style>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#sea)"/>
+  <g opacity=".22" stroke="#75a5b5" fill="none">
+    <path d="M0 180 Q300 135 600 180 T1200 180 T1800 180"/>
+    <path d="M0 250 Q300 205 600 250 T1200 250 T1800 250"/>
+    <path d="M0 740 Q300 695 600 740 T1200 740 T1800 740"/>
+    <path d="M0 810 Q300 765 600 810 T1200 810 T1800 810"/>
+    <ellipse cx="820" cy="500" rx="690" ry="390"/>
+    <ellipse cx="820" cy="500" rx="600" ry="330"/>
+  </g>
+  <text x="54" y="56" class="label" style="font-size:27px">WORLD SCHEMATIC / V1</text>
+  <text x="56" y="82" class="sub">TOPOLOGY ONLY · NOT TO SCALE · NO FINAL COORDINATES · ORIGINAL WORLD EXPANSION</text>
+  <g filter="url(#shadow)">
+    <!-- Northern Shield -->
+    <path d="M300 170 L365 128 L465 139 L522 110 L620 128 L696 107 L785 138 L850 123 L916 151 L970 185 L943 233 L867 248 L815 229 L730 246 L651 226 L574 247 L493 224 L418 244 L349 219 Z" fill="#8b9e9c" stroke="#d3d9c8" stroke-width="2.5"/>
+    <path d="M300 170 L365 128 L465 139 L522 110 L620 128 L696 107 L785 138 L850 123 L916 151 L970 185 L943 233 L867 248 L815 229 L730 246 L651 226 L574 247 L493 224 L418 244 L349 219 Z" fill="url(#cold)" opacity=".7"/>
+    <!-- Imperial Heartland -->
+    <path d="M345 278 L405 244 L489 258 L555 240 L623 267 L685 255 L745 278 L789 322 L773 380 L814 424 L787 486 L738 515 L694 490 L649 514 L585 494 L544 458 L486 470 L443 431 L397 418 L370 365 L332 333 Z" fill="url(#land)" stroke="#e0d5b5" stroke-width="2.5"/>
+    <!-- Great Arid Belt -->
+    <path d="M790 325 L843 286 L927 286 L995 307 L1058 329 L1097 374 L1081 425 L1032 455 L984 447 L936 468 L877 450 L815 423 L773 380 Z" fill="#c99a5e" stroke="#f0d5a0" stroke-width="2.5"/>
+    <path d="M790 325 L843 286 L927 286 L995 307 L1058 329 L1097 374 L1081 425 L1032 455 L984 447 L936 468 L877 450 L815 423 L773 380 Z" fill="url(#desert)" opacity=".95"/>
+    <!-- Green basins / monsoon rim -->
+    <path d="M1021 481 L1082 454 L1144 473 L1195 510 L1212 568 L1180 617 L1123 631 L1078 603 L1036 571 L1007 529 Z" fill="#789b76" stroke="#d1dfb4" stroke-width="2.5"/>
+    <path d="M1021 481 L1082 454 L1144 473 L1195 510 L1212 568 L1180 617 L1123 631 L1078 603 L1036 571 L1007 529 Z" fill="url(#forest)" opacity=".85"/>
+    <!-- Broken Western Lands -->
+    <path d="M255 434 L311 405 L363 429 L382 478 L359 523 L387 563 L350 606 L291 589 L257 550 L226 509 Z" fill="#a5a58b" stroke="#e0d5b5" stroke-width="2.5"/>
+    <path d="M220 641 L261 618 L296 636 L311 671 L288 704 L247 699 L220 672 Z" fill="#a5a58b" stroke="#e0d5b5" stroke-width="2"/>
+    <path d="M397 620 L430 602 L454 622 L449 657 L421 672 L396 651 Z" fill="#a5a58b" stroke="#e0d5b5" stroke-width="2"/>
+    <!-- Outer maritime islands -->
+    <path d="M1270 322 L1291 301 L1310 322 L1302 350 L1280 351 Z" fill="#a6a58a" stroke="#e0d5b5" stroke-width="2"/>
+    <path d="M1322 386 L1340 367 L1361 386 L1352 411 L1330 411 Z" fill="#a6a58a" stroke="#e0d5b5" stroke-width="2"/>
+    <path d="M1261 450 L1282 429 L1304 451 L1293 478 L1272 475 Z" fill="#a6a58a" stroke="#e0d5b5" stroke-width="2"/>
+    <path d="M1388 488 L1407 467 L1429 489 L1418 516 L1397 514 Z" fill="#a6a58a" stroke="#e0d5b5" stroke-width="2"/>
+    <path d="M1302 562 L1321 541 L1344 562 L1333 588 L1311 586 Z" fill="#a6a58a" stroke="#e0d5b5" stroke-width="2"/>
+  </g>
+  <!-- Relief axes -->
+  <path class="ridge" d="M395 281 L424 300 L438 326 L467 337 L482 362 L514 371 L532 399 L565 410 L588 439 L621 450"/>
+  <path class="ridge2" d="M395 281 L424 300 L438 326 L467 337 L482 362 L514 371 L532 399 L565 410 L588 439 L621 450"/>
+  <path class="ridge" d="M730 273 L753 296 L769 319 L795 335 L814 357 L843 366 L862 392 L889 406 L910 430"/>
+  <path class="ridge2" d="M730 273 L753 296 L769 319 L795 335 L814 357 L843 366 L862 392 L889 406 L910 430"/>
+  <path class="ridge" d="M291 454 L315 465 L328 485 L349 496 L357 520 L340 544"/>
+  <path class="ridge2" d="M291 454 L315 465 L328 485 L349 496 L357 520 L340 544"/>
+  <path class="ridge" d="M1036 495 L1053 516 L1060 542 L1083 554 L1097 582"/>
+  <path class="ridge2" d="M1036 495 L1053 516 L1060 542 L1083 554 L1097 582"/>
+  <!-- Rivers: source and outlet relationships are schematic only -->
+  <path class="river" d="M610 244 Q601 282 620 309 T631 363 Q645 395 681 420 T711 466 Q720 485 738 502"/>
+  <path class="tributary" d="M538 300 Q571 319 620 309"/>
+  <path class="tributary" d="M577 363 Q603 351 631 363"/>
+  <path class="river" d="M681 255 Q704 286 696 321 T721 371 Q746 395 738 431 T766 478"/>
+  <path class="tributary" d="M651 328 Q676 321 696 321"/>
+  <path class="river" d="M874 250 Q859 280 872 305 T886 346 Q909 374 936 390 T974 430"/>
+  <path class="tributary" d="M944 316 Q922 332 886 346"/>
+  <path class="river" d="M1132 464 Q1121 493 1141 520 T1153 572 Q1154 596 1170 613"/>
+  <path class="tributary" d="M1081 512 Q1106 526 1141 520"/>
+  <path class="river" d="M315 402 Q335 435 329 462 T348 501 Q362 527 352 555"/>
+  <!-- Inland basin -->
+  <ellipse cx="971" cy="389" rx="38" ry="19" fill="#b8a56f" stroke="#6e5939" stroke-width="2"/>
+  <ellipse cx="971" cy="389" rx="24" ry="10" fill="#6fa7a7" opacity=".9"/>
+  <!-- Strategic routes -->
+  <path class="route" d="M438 389 Q503 425 565 410 T711 466 Q800 470 874 450"/>
+  <path class="route" d="M874 450 Q941 469 1036 529 T1170 613"/>
+  <path class="route" d="M315 465 Q361 449 397 418 T514 371"/>
+  <path class="route" d="M974 430 Q1008 399 1032 365 T1081 330"/>
+  <path class="route" d="M1290 350 Q1312 369 1338 388 T1407 489"/>
+  <!-- Region labels -->
+  <text x="582" y="165" class="label" text-anchor="middle">NORTHERN SHIELD</text>
+  <text x="582" y="187" class="sub" text-anchor="middle">cold interior · snowmelt · seasonal routes</text>
+  <text x="533" y="455" class="label" text-anchor="middle">IMPERIAL HEARTLAND</text>
+  <text x="533" y="477" class="sub" text-anchor="middle">canon footprint not drawn to scale</text>
+  <text x="934" y="339" class="label" text-anchor="middle">GREAT ARID BELT</text>
+  <text x="934" y="361" class="sub" text-anchor="middle">dune · stone · salt · cold & volcanic deserts</text>
+  <text x="1108" y="562" class="label" text-anchor="middle">GREEN BASINS</text>
+  <text x="1108" y="583" class="sub" text-anchor="middle">wet slopes · floodplains · seasonal rivers</text>
+  <text x="300" y="582" class="label" text-anchor="middle">BROKEN WEST</text>
+  <text x="300" y="602" class="sub" text-anchor="middle">rifts · inland seas · passes</text>
+  <text x="1347" y="635" class="label" text-anchor="middle">OUTER MARITIME</text>
+  <text x="1347" y="656" class="sub" text-anchor="middle">island arcs · shelves · deepwater</text>
+  <!-- Water labels -->
+  <text x="1110" y="240" class="sub" text-anchor="middle" style="font-style:italic">Outer Ocean</text>
+  <text x="740" y="650" class="sub" text-anchor="middle" style="font-style:italic">Southern Ocean Basin</text>
+  <text x="530" y="740" class="sub" text-anchor="middle" style="font-style:italic">Western Inland Sea</text>
+  <!-- Legend -->
+  <rect x="50" y="785" width="1500" height="160" rx="16" fill="#07131f" stroke="#476475" stroke-width="1.5" opacity=".97"/>
+  <text x="78" y="821" class="label" style="font-size:17px">MAP KEY</text>
+  <path d="M80 850 H130" class="ridge"/><path d="M80 850 H130" class="ridge2"/><text x="142" y="855" class="sub">mountain axis (schematic)</text>
+  <path d="M380 850 H430" class="river"/><text x="442" y="855" class="sub">river (direction not encoded by arrow)</text>
+  <path d="M760 850 H810" class="route"/><text x="822" y="855" class="sub">strategic route hypothesis</text>
+  <rect x="1120" y="838" width="35" height="22" fill="url(#desert)" stroke="#c88b4a"/><text x="1167" y="855" class="sub">arid-zone texture</text>
+  <text x="80" y="895" class="mapnote">O = original macro-geography</text>
+  <text x="380" y="895" class="mapnote">C = canon geography, pending direct source verification</text>
+  <text x="890" y="895" class="mapnote">U = unresolved / provisional</text>
+  <text x="80" y="923" class="sub">This draft is topology-first. Coastlines, drainage, climate and routes must be reviewed together. Do not infer distances, borders, coordinates, or canon placements from this drawing.</text>
+</svg>
