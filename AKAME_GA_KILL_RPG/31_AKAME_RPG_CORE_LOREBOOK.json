@@ -1417,12 +1417,10 @@
       "uid": 73,
       "comment": "SYS-61 Initiative, Tempo and Reaction Windows",
       "key": [
-        [
-          "initiative",
-          "combat tempo",
-          "reaction window",
-          "combat timing"
-        ],
+        "initiative",
+        "combat tempo",
+        "reaction window",
+        "combat timing",
         "initiative",
         "tempo",
         "reaction"
@@ -1441,12 +1439,10 @@
       "uid": 74,
       "comment": "SYS-62 Range Bands and Reach",
       "key": [
-        [
-          "range bands",
-          "weapon reach",
-          "effective range",
-          "melee distance"
-        ],
+        "range bands",
+        "weapon reach",
+        "effective range",
+        "melee distance",
         "range",
         "bands",
         "reach"
@@ -1465,13 +1461,11 @@
       "uid": 75,
       "comment": "SYS-63 Ammunition and Reloading",
       "key": [
-        [
-          "ammunition",
-          "reload",
-          "magazine",
-          "quiver",
-          "bolts"
-        ],
+        "ammunition",
+        "reload",
+        "magazine",
+        "quiver",
+        "bolts",
         "ammunition",
         "reloading"
       ],
@@ -1489,12 +1483,10 @@
       "uid": 76,
       "comment": "SYS-64 Projectile and Trajectory Model",
       "key": [
-        [
-          "projectile trajectory",
-          "arrows",
-          "bullets",
-          "thrown weapons"
-        ],
+        "projectile trajectory",
+        "arrows",
+        "bullets",
+        "thrown weapons",
         "projectile",
         "trajectory",
         "model"
@@ -1513,12 +1505,10 @@
       "uid": 77,
       "comment": "SYS-65 Armor, Penetration and Coverage",
       "key": [
-        [
-          "armor coverage",
-          "penetration",
-          "armor class",
-          "protective gear"
-        ],
+        "armor coverage",
+        "penetration",
+        "armor class",
+        "protective gear",
         "armor",
         "penetration",
         "coverage"
@@ -1537,12 +1527,10 @@
       "uid": 78,
       "comment": "SYS-66 Grappling, Restraint and Escape",
       "key": [
-        [
-          "grappling",
-          "grapple",
-          "restraint",
-          "escape attempt"
-        ],
+        "grappling",
+        "grapple",
+        "restraint",
+        "escape attempt",
         "grappling",
         "restraint",
         "escape"
@@ -1561,12 +1549,10 @@
       "uid": 79,
       "comment": "SYS-67 Morale, Panic and Surrender",
       "key": [
-        [
-          "morale",
-          "panic",
-          "surrender",
-          "rout"
-        ],
+        "morale",
+        "panic",
+        "surrender",
+        "rout",
         "morale",
         "panic",
         "surrender"
@@ -1585,12 +1571,10 @@
       "uid": 80,
       "comment": "SYS-68 Wounds, Bleeding and Field Treatment",
       "key": [
-        [
-          "bleeding",
-          "field medicine",
-          "bandage",
-          "first aid"
-        ],
+        "bleeding",
+        "field medicine",
+        "bandage",
+        "first aid",
         "wounds",
         "bleeding",
         "field"
@@ -1609,12 +1593,10 @@
       "uid": 81,
       "comment": "SYS-69 Poison, Toxins and Antidotes",
       "key": [
-        [
-          "poison",
-          "toxin",
-          "venom",
-          "antidote"
-        ],
+        "poison",
+        "toxin",
+        "venom",
+        "antidote",
         "poison",
         "toxins",
         "antidotes"
@@ -1633,12 +1615,10 @@
       "uid": 82,
       "comment": "SYS-70 Detection Evidence and Forensics",
       "key": [
-        [
-          "forensics",
-          "physical evidence",
-          "tracks",
-          "crime scene"
-        ],
+        "forensics",
+        "physical evidence",
+        "tracks",
+        "crime scene",
         "detection",
         "evidence",
         "forensics"
@@ -1657,12 +1637,10 @@
       "uid": 83,
       "comment": "SYS-71 Locks, Keys and Security Layers",
       "key": [
-        [
-          "lockpicking",
-          "keys",
-          "security system",
-          "locked door"
-        ],
+        "lockpicking",
+        "keys",
+        "security system",
+        "locked door",
         "locks",
         "keys",
         "security"
@@ -1681,12 +1659,10 @@
       "uid": 84,
       "comment": "SYS-72 Search, Investigation and Clue Handling",
       "key": [
-        [
-          "investigation",
-          "search area",
-          "clue",
-          "hidden object"
-        ],
+        "investigation",
+        "search area",
+        "clue",
+        "hidden object",
         "search",
         "investigation",
         "clue"
@@ -1705,12 +1681,10 @@
       "uid": 85,
       "comment": "SYS-73 Map Discovery and Cartographic Confidence",
       "key": [
-        [
-          "map discovery",
-          "cartography",
-          "map accuracy",
-          "surveying"
-        ],
+        "map discovery",
+        "cartography",
+        "map accuracy",
+        "surveying",
         "discovery",
         "cartographic",
         "confidence"
@@ -1729,12 +1703,10 @@
       "uid": 86,
       "comment": "SYS-74 Exploration and Landmark Memory",
       "key": [
-        [
-          "exploration",
-          "landmark memory",
-          "discovery",
-          "unexplored region"
-        ],
+        "exploration",
+        "landmark memory",
+        "discovery",
+        "unexplored region",
         "exploration",
         "landmark",
         "memory"
@@ -1753,12 +1725,10 @@
       "uid": 87,
       "comment": "SYS-75 Reputation, Relationships and Trust Change",
       "key": [
-        [
-          "relationship state",
-          "trust",
-          "loyalty",
-          "hostility"
-        ],
+        "relationship state",
+        "trust",
+        "loyalty",
+        "hostility",
         "reputation",
         "relationships",
         "trust"
@@ -1777,12 +1747,10 @@
       "uid": 88,
       "comment": "SYS-76 Promise, Debt and Obligation Tracking",
       "key": [
-        [
-          "promise tracking",
-          "debt obligation",
-          "oath",
-          "favor owed"
-        ],
+        "promise tracking",
+        "debt obligation",
+        "oath",
+        "favor owed",
         "promise",
         "debt",
         "obligation"
@@ -1801,12 +1769,10 @@
       "uid": 89,
       "comment": "SYS-77 Trade Routes and Logistics",
       "key": [
-        [
-          "trade route",
-          "supply chain",
-          "logistics",
-          "shipment"
-        ],
+        "trade route",
+        "supply chain",
+        "logistics",
+        "shipment",
         "trade",
         "routes",
         "logistics"
@@ -1825,12 +1791,10 @@
       "uid": 90,
       "comment": "SYS-78 Taxation, Corruption and Public Revenue",
       "key": [
-        [
-          "taxation",
-          "corruption",
-          "public revenue",
-          "bribery"
-        ],
+        "taxation",
+        "corruption",
+        "public revenue",
+        "bribery",
         "taxation",
         "corruption",
         "public"
@@ -1849,12 +1813,10 @@
       "uid": 91,
       "comment": "SYS-79 Labor, Wages and Working Conditions",
       "key": [
-        [
-          "labor market",
-          "wages",
-          "employment",
-          "work contract"
-        ],
+        "labor market",
+        "wages",
+        "employment",
+        "work contract",
         "labor",
         "wages",
         "working"
@@ -1873,12 +1835,10 @@
       "uid": 92,
       "comment": "SYS-80 Crime Networks and Illicit Markets",
       "key": [
-        [
-          "criminal network",
-          "black market",
-          "smuggling",
-          "organized crime"
-        ],
+        "criminal network",
+        "black market",
+        "smuggling",
+        "organized crime",
         "crime",
         "networks",
         "illicit"
@@ -1897,11 +1857,9 @@
       "uid": 93,
       "comment": "SYS-81 Mission Briefing and Objective Verification",
       "key": [
-        [
-          "mission briefing",
-          "objective verification",
-          "mission parameters"
-        ],
+        "mission briefing",
+        "objective verification",
+        "mission parameters",
         "mission",
         "briefing",
         "objective"
@@ -1920,11 +1878,9 @@
       "uid": 94,
       "comment": "SYS-82 Multi-Stage Event Dependency Graph",
       "key": [
-        [
-          "event dependency",
-          "causal chain",
-          "prerequisite event"
-        ],
+        "event dependency",
+        "causal chain",
+        "prerequisite event",
         "multi",
         "stage",
         "event"
@@ -1943,11 +1899,9 @@
       "uid": 95,
       "comment": "SYS-83 Randomness and Bounded Candidate Selection",
       "key": [
-        [
-          "randomness",
-          "procedural candidate",
-          "weighted selection"
-        ],
+        "randomness",
+        "procedural candidate",
+        "weighted selection",
         "randomness",
         "bounded",
         "candidate"
@@ -1966,11 +1920,9 @@
       "uid": 96,
       "comment": "SYS-84 Event Log and Causal Provenance",
       "key": [
-        [
-          "event log",
-          "causal provenance",
-          "event receipt"
-        ],
+        "event log",
+        "causal provenance",
+        "event receipt",
         "event",
         "causal",
         "provenance"
@@ -1989,11 +1941,9 @@
       "uid": 97,
       "comment": "SYS-85 Death and Loot Provenance",
       "key": [
-        [
-          "loot provenance",
-          "body search",
-          "corpse inventory"
-        ],
+        "loot provenance",
+        "body search",
+        "corpse inventory",
         "death",
         "loot",
         "provenance"
@@ -2012,12 +1962,10 @@
       "uid": 98,
       "comment": "SYS-86 Mount and Animal Handling",
       "key": [
-        [
-          "mount",
-          "animal handling",
-          "riding",
-          "pack animal"
-        ],
+        "mount",
+        "animal handling",
+        "riding",
+        "pack animal",
         "mount",
         "animal",
         "handling"
@@ -2036,13 +1984,11 @@
       "uid": 99,
       "comment": "SYS-87 Vehicle and Vessel Operations",
       "key": [
-        [
-          "vehicle",
-          "ship handling",
-          "boat",
-          "cart",
-          "carriage"
-        ],
+        "vehicle",
+        "ship handling",
+        "boat",
+        "cart",
+        "carriage",
         "vehicle",
         "vessel",
         "operations"
@@ -2061,12 +2007,10 @@
       "uid": 100,
       "comment": "SYS-88 Watercraft, Depth and Underwater Limits",
       "key": [
-        [
-          "underwater movement",
-          "diving",
-          "water depth",
-          "underwater settlement"
-        ],
+        "underwater movement",
+        "diving",
+        "water depth",
+        "underwater settlement",
         "watercraft",
         "depth",
         "underwater"
@@ -2085,11 +2029,9 @@
       "uid": 101,
       "comment": "SYS-89 Construction Ownership and Permits",
       "key": [
-        [
-          "building permit",
-          "land ownership",
-          "construction rights"
-        ],
+        "building permit",
+        "land ownership",
+        "construction rights",
         "construction",
         "ownership",
         "permits"
@@ -2108,12 +2050,10 @@
       "uid": 102,
       "comment": "SYS-90 Environmental Contamination and Waste",
       "key": [
-        [
-          "contamination",
-          "waste disposal",
-          "pollution",
-          "toxic runoff"
-        ],
+        "contamination",
+        "waste disposal",
+        "pollution",
+        "toxic runoff",
         "environmental",
         "contamination",
         "waste"
@@ -2132,12 +2072,10 @@
       "uid": 103,
       "comment": "SYS-91 Fire, Smoke and Structural Spread",
       "key": [
-        [
-          "fire spread",
-          "smoke inhalation",
-          "burning building",
-          "fire hazard"
-        ],
+        "fire spread",
+        "smoke inhalation",
+        "burning building",
+        "fire hazard",
         "fire",
         "smoke",
         "structural"
@@ -2156,12 +2094,10 @@
       "uid": 104,
       "comment": "SYS-92 Crowd Movement and Public Space",
       "key": [
-        [
-          "crowd simulation",
-          "crowd density",
-          "stampede",
-          "public gathering"
-        ],
+        "crowd simulation",
+        "crowd density",
+        "stampede",
+        "public gathering",
         "crowd",
         "movement",
         "public"
@@ -2180,12 +2116,10 @@
       "uid": 105,
       "comment": "SYS-93 Sleep, Watch Rotations and Night Risk",
       "key": [
-        [
-          "sleep schedule",
-          "watch rotation",
-          "night watch",
-          "sleep deprivation"
-        ],
+        "sleep schedule",
+        "watch rotation",
+        "night watch",
+        "sleep deprivation",
         "sleep",
         "watch",
         "rotations"
@@ -2204,12 +2138,10 @@
       "uid": 106,
       "comment": "SYS-94 Resource Quality, Spoilage and Storage",
       "key": [
-        [
-          "spoilage",
-          "food storage",
-          "resource quality",
-          "preservation"
-        ],
+        "spoilage",
+        "food storage",
+        "resource quality",
+        "preservation",
         "resource",
         "quality",
         "spoilage"
@@ -2228,12 +2160,10 @@
       "uid": 107,
       "comment": "SYS-95 Quality, Defects and Craft Skill",
       "key": [
-        [
-          "craft quality",
-          "defect",
-          "workmanship",
-          "manufacturing quality"
-        ],
+        "craft quality",
+        "defect",
+        "workmanship",
+        "manufacturing quality",
         "quality",
         "defects",
         "craft"
@@ -2252,12 +2182,10 @@
       "uid": 108,
       "comment": "SYS-96 Healing Systems and Supernatural Recovery",
       "key": [
-        [
-          "healing magic",
-          "regeneration",
-          "supernatural healing",
-          "healing ability"
-        ],
+        "healing magic",
+        "regeneration",
+        "supernatural healing",
+        "healing ability",
         "healing",
         "systems",
         "supernatural"
@@ -2276,12 +2204,10 @@
       "uid": 109,
       "comment": "SYS-97 Power Detection and Countermeasures",
       "key": [
-        [
-          "power detection",
-          "anti-magic",
-          "countermeasure",
-          "ability detection"
-        ],
+        "power detection",
+        "anti-magic",
+        "countermeasure",
+        "ability detection",
         "power",
         "detection",
         "countermeasures"
@@ -2300,12 +2226,10 @@
       "uid": 110,
       "comment": "SYS-98 Identity, Disguise and Recognition",
       "key": [
-        [
-          "disguise",
-          "identity recognition",
-          "alias",
-          "false identity"
-        ],
+        "disguise",
+        "identity recognition",
+        "alias",
+        "false identity",
         "identity",
         "disguise",
         "recognition"
@@ -2324,12 +2248,10 @@
       "uid": 111,
       "comment": "SYS-99 Faction Membership and Access Rights",
       "key": [
-        [
-          "faction membership",
-          "rank",
-          "clearance",
-          "organizational access"
-        ],
+        "faction membership",
+        "rank",
+        "clearance",
+        "organizational access",
         "faction",
         "membership",
         "access"
@@ -2348,11 +2270,9 @@
       "uid": 112,
       "comment": "SYS-100 End-of-Turn Consistency Gate",
       "key": [
-        [
-          "end of turn check",
-          "consistency gate",
-          "final state validation"
-        ],
+        "end of turn check",
+        "consistency gate",
+        "final state validation",
         "turn",
         "consistency",
         "gate"
