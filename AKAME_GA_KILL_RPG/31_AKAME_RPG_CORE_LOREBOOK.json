@@ -2772,6 +2772,136 @@
       "position": 0,
       "use_regex": false,
       "extensions": {}
+    },
+    "153": {
+      "uid": 153,
+      "comment": "CANON — First Emperor and the 48 Teigu",
+      "key": [
+        "First Emperor",
+        "48 Teigu",
+        "original Imperial Arms",
+        "Imperial Arms origin"
+      ],
+      "keysecondary": [],
+      "content": "CANON STATUS: manga-associated historical anchor; detailed workshop history and individual claims require manga-panel verification. The Empire's founding ruler is associated with commissioning 48 original Teigu as a safeguard for the Empire's future. The catalogue is closed. Unknown registry slots remain unknown, and no character can manufacture, summon or acquire a Teigu by declaration. Keep each item's provenance, demonstrated capability, wielder, status and timeline availability separate.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 30,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "154": {
+      "uid": 154,
+      "comment": "CANON — Imperial civil war and lost Teigu",
+      "key": [
+        "Imperial civil war",
+        "lost Teigu",
+        "missing Imperial Arms"
+      ],
+      "keysecondary": [],
+      "content": "CANON STATUS: broad historical anchor; exact details require direct manga sourcing. A major civil war centuries before the main story is associated with the loss or disappearance of many Teigu. A registry entry's historical existence does not prove that it survives, is located, is unclaimed or can be acquired in the active campaign. Distinguish manga-shown status, secondary report, original campaign state and unknown.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 32,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "155": {
+      "uid": 155,
+      "comment": "CANON — Shingu is not Teigu",
+      "key": [
+        "Shingu",
+        "Shingu tradition",
+        "later Emperor artifacts"
+      ],
+      "keysecondary": [],
+      "content": "CANON STATUS: terminology is manga-associated; historical details are partly secondary-source reported and require verification. Shingu is a separate artifact tradition associated in secondary accounts with a later Emperor's attempt, roughly four centuries before the main story, to surpass Teigu. Similar purpose does not make Shingu interchangeable with Teigu. Keep separate registries, manufacturing assumptions, limitations and source confidence; do not merge their power scales.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 34,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "156": {
+      "uid": 156,
+      "comment": "CANON — Meihou and Wakoku",
+      "key": [
+        "Meihou",
+        "Wakoku artifacts",
+        "Wakoku craft"
+      ],
+      "keysecondary": [],
+      "content": "CANON STATUS: manga-associated regional tradition; production details require verification. Meihou is a distinct Wakoku-associated artifact tradition. Secondary sources describe it as more reproducible than Teigu when materials and money are available, but that claim must not be generalized into effortless mass production. Keep individual examples and mechanisms source-tagged; original equipment inspired by Meihou must be labeled original, not canon.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 36,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "157": {
+      "uid": 157,
+      "comment": "CANON — Emperor, Honest and the current regime",
+      "key": [
+        "young Emperor",
+        "Honest",
+        "Imperial court",
+        "current Emperor"
+      ],
+      "keysecondary": [],
+      "content": "CANON STATUS: manga continuity anchor. The current young Emperor is manipulated by Honest, who is associated with murdering the Emperor's parents. Do not invent securely established names or reign dates for intervening rulers when the manga does not establish them. Original rulers may bridge gaps only when explicitly labeled as RPG expansion and arranged so they do not overwrite manga events.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 38,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "158": {
+      "uid": 158,
+      "comment": "WORLD — Ilyr communities are not one kingdom",
+      "key": [
+        "Ilyr",
+        "Elarin Watersheds",
+        "Veyl Steps",
+        "Nhal Tunnels"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL PEOPLES DOSSIER, not manga canon. “Ilyr” is a trade-language umbrella label for long-lived peoples, not one elf kingdom or a uniform culture. The Elarin Watersheds are forest and river communities organized around springs and canopy corridors; the Veyl Steps are highland communities with terraced agriculture and weather observatories; the Nhal Tunnels are subterranean communities shaped by airflow, sound and controlled lighting. Longevity does not imply perfect memory, wisdom, moral superiority or political unity. Their institutions and relationships with the Empire vary by place and period.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 40,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "159": {
+      "uid": 159,
+      "comment": "WORLD — Ordinary fauna, Danger Beasts and anomalies",
+      "key": [
+        "ordinary fauna",
+        "Danger Beast",
+        "anomalous organism",
+        "spirit taxonomy"
+      ],
+      "keysecondary": [],
+      "content": "TAXONOMY CONTRACT. Danger Beast is a specific setting category, not a synonym for every strange organism. Distinguish ordinary fauna, Danger Beasts, sapient peoples, spirits, constructed entities, anomalous organisms, extradimensional entities and environmental phenomena. Appearance alone does not establish intelligence, morality, powers or biology. Recurring types need stable IDs, habitat, physiology, behavior, ecological dependencies, capabilities, limits, resource value and source status.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 42,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
     }
   }
 }
