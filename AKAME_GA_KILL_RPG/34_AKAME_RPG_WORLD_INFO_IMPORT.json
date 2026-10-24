@@ -1635,13 +1635,7 @@
     "73": {
       "uid": 73,
       "key": [
-        "initiative",
-        "combat tempo",
-        "reaction window",
-        "combat timing",
-        "initiative",
-        "tempo",
-        "reaction"
+        "initiative"
       ],
       "keysecondary": [],
       "comment": "SYS-61 Initiative, Tempo and Reaction Windows",
@@ -1660,13 +1654,7 @@
     "74": {
       "uid": 74,
       "key": [
-        "range bands",
-        "weapon reach",
-        "effective range",
-        "melee distance",
-        "range",
-        "bands",
-        "reach"
+        "range bands"
       ],
       "keysecondary": [],
       "comment": "SYS-62 Range Bands and Reach",
@@ -1685,13 +1673,7 @@
     "75": {
       "uid": 75,
       "key": [
-        "ammunition",
-        "reload",
-        "magazine",
-        "quiver",
-        "bolts",
-        "ammunition",
-        "reloading"
+        "ammunition"
       ],
       "keysecondary": [],
       "comment": "SYS-63 Ammunition and Reloading",
@@ -1710,13 +1692,7 @@
     "76": {
       "uid": 76,
       "key": [
-        "projectile trajectory",
-        "arrows",
-        "bullets",
-        "thrown weapons",
-        "projectile",
-        "trajectory",
-        "model"
+        "projectile trajectory"
       ],
       "keysecondary": [],
       "comment": "SYS-64 Projectile and Trajectory Model",
@@ -1735,13 +1711,7 @@
     "77": {
       "uid": 77,
       "key": [
-        "armor coverage",
-        "penetration",
-        "armor class",
-        "protective gear",
-        "armor",
-        "penetration",
-        "coverage"
+        "armor coverage"
       ],
       "keysecondary": [],
       "comment": "SYS-65 Armor, Penetration and Coverage",
@@ -1760,13 +1730,7 @@
     "78": {
       "uid": 78,
       "key": [
-        "grappling",
-        "grapple",
-        "restraint",
-        "escape attempt",
-        "grappling",
-        "restraint",
-        "escape"
+        "grappling"
       ],
       "keysecondary": [],
       "comment": "SYS-66 Grappling, Restraint and Escape",
@@ -1785,13 +1749,7 @@
     "79": {
       "uid": 79,
       "key": [
-        "morale",
-        "panic",
-        "surrender",
-        "rout",
-        "morale",
-        "panic",
-        "surrender"
+        "morale"
       ],
       "keysecondary": [],
       "comment": "SYS-67 Morale, Panic and Surrender",
@@ -1810,13 +1768,7 @@
     "80": {
       "uid": 80,
       "key": [
-        "bleeding",
-        "field medicine",
-        "bandage",
-        "first aid",
-        "wounds",
-        "bleeding",
-        "field"
+        "bleeding"
       ],
       "keysecondary": [],
       "comment": "SYS-68 Wounds, Bleeding and Field Treatment",
@@ -1835,13 +1787,7 @@
     "81": {
       "uid": 81,
       "key": [
-        "poison",
-        "toxin",
-        "venom",
-        "antidote",
-        "poison",
-        "toxins",
-        "antidotes"
+        "poison"
       ],
       "keysecondary": [],
       "comment": "SYS-69 Poison, Toxins and Antidotes",
@@ -1860,12 +1806,6 @@
     "82": {
       "uid": 82,
       "key": [
-        "forensics",
-        "physical evidence",
-        "tracks",
-        "crime scene",
-        "detection",
-        "evidence",
         "forensics"
       ],
       "keysecondary": [],
@@ -1885,13 +1825,7 @@
     "83": {
       "uid": 83,
       "key": [
-        "lockpicking",
-        "keys",
-        "security system",
-        "locked door",
-        "locks",
-        "keys",
-        "security"
+        "lockpicking"
       ],
       "keysecondary": [],
       "comment": "SYS-71 Locks, Keys and Security Layers",
@@ -1910,13 +1844,7 @@
     "84": {
       "uid": 84,
       "key": [
-        "investigation",
-        "search area",
-        "clue",
-        "hidden object",
-        "search",
-        "investigation",
-        "clue"
+        "investigation"
       ],
       "keysecondary": [],
       "comment": "SYS-72 Search, Investigation and Clue Handling",
@@ -1935,13 +1863,7 @@
     "85": {
       "uid": 85,
       "key": [
-        "map discovery",
-        "cartography",
-        "map accuracy",
-        "surveying",
-        "discovery",
-        "cartographic",
-        "confidence"
+        "map discovery"
       ],
       "keysecondary": [],
       "comment": "SYS-73 Map Discovery and Cartographic Confidence",
@@ -1960,13 +1882,7 @@
     "86": {
       "uid": 86,
       "key": [
-        "exploration",
-        "landmark memory",
-        "discovery",
-        "unexplored region",
-        "exploration",
-        "landmark",
-        "memory"
+        "exploration"
       ],
       "keysecondary": [],
       "comment": "SYS-74 Exploration and Landmark Memory",
@@ -1985,13 +1901,7 @@
     "87": {
       "uid": 87,
       "key": [
-        "relationship state",
-        "trust",
-        "loyalty",
-        "hostility",
-        "reputation",
-        "relationships",
-        "trust"
+        "relationship state"
       ],
       "keysecondary": [],
       "comment": "SYS-75 Reputation, Relationships and Trust Change",
@@ -2010,13 +1920,7 @@
     "88": {
       "uid": 88,
       "key": [
-        "promise tracking",
-        "debt obligation",
-        "oath",
-        "favor owed",
-        "promise",
-        "debt",
-        "obligation"
+        "promise tracking"
       ],
       "keysecondary": [],
       "comment": "SYS-76 Promise, Debt and Obligation Tracking",
@@ -2035,13 +1939,7 @@
     "89": {
       "uid": 89,
       "key": [
-        "trade route",
-        "supply chain",
-        "logistics",
-        "shipment",
-        "trade",
-        "routes",
-        "logistics"
+        "trade route"
       ],
       "keysecondary": [],
       "comment": "SYS-77 Trade Routes and Logistics",
@@ -2060,13 +1958,7 @@
     "90": {
       "uid": 90,
       "key": [
-        "taxation",
-        "corruption",
-        "public revenue",
-        "bribery",
-        "taxation",
-        "corruption",
-        "public"
+        "taxation"
       ],
       "keysecondary": [],
       "comment": "SYS-78 Taxation, Corruption and Public Revenue",
@@ -2085,13 +1977,7 @@
     "91": {
       "uid": 91,
       "key": [
-        "labor market",
-        "wages",
-        "employment",
-        "work contract",
-        "labor",
-        "wages",
-        "working"
+        "labor market"
       ],
       "keysecondary": [],
       "comment": "SYS-79 Labor, Wages and Working Conditions",
@@ -2110,13 +1996,7 @@
     "92": {
       "uid": 92,
       "key": [
-        "criminal network",
-        "black market",
-        "smuggling",
-        "organized crime",
-        "crime",
-        "networks",
-        "illicit"
+        "criminal network"
       ],
       "keysecondary": [],
       "comment": "SYS-80 Crime Networks and Illicit Markets",
@@ -2135,12 +2015,7 @@
     "93": {
       "uid": 93,
       "key": [
-        "mission briefing",
-        "objective verification",
-        "mission parameters",
-        "mission",
-        "briefing",
-        "objective"
+        "mission briefing"
       ],
       "keysecondary": [],
       "comment": "SYS-81 Mission Briefing and Objective Verification",
@@ -2159,12 +2034,7 @@
     "94": {
       "uid": 94,
       "key": [
-        "event dependency",
-        "causal chain",
-        "prerequisite event",
-        "multi",
-        "stage",
-        "event"
+        "event dependency"
       ],
       "keysecondary": [],
       "comment": "SYS-82 Multi-Stage Event Dependency Graph",
@@ -2183,12 +2053,7 @@
     "95": {
       "uid": 95,
       "key": [
-        "randomness",
-        "procedural candidate",
-        "weighted selection",
-        "randomness",
-        "bounded",
-        "candidate"
+        "randomness"
       ],
       "keysecondary": [],
       "comment": "SYS-83 Randomness and Bounded Candidate Selection",
@@ -2207,12 +2072,7 @@
     "96": {
       "uid": 96,
       "key": [
-        "event log",
-        "causal provenance",
-        "event receipt",
-        "event",
-        "causal",
-        "provenance"
+        "event log"
       ],
       "keysecondary": [],
       "comment": "SYS-84 Event Log and Causal Provenance",
@@ -2231,12 +2091,7 @@
     "97": {
       "uid": 97,
       "key": [
-        "loot provenance",
-        "body search",
-        "corpse inventory",
-        "death",
-        "loot",
-        "provenance"
+        "loot provenance"
       ],
       "keysecondary": [],
       "comment": "SYS-85 Death and Loot Provenance",
@@ -2255,13 +2110,7 @@
     "98": {
       "uid": 98,
       "key": [
-        "mount",
-        "animal handling",
-        "riding",
-        "pack animal",
-        "mount",
-        "animal",
-        "handling"
+        "mount"
       ],
       "keysecondary": [],
       "comment": "SYS-86 Mount and Animal Handling",
@@ -2280,14 +2129,7 @@
     "99": {
       "uid": 99,
       "key": [
-        "vehicle",
-        "ship handling",
-        "boat",
-        "cart",
-        "carriage",
-        "vehicle",
-        "vessel",
-        "operations"
+        "vehicle"
       ],
       "keysecondary": [],
       "comment": "SYS-87 Vehicle and Vessel Operations",
@@ -2306,13 +2148,7 @@
     "100": {
       "uid": 100,
       "key": [
-        "underwater movement",
-        "diving",
-        "water depth",
-        "underwater settlement",
-        "watercraft",
-        "depth",
-        "underwater"
+        "underwater movement"
       ],
       "keysecondary": [],
       "comment": "SYS-88 Watercraft, Depth and Underwater Limits",
@@ -2331,12 +2167,7 @@
     "101": {
       "uid": 101,
       "key": [
-        "building permit",
-        "land ownership",
-        "construction rights",
-        "construction",
-        "ownership",
-        "permits"
+        "building permit"
       ],
       "keysecondary": [],
       "comment": "SYS-89 Construction Ownership and Permits",
@@ -2355,13 +2186,7 @@
     "102": {
       "uid": 102,
       "key": [
-        "contamination",
-        "waste disposal",
-        "pollution",
-        "toxic runoff",
-        "environmental",
-        "contamination",
-        "waste"
+        "contamination"
       ],
       "keysecondary": [],
       "comment": "SYS-90 Environmental Contamination and Waste",
@@ -2380,13 +2205,7 @@
     "103": {
       "uid": 103,
       "key": [
-        "fire spread",
-        "smoke inhalation",
-        "burning building",
-        "fire hazard",
-        "fire",
-        "smoke",
-        "structural"
+        "fire spread"
       ],
       "keysecondary": [],
       "comment": "SYS-91 Fire, Smoke and Structural Spread",
@@ -2405,13 +2224,7 @@
     "104": {
       "uid": 104,
       "key": [
-        "crowd simulation",
-        "crowd density",
-        "stampede",
-        "public gathering",
-        "crowd",
-        "movement",
-        "public"
+        "crowd simulation"
       ],
       "keysecondary": [],
       "comment": "SYS-92 Crowd Movement and Public Space",
@@ -2430,13 +2243,7 @@
     "105": {
       "uid": 105,
       "key": [
-        "sleep schedule",
-        "watch rotation",
-        "night watch",
-        "sleep deprivation",
-        "sleep",
-        "watch",
-        "rotations"
+        "sleep schedule"
       ],
       "keysecondary": [],
       "comment": "SYS-93 Sleep, Watch Rotations and Night Risk",
@@ -2455,12 +2262,6 @@
     "106": {
       "uid": 106,
       "key": [
-        "spoilage",
-        "food storage",
-        "resource quality",
-        "preservation",
-        "resource",
-        "quality",
         "spoilage"
       ],
       "keysecondary": [],
@@ -2480,13 +2281,7 @@
     "107": {
       "uid": 107,
       "key": [
-        "craft quality",
-        "defect",
-        "workmanship",
-        "manufacturing quality",
-        "quality",
-        "defects",
-        "craft"
+        "craft quality"
       ],
       "keysecondary": [],
       "comment": "SYS-95 Quality, Defects and Craft Skill",
@@ -2505,13 +2300,7 @@
     "108": {
       "uid": 108,
       "key": [
-        "healing magic",
-        "regeneration",
-        "supernatural healing",
-        "healing ability",
-        "healing",
-        "systems",
-        "supernatural"
+        "healing magic"
       ],
       "keysecondary": [],
       "comment": "SYS-96 Healing Systems and Supernatural Recovery",
@@ -2530,13 +2319,7 @@
     "109": {
       "uid": 109,
       "key": [
-        "power detection",
-        "anti-magic",
-        "countermeasure",
-        "ability detection",
-        "power",
-        "detection",
-        "countermeasures"
+        "power detection"
       ],
       "keysecondary": [],
       "comment": "SYS-97 Power Detection and Countermeasures",
@@ -2555,13 +2338,7 @@
     "110": {
       "uid": 110,
       "key": [
-        "disguise",
-        "identity recognition",
-        "alias",
-        "false identity",
-        "identity",
-        "disguise",
-        "recognition"
+        "disguise"
       ],
       "keysecondary": [],
       "comment": "SYS-98 Identity, Disguise and Recognition",
@@ -2580,13 +2357,7 @@
     "111": {
       "uid": 111,
       "key": [
-        "faction membership",
-        "rank",
-        "clearance",
-        "organizational access",
-        "faction",
-        "membership",
-        "access"
+        "faction membership"
       ],
       "keysecondary": [],
       "comment": "SYS-99 Faction Membership and Access Rights",
@@ -2605,12 +2376,7 @@
     "112": {
       "uid": 112,
       "key": [
-        "end of turn check",
-        "consistency gate",
-        "final state validation",
-        "turn",
-        "consistency",
-        "gate"
+        "end of turn check"
       ],
       "keysecondary": [],
       "comment": "SYS-100 End-of-Turn Consistency Gate",
