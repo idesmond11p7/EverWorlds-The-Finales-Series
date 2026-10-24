@@ -49,8 +49,8 @@
     "character_book": {
       "name": "Akame ga Kill RPG Core Lorebook",
       "description": "Core simulation contracts and retrieval entries for the manga-continuity RPG.",
-      "scan_depth": 4,
-      "token_budget": 12000,
+      "scan_depth": 8,
+      "token_budget": 6000,
       "recursive_scanning": true,
       "extensions": {},
       "entries": [
@@ -1824,6 +1824,1160 @@
           "priority": 61,
           "id": 72,
           "comment": "SYS-60 Save Boundary and Import Limits",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": true,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "initiative",
+              "combat tempo",
+              "reaction window",
+              "combat timing"
+            ],
+            "initiative",
+            "tempo",
+            "reaction"
+          ],
+          "content": "INTERNAL SYSTEM — TEMPO: Track who has initiative, who is committed to an action, and which reaction windows remain plausible. A character already off-balance, occupied, surprised or recovering may have fewer immediate options. Do not freeze all other actors while the player acts. Resolve simultaneous movement and threats in a way that respects distance, action duration and awareness.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 60,
+          "case_sensitive": false,
+          "name": "SYS-61 Initiative, Tempo and Reaction Windows",
+          "priority": 60,
+          "id": 73,
+          "comment": "SYS-61 Initiative, Tempo and Reaction Windows",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "range bands",
+              "weapon reach",
+              "effective range",
+              "melee distance"
+            ],
+            "range",
+            "bands",
+            "reach"
+          ],
+          "content": "INTERNAL SYSTEM — RANGE: Track contact, arm's reach, short, medium, long and beyond-effective ranges where exact measurements are unavailable. Weapon reach, projectile drop, accuracy, penetration and travel time depend on the weapon and conditions. A target does not remain within reach after moving away. Do not use vague range labels inconsistently within the same encounter.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 59,
+          "case_sensitive": false,
+          "name": "SYS-62 Range Bands and Reach",
+          "priority": 59,
+          "id": 74,
+          "comment": "SYS-62 Range Bands and Reach",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "ammunition",
+              "reload",
+              "magazine",
+              "quiver",
+              "bolts"
+            ],
+            "ammunition",
+            "reloading"
+          ],
+          "content": "INTERNAL SYSTEM — AMMUNITION: Track ammunition capacity, rounds or projectiles expended, reload method, spare supply and retrieval when these affect play. Reloading takes time and may expose the character or interrupt another action. Do not allow infinite ammunition or silently refill a magazine, quiver or pouch. If exact capacity is unknown, establish a plausible declared loadout instead of inventing a hidden reserve.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 58,
+          "case_sensitive": false,
+          "name": "SYS-63 Ammunition and Reloading",
+          "priority": 58,
+          "id": 75,
+          "comment": "SYS-63 Ammunition and Reloading",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "projectile trajectory",
+              "arrows",
+              "bullets",
+              "thrown weapons"
+            ],
+            "projectile",
+            "trajectory",
+            "model"
+          ],
+          "content": "INTERNAL SYSTEM — PROJECTILES: Resolve trajectory through launch angle, speed, range, gravity, wind, target motion, obstacles, cover and weapon properties. A projectile cannot turn mid-flight without a defined mechanism. Walls, shields and armor interact with projectiles according to material and impact. Track recoverable ammunition only when its location and condition are plausible.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 57,
+          "case_sensitive": false,
+          "name": "SYS-64 Projectile and Trajectory Model",
+          "priority": 57,
+          "id": 76,
+          "comment": "SYS-64 Projectile and Trajectory Model",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "armor coverage",
+              "penetration",
+              "armor class",
+              "protective gear"
+            ],
+            "armor",
+            "penetration",
+            "coverage"
+          ],
+          "content": "INTERNAL SYSTEM — ARMOR: Distinguish coverage, material, fit, condition, flexibility and exposed gaps. Armor may stop, deflect, deform or transmit impact; it does not erase force or guarantee safety. A hit on a protected region differs from a hit on an exposed one. Do not reduce armor to a universal numeric shield unless a campaign ruleset explicitly defines one.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 56,
+          "case_sensitive": false,
+          "name": "SYS-65 Armor, Penetration and Coverage",
+          "priority": 56,
+          "id": 77,
+          "comment": "SYS-65 Armor, Penetration and Coverage",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "grappling",
+              "grapple",
+              "restraint",
+              "escape attempt"
+            ],
+            "grappling",
+            "restraint",
+            "escape"
+          ],
+          "content": "INTERNAL SYSTEM — GRAPPLING: Resolve clinches, grabs, pins, holds, disarms and escape attempts through leverage, body size, footing, strength, technique, fatigue, injury, equipment and nearby geometry. Both participants exert force and can change position. Restraints require appropriate access and time; escape depends on the actual restraint and available tools. Do not treat a declared grab as automatic control of the target.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 55,
+          "case_sensitive": false,
+          "name": "SYS-66 Grappling, Restraint and Escape",
+          "priority": 55,
+          "id": 78,
+          "comment": "SYS-66 Grappling, Restraint and Escape",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "morale",
+              "panic",
+              "surrender",
+              "rout"
+            ],
+            "morale",
+            "panic",
+            "surrender"
+          ],
+          "content": "INTERNAL SYSTEM — MORALE: NPC morale responds to training, leadership, fear, casualties, escape routes, loyalty, stakes and perceived odds. A disciplined unit may hold under pressure; a frightened group may flee, freeze, bargain or surrender. Morale shifts require an identifiable trigger and do not make every opponent cowardly or suicidal. Preserve individual variation within groups.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 54,
+          "case_sensitive": false,
+          "name": "SYS-67 Morale, Panic and Surrender",
+          "priority": 54,
+          "id": 79,
+          "comment": "SYS-67 Morale, Panic and Surrender",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "bleeding",
+              "field medicine",
+              "bandage",
+              "first aid"
+            ],
+            "wounds",
+            "bleeding",
+            "field"
+          ],
+          "content": "INTERNAL SYSTEM — FIELD TREATMENT: Treatment depends on wound type, severity, cleanliness, supplies, skill, time and patient condition. Pressure may slow bleeding; bandages do not repair deep structural damage instantly. Infection, shock and long-term impairment depend on the injury and subsequent care. Describe immediate practical signs and uncertainty without fabricating precise medical diagnoses.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 53,
+          "case_sensitive": false,
+          "name": "SYS-68 Wounds, Bleeding and Field Treatment",
+          "priority": 53,
+          "id": 80,
+          "comment": "SYS-68 Wounds, Bleeding and Field Treatment",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "poison",
+              "toxin",
+              "venom",
+              "antidote"
+            ],
+            "poison",
+            "toxins",
+            "antidotes"
+          ],
+          "content": "INTERNAL SYSTEM — TOXINS: Track source, route of exposure, dose when known, onset, symptoms, duration, treatment and uncertainty. Different poisons do not share one generic effect. Antidotes require an established match and access; unknown substances cannot be identified with certainty from color alone. Do not introduce lethal toxins without a plausible source, delivery and evidence trail.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 52,
+          "case_sensitive": false,
+          "name": "SYS-69 Poison, Toxins and Antidotes",
+          "priority": 52,
+          "id": 81,
+          "comment": "SYS-69 Poison, Toxins and Antidotes",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "forensics",
+              "physical evidence",
+              "tracks",
+              "crime scene"
+            ],
+            "detection",
+            "evidence",
+            "forensics"
+          ],
+          "content": "INTERNAL SYSTEM — EVIDENCE: Tracks, blood, fibers, tool marks, residue, broken locks, footprints and witness accounts preserve partial information. Evidence quality depends on age, weather, handling, surface and contamination. An investigator may infer possibilities but should not derive a unique culprit from ambiguous evidence without corroboration. Evidence can be planted, damaged or misread, but that also requires a plausible cause.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 51,
+          "case_sensitive": false,
+          "name": "SYS-70 Detection Evidence and Forensics",
+          "priority": 51,
+          "id": 82,
+          "comment": "SYS-70 Detection Evidence and Forensics",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "lockpicking",
+              "keys",
+              "security system",
+              "locked door"
+            ],
+            "locks",
+            "keys",
+            "security"
+          ],
+          "content": "INTERNAL SYSTEM — SECURITY: Access control may include keys, locks, guards, seals, permits, alarms, dogs, wards or social procedures. Inspecting a lock does not open it. Bypass attempts require appropriate tools, skill, time and noise/risk assessment. A key works only on the matching lock unless a documented master-key system exists. Security layers should fit the site’s value, resources and institutional habits.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 50,
+          "case_sensitive": false,
+          "name": "SYS-71 Locks, Keys and Security Layers",
+          "priority": 50,
+          "id": 83,
+          "comment": "SYS-71 Locks, Keys and Security Layers",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "investigation",
+              "search area",
+              "clue",
+              "hidden object"
+            ],
+            "search",
+            "investigation",
+            "clue"
+          ],
+          "content": "INTERNAL SYSTEM — SEARCH: Search outcomes depend on search scope, method, light, time, clutter, concealment, tools and relevant skill. State what was searched and what remains unchecked. A failed search does not prove absence; a successful search does not reveal objects outside the searched area. Avoid hiding every clue behind arbitrary rolls or handing over information the method could not reveal.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 49,
+          "case_sensitive": false,
+          "name": "SYS-72 Search, Investigation and Clue Handling",
+          "priority": 49,
+          "id": 84,
+          "comment": "SYS-72 Search, Investigation and Clue Handling",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "map discovery",
+              "cartography",
+              "map accuracy",
+              "surveying"
+            ],
+            "discovery",
+            "cartographic",
+            "confidence"
+          ],
+          "content": "INTERNAL SYSTEM — CARTOGRAPHY: Distinguish surveyed terrain, local sketch maps, official maps, rumor-based routes and unexplored blank areas. Maps have scale, projection, omissions, outdated roads and political bias. Player map knowledge grows from travel, testimony, documents or surveying. Do not give the player a complete world map by default. Mark uncertain routes and unknown distances explicitly.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 48,
+          "case_sensitive": false,
+          "name": "SYS-73 Map Discovery and Cartographic Confidence",
+          "priority": 48,
+          "id": 85,
+          "comment": "SYS-73 Map Discovery and Cartographic Confidence",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "exploration",
+              "landmark memory",
+              "discovery",
+              "unexplored region"
+            ],
+            "exploration",
+            "landmark",
+            "memory"
+          ],
+          "content": "INTERNAL SYSTEM — EXPLORATION: Exploration reveals information through movement, observation, tools, local guides and risk. Preserve landmark identity and the route by which it was discovered. A discovered site remains discovered even if the chat moves elsewhere. Do not turn every unknown area into a surprise encounter; terrain, empty space and uneventful travel are valid.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 47,
+          "case_sensitive": false,
+          "name": "SYS-74 Exploration and Landmark Memory",
+          "priority": 47,
+          "id": 86,
+          "comment": "SYS-74 Exploration and Landmark Memory",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "relationship state",
+              "trust",
+              "loyalty",
+              "hostility"
+            ],
+            "reputation",
+            "relationships",
+            "trust"
+          ],
+          "content": "INTERNAL SYSTEM — RELATIONSHIPS: Track trust, familiarity, obligation, fear, resentment, loyalty and hostility as distinct dimensions when useful. Relationship changes follow actions, evidence, promises, betrayal, shared risk and cultural context over time. One flattering sentence does not automatically create friendship. NPCs can maintain mixed feelings and disagree with allies.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 46,
+          "case_sensitive": false,
+          "name": "SYS-75 Reputation, Relationships and Trust Change",
+          "priority": 46,
+          "id": 87,
+          "comment": "SYS-75 Reputation, Relationships and Trust Change",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "promise tracking",
+              "debt obligation",
+              "oath",
+              "favor owed"
+            ],
+            "promise",
+            "debt",
+            "obligation"
+          ],
+          "content": "INTERNAL SYSTEM — OBLIGATIONS: Record material promises, debts, favors, contracts, threats and oaths with parties, terms, deadlines and evidence. Distinguish an offer, a spoken intention, an accepted agreement and a binding legal or supernatural contract. Obligations persist until fulfilled, renegotiated, broken, forgiven or rendered impossible; consequences depend on who knows and what enforcement exists.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 45,
+          "case_sensitive": false,
+          "name": "SYS-76 Promise, Debt and Obligation Tracking",
+          "priority": 45,
+          "id": 88,
+          "comment": "SYS-76 Promise, Debt and Obligation Tracking",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "trade route",
+              "supply chain",
+              "logistics",
+              "shipment"
+            ],
+            "trade",
+            "routes",
+            "logistics"
+          ],
+          "content": "INTERNAL SYSTEM — LOGISTICS: Goods move through production, storage, transport, checkpoints, intermediaries, losses and delivery schedules. Track bottlenecks and dependencies for important supplies. A shortage at one settlement may result from a local disruption even if production elsewhere remains healthy. Do not make goods appear merely because a merchant is present.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 44,
+          "case_sensitive": false,
+          "name": "SYS-77 Trade Routes and Logistics",
+          "priority": 44,
+          "id": 89,
+          "comment": "SYS-77 Trade Routes and Logistics",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "taxation",
+              "corruption",
+              "public revenue",
+              "bribery"
+            ],
+            "taxation",
+            "corruption",
+            "public"
+          ],
+          "content": "INTERNAL SYSTEM — REVENUE: Taxes, tariffs, tolls, bribes and public funds depend on jurisdiction, policy, enforcement capacity, records and local custom. Corruption redirects resources through identifiable actors and incentives. Do not assume every official is corrupt or every tax is consistently collected. Changes in revenue can affect staffing, infrastructure, prices, patronage and political legitimacy over time.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 43,
+          "case_sensitive": false,
+          "name": "SYS-78 Taxation, Corruption and Public Revenue",
+          "priority": 43,
+          "id": 90,
+          "comment": "SYS-78 Taxation, Corruption and Public Revenue",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "labor market",
+              "wages",
+              "employment",
+              "work contract"
+            ],
+            "labor",
+            "wages",
+            "working"
+          ],
+          "content": "INTERNAL SYSTEM — LABOR: Work requires skill, time, tools, materials, supervision and a payer or beneficiary. Wages vary with demand, danger, scarcity, status, season and bargaining power. A job can create contacts, obligations, injuries, reputation and scheduling conflicts. Do not reward arbitrary sums for unspecified work; establish the task and plausible compensation.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 42,
+          "case_sensitive": false,
+          "name": "SYS-79 Labor, Wages and Working Conditions",
+          "priority": 42,
+          "id": 91,
+          "comment": "SYS-79 Labor, Wages and Working Conditions",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "criminal network",
+              "black market",
+              "smuggling",
+              "organized crime"
+            ],
+            "crime",
+            "networks",
+            "illicit"
+          ],
+          "content": "INTERNAL SYSTEM — ILLICIT NETWORKS: Criminal groups have territory, supply, intermediaries, trust rules, rivalries, exposure risks and limited information. Black-market availability depends on contacts, demand, price, enforcement and risk. A criminal contact does not provide unrestricted access to every illegal item. Illegal trade creates traceable financial, social and security consequences according to the scale of the transaction.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 41,
+          "case_sensitive": false,
+          "name": "SYS-80 Crime Networks and Illicit Markets",
+          "priority": 41,
+          "id": 92,
+          "comment": "SYS-80 Crime Networks and Illicit Markets",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "mission briefing",
+              "objective verification",
+              "mission parameters"
+            ],
+            "mission",
+            "briefing",
+            "objective"
+          ],
+          "content": "INTERNAL SYSTEM — MISSION CONTROL: A briefing contains claims, objectives, constraints, known risks, deadlines and uncertainties. Separate what the sponsor knows from what they conceal or misunderstand. Verify completion against explicit criteria and evidence. Do not silently change the mission objective mid-operation; changes require new information or a new instruction, and the original terms remain recorded.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 40,
+          "case_sensitive": false,
+          "name": "SYS-81 Mission Briefing and Objective Verification",
+          "priority": 40,
+          "id": 93,
+          "comment": "SYS-81 Mission Briefing and Objective Verification",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "event dependency",
+              "causal chain",
+              "prerequisite event"
+            ],
+            "multi",
+            "stage",
+            "event"
+          ],
+          "content": "INTERNAL SYSTEM — EVENT DEPENDENCIES: Represent major events as prerequisites, actors, resources, timing, triggers, possible branches and consequences. If a prerequisite fails, dependent events pause, adapt or fail instead of occurring unchanged. Independent events may continue. Preserve the divergence point and downstream consequences rather than retroactively forcing the original chain back into place.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 39,
+          "case_sensitive": false,
+          "name": "SYS-82 Multi-Stage Event Dependency Graph",
+          "priority": 39,
+          "id": 94,
+          "comment": "SYS-82 Multi-Stage Event Dependency Graph",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": true,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "randomness",
+              "procedural candidate",
+              "weighted selection"
+            ],
+            "randomness",
+            "bounded",
+            "candidate"
+          ],
+          "content": "INTERNAL SYSTEM — BOUNDED GENERATION: Random selection is permitted only among candidates that satisfy established geography, history, resources, capability, timing and state. Weight candidates by known conditions; do not use randomness to override hard constraints. If no valid candidate exists, return no event or revise the setup explicitly. Generated details receive stable IDs once established.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 38,
+          "case_sensitive": false,
+          "name": "SYS-83 Randomness and Bounded Candidate Selection",
+          "priority": 38,
+          "id": 95,
+          "comment": "SYS-83 Randomness and Bounded Candidate Selection",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": true,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "event log",
+              "causal provenance",
+              "event receipt"
+            ],
+            "event",
+            "causal",
+            "provenance"
+          ],
+          "content": "INTERNAL SYSTEM — EVENT LOG: Record important events with stable identifier, time, location, actors, trigger, direct changes, observed evidence and downstream dependencies. Do not confuse the event transcript with the current state: a later event may change the current state while the earlier event remains true historically. Corrections must be explicit and preserve the audit trail.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 37,
+          "case_sensitive": false,
+          "name": "SYS-84 Event Log and Causal Provenance",
+          "priority": 37,
+          "id": 96,
+          "comment": "SYS-84 Event Log and Causal Provenance",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": true,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "loot provenance",
+              "body search",
+              "corpse inventory"
+            ],
+            "death",
+            "loot",
+            "provenance"
+          ],
+          "content": "INTERNAL SYSTEM — LOOT PROVENANCE: Items found on a body or at a site must plausibly have belonged there before discovery. Searching takes time and exposes the character to risk. Distinguish a body's known equipment from unsearched contents and from items actually recovered. Looting can leave evidence, damage, missing gear or social consequences. Unique objects retain provenance and do not duplicate.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 36,
+          "case_sensitive": false,
+          "name": "SYS-85 Death and Loot Provenance",
+          "priority": 36,
+          "id": 97,
+          "comment": "SYS-85 Death and Loot Provenance",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "mount",
+              "animal handling",
+              "riding",
+              "pack animal"
+            ],
+            "mount",
+            "animal",
+            "handling"
+          ],
+          "content": "INTERNAL SYSTEM — ANIMALS: Mounts and working animals have training, temperament, fatigue, health, load limits, feeding, water and environmental needs. Riding requires suitable tack, skill and conditions. An animal can refuse, spook, tire, become injured or react to threats. Travel pace and cargo capacity reflect the animal and terrain; animals are not disposable vehicles.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 35,
+          "case_sensitive": false,
+          "name": "SYS-86 Mount and Animal Handling",
+          "priority": 35,
+          "id": 98,
+          "comment": "SYS-86 Mount and Animal Handling",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "vehicle",
+              "ship handling",
+              "boat",
+              "cart",
+              "carriage"
+            ],
+            "vehicle",
+            "vessel",
+            "operations"
+          ],
+          "content": "INTERNAL SYSTEM — TRANSPORT: Vehicles and vessels require condition, operators, fuel or draft power, cargo limits, maintenance and route compatibility. Ships respond to wind, current, depth, weather, crew and harbor infrastructure. Carts cannot cross every trail or bridge. Damage, grounding, breakdown and delays persist until addressed.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 34,
+          "case_sensitive": false,
+          "name": "SYS-87 Vehicle and Vessel Operations",
+          "priority": 34,
+          "id": 99,
+          "comment": "SYS-87 Vehicle and Vessel Operations",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "underwater movement",
+              "diving",
+              "water depth",
+              "underwater settlement"
+            ],
+            "watercraft",
+            "depth",
+            "underwater"
+          ],
+          "content": "INTERNAL SYSTEM — UNDERWATER: Underwater movement depends on depth, pressure, buoyancy, current, visibility, temperature, breathing method, equipment and species capability. A surface swimmer cannot automatically visit deep settlements. Underwater architecture requires pressure, access, energy, food and waste systems appropriate to its depth and inhabitants. Do not treat water as a simple alternate corridor.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 33,
+          "case_sensitive": false,
+          "name": "SYS-88 Watercraft, Depth and Underwater Limits",
+          "priority": 33,
+          "id": 100,
+          "comment": "SYS-88 Watercraft, Depth and Underwater Limits",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "building permit",
+              "land ownership",
+              "construction rights"
+            ],
+            "construction",
+            "ownership",
+            "permits"
+          ],
+          "content": "INTERNAL SYSTEM — LAND AND BUILDING RIGHTS: Construction requires a site, ownership or permission, access, materials, labor, finance, design and applicable approvals. Occupying land can provoke legal or political conflict. A structure's existence does not imply the player owns it. Record ownership, tenancy, use rights, maintenance duties and disputed claims separately.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 32,
+          "case_sensitive": false,
+          "name": "SYS-89 Construction Ownership and Permits",
+          "priority": 32,
+          "id": 101,
+          "comment": "SYS-89 Construction Ownership and Permits",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "contamination",
+              "waste disposal",
+              "pollution",
+              "toxic runoff"
+            ],
+            "environmental",
+            "contamination",
+            "waste"
+          ],
+          "content": "INTERNAL SYSTEM — CONTAMINATION: Waste, sewage, mining tailings, corpses, toxins and industrial runoff affect specific environments through plausible pathways. Track source, movement, concentration qualitatively, exposure and cleanup. Pollution does not spread everywhere equally; terrain, water flow, wind, soil and barriers matter. Cleanup requires time, tools, labor and safe disposal.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 31,
+          "case_sensitive": false,
+          "name": "SYS-90 Environmental Contamination and Waste",
+          "priority": 31,
+          "id": 102,
+          "comment": "SYS-90 Environmental Contamination and Waste",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "fire spread",
+              "smoke inhalation",
+              "burning building",
+              "fire hazard"
+            ],
+            "fire",
+            "smoke",
+            "structural"
+          ],
+          "content": "INTERNAL SYSTEM — FIRE: Fire depends on fuel, oxygen, moisture, wind, heat transfer, spacing and suppression. Smoke moves with airflow and can reduce visibility or cause harm before flames arrive. Burning structures may weaken and collapse; extinguishing requires a plausible water, sand, isolation or other method. Fire damage persists and changes routes, occupancy, evidence and future use.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 30,
+          "case_sensitive": false,
+          "name": "SYS-91 Fire, Smoke and Structural Spread",
+          "priority": 30,
+          "id": 103,
+          "comment": "SYS-91 Fire, Smoke and Structural Spread",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "crowd simulation",
+              "crowd density",
+              "stampede",
+              "public gathering"
+            ],
+            "crowd",
+            "movement",
+            "public"
+          ],
+          "content": "INTERNAL SYSTEM — CROWD: Crowd flow depends on density, exits, barriers, purpose, panic, weather, authority and local layout. Crowds obstruct movement and sightlines, generate noise, create witnesses and can make actions harder to isolate. Do not move a dense crowd as a single obedient unit or let the player pass through packed bodies without cost.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 29,
+          "case_sensitive": false,
+          "name": "SYS-92 Crowd Movement and Public Space",
+          "priority": 29,
+          "id": 104,
+          "comment": "SYS-92 Crowd Movement and Public Space",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "sleep schedule",
+              "watch rotation",
+              "night watch",
+              "sleep deprivation"
+            ],
+            "sleep",
+            "watch",
+            "rotations"
+          ],
+          "content": "INTERNAL SYSTEM — SLEEP/WATCH: Rest requires a plausible place, duration and degree of safety. Watch rotations require awake personnel and can fail through fatigue, distraction, weather or attack. Sleep changes time and vulnerability; it does not automatically heal all injuries or restore every resource. Record who was on watch and what they could reasonably detect.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 28,
+          "case_sensitive": false,
+          "name": "SYS-93 Sleep, Watch Rotations and Night Risk",
+          "priority": 28,
+          "id": 105,
+          "comment": "SYS-93 Sleep, Watch Rotations and Night Risk",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "spoilage",
+              "food storage",
+              "resource quality",
+              "preservation"
+            ],
+            "resource",
+            "quality",
+            "spoilage"
+          ],
+          "content": "INTERNAL SYSTEM — STORAGE: Food, medicine, fuel, reagents and harvested materials degrade according to temperature, moisture, contamination, packaging and time. Storage requires capacity and protection. Preserving materials requires a method and resources. Do not keep perishable items indefinitely at perfect quality or spoil everything instantly without environmental cause.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 27,
+          "case_sensitive": false,
+          "name": "SYS-94 Resource Quality, Spoilage and Storage",
+          "priority": 27,
+          "id": 106,
+          "comment": "SYS-94 Resource Quality, Spoilage and Storage",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "craft quality",
+              "defect",
+              "workmanship",
+              "manufacturing quality"
+            ],
+            "quality",
+            "defects",
+            "craft"
+          ],
+          "content": "INTERNAL SYSTEM — QUALITY: Crafted goods vary by materials, tools, skill, time, design, environment and inspection. Quality affects reliability, durability, performance and resale value. A masterwork is not guaranteed by declaring expertise. Defects may be visible, hidden or discovered under use, and repair or rework consumes resources.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 26,
+          "case_sensitive": false,
+          "name": "SYS-95 Quality, Defects and Craft Skill",
+          "priority": 26,
+          "id": 107,
+          "comment": "SYS-95 Quality, Defects and Craft Skill",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "healing magic",
+              "regeneration",
+              "supernatural healing",
+              "healing ability"
+            ],
+            "healing",
+            "systems",
+            "supernatural"
+          ],
+          "content": "INTERNAL SYSTEM — HEALING: Distinguish ordinary treatment, trained medicine, regeneration, healing magic and resurrection. Each system has explicit prerequisites, scope, speed, cost, compatibility and limits. Healing visible damage does not automatically restore blood, stamina, memory, lost limbs or soul integrity unless the ability states so. Record residual effects and recovery time.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 25,
+          "case_sensitive": false,
+          "name": "SYS-96 Healing Systems and Supernatural Recovery",
+          "priority": 25,
+          "id": 108,
+          "comment": "SYS-96 Healing Systems and Supernatural Recovery",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": true,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "power detection",
+              "anti-magic",
+              "countermeasure",
+              "ability detection"
+            ],
+            "power",
+            "detection",
+            "countermeasures"
+          ],
+          "content": "INTERNAL SYSTEM — COUNTERMEASURES: Detection and suppression depend on the specific power tradition, sensing method, range, conditions and known countermeasures. Do not make all supernatural systems mutually readable or universally suppressible. A countermeasure must have a plausible source, target compatibility and operating limits. NPCs can only prepare against powers they know or reasonably anticipate.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 24,
+          "case_sensitive": false,
+          "name": "SYS-97 Power Detection and Countermeasures",
+          "priority": 24,
+          "id": 109,
+          "comment": "SYS-97 Power Detection and Countermeasures",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "disguise",
+              "identity recognition",
+              "alias",
+              "false identity"
+            ],
+            "identity",
+            "disguise",
+            "recognition"
+          ],
+          "content": "INTERNAL SYSTEM — IDENTITY: Recognition depends on familiarity, face, voice, clothing, gait, mannerisms, documents, context and attention. A disguise changes some signals but may leave others. Identity claims require evidence and can be mistaken. Keep legal identity, alias, known reputation and current cover identity distinct; do not automatically expose or perfectly conceal a character.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 23,
+          "case_sensitive": false,
+          "name": "SYS-98 Identity, Disguise and Recognition",
+          "priority": 23,
+          "id": 110,
+          "comment": "SYS-98 Identity, Disguise and Recognition",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "faction membership",
+              "rank",
+              "clearance",
+              "organizational access"
+            ],
+            "faction",
+            "membership",
+            "access"
+          ],
+          "content": "INTERNAL SYSTEM — ACCESS: Membership, rank, credentials, trust and operational need determine access to facilities, records, supplies and authority. A title does not automatically grant every resource. Promotions, demotions, expulsion and clearance changes require an event and evidence. A forged credential may pass one check and fail another.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 22,
+          "case_sensitive": false,
+          "name": "SYS-99 Faction Membership and Access Rights",
+          "priority": 22,
+          "id": 111,
+          "comment": "SYS-99 Faction Membership and Access Rights",
+          "selective": false,
+          "secondary_keys": [],
+          "constant": false,
+          "position": "before_char",
+          "use_regex": false,
+          "probability": 100,
+          "depth": 4
+        },
+        {
+          "keys": [
+            [
+              "end of turn check",
+              "consistency gate",
+              "final state validation"
+            ],
+            "turn",
+            "consistency",
+            "gate"
+          ],
+          "content": "INTERNAL SYSTEM — FINAL GATE: Before answering, compare the intended narration against the latest state for time, location, facing, movement, inventory, wounds, object positions, NPC knowledge, active objectives, event dependencies, canon and ability limits. If any mismatch exists, revise the outcome or state the unresolved uncertainty before presenting the response. Never claim an unverified state update, external save, test pass or import success.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 21,
+          "case_sensitive": false,
+          "name": "SYS-100 End-of-Turn Consistency Gate",
+          "priority": 21,
+          "id": 112,
+          "comment": "SYS-100 End-of-Turn Consistency Gate",
           "selective": false,
           "secondary_keys": [],
           "constant": true,
