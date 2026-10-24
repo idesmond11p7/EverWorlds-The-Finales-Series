@@ -1417,13 +1417,7 @@
       "uid": 73,
       "comment": "SYS-61 Initiative, Tempo and Reaction Windows",
       "key": [
-        "initiative",
-        "combat tempo",
-        "reaction window",
-        "combat timing",
-        "initiative",
-        "tempo",
-        "reaction"
+        "initiative"
       ],
       "keysecondary": [],
       "content": "INTERNAL SYSTEM — TEMPO: Track who has initiative, who is committed to an action, and which reaction windows remain plausible. A character already off-balance, occupied, surprised or recovering may have fewer immediate options. Do not freeze all other actors while the player acts. Resolve simultaneous movement and threats in a way that respects distance, action duration and awareness.",
