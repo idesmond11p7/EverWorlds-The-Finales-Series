@@ -2052,6 +2052,222 @@
       "position": 0,
       "use_regex": false,
       "extensions": {}
+    },
+    "113": {
+      "uid": 113,
+      "comment": "WORLD — The Veyr Concord",
+      "key": [
+        "Veyr Concord",
+        "river cities",
+        "flood law"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Veyr Concord is a treaty league of river cities in the middle Sable Meridian. Catastrophic floods taught rival towns to coordinate levees and upstream releases. Member cities retain local courts, taxes and militia; the Concord's authority is strongest in flood engineering and weakest in unrelated local affairs. Its political tension comes from upstream power, maintenance labor, and who bears downstream damage.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 15,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "114": {
+      "uid": 114,
+      "comment": "WORLD — The Rimeward Holds",
+      "key": [
+        "Rimeward Holds",
+        "mountain passes",
+        "winter shelters"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Rimeward Holds are autonomous mountain fortress communities linked by pass treaties, winter shelter obligations, shared granaries and rotating councils. Their unity grew from the fact that isolated fortresses starve when snow closes roads. Mineral wealth and short growing seasons shape their economy. No single hold can command all others indefinitely; rescue obligations and avalanche control are strategic infrastructure.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 17,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "115": {
+      "uid": 115,
+      "comment": "WORLD — The Namaru River Compact",
+      "key": [
+        "Namaru River Compact",
+        "upstream downstream",
+        "monsoon basin"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Namaru River Compact joins river cities and floodplain communities in a southern monsoon basin. Its council coordinates navigation, floodworks and water disputes, but has limited authority over remote settlements and local family law. Upstream dams, diversions and forest clearing can ruin downstream farms, so water release records and shared maintenance are political weapons as much as engineering tools.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 19,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "116": {
+      "uid": 116,
+      "comment": "WORLD — The Reed Throne of Oru",
+      "key": [
+        "Reed Throne of Oru",
+        "delta monarchy",
+        "water office"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Reed Throne of Oru is a delta monarchy built on shifting channels, reed marshes and engineered mounds. The crown relies on the Water Office, grain stewards, temple estates and boat guilds. Its founding legitimacy came from coordinating levees and grain stores after coastal storms; later rulers turned emergency labor duties into hereditary obligations. Flood control, food storage and boat access determine practical power.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 21,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "117": {
+      "uid": 117,
+      "comment": "WORLD — The Keth Canopy Assemblies",
+      "key": [
+        "Keth Canopy Assemblies",
+        "forest assemblies",
+        "canopy territories"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Keth Canopy Assemblies are a network of forest communities linked by seasonal councils and negotiated resource rights. Some are egalitarian; others have hereditary stewards or merchant oligarchies. They formed around boundary markers, harvest calendars and shared limits on logging, fire and hunting. Their internal politics vary by settlement; there is no single forest king or universal attitude toward technology.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 23,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "118": {
+      "uid": 118,
+      "comment": "WORLD — The Aokiri Sound League",
+      "key": [
+        "Aokiri Sound League",
+        "narrow sea",
+        "pilotage"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Aokiri Sound League links competitive ports around a narrow sea between volcanic headlands and island chains. Members share pilotage rules, navigational markers, salvage law and limited naval obligations. Its economy includes ship repair, fish, salt, sailcloth, navigation instruments and freight services. Reliable pilots and signal conventions matter because wrecks and rival toll wars once made passage dangerous.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 25,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "119": {
+      "uid": 119,
+      "comment": "WORLD — The Nine-Keel Directorate",
+      "key": [
+        "Nine-Keel Directorate",
+        "naval state",
+        "shipbuilding"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Nine-Keel Directorate is a naval-industrial state governed through a compact of admirals, shipwright guilds, timber stewards and dock authorities. Its protected volcanic harbor supports shipbuilding, rope, sailcloth, metal fittings and convoy services. It imports food and depends on managed forests for hull timber. Procurement competes with commercial repair, so military ambition is limited by labor, timber and dock throughput.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 27,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "120": {
+      "uid": 120,
+      "comment": "WORLD — The Vaskh Stair-Cities",
+      "key": [
+        "Vaskh Stair-Cities",
+        "canyon desert",
+        "flood dams"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Vaskh Stair-Cities occupy sandstone canyons cut by violent seasonal floods. Catch dams, cistern terraces and controlled spillways store water. Neighborhoods climb canyon walls through switchback stairs, rope lifts and bridges with removable spans. Stonework, flood engineering, caravan repair and canyon crops sustain the economy. Water courts rule through dam maintenance; a blocked spillway can save one district while destroying another.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 29,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "121": {
+      "uid": 121,
+      "comment": "WORLD — The Saffron Route League",
+      "key": [
+        "Saffron Route League",
+        "oasis basins",
+        "water credit"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Saffron Route League links oasis basins separated by long dune crossings. Each oasis controls its wells, while the League standardizes caravan schedules, water-credit records, route information and mutual aid. Market towns cluster around freight yards, animal courts and shaded courtyards. Its council has limited power over member wells; disputes over credit, route safety and water access threaten cohesion.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 31,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "122": {
+      "uid": 122,
+      "comment": "WORLD — The Orison of Cold Stars",
+      "key": [
+        "Orison of Cold Stars",
+        "cold desert",
+        "star tables"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Orison of Cold Stars occupies a high-latitude cold desert with severe night temperature drops. It relies on seasonal snowmelt, protected ice stores and deep springs. Compact insulated observatory towns maintain star tables, precision lenses, calendars and long-distance relay beacons. Calendar disputes can delay caravans or military movement. Clear skies are useful, but exposure, storage and night travel remain dangerous.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 33,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "123": {
+      "uid": 123,
+      "comment": "WORLD — The Red Silt Mandate",
+      "key": [
+        "Red Silt Mandate",
+        "river desert margin",
+        "flood basins"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Red Silt Mandate occupies a desert margin around a river fed by distant mountains. Seasonal flood basins, canals, sediment management and grain reserves support raised mud-brick towns marked by floodline plaster. Basin councils allocate water according to measured land and maintenance labor. Upstream release decisions affect crops, boat access, prices and downstream legitimacy.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 35,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
+    },
+    "124": {
+      "uid": 124,
+      "comment": "WORLD — The Glass Dune Monasteries",
+      "key": [
+        "Glass Dune Monasteries",
+        "desert monasteries",
+        "spring rights"
+      ],
+      "keysecondary": [],
+      "content": "ORIGINAL EXPANSION, not manga canon. The Glass Dune Monasteries are independent fortified houses on a wind-polished plateau with glassy mineral deposits and isolated springs. Cisterns and tightly rationed spring rights sustain them; visitors contribute labor or supplies. Houses specialize in copying, healing, glasscraft, mediation, astronomy or education. Their shared pilgrimage rules do not erase doctrinal rivalry or differences in local law.",
+      "constant": false,
+      "selective": false,
+      "insertion_order": 37,
+      "enabled": true,
+      "position": 0,
+      "use_regex": false,
+      "extensions": {}
     }
   }
 }
