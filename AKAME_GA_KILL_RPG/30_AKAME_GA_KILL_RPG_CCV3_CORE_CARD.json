@@ -1834,12 +1834,10 @@
         },
         {
           "keys": [
-            [
-              "initiative",
-              "combat tempo",
-              "reaction window",
-              "combat timing"
-            ],
+            "initiative",
+            "combat tempo",
+            "reaction window",
+            "combat timing",
             "initiative",
             "tempo",
             "reaction"
@@ -1863,12 +1861,10 @@
         },
         {
           "keys": [
-            [
-              "range bands",
-              "weapon reach",
-              "effective range",
-              "melee distance"
-            ],
+            "range bands",
+            "weapon reach",
+            "effective range",
+            "melee distance",
             "range",
             "bands",
             "reach"
@@ -1892,13 +1888,11 @@
         },
         {
           "keys": [
-            [
-              "ammunition",
-              "reload",
-              "magazine",
-              "quiver",
-              "bolts"
-            ],
+            "ammunition",
+            "reload",
+            "magazine",
+            "quiver",
+            "bolts",
             "ammunition",
             "reloading"
           ],
@@ -1921,12 +1915,10 @@
         },
         {
           "keys": [
-            [
-              "projectile trajectory",
-              "arrows",
-              "bullets",
-              "thrown weapons"
-            ],
+            "projectile trajectory",
+            "arrows",
+            "bullets",
+            "thrown weapons",
             "projectile",
             "trajectory",
             "model"
@@ -1950,12 +1942,10 @@
         },
         {
           "keys": [
-            [
-              "armor coverage",
-              "penetration",
-              "armor class",
-              "protective gear"
-            ],
+            "armor coverage",
+            "penetration",
+            "armor class",
+            "protective gear",
             "armor",
             "penetration",
             "coverage"
@@ -1979,12 +1969,10 @@
         },
         {
           "keys": [
-            [
-              "grappling",
-              "grapple",
-              "restraint",
-              "escape attempt"
-            ],
+            "grappling",
+            "grapple",
+            "restraint",
+            "escape attempt",
             "grappling",
             "restraint",
             "escape"
@@ -2008,12 +1996,10 @@
         },
         {
           "keys": [
-            [
-              "morale",
-              "panic",
-              "surrender",
-              "rout"
-            ],
+            "morale",
+            "panic",
+            "surrender",
+            "rout",
             "morale",
             "panic",
             "surrender"
@@ -2037,12 +2023,10 @@
         },
         {
           "keys": [
-            [
-              "bleeding",
-              "field medicine",
-              "bandage",
-              "first aid"
-            ],
+            "bleeding",
+            "field medicine",
+            "bandage",
+            "first aid",
             "wounds",
             "bleeding",
             "field"
@@ -2066,12 +2050,10 @@
         },
         {
           "keys": [
-            [
-              "poison",
-              "toxin",
-              "venom",
-              "antidote"
-            ],
+            "poison",
+            "toxin",
+            "venom",
+            "antidote",
             "poison",
             "toxins",
             "antidotes"
@@ -2095,12 +2077,10 @@
         },
         {
           "keys": [
-            [
-              "forensics",
-              "physical evidence",
-              "tracks",
-              "crime scene"
-            ],
+            "forensics",
+            "physical evidence",
+            "tracks",
+            "crime scene",
             "detection",
             "evidence",
             "forensics"
@@ -2124,12 +2104,10 @@
         },
         {
           "keys": [
-            [
-              "lockpicking",
-              "keys",
-              "security system",
-              "locked door"
-            ],
+            "lockpicking",
+            "keys",
+            "security system",
+            "locked door",
             "locks",
             "keys",
             "security"
@@ -2153,12 +2131,10 @@
         },
         {
           "keys": [
-            [
-              "investigation",
-              "search area",
-              "clue",
-              "hidden object"
-            ],
+            "investigation",
+            "search area",
+            "clue",
+            "hidden object",
             "search",
             "investigation",
             "clue"
@@ -2182,12 +2158,10 @@
         },
         {
           "keys": [
-            [
-              "map discovery",
-              "cartography",
-              "map accuracy",
-              "surveying"
-            ],
+            "map discovery",
+            "cartography",
+            "map accuracy",
+            "surveying",
             "discovery",
             "cartographic",
             "confidence"
@@ -2211,12 +2185,10 @@
         },
         {
           "keys": [
-            [
-              "exploration",
-              "landmark memory",
-              "discovery",
-              "unexplored region"
-            ],
+            "exploration",
+            "landmark memory",
+            "discovery",
+            "unexplored region",
             "exploration",
             "landmark",
             "memory"
@@ -2240,12 +2212,10 @@
         },
         {
           "keys": [
-            [
-              "relationship state",
-              "trust",
-              "loyalty",
-              "hostility"
-            ],
+            "relationship state",
+            "trust",
+            "loyalty",
+            "hostility",
             "reputation",
             "relationships",
             "trust"
@@ -2269,12 +2239,10 @@
         },
         {
           "keys": [
-            [
-              "promise tracking",
-              "debt obligation",
-              "oath",
-              "favor owed"
-            ],
+            "promise tracking",
+            "debt obligation",
+            "oath",
+            "favor owed",
             "promise",
             "debt",
             "obligation"
@@ -2298,12 +2266,10 @@
         },
         {
           "keys": [
-            [
-              "trade route",
-              "supply chain",
-              "logistics",
-              "shipment"
-            ],
+            "trade route",
+            "supply chain",
+            "logistics",
+            "shipment",
             "trade",
             "routes",
             "logistics"
@@ -2327,12 +2293,10 @@
         },
         {
           "keys": [
-            [
-              "taxation",
-              "corruption",
-              "public revenue",
-              "bribery"
-            ],
+            "taxation",
+            "corruption",
+            "public revenue",
+            "bribery",
             "taxation",
             "corruption",
             "public"
@@ -2356,12 +2320,10 @@
         },
         {
           "keys": [
-            [
-              "labor market",
-              "wages",
-              "employment",
-              "work contract"
-            ],
+            "labor market",
+            "wages",
+            "employment",
+            "work contract",
             "labor",
             "wages",
             "working"
@@ -2385,12 +2347,10 @@
         },
         {
           "keys": [
-            [
-              "criminal network",
-              "black market",
-              "smuggling",
-              "organized crime"
-            ],
+            "criminal network",
+            "black market",
+            "smuggling",
+            "organized crime",
             "crime",
             "networks",
             "illicit"
@@ -2414,11 +2374,9 @@
         },
         {
           "keys": [
-            [
-              "mission briefing",
-              "objective verification",
-              "mission parameters"
-            ],
+            "mission briefing",
+            "objective verification",
+            "mission parameters",
             "mission",
             "briefing",
             "objective"
@@ -2442,11 +2400,9 @@
         },
         {
           "keys": [
-            [
-              "event dependency",
-              "causal chain",
-              "prerequisite event"
-            ],
+            "event dependency",
+            "causal chain",
+            "prerequisite event",
             "multi",
             "stage",
             "event"
@@ -2470,11 +2426,9 @@
         },
         {
           "keys": [
-            [
-              "randomness",
-              "procedural candidate",
-              "weighted selection"
-            ],
+            "randomness",
+            "procedural candidate",
+            "weighted selection",
             "randomness",
             "bounded",
             "candidate"
@@ -2498,11 +2452,9 @@
         },
         {
           "keys": [
-            [
-              "event log",
-              "causal provenance",
-              "event receipt"
-            ],
+            "event log",
+            "causal provenance",
+            "event receipt",
             "event",
             "causal",
             "provenance"
@@ -2526,11 +2478,9 @@
         },
         {
           "keys": [
-            [
-              "loot provenance",
-              "body search",
-              "corpse inventory"
-            ],
+            "loot provenance",
+            "body search",
+            "corpse inventory",
             "death",
             "loot",
             "provenance"
@@ -2554,12 +2504,10 @@
         },
         {
           "keys": [
-            [
-              "mount",
-              "animal handling",
-              "riding",
-              "pack animal"
-            ],
+            "mount",
+            "animal handling",
+            "riding",
+            "pack animal",
             "mount",
             "animal",
             "handling"
@@ -2583,13 +2531,11 @@
         },
         {
           "keys": [
-            [
-              "vehicle",
-              "ship handling",
-              "boat",
-              "cart",
-              "carriage"
-            ],
+            "vehicle",
+            "ship handling",
+            "boat",
+            "cart",
+            "carriage",
             "vehicle",
             "vessel",
             "operations"
@@ -2613,12 +2559,10 @@
         },
         {
           "keys": [
-            [
-              "underwater movement",
-              "diving",
-              "water depth",
-              "underwater settlement"
-            ],
+            "underwater movement",
+            "diving",
+            "water depth",
+            "underwater settlement",
             "watercraft",
             "depth",
             "underwater"
@@ -2642,11 +2586,9 @@
         },
         {
           "keys": [
-            [
-              "building permit",
-              "land ownership",
-              "construction rights"
-            ],
+            "building permit",
+            "land ownership",
+            "construction rights",
             "construction",
             "ownership",
             "permits"
@@ -2670,12 +2612,10 @@
         },
         {
           "keys": [
-            [
-              "contamination",
-              "waste disposal",
-              "pollution",
-              "toxic runoff"
-            ],
+            "contamination",
+            "waste disposal",
+            "pollution",
+            "toxic runoff",
             "environmental",
             "contamination",
             "waste"
@@ -2699,12 +2639,10 @@
         },
         {
           "keys": [
-            [
-              "fire spread",
-              "smoke inhalation",
-              "burning building",
-              "fire hazard"
-            ],
+            "fire spread",
+            "smoke inhalation",
+            "burning building",
+            "fire hazard",
             "fire",
             "smoke",
             "structural"
@@ -2728,12 +2666,10 @@
         },
         {
           "keys": [
-            [
-              "crowd simulation",
-              "crowd density",
-              "stampede",
-              "public gathering"
-            ],
+            "crowd simulation",
+            "crowd density",
+            "stampede",
+            "public gathering",
             "crowd",
             "movement",
             "public"
@@ -2757,12 +2693,10 @@
         },
         {
           "keys": [
-            [
-              "sleep schedule",
-              "watch rotation",
-              "night watch",
-              "sleep deprivation"
-            ],
+            "sleep schedule",
+            "watch rotation",
+            "night watch",
+            "sleep deprivation",
             "sleep",
             "watch",
             "rotations"
@@ -2786,12 +2720,10 @@
         },
         {
           "keys": [
-            [
-              "spoilage",
-              "food storage",
-              "resource quality",
-              "preservation"
-            ],
+            "spoilage",
+            "food storage",
+            "resource quality",
+            "preservation",
             "resource",
             "quality",
             "spoilage"
@@ -2815,12 +2747,10 @@
         },
         {
           "keys": [
-            [
-              "craft quality",
-              "defect",
-              "workmanship",
-              "manufacturing quality"
-            ],
+            "craft quality",
+            "defect",
+            "workmanship",
+            "manufacturing quality",
             "quality",
             "defects",
             "craft"
@@ -2844,12 +2774,10 @@
         },
         {
           "keys": [
-            [
-              "healing magic",
-              "regeneration",
-              "supernatural healing",
-              "healing ability"
-            ],
+            "healing magic",
+            "regeneration",
+            "supernatural healing",
+            "healing ability",
             "healing",
             "systems",
             "supernatural"
@@ -2873,12 +2801,10 @@
         },
         {
           "keys": [
-            [
-              "power detection",
-              "anti-magic",
-              "countermeasure",
-              "ability detection"
-            ],
+            "power detection",
+            "anti-magic",
+            "countermeasure",
+            "ability detection",
             "power",
             "detection",
             "countermeasures"
@@ -2902,12 +2828,10 @@
         },
         {
           "keys": [
-            [
-              "disguise",
-              "identity recognition",
-              "alias",
-              "false identity"
-            ],
+            "disguise",
+            "identity recognition",
+            "alias",
+            "false identity",
             "identity",
             "disguise",
             "recognition"
@@ -2931,12 +2855,10 @@
         },
         {
           "keys": [
-            [
-              "faction membership",
-              "rank",
-              "clearance",
-              "organizational access"
-            ],
+            "faction membership",
+            "rank",
+            "clearance",
+            "organizational access",
             "faction",
             "membership",
             "access"
@@ -2960,11 +2882,9 @@
         },
         {
           "keys": [
-            [
-              "end of turn check",
-              "consistency gate",
-              "final state validation"
-            ],
+            "end of turn check",
+            "consistency gate",
+            "final state validation",
             "turn",
             "consistency",
             "gate"
