@@ -6,7 +6,7 @@
 [SCHEMA: ENGINE WORKSTREAM INDEX]
 [DOWNSTREAM: ENGINE MODULES, PROMPT PACKAGES, FUTURE IMPLEMENTATION]
 [EXCLUDES: Novel canon, chapter manuscripts, claims of implemented software]
-[LAST-TOUCH: Executable system prompt v0.2]
+[LAST-TOUCH: v0.2 prompt and targeted regression suite]
 [MODEL-GRADE: G2]
 [OPERATIONAL-STATE: REFERENCE-ONLY / PROMPT CANDIDATE UNTESTED]
 
@@ -31,6 +31,7 @@ No new product/system name has been approved. "MOSAIC" was an assistant proposal
 5. [04_WORLD_GAME_AND_POWER_SYSTEMS.md](04_WORLD_GAME_AND_POWER_SYSTEMS.md)
 6. [05_NARRATIVE_AND_INTERFACE_RENDERING.md](05_NARRATIVE_AND_INTERFACE_RENDERING.md)
 7. [06_VALIDATION_AND_FAILURE_TESTS.md](06_VALIDATION_AND_FAILURE_TESTS.md)
+8. [09_V0.2_VALIDATION_ADDENDUM.md](09_V0.2_VALIDATION_ADDENDUM.md) — targeted regression tests for world compression, mystery, suggestions and UI.
 
 ## Authority labels
 
@@ -41,4 +42,4 @@ No new product/system name has been approved. "MOSAIC" was an assistant proposal
 
 ## Release warning
 
-The architecture modules are reference specifications. v0.2 is the current consolidated prompt candidate and adds strict operating contracts for mystery/information asymmetry, world modeling, option-space diversity, mandatory Unicode/emoji interface rendering, staged character construction and response validation. It is not yet validated in a target model. The next stage is adversarial testing, particularly against mystery leakage, trope compression, generic character onboarding, UI omission and suggestion collapse. No runtime capability is claimed.
+The architecture modules are reference specifications. v0.2 is the current consolidated prompt candidate. It adds strict operating contracts for mystery/information asymmetry, world modeling, option-space diversity, mandatory Unicode/emoji interface rendering, staged character construction and response validation. The targeted regression suite is written but has not been executed in the target model. No runtime capability or release readiness is claimed.
