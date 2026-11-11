@@ -80,3 +80,17 @@ The repository currently has duplicate-looking decision/handoff routes: 05_DECIS
 - SOURCE: Q-U-GEMINI-WORKFLOW-2026-10-16-01; existing 21_GEMINI_MASTER_PROMPT_PROTOCOL.md.
 - MODEL-GRADE: G2; task-by-task evaluation required.
 - OPERATIONAL-STATE: Active workflow preference; version name unverified.
+
+
+## SHIPSIM successor workstream — 2026-11-11
+
+- TARGET: SHIPSIM/README.md and modules SHIP-01 through SHIP-07.
+- TARGET ROLE: Separate roleplay and open-world simulation architecture workstream, stored in this repository by explicit author direction.
+- EXCLUDES: Novel canon, Apocrypha ontology, chapter manuscripts, and automatic authority over story production.
+- SOURCE: SRC-SHIPSIM-2026-11-11-01; exact user requirements in Q-SHIPSIM-2026-11-11-01.
+- DECISION: DEC-SHIPSIM-WORKSPACE-2026-11-11-01.
+- DEPENDENCIES: CG-00; SCH-01; MAP-02; SRC-03; QTE-04; DEC-05; MMG-06; REC-13; AUD-14; HND-15.
+- MODEL-GRADE: G2 initial architecture; no runtime test evidence.
+- EVIDENCE-STATE: Author requirements + assistant synthesis; unresolved design decisions remain explicit.
+- OPERATIONAL-STATE: REFERENCE-ONLY / NOT RELEASED.
+- IMPORTANT: This workstream must not be merged into the novel's canon or used to infer setting-specific mechanics without a separate author decision.
