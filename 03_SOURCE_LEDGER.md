@@ -135,3 +135,18 @@ A source identity remains UNKNOWN until the actual artifact, Git history, public
 - DEPENDENTS: README.md; 02_DOCUMENT_MAP.md; 07_DOCUMENT_LINK_MAP.md; 05_SESSION_HANDOFF.md; new Everworld 6 sync documents.
 - SUPERSEDES: Default treatment of Everworld 6 and Apocrypha as unrelated projects.
 - STATUS: ACTIVE.
+
+## SRC-SHIPSIM-2026-11-11-01 — SHIPSIM successor architecture
+
+- SOURCE-ID: SRC-SHIPSIM-2026-11-11-01
+- ORIGINAL-FILE: 2026-11-11 user conversation; SHIPSIM/ workstream.
+- DATE: 2026-11-11; TIME: UNKNOWN.
+- CONTEXT: User explained historical SHIPSIM variants and supplied successor requirements, then clarified that the EverWorlds: The Finales Series novel repository is the intended GitHub workspace.
+- EXACT-QUOTE(S): See Q-SHIPSIM-2026-11-11-01 in 04_QUOTE_LEDGER.md.
+- CLAIM: The successor should use a strict command/action interface, dynamic action dictionary, one-shot and conditional-plan inputs, a translation layer between player intent and character action, autonomous character/world behavior, persistent consequences, separate simulation time and narrative throttle, private game/progression UI, conditional setting-specific power systems, researched world depth, close POV and controlled visual/interface rendering.
+- DOES-NOT-CONTAIN: Approved system name, final grammar, finished system prompt, code implementation, successful runtime tests, or novel-canon authority.
+- AUTHORITY: Direct author requirements; architecture modules include assistant synthesis and proposals, individually marked.
+- MODEL-GRADE: G2.
+- EVIDENCE-STATE: AUTHOR-REQUIREMENTS + PROVISIONAL SYNTHESIS.
+- DEPENDENTS: SHIPSIM/ modules; README; document map; decision and quote ledgers; handoff.
+- STATUS: ACTIVE / NOT RELEASED.

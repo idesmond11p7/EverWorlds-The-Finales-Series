@@ -210,3 +210,17 @@ Continue artifact-level source recovery for the energy ontology, identify and re
 - PASS: Work-log and audit entries were added after the initial write pass.
 - PARTIAL: The complete universe and Everworld 6 source inventory have not been recovered in this pass; the named implementation modules and runtime/test claims remain unverified.
 - NEXT: Recover actual Everworld 6 source/specification files and establish a file-level source/authority inventory before mapping Apocrypha lore into simulation contracts.
+
+## SHIPSIM successor architecture — 2026-11-11
+
+- STATUS: Initial architecture package committed; fetch-back verification required before treating persistence as confirmed.
+- WORK-ID: WRK-SHIPSIM-2026-11-11-01
+- SOURCE: SRC-SHIPSIM-2026-11-11-01
+- QUOTE: Q-SHIPSIM-2026-11-11-01
+- DECISION: DEC-SHIPSIM-WORKSPACE-2026-11-11-01
+- TARGET: SHIPSIM/README.md and SHIP-01 through SHIP-07.
+- SCOPE: Separate roleplay/world-simulation workstream stored here by explicit author direction. Not novel canon, not Apocrypha lore, not a runtime implementation.
+- MODEL-GRADE: G2.
+- OPEN: Reconcile Standard, Ω and XCS2 variants; validate command syntax; define action dictionary refresh; settle plan authorization boundaries; reconcile character-creation stages; test inactivity advancement and throttle; specify setting-research coverage; design prompt packaging.
+- NEXT SAFE ACTION: Fetch back all new and updated artifacts; then perform cross-module consistency review and produce a compact system-instruction candidate.
+- STOP CONDITIONS: Do not mark released; do not import SHIPSIM mechanics into chapter canon; do not claim implementation or tests that have not occurred.

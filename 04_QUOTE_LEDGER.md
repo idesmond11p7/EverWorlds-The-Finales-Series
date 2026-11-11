@@ -183,3 +183,27 @@ When a user explicitly says something like “give me exactly what I said,” th
 - LINKED-DECISIONS: DEC-GEMINI-WORKFLOW-2026-10-16-01
 - MODEL-GRADE: G2
 - STATUS: ACTIVE
+
+## Q-SHIPSIM-2026-11-11-01 — SHIPSIM successor requirements and workspace correction
+
+- QUOTE-ID: Q-SHIPSIM-2026-11-11-01
+- CLASS: Q-U — exact user wording excerpts
+- EXACT-TEXT:
+  - “we're not gonna allow user to determine what happens or what not happens.”
+  - “The reason is to ensure that the user's straightforwardness doesn't magically ruin the roleplay”
+  - “there's also intended action”
+  - “there are long-term commands where a user can spend a few minutes, 15 minutes typing a single prompt, or maybe just five minutes typing a plan”
+  - “The character can absolutely talk while doing something.”
+  - “If a world has an internal power system, this module only exists for that world.”
+  - “Please use Everworld, the final series, specifically the novel.”
+- SOURCE-ID: SRC-SHIPSIM-2026-11-11-01
+- DATE: 2026-11-11
+- TIME: UNKNOWN
+- CONTEXT: User's description of SHIPSIM's intended successor, command and planning architecture, character/world autonomy, conditional power module, and final repository clarification.
+- INTENT: Preserve the distinction between intent and outcome, one-shot actions and conditional plans, character agency and player control, and the explicit destination repository.
+- WHAT-IT-ESTABLISHES: These are core author requirements for the successor architecture and the repository destination.
+- WHAT-IT-DOES-NOT-ESTABLISH: Final syntax, final product name, all module implementation details, or permission to merge the system into novel canon.
+- LINKED-CLAIMS: SHIPSIM successor requirements; separate workstream stored in the novel repository by explicit direction.
+- LINKED-DECISIONS: DEC-SHIPSIM-WORKSPACE-2026-11-11-01.
+- MODEL-GRADE: G2.
+- STATUS: ACTIVE / AUTHOR REQUIREMENTS.

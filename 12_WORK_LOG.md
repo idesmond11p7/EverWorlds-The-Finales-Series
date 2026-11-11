@@ -66,3 +66,20 @@ No "completed" statement without a concrete artifact or verification result.
 - VERIFICATION: GitHub create/update responses returned commit SHAs; selected updated files have been fetched back. Final fetch-back audit of every changed file remains pending.
 - RESULT: Initial documentation package committed. This is not a complete world bible or verified engine implementation.
 - NEXT-ACTION: Fetch back all created and updated files; then recover actual Everworld 6 source files and map lore to engine contracts.
+
+## WRK-SHIPSIM-2026-11-11-01
+
+- WORK-ID: WRK-SHIPSIM-2026-11-11-01
+- DATE: 2026-11-11; TIME: UNKNOWN.
+- INTENT: Capture the author's SHIPSIM successor requirements as a modular, inspectable system architecture in the explicitly authorized EverWorlds: The Finales Series repository, without contaminating novel canon.
+- TARGET-ID: SHIP-00 through SHIP-07.
+- SOURCES-READ: 00_CONTROL_GATE.md; 01_SCHEMA_OF_WORK.md; 02_DOCUMENT_MAP.md; 01_SOURCE_REGISTER.md; 03_SOURCE_LEDGER.md; 04_QUOTE_LEDGER.md; 05_DECISION_LEDGER.md; 04_WORK_LOOP.md; 13_RECOVERY_QUARANTINE.md; 14_AUDIT_RELEASE.md; 15_SESSION_HANDOFF.md; README.md; LIT-17_SENSORY_COGNITIVE_PROSE_ENGINE.md; root repository tree and main branch metadata.
+- QUOTES-EXTRACTED: Q-SHIPSIM-2026-11-11-01.
+- DECISIONS-MADE: DEC-SHIPSIM-WORKSPACE-2026-11-11-01.
+- CHANGES: Added isolated SHIPSIM/ workstream with charter, simulation architecture, command/action protocol, character agency/autonomy, world/game/power systems, narrative/interface rendering, and validation tests. Routed it through README, document map, source/quote/decision records, link map, audit, work log and handoff.
+- INVALIDATED: Assumption that the target repository was unresolved; no novel canon or setting-specific power assumptions were created.
+- GRADE: G2 initial architecture; not G3 because the system has not been executed against a live roleplay model.
+- DEPENDENTS-MARKED-STALE: None in novel canon. SHIPSIM modules require cross-module review before prompt release.
+- VERIFICATION: Pending fetch-back after commit.
+- RESULT: Initial modular specification package prepared; no executable prompt or runtime implementation claimed.
+- NEXT-ACTION: Fetch back every created and updated file; run cross-module contradiction review; reconcile historical Standard, Ω and XCS2 features against this new architecture; then produce a compact prompt candidate and adversarial test it.

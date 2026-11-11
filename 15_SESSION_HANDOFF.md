@@ -56,3 +56,13 @@ Next action: continue source-level recovery for the exact energy definitions; th
 Verified by fetching from GitHub after updates: ENERGY_ONTOLOGY_RECOVERY_GATE_2026-10-12.md; 01_SOURCE_REGISTER.md; 02_DECISION_LEDGER.md; 02_DOCUMENT_MAP.md; 03_SOURCE_LEDGER.md; 04_QUOTE_LEDGER.md; 05_DECISION_LEDGER.md; 05_SESSION_HANDOFF.md; 07_DOCUMENT_LINK_MAP.md; 09_MEMORY_BRIDGE.md; 12_WORK_LOG.md; 14_AUDIT_RELEASE.md; README.md; and this HND-15 file. The expected recovery/decision/quote/work/audit references were present where applicable.
 
 This confirms the documentation changes persisted. It does not complete the energy ontology: the exact variable-energy and Ether definitions remain UNKNOWN. The next session must continue source recovery and must not ask the author to repeat the lore.
+
+## SHIPSIM successor architecture — 2026-11-11
+
+- STATUS: Initial architecture package created; fetch-back audit pending.
+- WORK-ID: WRK-SHIPSIM-2026-11-11-01
+- TARGET: SHIPSIM/README.md; SHIP-01..SHIP-07.
+- SOURCE / QUOTE / DECISION: SRC-SHIPSIM-2026-11-11-01; Q-SHIPSIM-2026-11-11-01; DEC-SHIPSIM-WORKSPACE-2026-11-11-01.
+- AUTHORITY: Author requirements plus provisional assistant synthesis. G2. Reference-only. Not released.
+- IMPORTANT BOUNDARY: Stored in the EverWorlds novel repository by explicit author direction, but excluded from novel canon and Apocrypha lore.
+- NEXT SAFE ACTION: Fetch back every changed file, then reconcile historical SHIPSIM variants and test the architecture before writing a final executable prompt.

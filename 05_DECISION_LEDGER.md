@@ -91,3 +91,18 @@ The current repository exposes two decision records (05_DECISION_LEDGER.md / DEC
 - AFFECTS: Future AI-assisted workflows and prompts.
 - REQUIRES-UPDATE: README.md; 09_MEMORY_BRIDGE.md; 05_SESSION_HANDOFF.md.
 - STATUS: ACTIVE
+
+## DEC-SHIPSIM-WORKSPACE-2026-11-11-01 — Store SHIPSIM successor workstream in the novel repository
+
+- DECISION-ID: DEC-SHIPSIM-WORKSPACE-2026-11-11-01
+- DATE: 2026-11-11
+- TIME: UNKNOWN
+- EXACT-MOMENT: User corrected a voice-transcription mistake and explicitly directed: “Please use Everworld, the final series, specifically the novel.”
+- USER-INTENT: Use the EverWorlds: The Finales Series novel repository as the GitHub workspace for this SHIPSIM successor work.
+- DECISION: Store the SHIPSIM successor architecture in a clearly isolated SHIPSIM/ directory in this repository. Do not place it in The Ledger, The Rider, or The Lorekeeper. Do not merge it into novel canon, Apocrypha lore, or chapter production by implication.
+- SOURCE-IDS: SRC-SHIPSIM-2026-11-11-01; Q-SHIPSIM-2026-11-11-01.
+- CLASSIFICATION: AUTHOR-DECLARED WORKSPACE DECISION.
+- INVALIDATES: Earlier assistant assumption that the intended destination might be a separate repository.
+- AFFECTS: SHIPSIM/ workstream and repository navigation only; no story canon changes.
+- REQUIRES-UPDATE: README.md; 02_DOCUMENT_MAP.md; 03_SOURCE_LEDGER.md; 04_QUOTE_LEDGER.md; 07_DOCUMENT_LINK_MAP.md; work log; audit; session handoff.
+- STATUS: LOCKED destination; system architecture remains provisional.

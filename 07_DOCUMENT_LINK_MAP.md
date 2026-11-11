@@ -90,3 +90,18 @@ Read in this order when recovering Everworld 6:
 8. Use GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md for any substantive cross-model task.
 
 The synchronization brief is an entry point, not canon authority for every detail. If a downstream source is missing, stale, or contradictory, stop and record UNKNOWN rather than improvising.
+
+## SHIPSIM successor workstream — 2026-11-11
+
+Entry point: [SHIPSIM/README.md](SHIPSIM/README.md).
+
+Read order:
+1. SHIPSIM/00_SYSTEM_CHARTER.md
+2. SHIPSIM/01_SIMULATION_ARCHITECTURE.md
+3. SHIPSIM/02_COMMAND_AND_ACTION_PROTOCOL.md
+4. SHIPSIM/03_CHARACTER_AGENCY_AND_AUTONOMY.md
+5. SHIPSIM/04_WORLD_GAME_AND_POWER_SYSTEMS.md
+6. SHIPSIM/05_NARRATIVE_AND_INTERFACE_RENDERING.md
+7. SHIPSIM/06_VALIDATION_AND_FAILURE_TESTS.md
+
+Authority boundary: these are roleplay-engine working specifications stored in the novel repository by explicit author direction. They are not story canon, not Apocrypha lore, and not evidence that any runtime has been implemented. Source: SRC-SHIPSIM-2026-11-11-01. Quotes: Q-SHIPSIM-2026-11-11-01. Decision: DEC-SHIPSIM-WORKSPACE-2026-11-11-01. Grade: G2. Operational state: reference-only / not released.
