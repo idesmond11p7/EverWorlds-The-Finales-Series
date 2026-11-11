@@ -116,3 +116,8 @@ The author explicitly connected Everworld 6 to Apocrypha and directed this works
 - [Gemini Workflow and Prompting Standard](GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md): self-contained prompt construction and verification workflow reflecting the author's Gemini-involved workflow preference. “Germany 3.8” remains a speech-transcribed, unverified model/version label.
 
 These are onboarding and routing documents, not a completed world bible. The full universe remains under construction. Claims about implementation modules, runtime behavior, and tests remain unverified until the actual current source files and test results are inspected.
+
+
+## SHIPSIM successor workstream — 2026-11-11
+
+A separate roleplay/world-simulation architecture workstream has been added under [SHIPSIM/](SHIPSIM/). It is stored here by explicit author direction, but it is **not novel canon**, not Apocrypha lore, and not a source of assumptions for chapter production. Its current status is working specification / reference-only, not a released prompt or verified runtime. Begin at SHIPSIM/README.md. See source SRC-SHIPSIM-2026-11-11-01, quote Q-SHIPSIM-2026-11-11-01, and decision DEC-SHIPSIM-WORKSPACE-2026-11-11-01.
