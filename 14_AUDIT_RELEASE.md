@@ -112,3 +112,10 @@ SUPERSEDED
 - FETCH-BACK: PENDING.
 - FAILURES / OPEN ITEMS: Final name, exact command grammar, action-list behavior, character-creation stage order, inactivity thresholds, plan authorization boundaries, setting-research completeness and output ordering remain unresolved.
 - RELEASE DECISION: NOT RELEASED. Architecture package may be used as a working reference only after fetch-back verification; no claim of finished system.
+
+
+### AUD-SHIPSIM-2026-11-11-01 — Fetch-back completion
+
+- FETCH-BACK: PASS — all eight SHIPSIM workstream files fetched from main and expected IDs confirmed. Repository routing records were also fetched and checked for SHIPSIM references and the workspace decision.
+- PERSISTENCE: PASS — architecture commit 63da4cf0bc1e1f2be08e84761dd2874faa4ccae0 and routing commit 28fba648b61ffb1f9a7b47f239e45aebbc033175 are present on main.
+- RELEASE DECISION: STILL NOT RELEASED — this audit verifies documentation persistence only. No runtime prompt or simulation test has been executed.

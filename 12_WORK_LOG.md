@@ -83,3 +83,9 @@ No "completed" statement without a concrete artifact or verification result.
 - VERIFICATION: Pending fetch-back after commit.
 - RESULT: Initial modular specification package prepared; no executable prompt or runtime implementation claimed.
 - NEXT-ACTION: Fetch back every created and updated file; run cross-module contradiction review; reconcile historical Standard, Ω and XCS2 features against this new architecture; then produce a compact prompt candidate and adversarial test it.
+
+
+### Fetch-back verification — SHIPSIM successor package
+
+- VERIFICATION: PASS — all eight files under SHIPSIM/ fetched from the updated main branch and checked for their expected module IDs. README, document map, source register, source ledger, quote ledger, decision ledger, link map, work log, audit and both handoff routes were fetched; SHIPSIM routing markers were present. The two commits containing the architecture and routing records are on main.
+- RESULT: Documentation persistence and routing verified. Runtime behavior remains untested; architecture remains G2 / reference-only.
