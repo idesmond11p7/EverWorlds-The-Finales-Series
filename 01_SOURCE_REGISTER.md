@@ -135,3 +135,20 @@ A document is not promoted merely because it sounds plausible, appears newer, or
 - GMP-EW6-2026-10-16 — GEMINI_WORKFLOW_AND_PROMPTING_STANDARD_2026-10-16.md; class AUTHOR WORKFLOW PREFERENCE + DERIVED PROTOCOL; the workflow preference is explicit, while the exact spoken “Germany 3.8” model/version label is unverified.
 
 The new records do not promote the provisional cosmology record or energy recovery gate into completed canon. Continue from their source pointers and preserve UNKNOWNs.
+
+
+## SHIPSIM successor architecture — SRC-SHIPSIM-2026-11-11-01
+
+- SOURCE-ID: SRC-SHIPSIM-2026-11-11-01
+- ORIGINAL-FILE: User's direct messages in the 2026-11-11 conversation explaining SHIPSIM variants and the intended successor architecture.
+- SOURCE-TYPE: AUTHOR_STATEMENT / AUTHOR_REQUIREMENTS + ASSISTANT_SYNTHESIS
+- DATE: 2026-11-11
+- TIME: UNKNOWN
+- EXACT PROVENANCE: User described the command interface, action dictionary, one-shot and conditional-plan commands, intent/outcome separation, character translation and autonomy, internal game layer, consequences, pacing, conditional power module, world expansion, POV, visual interface and system goals. User then explicitly corrected the destination to EverWorlds: The Finales Series, specifically the novel repository.
+- WHAT IT ESTABLISHES: Author requirements for a successor roleplay simulation system and explicit authorization to store its separate workstream in this repository.
+- WHAT IT DOES NOT ESTABLISH: A final product name; final command grammar; a complete reconciliation of Standard, Ω and XCS2; tested prompt/runtime behavior; novel canon; permission to import Apocrypha-specific power lore by default.
+- CONTAINS: SHIPSIM/README.md; SHIPSIM/00_SYSTEM_CHARTER.md; SHIPSIM/01_SIMULATION_ARCHITECTURE.md; SHIPSIM/02_COMMAND_AND_ACTION_PROTOCOL.md; SHIPSIM/03_CHARACTER_AGENCY_AND_AUTONOMY.md; SHIPSIM/04_WORLD_GAME_AND_POWER_SYSTEMS.md; SHIPSIM/05_NARRATIVE_AND_INTERFACE_RENDERING.md; SHIPSIM/06_VALIDATION_AND_FAILURE_TESTS.md.
+- DEPENDENTS: README.md; 02_DOCUMENT_MAP.md; 03_SOURCE_LEDGER.md; 04_QUOTE_LEDGER.md; 05_DECISION_LEDGER.md; 07_DOCUMENT_LINK_MAP.md; 12_WORK_LOG.md; 14_AUDIT_RELEASE.md; both session handoff paths.
+- MODEL-GRADE: G2.
+- EVIDENCE-STATE: AUTHOR-REQUIREMENTS / PROVISIONAL SYNTHESIS.
+- STATUS: ACTIVE WORKING SPECIFICATION; not released.
